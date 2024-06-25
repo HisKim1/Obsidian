@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "7052f104813aeab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf06be7c192db95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ac5ee24b4e43bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14259614c3da53ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "93a82780799c141a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0222d4258989ba57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a87eb7d30c8a504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Multi-mesh",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "030873ef4d8c6a1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca5ecf05aa240f76",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5110321044922
+  },
+  "right": {
+    "id": "36ae52f6e7732a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "df5f1243c68b4d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b237e38362f751a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "685b1cfedd737df2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb6dd0e8aae5db17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61cb73152a492f39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ca5ecf05aa240f76",
+  "lastOpenFiles": [
+    "structure/Message-passing GNN.md",
+    "structure/Encoder.md",
+    "structure/GraphCast Model.md",
+    "structure/Decoder.md",
+    "General Forecasting Problem Statement.md",
+    "무제 파일.canvas",
+    "GC graph/GraphCast's Graph.md",
+    "GC graph/Grid Node.md",
+    "paper/GNN으로 기상 예측 가능.md",
+    "structure/Processor.md",
+    "GC graph",
+    "structure",
+    "paper",
+    "무제 파일 1.canvas",
+    "paper/GraphCast by Deepmind.md",
+    "structure/Multi-mesh.md",
+    "GC graph/Mesh2Grid Edge.md",
+    "GC graph/Grid2Mesh Edge.md",
+    "GC graph/Mesh Node.md",
+    "GC graph/Mesh Edge.md",
+    "[.md",
+    "[V-E+F.md",
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas",
+    "2024-06-24.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled"
+  ]
+}

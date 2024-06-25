@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Message-passing GNN",
+      "path": "structure/Message-passing GNN.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "structure/Encoder.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Decoder",
+      "path": "structure/Decoder.md"
+    },
+    {
+      "basename": "General Forecasting Problem Statement",
+      "path": "General Forecasting Problem Statement.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": null
+}
