@@ -1,6 +1,6 @@
 #### $M^r$
 ##### 제작 방법
-$M^r \rightarrow M^{r+1}$ by splitting each triangular face into 4 small faces
+$M^r \rightarrow M^{r+1}$ by splitting each triangular face into 4 small faces; a.k.a *refinement*
 regular icosahedron을 6회 나눠 (1 face $\rightarrow$ 4 faces)
 
 $(V, E, F) : M^0 = (12, 30, 20) \rightarrow M^6 = (40962, 81920, 40960)$ [^Eular]

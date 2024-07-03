@@ -7,5 +7,3 @@ Supplimentary materials가 여기에 있다.
 
 ![[General Forecasting Problem Statement]]
 
----
- ![[GraphCast Model]]

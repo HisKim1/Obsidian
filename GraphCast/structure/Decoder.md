@@ -1,6 +1,6 @@
 [[Encoder]]와 동일, but opposite direction
 
-bipartite subgraph $\mathcal{G}_{M2G}(\mathcal{V}^M, \mathcal{V}^G, \mathcal{E}^{M2G})$에서 [[Message-passing GNN]] 1 step 실행\
+bipartite subgraph $\mathcal{G}_{M2G}(\mathcal{V}^M, \mathcal{V}^G, \mathcal{E}^{M2G})$에서 Message-passing GNN 1 step 실행
 1. Mesh2Grid GNN
 	1) edge update $$\mathbf{e}^{\text{M2G}'}_{\nu_s^M \rightarrow \nu_r^G} = \text{MLP}^{\text{Mesh2Grid}}_{\mathcal{E}_{\text{M2G}}} \left( [ \mathbf{e}^{\text{M2G}}_{\nu_s^M \rightarrow \nu_r^G}, \mathbf{v}^M_s, \mathbf{v}^G_r ] \right)$$
 	2) grid vertex update (mesh vertex는 no change)$$\mathbf{v}^{G'}_i = \text{MLP}^{\text{Mesh2Grid}}_{\mathcal{V}_G} \left( \left[ \mathbf{v}^G_i, \sum_{\mathbf{e}^{\text{M2G}'}_{\nu_s^M \rightarrow \nu_r^G} : \nu_r^G = \nu^G_i} \mathbf{e}^{\text{M2G}'}_{\nu_s^M \rightarrow \nu_r^G} \right] \right)$$

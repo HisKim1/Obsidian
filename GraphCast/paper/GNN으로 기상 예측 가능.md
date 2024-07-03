@@ -14,7 +14,28 @@
 3) additional dataset
 	1) land-sea mask
 	2) orography (산악학)
-	3) TOA solar radiation $\rightarrow$ *왜 얘를 추가했을까?*  #Question
+	3) TOA solar radiation $\rightarrow$ *왜 얘를 추가했을까?*  
+```ad-faq
+#Question 
+왜 TOA solar radiation을 forcing term으로 사용?
+
+#Answer
+forcing:= variables that can be fed to the model, but do not need to be predicted
+
+1) can be computed analytically 
+   (e.g. the toa radiation of the sun is mostly a function of geometry)
+2) are considered to be controlled for the experiment 
+   (e.g., impose a scenario of C02 emission into the atmosphere)
+3) can include information "from the future", that is, formation at target times specified in the `targets_template`.
+
+-> TOA는 수식으로 구할 수 있으니 autoregressive할 때 future도 구해서 넣을 수 있다.
+수식으로 구한 값이랑 비교 prediction이 너무 이상한 값으로 튀지 않도록 'forcing'해서 신뢰, 정확성 향상
+제어 시나리오 실험도 할 수 있다.
+(e.g. CO2 농도 변화 시나리오)
+
+from predator_base.py
+```
+	   
 		
 ## **Encoder**
 1) lat/lon grid $\rightarrow$ icosahedron(이십면체) grid

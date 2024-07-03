@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#Question  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
       "query": "block:(ad-question)",
       "color": {
         "a": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 9.60118518518518,
   "linkStrength": 0.609007407407407,
   "linkDistance": 154,
-  "scale": 0.7345863357173034,
+  "scale": 0.4578429965057239,
   "close": true
 }
