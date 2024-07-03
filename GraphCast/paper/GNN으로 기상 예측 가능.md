@@ -14,7 +14,7 @@
 3) additional dataset
 	1) land-sea mask
 	2) orography (산악학)
-	3) TOA solar radiation $\rightarrow$ *왜 얘를 추가했을까?* 
+	3) TOA solar radiation $\rightarrow$ *왜 얘를 추가했을까?*  #Question
 		
 ## **Encoder**
 1) lat/lon grid $\rightarrow$ icosahedron(이십면체) grid

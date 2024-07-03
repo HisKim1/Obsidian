@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "556fc6e95b1ee594",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dfc00365c59e592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0ddbea90a567ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73dbb8266f7e8949",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cdf6866c93c3f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14a65964b8df11e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22576245cff92cdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf7c68202e43a21c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "884cb5b2441d767e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d358ee4cc6698aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad54b7f87dc37433",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding/Coding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a85213ee702c48ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding/Coding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8b7406b37e6681d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4349d433e3938dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coding/Coding.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "5d0ddbea90a567ec",
+  "lastOpenFiles": [
+    "Coding/Q&A.md",
+    "Coding/GPU Info.md",
+    "Q&A.md",
+    "GraphCast/무제 파일.canvas",
+    "Coding/Coding.md",
+    "GPU Info.md",
+    "GraphCast/paper/GNN으로 기상 예측 가능.md",
+    "Coding/Conda Env.md",
+    "Coding/Server Info.md",
+    "README.md",
+    "Coding",
+    "GraphCast/structure/GraphCast Model.md",
+    "GraphCast/structure/Encoder.md",
+    "GraphCast/General Forecasting Problem Statement.md",
+    "Environment.md",
+    "GraphCast/paper/GraphCast by Deepmind.md",
+    "GraphCast/GC graph/GraphCast's Graph.md",
+    "GraphCast/GC graph/Grid Node.md",
+    "GraphCast/GC graph/Grid2Mesh Edge.md",
+    "GraphCast/GC graph/Mesh Edge.md",
+    "GraphCast/GC graph/Mesh2Grid Edge.md"
+  ]
+}
