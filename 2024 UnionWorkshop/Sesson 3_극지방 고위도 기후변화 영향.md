@@ -1,0 +1,5 @@
+1. [[Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method]]
+2. [[Improving seasonal forecasts for boreal winter using multiple approaches]]
+3. [[Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude]]
+4. [[Beyond the Cooling Effects_How Anthropogenic Aerosols Drive Arctic Warming and Sea Ice Loss]]
+5. [[Long-term variability of the warm Arctic cold Eurasia pattern inferred from tree-ring records and large ensemble model simulations]]

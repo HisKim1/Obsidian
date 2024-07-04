@@ -1,0 +1,108 @@
+{
+  "recentFiles": [
+    {
+      "basename": "GNN으로 기상 예측 가능",
+      "path": "paper/GNN으로 기상 예측 가능.md"
+    },
+    {
+      "basename": "GraphCast by Deepmind",
+      "path": "paper/GraphCast by Deepmind.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "structure/Encoder.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "Coding/graphcast.py.md"
+    },
+    {
+      "basename": "hidden_layers",
+      "path": "Coding/Property/hidden_layers.md"
+    },
+    {
+      "basename": "Properties",
+      "path": "Coding/Property/Properties.md"
+    },
+    {
+      "basename": "gnn_msg_steps",
+      "path": "Coding/Property/gnn_msg_steps.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Coding/Code.md"
+    },
+    {
+      "basename": "radius_query_fraction_edge_length",
+      "path": "radius_query_fraction_edge_length.md"
+    },
+    {
+      "basename": "mesh2grid_dege_normalization_factor",
+      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Grid2Mesh Edge",
+      "path": "GC graph/Grid2Mesh Edge.md"
+    },
+    {
+      "basename": "GraphCast's Graph",
+      "path": "GC graph/GraphCast's Graph.md"
+    },
+    {
+      "basename": "Grid Node",
+      "path": "GC graph/Grid Node.md"
+    },
+    {
+      "basename": "mesh_size",
+      "path": "Coding/Property/mesh_size.md"
+    },
+    {
+      "basename": "resolution",
+      "path": "resolution.md"
+    },
+    {
+      "basename": "latent_size",
+      "path": "Coding/Property/latent_size.md"
+    },
+    {
+      "basename": "Decoder",
+      "path": "structure/Decoder.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "structure/Processor.md"
+    },
+    {
+      "basename": "Multi-mesh",
+      "path": "structure/Multi-mesh.md"
+    },
+    {
+      "basename": "Message-passing GNN",
+      "path": "structure/Message-passing GNN.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
+      "basename": "General Forecasting Problem Statement",
+      "path": "General Forecasting Problem Statement.md"
+    },
+    {
+      "basename": "Polynya",
+      "path": "Polynya.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.canvas"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": null
+}

@@ -1,0 +1,1 @@
+(mathematics) A test of a mathematical model by using data from a past event.
