@@ -1,0 +1,5 @@
+1. [[Decades of change_Satellite evidence of increasing floods in Africa over 40 years]]
+2. [[Regime Shift in the East Asian Summer Monsoon during the Early 2000s_The Role of Land-Atmosphere Interactions]]
+3. [[Improvement of Seasonal Soil Moisture Forecasts Using the APCC Multi-Model Ensemble Forecast Products]]
+4. [[Time of emergence (TOE) of potential aridification in the western United States]]
+5. [[최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성]]

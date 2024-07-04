@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "556fc6e95b1ee594",
+    "id": "7052f104813aeab5",
     "type": "split",
     "children": [
       {
-        "id": "0dfc00365c59e592",
+        "id": "3bf06be7c192db95",
         "type": "tabs",
         "children": [
           {
-            "id": "5d0ddbea90a567ec",
+            "id": "504e1c6456c8289e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "paper/GNN으로 기상 예측 가능.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73dbb8266f7e8949",
+    "id": "14259614c3da53ab",
     "type": "split",
     "children": [
       {
-        "id": "8cdf6866c93c3f0f",
+        "id": "93a82780799c141a",
         "type": "tabs",
         "children": [
           {
-            "id": "14a65964b8df11e0",
+            "id": "0222d4258989ba57",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +43,12 @@
             }
           },
           {
-            "id": "22576245cff92cdf",
+            "id": "0a87eb7d30c8a504",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Multi-mesh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,10 +58,18 @@
             }
           },
           {
-            "id": "bf7c68202e43a21c",
+            "id": "030873ef4d8c6a1c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca5ecf05aa240f76",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -65,22 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 241.5110321044922
   },
   "right": {
-    "id": "884cb5b2441d767e",
+    "id": "36ae52f6e7732a15",
     "type": "split",
     "children": [
       {
-        "id": "d358ee4cc6698aaf",
+        "id": "df5f1243c68b4d70",
         "type": "tabs",
         "children": [
           {
-            "id": "ad54b7f87dc37433",
+            "id": "4b237e38362f751a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "paper/GNN으로 기상 예측 가능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +105,19 @@
             }
           },
           {
-            "id": "a85213ee702c48ab",
+            "id": "685b1cfedd737df2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "paper/GNN으로 기상 예측 가능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a8b7406b37e6681d",
+            "id": "cb6dd0e8aae5db17",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +128,13 @@
             }
           },
           {
-            "id": "4349d433e3938dee",
+            "id": "61cb73152a492f39",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "paper/GNN으로 기상 예측 가능.md"
+              }
             }
           }
         ]
@@ -138,34 +154,46 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5d0ddbea90a567ec",
+  "active": "504e1c6456c8289e",
   "lastOpenFiles": [
-    "GraphCast/Coding/Server Info.md",
-    "GraphCast/Coding/Q&A.md",
-    "GraphCast/Coding/GPU Info.md",
-    "GraphCast/Coding/Conda Env.md",
-    "GraphCast/Coding/Coding.md",
-    "GraphCast/Coding",
-    "Coding/Coding.md",
-    "Coding/Q&A.md",
-    "Coding/GPU Info.md",
-    "Q&A.md",
-    "GraphCast/무제 파일.canvas",
-    "GPU Info.md",
-    "GraphCast/paper/GNN으로 기상 예측 가능.md",
-    "Coding/Conda Env.md",
+    "paper/GNN으로 기상 예측 가능.md",
+    "paper/GraphCast by Deepmind.md",
+    "structure/Encoder.md",
+    "Coding/graphcast.py.md",
+    "Coding/Property/hidden_layers.md",
+    "Coding/Property/Properties.md",
+    "Coding/Property",
+    "Coding/Property/gnn_msg_steps.md",
+    "Coding/Code.md",
+    "radius_query_fraction_edge_length.md",
+    "Coding/Property/mesh2grid_dege_normalization_factor.md",
+    "structure/GraphCast Model.md",
+    "GC graph/Grid2Mesh Edge.md",
+    "GC graph/GraphCast's Graph.md",
+    "GC graph/Grid Node.md",
+    "Coding/Property/mesh_size.md",
+    "resolution.md",
+    "Coding/Property/latent_size.md",
+    "structure/Decoder.md",
+    "structure/Processor.md",
+    "structure/Multi-mesh.md",
+    "structure/Message-passing GNN.md",
+    "GNN.md",
+    "무제 파일.md",
     "Coding/Server Info.md",
-    "README.md",
+    "Coding/GPU Info.md",
+    "Coding/Conda Env.md",
     "Coding",
-    "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/structure/Encoder.md",
-    "GraphCast/General Forecasting Problem Statement.md",
-    "Environment.md",
-    "GraphCast/paper/GraphCast by Deepmind.md",
-    "GraphCast/GC graph/GraphCast's Graph.md",
-    "GraphCast/GC graph/Grid Node.md",
-    "GraphCast/GC graph/Grid2Mesh Edge.md",
-    "GraphCast/GC graph/Mesh Edge.md",
-    "GraphCast/GC graph/Mesh2Grid Edge.md"
+    "무제 파일.canvas",
+    "GC graph",
+    "structure",
+    "paper",
+    "무제 파일 1.canvas",
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled"
   ]
 }
