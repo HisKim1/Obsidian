@@ -51,37 +51,96 @@ jaxlib                    0.4.30                   pypi_0    pypi
 ```
 
 #Question 
-### jax 라이브러리가 GPU 인식을 못 한다.
-**test code**
+### [jax 라이브러리](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html)가 GPU 인식을 못 한다.
+##### + jax version이 계속 변한다
+used conda environment
+1. hiskim1_3.11
+2. hiskim2_3.11
+```
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep -E "cuda|cudnn|jax"
+cuda-version              11.8                 h70ddcb2_3    conda-forge
+cudatoolkit               11.8.0              h4ba93d1_13    conda-forge
+cudnn                     8.9.7.29             hbc23b4c_3    conda-forge
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep -E "cuda|cudnn|jax"
+cuda-version              11.8                 h70ddcb2_3    conda-forge
+cudatoolkit               11.8.0              h4ba93d1_13    conda-forge
+cudnn                     8.9.7.29             hbc23b4c_3    conda-forge
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep -E "cuda|cudnn|jax"
+cuda-version              11.8                 h70ddcb2_3    conda-forge
+cudatoolkit               11.8.0              h4ba93d1_13    conda-forge
+cudnn                     8.9.7.29             hbc23b4c_3    conda-forge
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep -E "cuda|cudnn|jax"
+cuda-version              11.8                 h70ddcb2_3    conda-forge
+cudatoolkit               11.8.0              h4ba93d1_13    conda-forge
+cudnn                     8.9.7.29             hbc23b4c_3    conda-forge
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep -E "cuda|cudnn|jax"
+cuda-version              11.8                 h70ddcb2_3    conda-forge
+cudatoolkit               11.8.0              h4ba93d1_13    conda-forge
+cudnn                     8.9.7.29             hbc23b4c_3    conda-forge
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+```
+
+```
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.30                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.30                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.30                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.30                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.10                   pypi_0    pypi
+jaxlib                    0.4.10                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.30                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+(hiskim2_3.11) [hiskim1@forecast1 ~]$ conda list | grep jax
+jax                       0.4.30                   pypi_0    pypi
+jaxlib                    0.4.30                   pypi_0    pypi
+```
+
+**/home/hiskim1/jaxtest.py**
 ```python
-import jax 
-import jax.numpy as jnpy 
-from jax.lib import xla_bridge
+import jax
 
-print(xla_bridge.get_backend().platform) 
-print("--------------")
-
-def test_gpu_memory(): 
-	try: x = jnpy.ones((1000, 1000)) 
-	print(jax.device_put(x).devices()) 
-	except Exception as e: print(f"Error: {e}")
-
-test_gpu_memory()
+print(jax.devices())
 ```
 
 **output**
 ```
-An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not installed. 
-Falling back to cpu. 
-cpu 
---------------
-{CpuDevice(id=0)}
+(hiskim1_3.11) [hiskim1@forecast1 ~]$ python jaxtest.py
+An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not installed. Falling back to cpu.
+[CpuDevice(id=0)]
 ```
 
 **해결 방안**
 1. jax 버전 조절
    [설치가능한 jax](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html)
    우리가 갖고 있는 cuda 11.6에 cudnn 8.9랑 딱 맞는 jax가 없긴 함
+   안 됨.
    
 1. cudnn 버전 조절
    #WorkingOn 

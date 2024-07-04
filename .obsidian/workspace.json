@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d0ddbea90a567ec",
+            "id": "dc9c5e0157082e91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GraphCast/structure/Encoder.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c74ce20a1f106552",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GraphCast/structure/Encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GraphCast/structure/Encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GraphCast/structure/Encoder.md"
+              }
             }
           }
         ]
@@ -138,12 +154,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5d0ddbea90a567ec",
+  "active": "dc9c5e0157082e91",
   "lastOpenFiles": [
+    "README.md",
+    "GraphCast/structure/Encoder.md",
+    "GraphCast/Coding/graphcast.py.md",
+    "GraphCast/paper/GNN으로 기상 예측 가능.md",
+    "질문.md",
+    "GraphCast/Coding/GPU Info.md",
+    "GraphCast/Coding/Property/Properties.md",
+    "GraphCast/Coding/Code.md",
+    "GraphCast/Coding/Conda Env.md",
     "GraphCast/Coding/Server Info.md",
     "GraphCast/Coding/Q&A.md",
-    "GraphCast/Coding/GPU Info.md",
-    "GraphCast/Coding/Conda Env.md",
     "GraphCast/Coding/Coding.md",
     "GraphCast/Coding",
     "Coding/Coding.md",
@@ -152,20 +175,15 @@
     "Q&A.md",
     "GraphCast/무제 파일.canvas",
     "GPU Info.md",
-    "GraphCast/paper/GNN으로 기상 예측 가능.md",
     "Coding/Conda Env.md",
     "Coding/Server Info.md",
-    "README.md",
     "Coding",
     "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/structure/Encoder.md",
     "GraphCast/General Forecasting Problem Statement.md",
     "Environment.md",
     "GraphCast/paper/GraphCast by Deepmind.md",
     "GraphCast/GC graph/GraphCast's Graph.md",
     "GraphCast/GC graph/Grid Node.md",
-    "GraphCast/GC graph/Grid2Mesh Edge.md",
-    "GraphCast/GC graph/Mesh Edge.md",
-    "GraphCast/GC graph/Mesh2Grid Edge.md"
+    "GraphCast/GC graph/Grid2Mesh Edge.md"
   ]
 }

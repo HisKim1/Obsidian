@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#Question  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
       "query": "tag:#WorkingOn  ",
       "color": {
         "a": 1,
@@ -15,10 +22,10 @@
       }
     },
     {
-      "query": "tag:#Question  ",
+      "query": "tag:",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 11392604
       }
     }
   ],
@@ -26,12 +33,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 2.02027027027027,
-  "lineSizeMultiplier": 3.52796257796258,
+  "lineSizeMultiplier": 2.28513513513514,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 13.1600831600832,
-  "linkStrength": 1,
-  "linkDistance": 185,
-  "scale": 0.5087618855792629,
-  "close": true
+  "centerStrength": 0.0384615384615385,
+  "repelStrength": 8.25363825363825,
+  "linkStrength": 0.025987525987526,
+  "linkDistance": 109,
+  "scale": 0.36288736930121795,
+  "close": false
 }
