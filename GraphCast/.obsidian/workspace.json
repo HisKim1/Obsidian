@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/General Forecasting Problem Statement.md",
+                "file": "Coding/Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/General Forecasting Problem Statement.md",
+                "file": "Coding/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/General Forecasting Problem Statement.md",
+                "file": "Coding/Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/General Forecasting Problem Statement.md"
+                "file": "Coding/Code.md"
               }
             }
           }
@@ -156,7 +157,15 @@
   },
   "active": "dc9c5e0157082e91",
   "lastOpenFiles": [
-    "질문.md",
+    "autoregressive.py.md",
+    "Coding/Code.md",
+    "rollout.py.md",
+    "Coding/Conda Env.md",
+    "Coding/Property/hidden_layers.md",
+    "Coding/graphcast.py.md",
+    "Coding/GPU Info.md",
+    "paper/General Forecasting Problem Statement.md",
+    "무제 파일.md",
     "GraphCast/General Forecasting Problem Statement.md",
     "GraphCast/Coding/Property/radius_query_fraction_edge_length.md",
     "GraphCast/Coding/Property/General Forecasting Problem Statement.md",
@@ -175,14 +184,6 @@
     "2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
     "2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
     "2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
-    "2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
-    "2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
-    "2024 UnionWorkshop/Session 4_기후변화와 지구 표면 및 생물권 상호작용.md",
-    "2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
-    "2024 UnionWorkshop/Session 1_수재해 & 강수 패턴 1.md",
-    "2024 UnionWorkshop/Regime Shift in the East Asian Summer Monsoon during the Early 2000s_The Role of Land-Atmosphere Interactions.md",
-    "2024 UnionWorkshop/self-Organizing Map, SOM.md",
-    "2024 UnionWorkshop/Sea-Spray.md",
     "2024 UnionWorkshop",
     "GraphCast/Coding",
     "GraphCast/무제 파일.canvas",

@@ -5,27 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#WorkingOn  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
     {
       "query": "tag:#Question  ",
       "color": {
         "a": 1,
         "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:GraphCast  ",
-      "color": {
-        "a": 1,
-        "rgb": 10071551
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
       }
     }
   ],
@@ -35,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.221413721413721,
-  "repelStrength": 3.0977130977131,
-  "linkStrength": 0.0966735966735967,
+  "centerStrength": 0,
+  "repelStrength": 4.01247401247401,
+  "linkStrength": 0.175675675675676,
   "linkDistance": 30,
-  "scale": 0.7132754626224432,
+  "scale": 1.0000000000000038,
   "close": true
 }
