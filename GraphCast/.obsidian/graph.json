@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#WorkingOn  ",
+      "query": "tag:#Key  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 11392604
       }
     },
     {
@@ -20,17 +20,24 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "tag:#WorkingOn  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 2.16288981288981,
+  "lineSizeMultiplier": 2.36663201663202,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 4.01247401247401,
-  "linkStrength": 0.175675675675676,
+  "centerStrength": 0.479209979209979,
+  "repelStrength": 6.09147609147609,
+  "linkStrength": 1,
   "linkDistance": 30,
   "scale": 1.0000000000000038,
   "close": true

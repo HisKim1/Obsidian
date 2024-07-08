@@ -1,3 +1,4 @@
+#Key 
 이전 두 state로 그 다음 state를 만든다![^why?]
 
 [^why?]: [1개보다 2개가 performance가 좋았고, 3개 하면 mem. footprint만큼의 효용을 얻지 못함; p.25 3.1]

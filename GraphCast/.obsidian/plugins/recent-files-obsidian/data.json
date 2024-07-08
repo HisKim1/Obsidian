@@ -1,56 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Code",
-      "path": "Coding/Code.md"
+      "basename": "Task",
+      "path": "Task/Task.md"
     },
     {
-      "basename": "autoregressive.py",
-      "path": "autoregressive.py.md"
-    },
-    {
-      "basename": "rollout.py",
-      "path": "rollout.py.md"
-    },
-    {
-      "basename": "Conda Env",
-      "path": "Coding/Conda Env.md"
-    },
-    {
-      "basename": "hidden_layers",
-      "path": "Coding/Property/hidden_layers.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "Coding/graphcast.py.md"
+      "basename": "Message-passing GNN",
+      "path": "structure/Message-passing GNN.md"
     },
     {
       "basename": "GPU Info",
       "path": "Coding/GPU Info.md"
     },
     {
-      "basename": "General Forecasting Problem Statement",
-      "path": "paper/General Forecasting Problem Statement.md"
+      "basename": "latent_size",
+      "path": "Coding/Property/latent_size.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "resolution",
+      "path": "Coding/Property/resolution.md"
     },
     {
-      "basename": "GNN으로 기상 예측 가능",
-      "path": "paper/GNN으로 기상 예측 가능.md"
+      "basename": "mesh2grid_dege_normalization_factor",
+      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
+    },
+    {
+      "basename": "rollout.py",
+      "path": "Coding/rollout.py.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "Coding/graphcast.py.md"
+    },
+    {
+      "basename": "Server Info",
+      "path": "Coding/Server Info.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Coding/Code.md"
+    },
+    {
+      "basename": "Properties",
+      "path": "Coding/Property/Properties.md"
+    },
+    {
+      "basename": "Conda Env",
+      "path": "Coding/Conda Env.md"
+    },
+    {
+      "basename": "요청 사항",
+      "path": "요청 사항.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "structure/GraphCast Model.md"
     },
     {
       "basename": "GraphCast by Deepmind",
       "path": "paper/GraphCast by Deepmind.md"
     },
     {
-      "basename": "Encoder",
-      "path": "structure/Encoder.md"
+      "basename": "hidden_layers",
+      "path": "Coding/Property/hidden_layers.md"
     },
     {
-      "basename": "Properties",
-      "path": "Coding/Property/Properties.md"
+      "basename": "General Forecasting Problem Statement",
+      "path": "paper/General Forecasting Problem Statement.md"
+    },
+    {
+      "basename": "GNN으로 기상 예측 가능",
+      "path": "paper/GNN으로 기상 예측 가능.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "structure/Encoder.md"
     },
     {
       "basename": "gnn_msg_steps",
@@ -59,14 +87,6 @@
     {
       "basename": "radius_query_fraction_edge_length",
       "path": "radius_query_fraction_edge_length.md"
-    },
-    {
-      "basename": "mesh2grid_dege_normalization_factor",
-      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
-    },
-    {
-      "basename": "GraphCast Model",
-      "path": "structure/GraphCast Model.md"
     },
     {
       "basename": "Grid2Mesh Edge",
@@ -89,10 +109,6 @@
       "path": "resolution.md"
     },
     {
-      "basename": "latent_size",
-      "path": "Coding/Property/latent_size.md"
-    },
-    {
       "basename": "Decoder",
       "path": "structure/Decoder.md"
     },
@@ -105,16 +121,8 @@
       "path": "structure/Multi-mesh.md"
     },
     {
-      "basename": "Message-passing GNN",
-      "path": "structure/Message-passing GNN.md"
-    },
-    {
       "basename": "Polynya",
       "path": "Polynya.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.canvas"
     }
   ],
   "omittedPaths": [
