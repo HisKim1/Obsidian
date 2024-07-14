@@ -1,1 +1,9 @@
-{}
+{
+  "accentColor": "#5cf2f5",
+  "textFontFamily": "Noto Sans KR",
+  "interfaceFontFamily": "Noto Sans KR",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "cssTheme": "GitHub Theme"
+}
