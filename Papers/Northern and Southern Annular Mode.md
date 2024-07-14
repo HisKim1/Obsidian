@@ -1,3 +1,7 @@
+---
+{}
+---
+
 ```ad-summary
 각각 남반구와 북반구에서 polar $\leftrightarrow$ mid-lat. 사이의 P차이를 나타내는 지수
 $\Rightarrow$ polar와 mid-lat. 사이 atm. mass Oscillation을 설명

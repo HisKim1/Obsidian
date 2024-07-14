@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "논문 정리",
+      "path": "Papers/templete/논문 정리.md"
+    },
+    {
+      "basename": "윤기's 1",
+      "path": "Papers/윤기's 1.md"
+    },
+    {
       "basename": "Overview",
       "path": "GraphCast/Overview.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "radius_query_fraction_edge_length",
       "path": "radius_query_fraction_edge_length.md"
-    },
-    {
-      "basename": "Grid2Mesh Edge",
-      "path": "GC graph/Grid2Mesh Edge.md"
-    },
-    {
-      "basename": "GraphCast's Graph",
-      "path": "GC graph/GraphCast's Graph.md"
     }
   ],
   "omittedPaths": [

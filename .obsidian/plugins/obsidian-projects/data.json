@@ -2,16 +2,28 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "tags": {
+          "richText": false
+        },
+        "title": {
+          "options": [],
+          "richText": false
+        }
+      },
       "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
+      "templates": [
+        "Papers/templete/논문 정리.md"
+      ],
+      "excludedNotes": [
+        "Papers/Overview.md"
+      ],
       "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Projects - Demo Project",
-          "recursive": false
+          "path": "Papers",
+          "recursive": true
         }
       },
       "newNotesFolder": "",
@@ -19,89 +31,74 @@
         {
           "config": {
             "fieldConfig": {
-              "name": {
-                "width": 360
-              },
               "path": {
+                "width": 164,
                 "hide": true
+              },
+              "title": {
+                "width": 225
+              },
+              "keyword": {
+                "width": 419
+              },
+              "site": {
+                "hide": true
+              },
+              "datetime": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "when published": {
+                "hide": true
+              },
+              "status": {
+                "width": 115
               }
-            }
+            },
+            "orderFields": [
+              "status",
+              "name",
+              "title",
+              "keyword",
+              "summary",
+              "where published"
+            ]
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"paper\"]"
+              }
+            ]
           },
           "colors": {
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "status",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
+          "id": "6a366eb6-b3f9-46eb-aca3-e342085e2332",
           "name": "Table",
-          "id": "3d3c15ea-7567-4c87-97c5-06382ecf5294",
           "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "status",
-            "orderSyncField": "weight"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Board",
-          "id": "4d847af0-25e8-48f5-a194-7475a88c6e6f",
-          "type": "board"
-        },
-        {
-          "config": {
-            "interval": "month",
-            "dateField": "due",
-            "checkField": "published"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Calendar",
-          "id": "3d77e923-4911-4825-9a5a-a8e0f5b81b8f",
-          "type": "calendar"
-        },
-        {
-          "config": {
-            "coverField": "image"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Gallery",
-          "id": "f9b127a4-1360-44b4-bd1b-43fde211b709",
-          "type": "gallery"
         }
       ],
-      "name": "Demo project",
-      "id": "b4a1a758-9d37-460e-a2e9-4a13d2c2ac17",
-      "path": "Projects - Demo Project"
+      "id": "048f4d03-afe4-4eba-b239-5fb4f9b56ca8",
+      "name": "papers"
     }
   ],
   "archives": [],

@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,6 +172,8 @@
   },
   "active": "6e5760e4dc7d68bd",
   "lastOpenFiles": [
+    "Papers/templete/논문 정리.md",
+    "Papers/윤기's 1.md",
     "GraphCast/Overview.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
@@ -197,8 +200,6 @@
     "Task/Rossby Waves.md",
     "Task/요청 사항.md",
     "Dataset.md",
-    "paper/GNN으로 기상 예측 가능.md",
-    "Overview.md",
     "Task/Pasted image 20240708164348.png",
     "templete",
     "요청 사항.pdf",
