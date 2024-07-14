@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0dfc00365c59e592",
+        "id": "b48afc4331bfac93",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9c5e0157082e91",
+            "id": "57945ce78e3017bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Task/Input Data 다운.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task/Input Data 다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task/Input Data 다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task/Input Data 다운.md"
+              }
+            }
+          },
+          {
+            "id": "6e23a91487778124",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -139,46 +158,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "dc9c5e0157082e91",
+  "active": "57945ce78e3017bb",
   "lastOpenFiles": [
     "Task/Task.md",
-    "structure/Message-passing GNN.md",
-    "Coding/GPU Info.md",
-    "Coding/Property/latent_size.md",
-    "Coding/Property/resolution.md",
-    "Coding/Property/mesh2grid_dege_normalization_factor.md",
-    "Coding/rollout.py.md",
-    "Coding/autoregressive.py.md",
-    "Coding/graphcast.py.md",
-    "Coding/Server Info.md",
+    "Task/Input Data 다운.md",
+    "Coding/data_utils.py.md",
+    "Task/eval_forcing 만들기.md",
+    "Task/eval_target 만들기.md",
+    "ERA5.md",
+    "Dataset.md",
+    "GraphCast GFS by NOAA.md",
     "Coding/Code.md",
-    "Coding/Property/Properties.md",
-    "Coding/Conda Env.md",
+    "Coding/solar_radiation.py.md",
+    "structure/GraphCast Model.md",
+    "Coding/autoregressive.py.md",
+    "Coding/rollout.py.md",
+    "Coding/graphcast.py.md",
+    "Task/Sudden Stratospheric Warming.md",
+    "Overview.md",
+    "Coding/GPU Info.md",
+    "Task/Transformed Eulerian Mean (TEM) Momentum Equation.md",
+    "Task/Residual Mean Circulation.md",
+    "templete/논문 정리.md",
+    "Task/reflection of planetary wave.md",
+    "Task/Rossby Waves.md",
+    "Task/요청 사항.md",
+    "paper/GNN으로 기상 예측 가능.md",
+    "paper/GraphCast by Deepmind.md",
+    "paper/General Forecasting Problem Statement.md",
+    "Task/Pasted image 20240708164348.png",
+    "templete",
     "요청 사항.pdf",
-    "요청 사항.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Task",
-    "structure/GraphCast Model.md",
-    "paper/GraphCast by Deepmind.md",
-    "Coding/Property/hidden_layers.md",
-    "paper/General Forecasting Problem Statement.md",
-    "GraphCast/General Forecasting Problem Statement.md",
-    "GraphCast/Coding/Property/radius_query_fraction_edge_length.md",
-    "GraphCast/Coding/Property/General Forecasting Problem Statement.md",
-    "GraphCast/Coding/Property/resolution.md",
-    "GraphCast/structure/Encoder.md",
-    "GraphCast/무제 파일.md",
-    "Graduate/University.md",
-    "Graduate/O.md",
     "Graduate",
     "2024 UnionWorkshop",
     "GraphCast/Coding",

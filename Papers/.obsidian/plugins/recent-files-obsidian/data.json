@@ -1,0 +1,184 @@
+{
+  "recentFiles": [
+    {
+      "basename": "윤기's 1",
+      "path": "윤기's 1.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Northern and Southern Annular Mode.md"
+    },
+    {
+      "basename": "Arctic_Oscillation_II",
+      "path": "Arctic_Oscillation_II.svg"
+    },
+    {
+      "basename": "논문 정리",
+      "path": "templete/논문 정리.md"
+    },
+    {
+      "basename": "윤기's 2",
+      "path": "윤기's 2.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
+      "basename": "Task",
+      "path": "Task/Task.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "Task/Rossby Waves.md"
+    },
+    {
+      "basename": "요청 사항",
+      "path": "Task/요청 사항.md"
+    },
+    {
+      "basename": "Dataset",
+      "path": "Dataset.md"
+    },
+    {
+      "basename": "GNN으로 기상 예측 가능",
+      "path": "paper/GNN으로 기상 예측 가능.md"
+    },
+    {
+      "basename": "GraphCast by Deepmind",
+      "path": "paper/GraphCast by Deepmind.md"
+    },
+    {
+      "basename": "General Forecasting Problem Statement",
+      "path": "paper/General Forecasting Problem Statement.md"
+    },
+    {
+      "basename": "Pasted image 20240708164348",
+      "path": "Task/Pasted image 20240708164348.png"
+    },
+    {
+      "basename": "reflection of planetary wave",
+      "path": "Task/reflection of planetary wave.md"
+    },
+    {
+      "basename": "Prediction Challenge",
+      "path": "Task/Prediction Challenge.md"
+    },
+    {
+      "basename": "solar_radiation.py",
+      "path": "Coding/solar_radiation.py.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Coding/Code.md"
+    },
+    {
+      "basename": "GPU Info",
+      "path": "Coding/GPU Info.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "rollout.py",
+      "path": "Coding/rollout.py.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Message-passing GNN",
+      "path": "structure/Message-passing GNN.md"
+    },
+    {
+      "basename": "latent_size",
+      "path": "Coding/Property/latent_size.md"
+    },
+    {
+      "basename": "resolution",
+      "path": "Coding/Property/resolution.md"
+    },
+    {
+      "basename": "mesh2grid_dege_normalization_factor",
+      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "Coding/graphcast.py.md"
+    },
+    {
+      "basename": "Server Info",
+      "path": "Coding/Server Info.md"
+    },
+    {
+      "basename": "Properties",
+      "path": "Coding/Property/Properties.md"
+    },
+    {
+      "basename": "Conda Env",
+      "path": "Coding/Conda Env.md"
+    },
+    {
+      "basename": "hidden_layers",
+      "path": "Coding/Property/hidden_layers.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "structure/Encoder.md"
+    },
+    {
+      "basename": "gnn_msg_steps",
+      "path": "Coding/Property/gnn_msg_steps.md"
+    },
+    {
+      "basename": "radius_query_fraction_edge_length",
+      "path": "radius_query_fraction_edge_length.md"
+    },
+    {
+      "basename": "Grid2Mesh Edge",
+      "path": "GC graph/Grid2Mesh Edge.md"
+    },
+    {
+      "basename": "GraphCast's Graph",
+      "path": "GC graph/GraphCast's Graph.md"
+    },
+    {
+      "basename": "Grid Node",
+      "path": "GC graph/Grid Node.md"
+    },
+    {
+      "basename": "mesh_size",
+      "path": "Coding/Property/mesh_size.md"
+    },
+    {
+      "basename": "resolution",
+      "path": "resolution.md"
+    },
+    {
+      "basename": "Decoder",
+      "path": "structure/Decoder.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "structure/Processor.md"
+    },
+    {
+      "basename": "Multi-mesh",
+      "path": "structure/Multi-mesh.md"
+    },
+    {
+      "basename": "Polynya",
+      "path": "Polynya.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": null
+}

@@ -1,16 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "Input Data 다운",
+      "path": "Task/Input Data 다운.md"
+    },
+    {
       "basename": "Task",
       "path": "Task/Task.md"
     },
     {
-      "basename": "Message-passing GNN",
-      "path": "structure/Message-passing GNN.md"
+      "basename": "data_utils.py",
+      "path": "Coding/data_utils.py.md"
+    },
+    {
+      "basename": "eval_forcing 만들기",
+      "path": "Task/eval_forcing 만들기.md"
+    },
+    {
+      "basename": "eval_target 만들기",
+      "path": "Task/eval_target 만들기.md"
+    },
+    {
+      "basename": "ERA5",
+      "path": "ERA5.md"
+    },
+    {
+      "basename": "Dataset",
+      "path": "Dataset.md"
+    },
+    {
+      "basename": "GraphCast GFS by NOAA",
+      "path": "GraphCast GFS by NOAA.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Coding/Code.md"
+    },
+    {
+      "basename": "solar_radiation.py",
+      "path": "Coding/solar_radiation.py.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "structure/GraphCast Model.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "rollout.py",
+      "path": "Coding/rollout.py.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "Coding/graphcast.py.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
     },
     {
       "basename": "GPU Info",
       "path": "Coding/GPU Info.md"
+    },
+    {
+      "basename": "Transformed Eulerian Mean (TEM) Momentum Equation",
+      "path": "Task/Transformed Eulerian Mean (TEM) Momentum Equation.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "논문 정리",
+      "path": "templete/논문 정리.md"
+    },
+    {
+      "basename": "reflection of planetary wave",
+      "path": "Task/reflection of planetary wave.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "Task/Rossby Waves.md"
+    },
+    {
+      "basename": "요청 사항",
+      "path": "Task/요청 사항.md"
+    },
+    {
+      "basename": "GNN으로 기상 예측 가능",
+      "path": "paper/GNN으로 기상 예측 가능.md"
+    },
+    {
+      "basename": "GraphCast by Deepmind",
+      "path": "paper/GraphCast by Deepmind.md"
+    },
+    {
+      "basename": "General Forecasting Problem Statement",
+      "path": "paper/General Forecasting Problem Statement.md"
+    },
+    {
+      "basename": "Pasted image 20240708164348",
+      "path": "Task/Pasted image 20240708164348.png"
+    },
+    {
+      "basename": "Prediction Challenge",
+      "path": "Task/Prediction Challenge.md"
+    },
+    {
+      "basename": "Message-passing GNN",
+      "path": "structure/Message-passing GNN.md"
     },
     {
       "basename": "latent_size",
@@ -25,24 +129,8 @@
       "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
     },
     {
-      "basename": "rollout.py",
-      "path": "Coding/rollout.py.md"
-    },
-    {
-      "basename": "autoregressive.py",
-      "path": "Coding/autoregressive.py.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "Coding/graphcast.py.md"
-    },
-    {
       "basename": "Server Info",
       "path": "Coding/Server Info.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Coding/Code.md"
     },
     {
       "basename": "Properties",
@@ -53,28 +141,8 @@
       "path": "Coding/Conda Env.md"
     },
     {
-      "basename": "요청 사항",
-      "path": "요청 사항.md"
-    },
-    {
-      "basename": "GraphCast Model",
-      "path": "structure/GraphCast Model.md"
-    },
-    {
-      "basename": "GraphCast by Deepmind",
-      "path": "paper/GraphCast by Deepmind.md"
-    },
-    {
       "basename": "hidden_layers",
       "path": "Coding/Property/hidden_layers.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "GNN으로 기상 예측 가능",
-      "path": "paper/GNN으로 기상 예측 가능.md"
     },
     {
       "basename": "Encoder",

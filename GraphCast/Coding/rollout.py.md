@@ -18,4 +18,8 @@ predictions = rollout.chunked_prediction(
 )
 ```
 
-#Question predictorFn은 뭔가. 어떻게 받아들여야 하지?
+#Question 
+```ad-question
+predictorFn은 뭔가. 
+-> 실행을 하는 protocol
+```
