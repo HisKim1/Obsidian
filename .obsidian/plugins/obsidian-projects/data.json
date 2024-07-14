@@ -64,8 +64,8 @@
               }
             },
             "orderFields": [
-              "status",
               "name",
+              "status",
               "title",
               "keyword",
               "summary",
@@ -101,8 +101,11 @@
         },
         {
           "config": {
-            "includeFields": [],
-            "groupByField": "when published"
+            "includeFields": [
+              "keyword",
+              "summary"
+            ],
+            "groupByField": "path"
           },
           "filter": {
             "conjunction": "and",
