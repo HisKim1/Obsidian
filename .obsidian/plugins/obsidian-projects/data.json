@@ -58,6 +58,9 @@
               },
               "status": {
                 "width": 115
+              },
+              "summary": {
+                "width": 541
               }
             },
             "orderFields": [
@@ -95,6 +98,25 @@
           "id": "6a366eb6-b3f9-46eb-aca3-e342085e2332",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [],
+            "groupByField": "when published"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b81340d-d4e1-4038-bf48-936f9a1edabd",
+          "name": "Board",
+          "type": "board"
         }
       ],
       "id": "048f4d03-afe4-4eba-b239-5fb4f9b56ca8",
