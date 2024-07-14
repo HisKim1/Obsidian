@@ -64,6 +64,7 @@ non
 numerical
 near
 nagative
+negative
 site
 status
 stratosphere에서
@@ -135,6 +136,7 @@ strato
 speed
 stream의
 similar
+subgraph
 topic
 tags
 templete
@@ -251,6 +253,7 @@ affect
 anomalies가
 accross
 all
+annular
 cssclasses
 considered
 cell
@@ -309,6 +312,7 @@ change를
 changes
 coupling이
 contribution
+communication
 Tool
 Troposphere에서
 Thermal
@@ -400,6 +404,7 @@ dataset함수
 downward
 descent
 downward해서
+dist
 of
 ojjjii
 oJg
@@ -519,6 +524,8 @@ realizing에
 refracted
 reflected
 realized
+ringlike
+reassign
 blog
 break
 breaking에
@@ -600,6 +607,8 @@ poleward로
 persistence
 perturbation
 propagating
+positive
+passing
 here
 host
 haa
@@ -639,6 +648,7 @@ humidity
 번째
 번에
 환경
+환상의
 문제
 문단을
 상황
@@ -692,6 +702,7 @@ lsm
 low
 latitude에서
 late
+layer에서
 버전
 버전으로
 이상이
@@ -920,6 +931,8 @@ Model
 Mechanisms
 MB
 Monthly
+Mesh
+MLP의
 in
 iii
 iYp
@@ -961,6 +974,7 @@ influence
 ii
 iv
 influence가
+iterate
 지난
 지표
 지속
@@ -1296,6 +1310,7 @@ wind가
 winter
 wave가
 when
+weights
 높이
 활성화
 장기
@@ -1507,6 +1522,8 @@ used
 upward
 uncertainty
 understood
+update
+unshared
 DEEE
 DPP
 Dt
@@ -1534,6 +1551,7 @@ DeepMind
 Data
 Dobson
 Decadal
+Deep
 vm
 vLL
 vX
@@ -1562,6 +1580,7 @@ variables
 vacillation
 variation
 volcano
+value
 qbRRRrr
 qZ
 ql

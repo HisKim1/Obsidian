@@ -4,9 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "status": "multitext",
-    "datetime": "date",
+    "datetime": "datetime",
     "keyword": "multitext",
-    "where published": "multitext",
-    "when published": "date"
+    "where published": "multitext"
   }
 }

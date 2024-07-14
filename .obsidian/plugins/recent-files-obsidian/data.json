@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
       "basename": "윤기's 1",
       "path": "Papers/윤기's 1.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Encoder",
       "path": "structure/Encoder.md"
-    },
-    {
-      "basename": "gnn_msg_steps",
-      "path": "Coding/Property/gnn_msg_steps.md"
-    },
-    {
-      "basename": "radius_query_fraction_edge_length",
-      "path": "radius_query_fraction_edge_length.md"
     }
   ],
   "omittedPaths": [
