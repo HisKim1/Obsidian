@@ -31,6 +31,7 @@ formation으로
 features
 forcings
 fine
+float
 name
 nYYYFF
 nOq
@@ -130,6 +131,7 @@ tuning
 truth
 test
 timestep
+tp
 aliases
 against
 and
@@ -157,6 +159,8 @@ acos
 absl
 accumulated
 add
+accumulate가
+accumulate
 cssclasses
 considered
 cell
@@ -277,6 +281,8 @@ dataset을
 dynamical
 downsampled
 derived
+done
+dataset함수
 of
 ojjjii
 oJg
@@ -432,6 +438,7 @@ py에서
 pressure
 precipitation은
 precipitation
+precip
 here
 host
 haa
@@ -457,6 +464,7 @@ hr
 hours
 humidity
 작업
+작동
 파일명
 파동
 파동이
@@ -510,6 +518,8 @@ level을
 leading
 level에서
 limited
+longitude
+lsm
 버전
 버전으로
 이상이
@@ -528,6 +538,7 @@ limited
 이해
 이어붙여서
 이전
+이름
 필요함
 필요한
 필요
@@ -626,6 +637,7 @@ get
 geopotential
 geopotential이
 ground
+geopotential을
 GraphCast
 GPU
 Geostrophic
@@ -650,6 +662,7 @@ Graphcast
 GNNs
 GDAS
 GraphCastGFS
+GB
 Cast
 Circulation
 Changes
@@ -740,6 +753,7 @@ Major
 March
 ModelConfig
 ML
+MB
 in
 iii
 iYp
@@ -794,6 +808,7 @@ inputs
 되는지
 되더라
 되어
+되었는지
 모르겠습니다
 모르지만
 모르겟음
@@ -929,6 +944,7 @@ models
 meridional
 mseh
 maybe
+msl
 서풍에
 각운동량
 전달로
@@ -1340,6 +1356,7 @@ vertical
 velocity
 vars
 value를
+variables
 qbRRRrr
 qZ
 ql
@@ -1433,6 +1450,8 @@ NCEP
 어떤
 넣었단
 넣으면
+넣어야
+넣어줫음
 받아서
 받은
 더해서
@@ -1446,6 +1465,7 @@ NCEP
 바꾸면
 바뀜
 바람
+바꿔서
 학습하는
 로만
 하는
@@ -1629,9 +1649,11 @@ NCEP
 부를
 알아서
 확인
+확인해서
 걸로
 합쳐
 합쳐야
+합성
 선택해서
 선행
 새로

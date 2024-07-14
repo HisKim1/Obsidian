@@ -11,8 +11,12 @@
             "id": "57945ce78e3017bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GraphCast/Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GraphCast/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GraphCast/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GraphCast/Overview.md"
+              }
             }
           },
           {
@@ -139,6 +147,14 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "6f9163b10e327518",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -157,11 +173,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "57945ce78e3017bb",
   "lastOpenFiles": [
+    "GraphCast/Coding/solar_radiation.py.md",
+    "GraphCast/Overview.md",
+    "GraphCast/Task/Prediction Challenge.md",
+    "GraphCast/Task/Pasted image 20240708164348.png",
+    "GraphCast/Dataset.md",
+    "GraphCast/ERA5.md",
+    "GraphCast/GraphCast GFS by NOAA.md",
+    "GraphCast/paper/GraphCast by Deepmind.md",
+    "GraphCast/Coding/Code.md",
+    "GraphCast/Task/Task.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Coding/Server Info.md",
+    "GraphCast/Coding/GPU Info.md",
+    "GraphCast/Coding/Conda Env.md",
+    "GraphCast/Coding/autoregressive.py.md",
+    "GraphCast/GC graph/GraphCast's Graph.md",
+    "Graduate/O.md",
     "Task/Rossby Waves.md",
     "Task/요청 사항.md",
     "Dataset.md",
@@ -172,22 +206,7 @@
     "paper/General Forecasting Problem Statement.md",
     "templete/논문 정리.md",
     "Task/Pasted image 20240708164348.png",
-    "Task/reflection of planetary wave.md",
-    "Task/Task.md",
     "templete",
-    "Task/Prediction Challenge.md",
-    "Coding/solar_radiation.py.md",
-    "rossby wave.md",
-    "Task/Sudden Stratospheric Warming.md",
-    "Coding/Code.md",
-    "Coding/GPU Info.md",
-    "Coding/autoregressive.py.md",
-    "Coding/rollout.py.md",
-    "structure/GraphCast Model.md",
-    "structure/Message-passing GNN.md",
-    "Coding/Property/latent_size.md",
-    "Coding/Property/resolution.md",
-    "Coding/Property/mesh2grid_dege_normalization_factor.md",
     "요청 사항.pdf",
     "무제 파일.canvas",
     "무제 파일 1.canvas",

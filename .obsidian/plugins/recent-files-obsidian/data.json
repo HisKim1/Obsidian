@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview",
+      "path": "GraphCast/Overview.md"
+    },
+    {
+      "basename": "solar_radiation.py",
+      "path": "GraphCast/Coding/solar_radiation.py.md"
+    },
+    {
+      "basename": "Prediction Challenge",
+      "path": "GraphCast/Task/Prediction Challenge.md"
+    },
+    {
+      "basename": "Pasted image 20240708164348",
+      "path": "GraphCast/Task/Pasted image 20240708164348.png"
+    },
+    {
+      "basename": "Dataset",
+      "path": "GraphCast/Dataset.md"
+    },
+    {
+      "basename": "ERA5",
+      "path": "GraphCast/ERA5.md"
+    },
+    {
+      "basename": "GraphCast GFS by NOAA",
+      "path": "GraphCast/GraphCast GFS by NOAA.md"
+    },
+    {
+      "basename": "GraphCast by Deepmind",
+      "path": "GraphCast/paper/GraphCast by Deepmind.md"
+    },
+    {
+      "basename": "Code",
+      "path": "GraphCast/Coding/Code.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Server Info",
+      "path": "GraphCast/Coding/Server Info.md"
+    },
+    {
+      "basename": "GPU Info",
+      "path": "GraphCast/Coding/GPU Info.md"
+    },
+    {
+      "basename": "Conda Env",
+      "path": "GraphCast/Coding/Conda Env.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "GraphCast/Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "GraphCast's Graph",
+      "path": "GraphCast/GC graph/GraphCast's Graph.md"
+    },
+    {
+      "basename": "O",
+      "path": "Graduate/O.md"
+    },
+    {
       "basename": "Task",
       "path": "Task/Task.md"
     },
@@ -131,34 +199,6 @@
     {
       "basename": "GraphCast's Graph",
       "path": "GC graph/GraphCast's Graph.md"
-    },
-    {
-      "basename": "Grid Node",
-      "path": "GC graph/Grid Node.md"
-    },
-    {
-      "basename": "mesh_size",
-      "path": "Coding/Property/mesh_size.md"
-    },
-    {
-      "basename": "resolution",
-      "path": "resolution.md"
-    },
-    {
-      "basename": "Decoder",
-      "path": "structure/Decoder.md"
-    },
-    {
-      "basename": "Processor",
-      "path": "structure/Processor.md"
-    },
-    {
-      "basename": "Multi-mesh",
-      "path": "structure/Multi-mesh.md"
-    },
-    {
-      "basename": "Polynya",
-      "path": "Polynya.md"
     }
   ],
   "omittedPaths": [

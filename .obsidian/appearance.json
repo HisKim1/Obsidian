@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Noto Sans KR",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 15,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": "GitHub Theme"
 }
