@@ -11,8 +11,12 @@
             "id": "d64741cc3796f984",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md"
+              }
             }
           }
         ]
@@ -143,11 +151,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "14a65964b8df11e0",
+  "active": "d64741cc3796f984",
   "lastOpenFiles": [
+    "International Symposium on Energy and Water Excahnges in Land-Atmosphere Interactions.md",
+    "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
+    "Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
+    "20240715_143252.jpg",
+    "Introduction of Global Energy and Water Exchanges (GEWEX).md",
+    "Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md",
+    "SPARC (Stratosphere-troposphere Processes And their Role in Climate).md",
+    "CLIVAR (Climate and Ocean_Variability, Predictability and Change).md",
+    "ESMO (Earth System Modelling and Observations).md",
+    "RIFS (Regional Information for Society).md",
+    "CliC (Climate and Cryosphere).md",
     "무제 폴더",
     "질문.md",
     "2024 International Symposium",
@@ -173,15 +193,6 @@
     "2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
     "2024 UnionWorkshop/합동 세미나.md",
     "2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
-    "2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
-    "2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
-    "2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
-    "2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
-    "2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
-    "2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
-    "2024 UnionWorkshop/Session 4_기후변화와 지구 표면 및 생물권 상호작용.md",
-    "2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
-    "2024 UnionWorkshop/Session 1_수재해 & 강수 패턴 1.md",
     "2024 UnionWorkshop",
     "GraphCast/Coding",
     "GraphCast/무제 파일.canvas",
