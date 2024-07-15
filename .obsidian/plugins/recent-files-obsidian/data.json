@@ -5,6 +5,10 @@
       "path": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md"
     },
     {
+      "basename": "diurnal hysteresis",
+      "path": "Events/2024 International Symposium/diurnal hysteresis.md"
+    },
+    {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "mesh2grid_dege_normalization_factor",
       "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "Coding/graphcast.py.md"
     }
   ],
   "omittedPaths": [

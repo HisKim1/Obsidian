@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59c66646f0dc2683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/2024 International Symposium/diurnal hysteresis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -182,6 +195,8 @@
   },
   "active": "d64741cc3796f984",
   "lastOpenFiles": [
+    "Events/2024 International Symposium/diurnal hysteresis.md",
+    "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
     "20240715_170609.jpg",
     "Events/2024 International Symposium/International Symposium.md",
     "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md",
@@ -220,7 +235,6 @@
     "Graduate/Caltech.md",
     "Graduate",
     "2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
-    "2024 UnionWorkshop/합동 세미나.md",
     "2024 UnionWorkshop",
     "GraphCast/Coding",
     "GraphCast/무제 파일.canvas",

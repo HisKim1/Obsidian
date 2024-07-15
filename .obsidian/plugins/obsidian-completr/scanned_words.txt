@@ -42,6 +42,9 @@ float
 fast
 feedback이
 formation
+fog
+forest
+flux
 name
 nYYYFF
 nOq
@@ -142,6 +145,8 @@ session
 some
 sensitivity
 simple
+supply
+src
 topic
 tags
 templete
@@ -263,6 +268,7 @@ all
 annular
 affects
 atm의
+afternoon에
 cssclasses
 considered
 cell
@@ -327,6 +333,7 @@ condensed되는
 cond
 cloud
 cycle
+canopy
 Tool
 Troposphere에서
 Thermal
@@ -422,6 +429,9 @@ downward해서
 dist
 daytime
 determine
+daytime에
+dew
+difference
 of
 ojjjii
 oJg
@@ -511,6 +521,8 @@ Lifting
 Level
 LCL
 Lo
+LH
+LT
 relevant
 residual
 rK
@@ -551,6 +563,7 @@ reflected
 realized
 ringlike
 reassign
+relative
 blog
 break
 breaking에
@@ -639,6 +652,8 @@ presenter
 parcel
 pre
 proj
+peak
+peaking
 here
 host
 haa
@@ -669,6 +684,7 @@ hours
 humidity
 hydrometeors
 hydrological
+humidirty가
 작업
 작동
 작은
@@ -740,6 +756,7 @@ low
 latitude에서
 late
 layer에서
+lag
 버전
 버전으로
 이상이
@@ -773,6 +790,7 @@ layer에서
 해줘야
 해보는
 해상되지
+해발
 에서
 에도
 에너지
@@ -782,6 +800,7 @@ layer에서
 구글
 구성되어
 구름
+구름이나
 가능한
 가능하다면
 가열
@@ -799,6 +818,7 @@ layer에서
 사용
 사용할
 사용하여
+사이에
 기존
 기후에
 기후
@@ -920,6 +940,9 @@ Coupling
 Centennial
 Condensation
 Classification
+Cloud
+CLimatology
+Cycle
 Output
 OD
 OLL
@@ -1215,6 +1238,8 @@ mid
 meridional
 momentum을
 moisture가
+m에서
+moisture
 서풍에
 각운동량
 전달로
@@ -1286,6 +1311,7 @@ Hydrometeor
 HCF가
 Hydroclimatology
 Hui
+Hydro
 즉시
 Pressure
 PNG
@@ -1355,6 +1381,8 @@ Formation
 Folding
 Forcings
 Function
+Fog
+Forests
 초기
 초점을
 위치
@@ -1599,6 +1627,8 @@ equatorward해서
 exert
 economical
 effective
+early
+evaporation
 VAA
 VWWc
 VUU
@@ -1664,6 +1694,7 @@ Decadal
 Deep
 Dirmeyer
 D짜리라
+Diurnal
 vm
 vLL
 vX
@@ -1761,6 +1792,7 @@ NTU
 특성이
 일시
 일은
+일반적으로
 때의
 때문에
 만큼
@@ -1839,6 +1871,7 @@ NTU
 자연스럽게
 자동
 자오면
+자주
 화려한
 수식
 수송을
@@ -1859,6 +1892,7 @@ NTU
 아니면
 아직
 아주
+아열대
 거야
 관련
 관측을
@@ -1907,10 +1941,13 @@ NTU
 과정
 과학
 안정성
+안개에
 권계면
 권한
 고도
 고도에
+고산
+고점
 준비해야
 내가
 직접
@@ -2004,3 +2041,5 @@ NTU
 토양
 현상
 홍수
+둘러싸여
+열대

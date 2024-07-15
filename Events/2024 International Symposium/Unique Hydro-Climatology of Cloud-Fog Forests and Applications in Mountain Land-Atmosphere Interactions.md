@@ -14,4 +14,5 @@ session: session 2
 ![[20240715_170609.jpg]]
 
 # Diurnal Cycle in Cloud-Fog Forests
-- diurnal hysteresis (이력 현상?) $\Rightarrow$ time lag  | phase difference
+- [[diurnal hysteresis]] $\Rightarrow$ time lag  | phase difference
+
