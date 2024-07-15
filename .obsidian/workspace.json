@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/2024 International Symposium/International Symposium.md",
+                "file": "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
+                "file": "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
+                "file": "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md"
+                "file": "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md"
               }
             }
           },
@@ -193,9 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eef68613a4fe2731",
+  "active": "d64741cc3796f984",
   "lastOpenFiles": [
     "Events/2024 International Symposium/International Symposium.md",
+    "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
     "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
     "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
     "Events/2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
@@ -233,7 +233,6 @@
     "GraphCast/structure/Encoder.md",
     "GraphCast/무제 파일.md",
     "Graduate/University.md",
-    "Graduate/O.md",
     "Graduate",
     "2024 UnionWorkshop",
     "GraphCast/Coding",

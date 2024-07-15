@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions",
-      "path": "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md"
+      "basename": "The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate",
+      "path": "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md"
     },
     {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
+    },
+    {
+      "basename": "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions",
+      "path": "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md"
     },
     {
       "basename": "Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions",
@@ -195,10 +199,6 @@
     {
       "basename": "GraphCast Model",
       "path": "structure/GraphCast Model.md"
-    },
-    {
-      "basename": "Message-passing GNN",
-      "path": "structure/Message-passing GNN.md"
     }
   ],
   "omittedPaths": [
