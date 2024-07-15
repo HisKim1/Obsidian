@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
+                "file": "International Symposium.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
+                "file": "International Symposium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
+                "file": "International Symposium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md"
+                "file": "International Symposium.md"
+              }
+            }
+          },
+          {
+            "id": "dd0e4f81da7afba9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aab3973b74c2cf52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -146,28 +167,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "d64741cc3796f984",
   "lastOpenFiles": [
-    "International Symposium on Energy and Water Excahnges in Land-Atmosphere Interactions.md",
-    "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
-    "Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
-    "20240715_143252.jpg",
     "Introduction of Global Energy and Water Exchanges (GEWEX).md",
     "Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md",
-    "SPARC (Stratosphere-troposphere Processes And their Role in Climate).md",
-    "CLIVAR (Climate and Ocean_Variability, Predictability and Change).md",
-    "ESMO (Earth System Modelling and Observations).md",
-    "RIFS (Regional Information for Society).md",
-    "CliC (Climate and Cryosphere).md",
+    "Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
+    "International Symposium.md",
+    "Papers/templete/논문 정리.md",
+    "Papers/윤기's 2.md",
+    "Papers/윤기's 1.md",
+    "Papers/templete",
+    "Papers/Overview.md",
+    "Papers/Arctic_Oscillation_II.svg",
+    "Papers/Northern and Southern Annular Mode.md",
+    "Papers",
+    "GraphCast/templete/논문 정리.md",
+    "GraphCast/templete",
     "무제 폴더",
     "질문.md",
     "2024 International Symposium",

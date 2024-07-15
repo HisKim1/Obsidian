@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "session": "multitext"
+    "status": "multitext",
+    "datetime": "datetime",
+    "keyword": "multitext",
+    "where published": "multitext"
   }
 }
