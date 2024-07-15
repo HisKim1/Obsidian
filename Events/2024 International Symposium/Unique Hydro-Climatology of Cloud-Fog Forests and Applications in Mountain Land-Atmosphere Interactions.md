@@ -9,4 +9,3 @@ session: session 2
 - daytime에 T $\downarrow$ & moisture supply $\uparrow$
 
 # Diurnal Cycle of T & Relative humidity
-
