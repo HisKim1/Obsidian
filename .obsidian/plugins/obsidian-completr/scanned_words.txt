@@ -45,6 +45,7 @@ formation
 fog
 forest
 flux
+freq
 name
 nYYYFF
 nOq
@@ -69,6 +70,7 @@ numerical
 near
 nagative
 negative
+nighttime에
 site
 status
 stratosphere에서
@@ -147,6 +149,13 @@ sensitivity
 simple
 supply
 src
+surf
+superadiabiatic
+sys
+snow
+soil
+system이
+shallow
 topic
 tags
 templete
@@ -206,6 +215,7 @@ timescales
 title
 tetermining
 theory보다
+terrestrial
 aliases
 against
 and
@@ -269,6 +279,8 @@ annular
 affects
 atm의
 afternoon에
+availability
+albedo
 cssclasses
 considered
 cell
@@ -334,6 +346,9 @@ cond
 cloud
 cycle
 canopy
+compoents
+change한다
+clouds
 Tool
 Troposphere에서
 Thermal
@@ -368,6 +383,8 @@ Trigger
 Train
 Targets
 Theory
+T는
+Terrestrial
 Brief
 Bfloat
 Balance
@@ -386,6 +403,7 @@ Beta
 Being
 Brewer
 Box
+Boundary
 description
 driving
 dAJ
@@ -432,6 +450,10 @@ determine
 daytime에
 dew
 difference
+daily
+domain만
+diurnal
+dry
 of
 ojjjii
 oJg
@@ -499,6 +521,10 @@ All
 Atlantic
 Atmosphere
 Analysis
+Assumption
+Atm
+ABL
+Atmosephere
 Link
 LOO
 LQWW
@@ -523,6 +549,9 @@ LCL
 Lo
 LH
 LT
+Local
+Leg
+LoCo
 relevant
 residual
 rK
@@ -564,6 +593,8 @@ realized
 ringlike
 reassign
 relative
+ratdiative
+respresentation이
 blog
 break
 breaking에
@@ -592,6 +623,8 @@ batch
 behaviour
 back
 bottom에
+boundary
+budget
 posts
 pf
 pss
@@ -654,6 +687,12 @@ pre
 proj
 peak
 peaking
+provieds
+process
+physics
+proc가
+proc
+process의
 here
 host
 haa
@@ -685,6 +724,7 @@ humidity
 hydrometeors
 hydrological
 humidirty가
+hydrology
 작업
 작동
 작은
@@ -757,6 +797,7 @@ latitude에서
 late
 layer에서
 lag
+lower
 버전
 버전으로
 이상이
@@ -781,6 +822,7 @@ lag
 필요함
 필요한
 필요
+필요하다
 해당
 해두는
 해면기압
@@ -883,6 +925,7 @@ ground
 geopotential
 geopotential이
 geopotential을
+groundwater
 GraphCast
 GPU
 Geostrophic
@@ -915,6 +958,7 @@ GDAP
 GASS
 GLASS
 GHP
+GIST
 Cast
 Circulation
 Changes
@@ -943,6 +987,8 @@ Classification
 Cloud
 CLimatology
 Cycle
+Canopy
+Community
 Output
 OD
 OLL
@@ -959,6 +1005,7 @@ Oscillation
 OS
 Observational
 Oscilliation
+Objects
 Error
 Eddy
 EEE
@@ -989,6 +1036,11 @@ Eval
 Eliassen
 EP
 EXperiment
+Eunkyo
+Ek
+ESM은
+ESM을
+ESM에서
 Message
 Mean
 MJJ
@@ -1012,6 +1064,9 @@ Monthly
 Mesh
 MLP의
 Min
+Motivation
+Micheal
+MP
 in
 iii
 iYp
@@ -1054,6 +1109,11 @@ ii
 iv
 influence가
 iterate
+interaction
+improvements
+interact하고
+inversion
+interaction을
 지난
 지표
 지속
@@ -1096,6 +1156,7 @@ iterate
 최소한으로만
 좋지
 좋을
+좋은
 않을까
 않음
 않는
@@ -1140,6 +1201,8 @@ Session
 System
 Studies
 Study
+Seo
+SOTA
 순환
 순환을
 순환의
@@ -1240,7 +1303,10 @@ momentum을
 moisture가
 m에서
 moisture
+model에
+many
 서풍에
+서로
 각운동량
 전달로
 전파
@@ -1272,6 +1338,7 @@ Water
 World
 WCRP
 WCRP에서
+WRF
 의해
 의한
 의미로
@@ -1341,6 +1408,7 @@ Parcel
 Polcher
 Programme
 Panel
+Perspective
 질량
 재분배
 발생
@@ -1391,6 +1459,7 @@ Forests
 위도에
 위도
 위성
+위해서는
 역할
 역할을
 프로세스
@@ -1439,7 +1508,10 @@ when
 weights
 way가
 water
+weak
+wet
 높이
+높다
 활성화
 활동
 장기
@@ -1480,6 +1552,8 @@ Impacts
 Input
 Inputs
 Interactions
+Improve
+Interaction
 yb
 yyyvvv
 yzz
@@ -1491,6 +1565,7 @@ yy
 you
 your
 yet
+yes
 QH
 Qaa
 QQQ
@@ -1542,6 +1617,8 @@ JqH
 Jj
 Jet
 Jan
+Joseph
+Jinho
 YY
 YlzK
 YRRR
@@ -1556,6 +1633,7 @@ YB
 Yt
 Your
 You
+Yoon
 Kx
 KAA
 KMM
@@ -1629,6 +1707,7 @@ economical
 effective
 early
 evaporation
+emissivity
 VAA
 VWWc
 VUU
@@ -1725,6 +1804,7 @@ variation
 volcano
 value
 vapor가
+via
 qbRRRrr
 qZ
 ql
@@ -1784,6 +1864,9 @@ Note
 NAM
 North
 NTU
+NCAR
+Noah
+NOAA에서
 쉄f
 믿vuum
 쳧O
@@ -1818,6 +1901,7 @@ NTU
 어떤
 어렵게
 어려움
+어쩌잔거지
 넣었단
 넣어야
 넣으면
@@ -1832,6 +1916,9 @@ NTU
 생성
 생성과
 적당했다
+적용
+적절한
+적절히
 바꾸면
 바꾸셈
 바꿔서
@@ -1846,6 +1933,8 @@ NTU
 하나하나가
 하는가
 하나입니다
+하루
+하는데
 것보다
 앞으로
 있을까
@@ -1899,6 +1988,7 @@ NTU
 관측
 관리에
 많이
+많은
 성질
 성층권
 성분을
@@ -1982,6 +2072,7 @@ NTU
 데이터셋
 크게
 복잡성과
+복잡하다
 식별이
 식생
 완전히
@@ -2013,7 +2104,9 @@ NTU
 동서
 동일
 동화
+동안의
 반경
+반영하려면
 매개변수
 매한가지
 밀도
@@ -2043,3 +2136,6 @@ NTU
 홍수
 둘러싸여
 열대
+집중
+낮다
+표현하기

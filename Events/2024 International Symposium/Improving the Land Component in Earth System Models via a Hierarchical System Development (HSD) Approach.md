@@ -23,7 +23,7 @@ NOAA에서 진행하는 첫번째 ??? proj.!
 # Local Land-Atm. Interaction and Coupling
 model에 잘 반영하려면 좋은 system이 있어야 하는데, 많은 proc가 서로 interact하고 있다
 ![[20240715_143252.jpg]]
-
+#Question 여기서 뭐 챙길 수 있는지 확인해볼 필요!
 # Land-Atmosphere Interaction: Terrestrial Leg
 
 # Land-Atmosphere Interaction: Atmospheric Leg
