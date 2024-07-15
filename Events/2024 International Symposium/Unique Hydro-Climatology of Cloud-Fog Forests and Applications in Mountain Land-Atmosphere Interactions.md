@@ -8,6 +8,10 @@ session: session 2
 - afternoon에 relative humidirty가 고점
 - daytime에 T $\downarrow$ & moisture supply $\uparrow$
 
-# HYdro-CLimatology of Cloud-Fog Forests
+# Hydro-CLimatology of Cloud-Fog Forests
 - fog: src of canopy water  w/ dew & precip.
 - early peak of LH flux $\Rightarrow$ canopy evaporation peaking $\uparrow$ ~0900 LT
+![[20240715_170609.jpg]]
+
+# Diurnal Cycle in Cloud-Fog Forests
+- diurnal hysteresis (이력 현상?) $\Rightarrow$ time lag  | phase difference
