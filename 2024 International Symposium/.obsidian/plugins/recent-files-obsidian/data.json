@@ -5,6 +5,14 @@
       "path": "International Symposium.md"
     },
     {
+      "basename": "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions",
+      "path": "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md"
+    },
+    {
+      "basename": "Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions",
+      "path": "Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md"
+    },
+    {
       "basename": "Introduction of Global Energy and Water Exchanges (GEWEX)",
       "path": "Introduction of Global Energy and Water Exchanges (GEWEX).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "mesh2grid_dege_normalization_factor",
       "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "Coding/graphcast.py.md"
-    },
-    {
-      "basename": "Server Info",
-      "path": "Coding/Server Info.md"
     }
   ],
   "omittedPaths": [

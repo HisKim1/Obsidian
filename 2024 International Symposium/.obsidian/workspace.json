@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c721bdbaef066847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -181,10 +194,12 @@
   },
   "active": "d64741cc3796f984",
   "lastOpenFiles": [
+    "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
+    "International Symposium.md",
+    "Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
     "Introduction of Global Energy and Water Exchanges (GEWEX).md",
     "Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md",
     "Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
-    "International Symposium.md",
     "Papers/templete/논문 정리.md",
     "Papers/윤기's 2.md",
     "Papers/윤기's 1.md",
@@ -218,8 +233,6 @@
     "Graduate/Caltech.md",
     "Graduate",
     "2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
-    "2024 UnionWorkshop/합동 세미나.md",
-    "2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
     "2024 UnionWorkshop",
     "GraphCast/Coding",
     "GraphCast/무제 파일.canvas",

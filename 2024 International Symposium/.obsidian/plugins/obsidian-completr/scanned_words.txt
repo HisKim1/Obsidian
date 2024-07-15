@@ -271,6 +271,7 @@ annular
 albedo
 affects
 atm의
+atmosphere
 cssclasses
 considered
 cell
@@ -436,6 +437,7 @@ dist
 dry
 daytime
 determine
+during
 of
 ojjjii
 oJg
@@ -479,6 +481,8 @@ References
 Rossby
 Related
 Research
+Regime
+Rainfall
 Alternatives
 Anomalous
 AAA
@@ -506,6 +510,7 @@ Atm
 ABL
 Atmosephere
 Analysis
+Asian
 Link
 LOO
 LQWW
@@ -571,6 +576,7 @@ realized
 ringlike
 reassign
 respresentation이
+role
 blog
 break
 breaking에
@@ -1004,6 +1010,7 @@ ESM은
 ESM을
 ESM에서
 EXperiment
+East
 Message
 Mean
 MJJ
@@ -1028,6 +1035,7 @@ Mesh
 MLP의
 Micheal
 MP
+Monsoon
 in
 iii
 iYp
@@ -1162,6 +1170,7 @@ SOTA
 System
 Studies
 Study
+Summer
 순환
 순환을
 순환의
@@ -1335,6 +1344,7 @@ HCF
 Hydrometeor
 HCF가
 Hydroclimatology
+Hydrology
 즉시
 Pressure
 PNG
@@ -1505,6 +1515,8 @@ Inputs
 Interactions
 Improve
 Interaction
+Impact
+Increased
 yb
 yyyvvv
 yzz
@@ -1607,6 +1619,7 @@ UVVVUU
 Upper
 University
 Uncertainty
+Uneven
 eG
 ell
 edd
@@ -1655,6 +1668,7 @@ emissivity
 exert
 economical
 effective
+early
 VAA
 VWWc
 VUU
