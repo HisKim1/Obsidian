@@ -23,4 +23,10 @@ $\rightarrow$ how jet stream over EA changes
 # Result
 - dry해진 land surface condition 변화가 shift와 Related
 - surface warming strengthens anticyclone
-- 
+- L-A coupling이 EAJ의 interannual variance의 intensification에 강한 영향
+
+# Question
+1. 에어로졸을 고려했는가?
+   A: may provide background but not included / 99~00's el nino pattern changes as well
+   e.g. Pacific jet is broken
+2. H
