@@ -932,6 +932,7 @@ GDAP
 GASS
 GLASS
 GHP
+GIST
 Cast
 Circulation
 Changes
@@ -1581,6 +1582,7 @@ Jj
 Jet
 Joseph
 Jan
+Jinho
 YY
 YlzK
 YRRR
@@ -1595,6 +1597,7 @@ YB
 Yt
 Your
 You
+Yoon
 Kx
 KAA
 KMM

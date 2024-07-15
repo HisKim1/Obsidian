@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
-                "mode": "preview",
+                "file": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
+                "file": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
+                "file": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md"
+                "file": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md"
+              }
+            }
+          },
+          {
+            "id": "f7c45dd3972eba45",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ce3c28ee27e0977",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -147,6 +168,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,6 +182,10 @@
   },
   "active": "d64741cc3796f984",
   "lastOpenFiles": [
+    "Events/2024 International Symposium/International Symposium.md",
+    "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md",
+    "Events/2024 International Symposium/ESMO (Earth System Modelling and Observations).md",
+    "Events/2024 International Symposium/Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md",
     "Papers/templete/논문 정리.md",
     "Papers/윤기's 2.md",
     "Papers/윤기's 1.md",
@@ -192,10 +221,6 @@
     "2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
     "2024 UnionWorkshop/합동 세미나.md",
     "2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
-    "2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
-    "2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
-    "2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
-    "2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
     "2024 UnionWorkshop",
     "GraphCast/Coding",
     "GraphCast/무제 파일.canvas",

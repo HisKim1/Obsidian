@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions",
+      "path": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md"
+    },
+    {
+      "basename": "International Symposium",
+      "path": "Events/2024 International Symposium/International Symposium.md"
+    },
+    {
+      "basename": "Introduction of Global Energy and Water Exchanges (GEWEX)",
+      "path": "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md"
+    },
+    {
+      "basename": "ESMO (Earth System Modelling and Observations)",
+      "path": "Events/2024 International Symposium/ESMO (Earth System Modelling and Observations).md"
+    },
+    {
+      "basename": "Determining day-to-day sensitivity of convective cloud formation to land surface fluxes",
+      "path": "Events/2024 International Symposium/Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md"
+    },
+    {
       "basename": "Processor",
       "path": "GraphCast/structure/Processor.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "graphcast.py",
       "path": "Coding/graphcast.py.md"
-    },
-    {
-      "basename": "Server Info",
-      "path": "Coding/Server Info.md"
-    },
-    {
-      "basename": "Properties",
-      "path": "Coding/Property/Properties.md"
-    },
-    {
-      "basename": "Conda Env",
-      "path": "Coding/Conda Env.md"
-    },
-    {
-      "basename": "hidden_layers",
-      "path": "Coding/Property/hidden_layers.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "structure/Encoder.md"
     }
   ],
   "omittedPaths": [
