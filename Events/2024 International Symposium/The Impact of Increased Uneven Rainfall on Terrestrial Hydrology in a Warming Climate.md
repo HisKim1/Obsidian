@@ -11,4 +11,8 @@ precip $\uparrow$ $\Rightarrow$ soil moisture $\downarrow$ in over moist & semi-
 
 # Soil moisture regimes in piControl simulations
 
-# 
+# Conclusion
+1. rain unevenness over land is increasing
+2. over moist regions -> richer P gets drier SM responses
+3. more runoff per events
+4. co$\exists$ of increasing droughts and flooding for a given location
