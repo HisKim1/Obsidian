@@ -30,4 +30,5 @@ $\rightarrow$ how jet stream over EA changes
    A: may provide background but not included / 99~00's el nino pattern changes as well
    e.g. Pacific jet is broken
 2. ERA5 dataset에는 에어로졸 interaction이 없다? 다른 dataset (메라2?)을 사용해서 같은 과정을 반복했을 때 유사한 결과가 나올 것인가?
-3. 
+3. ERA5는 2000년에 drop이 있다...? 
+   A: JRA에서도 유사한 결과가 나왔다

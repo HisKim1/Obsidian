@@ -71,6 +71,7 @@ near
 nagative
 negative
 nighttime에
+nino
 site
 status
 stratosphere에서
@@ -156,6 +157,9 @@ snow
 soil
 system이
 shallow
+summer
+shift와
+strengthens
 topic
 tags
 templete
@@ -216,6 +220,7 @@ title
 tetermining
 theory보다
 terrestrial
+twd
 aliases
 against
 and
@@ -282,6 +287,7 @@ afternoon에
 availability
 albedo
 atmospheric
+anticyclone
 cssclasses
 considered
 cell
@@ -350,6 +356,8 @@ canopy
 compoents
 change한다
 clouds
+changing
+condition
 Tool
 Troposphere에서
 Thermal
@@ -456,6 +464,10 @@ domain만
 diurnal
 dry
 dryness를
+drives
+dry해진
+dataset에는
+drop이
 of
 ojjjii
 oJg
@@ -481,6 +493,8 @@ observations
 occur
 occurrence
 observed
+over
+objectives
 Reasoning
 Resources
 Residual
@@ -527,6 +541,7 @@ Assumption
 Atm
 ABL
 Atmosephere
+Algo
 Link
 LOO
 LQWW
@@ -628,6 +643,9 @@ back
 bottom에
 boundary
 budget
+been
+background
+broken
 posts
 pf
 pss
@@ -696,6 +714,8 @@ physics
 proc가
 proc
 process의
+provide
+pattern
 here
 host
 haa
@@ -730,6 +750,8 @@ humidirty가
 hydrology
 hysteresis는
 hysteresis를
+has
+hot
 작업
 작동
 작은
@@ -824,6 +846,7 @@ lower
 이름
 이해할
 이해
+이상치
 필요함
 필요한
 필요
@@ -841,6 +864,8 @@ lower
 에서
 에도
 에너지
+에어로졸을
+에어로졸
 구동
 구해보자
 구조
@@ -848,6 +873,7 @@ lower
 구성되어
 구름
 구름이나
+구조적
 가능한
 가능하다면
 가열
@@ -867,6 +893,7 @@ lower
 사용할
 사용하여
 사이에
+사용해서
 기존
 기후에
 기후
@@ -995,6 +1022,7 @@ CLimatology
 Cycle
 Canopy
 Community
+CPD
 Output
 OD
 OLL
@@ -1047,6 +1075,9 @@ Ek
 ESM은
 ESM을
 ESM에서
+EA
+EAJ
+EAJ의
 Message
 Mean
 MJJ
@@ -1120,6 +1151,11 @@ improvements
 interact하고
 inversion
 interaction을
+intensity
+implication
+intensification에
+included
+interaction이
 지난
 지표
 지속
@@ -1227,6 +1263,7 @@ SOTA
 변경
 변화했을
 변수의
+변화하는
 날씨에
 날씨와
 날씨
@@ -1238,6 +1275,7 @@ SOTA
 미쳐
 메커니즘
 메커니즘은
+메라
 주요
 주의사항
 주어진
@@ -1315,6 +1353,7 @@ moisture
 model에
 many
 montane
+monsson
 서풍에
 서로
 각운동량
@@ -1327,6 +1366,8 @@ montane
 유발
 유도된
 유도
+유의미하게
+유사한
 Wave
 Wind
 WVV
@@ -1419,6 +1460,8 @@ Polcher
 Programme
 Panel
 Perspective
+Point
+Pacific
 질량
 재분배
 발생
@@ -1429,6 +1472,7 @@ Perspective
 발산을
 발전을
 감소
+감지
 중위도
 중요한
 중요성
@@ -1520,6 +1564,9 @@ way가
 water
 weak
 wet
+weakened
+what
+well
 높이
 높다
 활성화
@@ -1537,6 +1584,7 @@ wet
 통찰
 통합하여
 통합
+통계적
 제공
 제트기류
 제거
@@ -1583,6 +1631,7 @@ QTTTxxxDDDxxxTT
 QUU
 QI
 Question
+Questions
 Xpo
 Xk
 XXH
@@ -1629,6 +1678,7 @@ Jet
 Jan
 Joseph
 Jinho
+JRA에서도
 YY
 YlzK
 YRRR
@@ -1719,6 +1769,7 @@ early
 evaporation
 emissivity
 exacerbated
+el
 VAA
 VWWc
 VUU
@@ -1785,6 +1836,7 @@ Deep
 Dirmeyer
 D짜리라
 Diurnal
+Detection
 vm
 vLL
 vX
@@ -1816,6 +1868,7 @@ volcano
 value
 vapor가
 via
+variance의
 qbRRRrr
 qZ
 ql
@@ -1908,6 +1961,7 @@ NOAA에서
 산악학
 얘를
 추가했을까
+추세
 어떻게
 어떤
 어렵게
@@ -1947,6 +2001,7 @@ NOAA에서
 하루
 하는데
 것보다
+것인가
 앞으로
 있을까
 있다
@@ -1972,6 +2027,7 @@ NOAA에서
 자동
 자오면
 자주
+자동으로
 화려한
 수식
 수송을
@@ -1989,6 +2045,7 @@ NOAA에서
 없을
 없긴
 없음
+없다
 아니면
 아직
 아주
@@ -2017,6 +2074,8 @@ NOAA에서
 시간을
 시스템
 시스템의
+시계열
+시점을
 온도
 접힘
 접근
@@ -2036,11 +2095,13 @@ NOAA에서
 분포
 분열
 분류하는
+분산
 두께
 소멸
 소용돌이
 과정
 과학
+과정을
 안정성
 안개에
 권계면
@@ -2049,6 +2110,7 @@ NOAA에서
 고도에
 고산
 고점
+고려했는가
 준비해야
 내가
 직접
@@ -2081,11 +2143,15 @@ NOAA에서
 데이터
 데이터를
 데이터셋
+데이터에서
+데이터의
 크게
 복잡성과
 복잡하다
 식별이
 식생
+식별하는
+식별
 완전히
 걸로
 합쳐
@@ -2107,6 +2173,8 @@ NOAA에서
 나라가
 나타내는
 나중에
+나올
+나왔다
 운동량
 운동을
 플럭스의
@@ -2120,6 +2188,7 @@ NOAA에서
 동안의
 반경
 반영하려면
+반복했을
 매개변수
 매한가지
 밀도
@@ -2130,6 +2199,7 @@ NOAA에서
 약해지면
 스스로
 결론
+결과가
 줘서
 측정
 덩어리
@@ -2154,3 +2224,7 @@ NOAA에서
 표현하기
 찾을
 악화
+탐지
+세그먼테이션
+트렌드
+년에
