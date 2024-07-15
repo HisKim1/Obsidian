@@ -17,3 +17,9 @@ predictions = rollout.chunked_prediction(
     forcings=eval_forcings
 )
 ```
+
+#Question 
+```ad-question
+predictorFn은 뭔가. 
+-> 실행을 하는 protocol
+```

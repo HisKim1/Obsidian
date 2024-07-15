@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#Key  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
     {
       "query": "tag:#Question  ",
       "color": {
@@ -15,30 +22,44 @@
       }
     },
     {
+      "query": "tag:#WorkingOn  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
       "query": "path:GraphCast  ",
       "color": {
         "a": 1,
-        "rgb": 10071551
+        "rgb": 12763842
+      }
+    },
+    {
+      "query": "path:Obsidian",
+      "color": {
+        "a": 1,
+        "rgb": 1973790
       }
     },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 6073814
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 2.16288981288981,
+  "lineSizeMultiplier": 2.36663201663202,
   "collapse-forces": false,
-  "centerStrength": 0.221413721413721,
-  "repelStrength": 3.0977130977131,
-  "linkStrength": 0.0966735966735967,
-  "linkDistance": 30,
-  "scale": 0.7132754626224432,
-  "close": true
+  "centerStrength": 0.0675675675675676,
+  "repelStrength": 4.17879417879418,
+  "linkStrength": 1,
+  "linkDistance": 87,
+  "scale": 0.5087618855792613,
+  "close": false
 }

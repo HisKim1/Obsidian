@@ -137,10 +137,12 @@ An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not i
 ```
 
 **해결 방안**
-1. jax 버전 조절
+1. ~~jax 버전 조절
    [설치가능한 jax](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html)
    우리가 갖고 있는 cuda 11.6에 cudnn 8.9랑 딱 맞는 jax가 없긴 함
-   안 됨.
+   안 됨.~~
    
-1. cudnn 버전 조절
+2. ~~cudnn 버전 조절~~
+
+3. CUDA version 업그레이드 10일 오전 10시 예정
    #WorkingOn 

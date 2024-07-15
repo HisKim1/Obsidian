@@ -11,8 +11,13 @@
             "id": "d64741cc3796f984",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md"
+              }
             }
           }
         ]
@@ -146,8 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14a65964b8df11e0",
+  "active": "d64741cc3796f984",
   "lastOpenFiles": [
+    "Papers/templete/논문 정리.md",
+    "Papers/윤기's 2.md",
+    "Papers/윤기's 1.md",
+    "Papers/templete",
+    "Papers/Overview.md",
+    "Papers/Arctic_Oscillation_II.svg",
+    "Papers/Northern and Southern Annular Mode.md",
+    "Papers",
+    "GraphCast/templete/논문 정리.md",
+    "GraphCast/templete",
     "무제 폴더",
     "질문.md",
     "2024 International Symposium",
@@ -177,11 +196,6 @@
     "2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
     "2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
     "2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
-    "2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
-    "2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
-    "2024 UnionWorkshop/Session 4_기후변화와 지구 표면 및 생물권 상호작용.md",
-    "2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
-    "2024 UnionWorkshop/Session 1_수재해 & 강수 패턴 1.md",
     "2024 UnionWorkshop",
     "GraphCast/Coding",
     "GraphCast/무제 파일.canvas",

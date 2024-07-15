@@ -1,13 +1,16 @@
-#paper 
-
-[Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575)
-
-> GNN으로 기후 예측 가능하다고 처음 말한 페이퍼
-> - MPNN: Message-Passing Graph Neural Network
-> - Encoder
-> - Processor
-> - Decoder
-
+---
+full_name: Forecasting Global Weather with Graph Neural Networks
+site: https://arxiv.org/abs/2202.07575
+summary: GNN으로 기후 예측 가능하다고 처음 말한
+keyword:
+  - MPNN
+status:
+  - Done
+aliases: 
+tags:
+  - paper
+datetime: 2024-07-09T09:55:00
+---
 ## **Dataset**
 1) ERA5
 2) NOAA's GFS
@@ -68,8 +71,8 @@ $\Rightarrow$ $\not \exists$ overfitting
 3) ~10d 예측 위해 $2^\circ$ (4 step loss) $\Rightarrow 1^\circ$ (8 step loss) $\Rightarrow 1^\circ$ (12 step loss) 사용
 4) loss normalization 사용 $$x_{norm}= \frac{x-\bar{x}}{\sigma}$$
 ## **Conclusion** : 앞으로 뭘 해볼 수 있을까
-1) spatial resolution 향상 $\rightarrow$ [[GraphCast by Deepmind]]
-2) adaptive mesh refinement  $\rightarrow$ [[GraphCast by Deepmind]]
+1) spatial resolution 향상 $\rightarrow$ [[paper/GraphCast by Deepmind]]
+2) adaptive mesh refinement  $\rightarrow$ [[paper/GraphCast by Deepmind]]
 3) generate large ensembles  $\rightarrow$ 딥마인드가 한 거 같은데?
 4) data-driven data assimilation model $\rightarrow$ 가 뭘 말하는지 모르겟음
-5) end-to-end, data-driven forecast system $\rightarrow$ 22
+5) end-to-end, data-driven forecast system $\rightarrow$ 22p

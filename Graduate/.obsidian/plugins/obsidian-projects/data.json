@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": false
+        },
+        "title": {
+          "options": [],
+          "richText": false
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Papers/templete/논문 정리.md"
+      ],
+      "excludedNotes": [
+        "Papers/Overview.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Papers",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 164,
+                "hide": true
+              },
+              "title": {
+                "width": 225
+              },
+              "keyword": {
+                "width": 419
+              },
+              "site": {
+                "hide": true
+              },
+              "datetime": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "when published": {
+                "hide": true
+              },
+              "status": {
+                "width": 115
+              },
+              "summary": {
+                "width": 541
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "title",
+              "keyword",
+              "summary",
+              "where published"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"paper\"]"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "status",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "6a366eb6-b3f9-46eb-aca3-e342085e2332",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "keyword",
+              "summary"
+            ],
+            "groupByField": "path"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b81340d-d4e1-4038-bf48-936f9a1edabd",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "048f4d03-afe4-4eba-b239-5fb4f9b56ca8",
+      "name": "papers"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
