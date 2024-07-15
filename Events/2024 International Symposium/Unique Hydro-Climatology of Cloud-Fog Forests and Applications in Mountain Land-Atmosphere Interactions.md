@@ -16,3 +16,6 @@ session: session 2
 # Diurnal Cycle in Cloud-Fog Forests
 - [[diurnal hysteresis]] $\Rightarrow$ time lag  | phase difference
 
+# Conclusion
+- diurnal hysteresis는 montane regions에서 찾을 수 있다
+- 지금 diurnal hysteresis를 나타내는 지역은 나중에 exacerbated (악화) atmospheric dryness를 보일 가능성이 있다
