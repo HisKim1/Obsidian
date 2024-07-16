@@ -6,6 +6,9 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiBaggageClaim",
+      "LiAward",
       "LiGrip"
     ],
     "recentlyUsedIconsSize": 25,
@@ -28,5 +31,8 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "GraphCast": "LiGrip"
+  "GraphCast": "LiGrip",
+  "Graduate": "LiAward",
+  "Events": "LiBaggageClaim",
+  "Papers": "LiAlbum"
 }

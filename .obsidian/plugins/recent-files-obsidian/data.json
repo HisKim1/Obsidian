@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "CORDEX East Asia Activities in South Korea",
-      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
-    },
-    {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
+    },
+    {
+      "basename": "20240715_170609",
+      "path": "20240715_170609.jpg"
+    },
+    {
+      "basename": "CORDEX East Asia Activities in South Korea",
+      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
     },
     {
       "basename": "Development of Global Land Modeling Framework_Physics and Data",
@@ -195,10 +199,6 @@
     {
       "basename": "GPU Info",
       "path": "Coding/GPU Info.md"
-    },
-    {
-      "basename": "autoregressive.py",
-      "path": "Coding/autoregressive.py.md"
     }
   ],
   "omittedPaths": [
