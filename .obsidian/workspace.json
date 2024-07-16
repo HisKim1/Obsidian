@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "Events/2024 International Symposium/International Symposium.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "706fe6a2bb9e2fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2024 International Symposium/International Symposium.md",
+                "file": "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2024 International Symposium/International Symposium.md",
+                "file": "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2024 International Symposium/International Symposium.md"
+                "file": "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md"
               }
             }
           },
@@ -179,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d64741cc3796f984",
+  "active": "706fe6a2bb9e2fb9",
   "lastOpenFiles": [
-    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
     "Events/2024 International Symposium/International Symposium.md",
+    "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md",
+    "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md",
+    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
     "20240715_170609.jpg",
     "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
     "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
@@ -191,7 +208,6 @@
     "Events/2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
     "Events/2024 International Symposium/Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
     "Events/2024 International Symposium/diurnal hysteresis.md",
-    "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md",
     "Events/2024 International Symposium/ESMO (Earth System Modelling and Observations).md",
     "Events/2024 International Symposium/Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md",
     "Papers/templete/논문 정리.md",

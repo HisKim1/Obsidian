@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage",
+      "path": "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md"
+    },
+    {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
+    },
+    {
+      "basename": "Introduction of Global Energy and Water Exchanges (GEWEX)",
+      "path": "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md"
     },
     {
       "basename": "CORDEX East Asia Activities in South Korea",
@@ -39,10 +47,6 @@
     {
       "basename": "diurnal hysteresis",
       "path": "Events/2024 International Symposium/diurnal hysteresis.md"
-    },
-    {
-      "basename": "Introduction of Global Energy and Water Exchanges (GEWEX)",
-      "path": "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md"
     },
     {
       "basename": "ESMO (Earth System Modelling and Observations)",
@@ -195,10 +199,6 @@
     {
       "basename": "Code",
       "path": "Coding/Code.md"
-    },
-    {
-      "basename": "GPU Info",
-      "path": "Coding/GPU Info.md"
     }
   ],
   "omittedPaths": [
