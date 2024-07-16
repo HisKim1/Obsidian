@@ -11,12 +11,9 @@
             "id": "9fc0601e006cb1b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Events/2024 International Symposium/20240715_170609.jpg"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Events/2024 International Symposium/20240715_170609.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Events/2024 International Symposium/20240715_170609.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Events/2024 International Symposium/20240715_170609.jpg"
               }
             }
           },
@@ -180,10 +177,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fc0601e006cb1b2",
+  "active": "14a65964b8df11e0",
   "lastOpenFiles": [
-    "20240715_170609.jpg",
+    "README.md",
     "Correlation_matrix_heatmap.png",
+    "Events/2024 International Symposium/20240715_170609.jpg",
     "Books/담론, 신영복의 마지막 강의.md",
     "GraphCast/structure/Processor.md",
     "Events/2024 UnionWorkshop/합동 세미나.md",
@@ -208,7 +206,6 @@
     "Events/2024 UnionWorkshop/Long-term variability of the warm Arctic cold Eurasia pattern inferred from tree-ring records and large ensemble model simulations.md",
     "Events/2024 UnionWorkshop/Long-Term Change of Interannual Variation in East Asian Summer Precipitation Since 1999.md",
     "Events/2024 UnionWorkshop/Improvement of Seasonal Soil Moisture Forecasts Using the APCC Multi-Model Ensemble Forecast Products.md",
-    "Events/2024 UnionWorkshop/How do cloud ice changes in WDM6 affect the radiative effect in the Arctic region.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
