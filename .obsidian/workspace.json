@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "621c0bbf10588b44",
+        "id": "3b8307609ecf2555",
         "type": "tabs",
         "children": [
           {
-            "id": "d64741cc3796f984",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "59cc50e25a766677",
+            "id": "9fc0601e006cb1b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
-                "mode": "source",
+                "file": "GraphCast/structure/Processor.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "GraphCast/structure/Processor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "GraphCast/structure/Processor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,20 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md"
+                "file": "GraphCast/structure/Processor.md"
               }
             }
           },
           {
-            "id": "f7c45dd3972eba45",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ce3c28ee27e0977",
+            "id": "6e23a91487778124",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,8 +149,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "6f9163b10e327518",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,64 +168,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "59cc50e25a766677",
+  "active": "9fc0601e006cb1b2",
   "lastOpenFiles": [
-    "Books/담론, 신영복의 마지막 강의.md",
-    "Books",
-    "Books.md",
-    "Events/2024 International Symposium/International Symposium.md",
-    "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md",
-    "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
-    "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
-    "Events/2024 International Symposium/Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md",
-    "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md",
-    "Events/2024 International Symposium/Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md",
-    "Events/2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md",
-    "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md",
-    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
-    "20240715_170609.jpg",
-    "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
-    "Events/2024 International Symposium/diurnal hysteresis.md",
-    "Events/2024 International Symposium/ESMO (Earth System Modelling and Observations).md",
-    "Papers/templete/논문 정리.md",
-    "Papers/윤기's 2.md",
-    "Papers/윤기's 1.md",
-    "Papers/templete",
-    "Papers/Overview.md",
-    "Papers/Arctic_Oscillation_II.svg",
-    "Papers/Northern and Southern Annular Mode.md",
-    "Papers",
-    "GraphCast/templete/논문 정리.md",
-    "GraphCast/templete",
-    "무제 폴더",
-    "질문.md",
-    "2024 International Symposium",
-    "README.md",
-    "학기말 설문조사 결과.md",
-    "wordcloud_창의적 글쓰기 수업 중 생성형 AI를 사용하면서 발생한 윤리적 문제나 우려 사항이 있었습니까 있었다면 구체적으로 설명해 주세요.png",
-    "wordcloud_위의 질문에서 권장 혹은 권장하지 않는 이유를 적어주세요.png",
-    "wordcloud_생성형 AI 사용과 관련하여 수업에서 추가로 제공되었으면 하는 지원이나 자료가 있습니까  예 사용 가이드 데모 등.png",
-    "wordcloud_생성형 AI 사용과 관련하여 수강생들과 공유하고 싶은 팁이나 조언이 있습니까 예 프롬포트 질문 방식 모델 커스터마이징 세부 기능 등.png",
-    "wordcloud_글을 쓰는 데에 필요한 능력 중 본인에게 가장 어려운 부분은 무엇입니까.png",
+    "Events/2024 UnionWorkshop/합동 세미나.md",
+    "Events/2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
+    "Events/2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
+    "Events/2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
+    "Events/2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
+    "Events/2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
+    "Events/2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
+    "Events/2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
+    "Events/2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
+    "Events/2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
+    "Events/2024 UnionWorkshop/Session 4_기후변화와 지구 표면 및 생물권 상호작용.md",
+    "Events/2024 UnionWorkshop/Session 1_수재해 & 강수 패턴 1.md",
+    "Events/2024 UnionWorkshop/self-Organizing Map, SOM.md",
+    "Events/2024 UnionWorkshop/Sea-Spray.md",
+    "Events/2024 UnionWorkshop/Regime Shift in the East Asian Summer Monsoon during the Early 2000s_The Role of Land-Atmosphere Interactions.md",
+    "Events/2024 UnionWorkshop/Polynya.md",
+    "Events/2024 UnionWorkshop/Polynaya.md",
+    "Events/2024 UnionWorkshop/Photosynthetic Response and Resilience in Pan-tropical Terrestrial Ecosystems_ Insights from the Coupled Carbon-water-energy Cycle.md",
+    "Events/2024 UnionWorkshop/Improving seasonal forecasts for boreal winter using multiple approaches.md",
+    "Events/2024 UnionWorkshop/Long-term variability of the warm Arctic cold Eurasia pattern inferred from tree-ring records and large ensemble model simulations.md",
+    "Events/2024 UnionWorkshop/Long-Term Change of Interannual Variation in East Asian Summer Precipitation Since 1999.md",
+    "Events/2024 UnionWorkshop/Improvement of Seasonal Soil Moisture Forecasts Using the APCC Multi-Model Ensemble Forecast Products.md",
+    "Events/2024 UnionWorkshop/How do cloud ice changes in WDM6 affect the radiative effect in the Arctic region.md",
+    "Events/2024 UnionWorkshop/hindcast.md",
+    "Events/2024 UnionWorkshop/East Asian Jet, EAJ.md",
+    "Events/2024 UnionWorkshop/Decades of change_Satellite evidence of increasing floods in Africa over 40 years.md",
+    "Events/2024 International Symposium/20240715_143252.jpg",
+    "Events/2024 UnionWorkshop",
+    "Events/2024 International Symposium",
+    "Events",
     "Correlation_matrix_heatmap.png",
-    "GraphCast/General Forecasting Problem Statement.md",
-    "GraphCast/Coding/Property/radius_query_fraction_edge_length.md",
+    "Books",
+    "20240715_170609.jpg",
+    "File",
+    "Projects - Demo Project",
+    "GraphCast/Task/Pasted image 20240708164348.png",
+    "Task/Pasted image 20240708164348.png",
+    "templete",
+    "요청 사항.pdf",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "Task",
     "Graduate",
-    "2024 UnionWorkshop",
-    "GraphCast/Coding",
-    "GraphCast/무제 파일.canvas",
-    "Coding"
+    "GraphCast/무제 파일.canvas"
   ]
 }
