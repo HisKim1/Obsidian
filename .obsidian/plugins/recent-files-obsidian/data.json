@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Development of Global Land Modeling Framework_Physics and Data",
+      "path": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md"
+    },
+    {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "rollout.py",
       "path": "Coding/rollout.py.md"
-    },
-    {
-      "basename": "GraphCast Model",
-      "path": "structure/GraphCast Model.md"
     }
   ],
   "omittedPaths": [
