@@ -124,6 +124,41 @@
       ],
       "id": "048f4d03-afe4-4eba-b239-5fb4f9b56ca8",
       "name": "papers"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Books",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0a3e150e-5afc-47a0-84c2-2747ba62595f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "43e50515-6298-46c8-b93e-4a3ccdd9428e",
+      "name": "Books"
     }
   ],
   "archives": [],

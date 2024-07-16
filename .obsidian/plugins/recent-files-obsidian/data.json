@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
+    },
+    {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sudden Stratospheric Warming",
       "path": "Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Coding/Code.md"
     }
   ],
   "omittedPaths": [

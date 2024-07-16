@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "59cc50e25a766677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/담론, 신영복의 마지막 강의.md"
+              }
             }
           },
           {
@@ -171,8 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d64741cc3796f984",
+  "active": "59cc50e25a766677",
   "lastOpenFiles": [
+    "Books/담론, 신영복의 마지막 강의.md",
+    "Books",
+    "Books.md",
     "Events/2024 International Symposium/International Symposium.md",
     "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md",
     "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
@@ -210,8 +230,6 @@
     "Correlation_matrix_heatmap.png",
     "GraphCast/General Forecasting Problem Statement.md",
     "GraphCast/Coding/Property/radius_query_fraction_edge_length.md",
-    "GraphCast/Coding/Property/General Forecasting Problem Statement.md",
-    "GraphCast/Coding/Property/resolution.md",
     "Graduate",
     "2024 UnionWorkshop",
     "GraphCast/Coding",

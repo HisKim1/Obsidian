@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
       "LiAlbum",
       "LiBaggageClaim",
       "LiAward",
@@ -34,5 +35,6 @@
   "GraphCast": "LiGrip",
   "Graduate": "LiAward",
   "Events": "LiBaggageClaim",
-  "Papers": "LiAlbum"
+  "Papers": "LiAlbum",
+  "Books": "LiBookOpen"
 }
