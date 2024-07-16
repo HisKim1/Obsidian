@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/structure/Processor.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/structure/Processor.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/structure/Processor.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/structure/Processor.md"
+                "file": "README.md"
               }
             }
           },
@@ -182,6 +182,10 @@
   },
   "active": "9fc0601e006cb1b2",
   "lastOpenFiles": [
+    "20240715_170609.jpg",
+    "Correlation_matrix_heatmap.png",
+    "Books/담론, 신영복의 마지막 강의.md",
+    "GraphCast/structure/Processor.md",
     "Events/2024 UnionWorkshop/합동 세미나.md",
     "Events/2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
     "Events/2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
@@ -205,16 +209,11 @@
     "Events/2024 UnionWorkshop/Long-Term Change of Interannual Variation in East Asian Summer Precipitation Since 1999.md",
     "Events/2024 UnionWorkshop/Improvement of Seasonal Soil Moisture Forecasts Using the APCC Multi-Model Ensemble Forecast Products.md",
     "Events/2024 UnionWorkshop/How do cloud ice changes in WDM6 affect the radiative effect in the Arctic region.md",
-    "Events/2024 UnionWorkshop/hindcast.md",
-    "Events/2024 UnionWorkshop/East Asian Jet, EAJ.md",
-    "Events/2024 UnionWorkshop/Decades of change_Satellite evidence of increasing floods in Africa over 40 years.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
     "Events",
-    "Correlation_matrix_heatmap.png",
     "Books",
-    "20240715_170609.jpg",
     "File",
     "Projects - Demo Project",
     "GraphCast/Task/Pasted image 20240708164348.png",

@@ -1,64 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
-    },
-    {
-      "basename": "International Symposium",
-      "path": "Events/2024 International Symposium/International Symposium.md"
-    },
-    {
-      "basename": "AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage",
-      "path": "Events/2024 International Symposium/AI-Enhanced Dynamic Global Vegetation Modeling_A hybrid approach for Predicting Fire Damage.md"
-    },
-    {
-      "basename": "The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate",
-      "path": "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md"
-    },
-    {
-      "basename": "Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions",
-      "path": "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md"
-    },
-    {
-      "basename": "Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions",
-      "path": "Events/2024 International Symposium/Unveiling the diurnal cycle of water and energy budget in land-atmosphere interactions.md"
-    },
-    {
-      "basename": "Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions",
-      "path": "Events/2024 International Symposium/Unique Hydro-Climatology of Cloud-Fog Forests and Applications in Mountain Land-Atmosphere Interactions.md"
-    },
-    {
-      "basename": "Determining day-to-day sensitivity of convective cloud formation to land surface fluxes",
-      "path": "Events/2024 International Symposium/Determining day-to-day sensitivity of convective cloud formation to land surface fluxes.md"
-    },
-    {
-      "basename": "Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach",
-      "path": "Events/2024 International Symposium/Improving the Land Component in Earth System Models via a Hierarchical System Development (HSD) Approach.md"
-    },
-    {
-      "basename": "Introduction of Global Energy and Water Exchanges (GEWEX)",
-      "path": "Events/2024 International Symposium/Introduction of Global Energy and Water Exchanges (GEWEX).md"
-    },
-    {
-      "basename": "CORDEX East Asia Activities in South Korea",
-      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "20240715_170609",
       "path": "20240715_170609.jpg"
     },
     {
-      "basename": "Development of Global Land Modeling Framework_Physics and Data",
-      "path": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md"
+      "basename": "Correlation_matrix_heatmap",
+      "path": "Correlation_matrix_heatmap.png"
     },
     {
-      "basename": "diurnal hysteresis",
-      "path": "Events/2024 International Symposium/diurnal hysteresis.md"
-    },
-    {
-      "basename": "ESMO (Earth System Modelling and Observations)",
-      "path": "Events/2024 International Symposium/ESMO (Earth System Modelling and Observations).md"
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
     },
     {
       "basename": "Processor",
@@ -199,6 +155,50 @@
     {
       "basename": "Sudden Stratospheric Warming",
       "path": "Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Coding/Code.md"
+    },
+    {
+      "basename": "GPU Info",
+      "path": "Coding/GPU Info.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "rollout.py",
+      "path": "Coding/rollout.py.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Message-passing GNN",
+      "path": "structure/Message-passing GNN.md"
+    },
+    {
+      "basename": "latent_size",
+      "path": "Coding/Property/latent_size.md"
+    },
+    {
+      "basename": "resolution",
+      "path": "Coding/Property/resolution.md"
+    },
+    {
+      "basename": "mesh2grid_dege_normalization_factor",
+      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "Coding/graphcast.py.md"
+    },
+    {
+      "basename": "Server Info",
+      "path": "Coding/Server Info.md"
     }
   ],
   "omittedPaths": [
