@@ -121,6 +121,8 @@ fX
 flk
 fbX
 fVpO
+fuel
+flooding
 name
 nYYYFF
 nOq
@@ -211,6 +213,7 @@ nx
 nNpy
 nUM
 nS
+new
 site
 status
 stratosphere에서
@@ -354,6 +357,16 @@ swP
 srH
 sES
 sT
+subgrid
+sources
+sub
+surrgogate
+stand
+struc
+specturm
+same
+semi
+simulations
 topic
 tags
 templete
@@ -465,6 +478,8 @@ tyw
 tF
 tUM
 tc
+trends
+tied
 aliases
 against
 and
@@ -592,6 +607,9 @@ aip
 aHJC
 aJX
 aE
+adapt
+anthropogenic
+amt
 cssclasses
 considered
 cell
@@ -722,6 +740,8 @@ cqv
 cN
 cxh
 ck
+computationally
+constrain
 Tool
 Troposphere에서
 Thermal
@@ -1039,6 +1059,10 @@ dc
 dIr
 dv
 downscaling을
+danger
+diff
+drier
+droughts
 of
 ojjjii
 oJg
@@ -1131,6 +1155,7 @@ oz
 oymL
 opTIJ
 oky
+observation
 Reasoning
 Resources
 Residual
@@ -1250,6 +1275,7 @@ RjS
 Rsy
 RTB
 Rmn
+Rackhun
 Alternatives
 Anomalous
 AAA
@@ -1455,6 +1481,7 @@ Ld
 Lk
 LCf
 Lgc
+LSTM
 relevant
 residual
 rK
@@ -1579,6 +1606,15 @@ rlY
 rpG
 regional
 region이
+replacing
+regions을
+replace
+richer
+regions
+regimes
+rain
+responses
+runoff
 blog
 break
 breaking에
@@ -1849,6 +1885,12 @@ pfx
 p홃
 pz
 p훗
+parameterization
+parameterizations
+phycial
+property
+piControl
+per
 here
 host
 haa
@@ -1950,6 +1992,7 @@ hPp
 hS
 hzjZ
 hn
+hyp
 작업
 작동
 작은
@@ -2094,6 +2137,9 @@ lED
 lh
 lRa
 lIK
+lack
+leads
+location
 버전
 버전으로
 이상이
@@ -2391,6 +2437,7 @@ gpp
 gpv
 gihs
 giy
+gets
 GraphCast
 GPU
 Geostrophic
@@ -2851,6 +2898,7 @@ MAiIt
 MUx
 MZq
 MPI
+ML으로
 in
 iii
 iYp
@@ -2959,6 +3007,10 @@ im
 iyn
 iRA
 iuM
+intensive
+insights
+inform
+increasing
 지난
 지표
 지속
@@ -3134,6 +3186,8 @@ SYf
 Sc
 Scan
 SEFT
+Son
+Soil
 순환
 순환을
 순환의
@@ -3363,9 +3417,15 @@ mp
 mbNw
 mnv
 main
+modle
+mismatch
+modelling
+modeling
+moist
 서풍에
 서로
 각운동량
+각각
 전달로
 전파
 전역
@@ -3584,6 +3644,9 @@ HCfL
 HnnH
 Hyun
 HadGEM
+Hsin
+Hsu
+How
 즉시
 Pressure
 PNG
@@ -3698,6 +3761,11 @@ PBQS
 Pws
 Ph
 PO
+PKNU
+Physics
+Phy
+PFT
+Princeton
 질량
 재분배
 발생
@@ -3796,6 +3864,7 @@ FP
 FhA
 FQ
 FoY
+Fire
 초기
 초점을
 위치
@@ -3931,6 +4000,7 @@ wZ
 wN
 wif
 wch
+ways
 높이
 높다
 활성화
@@ -4098,6 +4168,10 @@ Iuu
 IKp
 InfoDocument
 InfoSEFHk
+Identify
+Integrating
+Improving
+Impact
 yb
 yyyvvv
 yzz
@@ -5013,6 +5087,9 @@ evC
 eJQ
 e봚
 em
+emulation
+effect를
+events
 VAA
 VWWc
 VUU
@@ -5160,6 +5237,8 @@ uB
 ulv
 uW
 uo
+uncertainties
+unevenness
 DEEE
 DPP
 Dt
@@ -5432,6 +5511,8 @@ qe
 qG
 qs
 qdCu
+quickly
+quality
 ZZ
 Zi
 ZQQ
@@ -5625,6 +5706,7 @@ NtJ
 Nr
 Nw
 NL
+NN으로
 쉄f
 믿vuum
 쳧O
@@ -5649,6 +5731,7 @@ NL
 불가능
 불완전함
 처음
+처리
 말한
 말하는지
 페이퍼
@@ -5708,6 +5791,7 @@ NL
 있는가
 있으며
 있습니다
+있는지
 향상
 향상시키는
 딥마인드가
@@ -5716,6 +5800,7 @@ NL
 같은건가
 여기에
 여러
+여기서
 자세한
 자연스럽게
 자동
@@ -5831,6 +5916,7 @@ NL
 업그레이드
 확인
 확인해서
+확인해볼
 새로운
 새로
 데이터만
@@ -5951,3 +6037,4 @@ NL
 퉅lX
 펌H
 뢿s
+챙길

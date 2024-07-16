@@ -17,7 +17,7 @@ unsaturated 공기가 상승하여 포화에 도달하는 고도
 -> water vapor가 condensed되는
 
 # HCF (Hydrometeor Classification Function)
-기상 레이더 데이터를 사용하여 대기 중의 다양한 수문기상입자(hydrometeors)를 분류하는 알고리즘 또는 함수
+unlike parcel theory, 기상 레이더 데이터를 사용하여 대기 중의 다양한 수문기상입자(hydrometeors)를 분류하는 알고리즘 또는 함수
 -> HCF가 Land-atm sensitivity 진단 가능성을 보여준다 
 
 # Conclusion
