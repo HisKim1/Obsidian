@@ -631,7 +631,6 @@ come
 conda
 cuda
 cudnn
-corresponding
 complexity
 coupled
 challenging
@@ -1039,6 +1038,7 @@ drhw
 dc
 dIr
 dv
+downscaling을
 of
 ojjjii
 oJg
@@ -1577,6 +1577,8 @@ rvb
 rD
 rlY
 rpG
+regional
+region이
 blog
 break
 breaking에
@@ -2152,6 +2154,7 @@ lIK
 가능성을
 가뭄
 가능성이
+가장
 요청
 요소
 사항
@@ -2273,6 +2276,7 @@ jPT
 설명
 설명하며
 설명합니다
+설립
 graphcast
 gf
 ggg
@@ -2478,6 +2482,7 @@ GW
 Grvr
 Gn
 GM
+GFDL
 Cast
 Circulation
 Changes
@@ -2490,7 +2495,6 @@ CD
 Cx
 Cp
 Conclusion
-Coriolis
 Characteristics
 Conservation
 Climate
@@ -2558,6 +2562,9 @@ CEaY
 Cjv
 CZ
 Ce
+Cha
+CORDEX
+CMIP
 Output
 OD
 OLL
@@ -2743,6 +2750,7 @@ Eeaj
 ExO
 Ea
 Ey
+EA가
 Message
 Mean
 MJJ
@@ -2842,6 +2850,7 @@ Mjjx
 MAiIt
 MUx
 MZq
+MPI
 in
 iii
 iYp
@@ -3004,6 +3013,7 @@ iuM
 개념
 개발
 개선
+개의
 Stratospheric
 Surface
 SU
@@ -3352,6 +3362,7 @@ mBs
 mp
 mbNw
 mnv
+main
 서풍에
 서로
 각운동량
@@ -3571,6 +3582,8 @@ HIb
 HIR
 HCfL
 HnnH
+Hyun
+HadGEM
 즉시
 Pressure
 PNG
@@ -4879,6 +4892,7 @@ Ui
 UM
 UtSK
 Uk
+UNIST
 eG
 ell
 edd
@@ -5234,6 +5248,7 @@ DTPA
 DC
 DRG
 Document
+Dong
 vm
 vLL
 vX
@@ -5825,6 +5840,7 @@ NL
 데이터에서
 데이터의
 크게
+크다
 복잡성과
 복잡하다
 식별이

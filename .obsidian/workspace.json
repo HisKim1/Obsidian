@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -182,9 +181,9 @@
   },
   "active": "d64741cc3796f984",
   "lastOpenFiles": [
-    "20240715_170609.jpg",
-    "Events/2024 International Symposium/International Symposium.md",
     "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
+    "Events/2024 International Symposium/International Symposium.md",
+    "20240715_170609.jpg",
     "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
     "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
     "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
