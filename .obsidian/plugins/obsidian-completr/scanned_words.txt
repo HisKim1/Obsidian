@@ -648,7 +648,6 @@ come
 conda
 cuda
 cudnn
-corresponding
 complexity
 coupled
 challenging
@@ -2524,7 +2523,6 @@ CD
 Cx
 Cp
 Conclusion
-Coriolis
 Characteristics
 Conservation
 Climate

@@ -11,9 +11,12 @@
             "id": "9fc0601e006cb1b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Events/2024 International Symposium/20240715_170609.jpg"
+                "file": "GraphCast/ERA5.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2024 International Symposium/20240715_170609.jpg",
+                "file": "GraphCast/ERA5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2024 International Symposium/20240715_170609.jpg",
+                "file": "GraphCast/ERA5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2024 International Symposium/20240715_170609.jpg"
+                "file": "GraphCast/ERA5.md"
               }
             }
           },
@@ -177,11 +180,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "14a65964b8df11e0",
+  "active": "9fc0601e006cb1b2",
   "lastOpenFiles": [
+    "GraphCast/Dataset.md",
+    "Events/2024 International Symposium/20240715_170609.jpg",
     "README.md",
     "Correlation_matrix_heatmap.png",
-    "Events/2024 International Symposium/20240715_170609.jpg",
     "Books/담론, 신영복의 마지막 강의.md",
     "GraphCast/structure/Processor.md",
     "Events/2024 UnionWorkshop/합동 세미나.md",
