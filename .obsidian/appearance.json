@@ -2,7 +2,7 @@
   "accentColor": "#5cf2f5",
   "textFontFamily": "Pretendard",
   "interfaceFontFamily": "Pretendard",
-  "monospaceFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 15,
   "baseFontSizeAction": true,
   "cssTheme": "GitHub Theme"

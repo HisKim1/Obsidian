@@ -13,5 +13,5 @@ Energy and Water Excahnges in Land-Atmosphere Interactions
 ---
 # Session 3: Land/hydrological Model
 - [[Development of Global Land Modeling Framework_Physics and Data]]
-- [[CORDEX EAST ASIA Activities in South Korea]]
+- [[CORDEX East Asia Activities in South Korea]]
 - [[AI-Enhanced Dynamic Global Vegetation Modeling: A hybrid approach for Predicting Fire Damage]]

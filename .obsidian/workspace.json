@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "23eb26f5c12e45ed",
+            "id": "160916405c75ec19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
+                "file": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
+                "file": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
+                "file": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md"
+                "file": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
               }
             }
           },
@@ -194,9 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23eb26f5c12e45ed",
+  "active": "160916405c75ec19",
   "lastOpenFiles": [
     "Events/2024 International Symposium/International Symposium.md",
+    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
     "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md",
     "Events/2024 International Symposium/The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate.md",
     "Events/2024 International Symposium/Regime shift in the East Asian Summer Monsoon during the early 2000s_the role of land-atmosphere interactions.md",
@@ -234,7 +235,6 @@
     "GraphCast/Coding/Property/General Forecasting Problem Statement.md",
     "GraphCast/Coding/Property/resolution.md",
     "GraphCast/structure/Encoder.md",
-    "GraphCast/무제 파일.md",
     "Graduate",
     "2024 UnionWorkshop",
     "GraphCast/Coding",

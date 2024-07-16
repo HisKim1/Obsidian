@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Development of Global Land Modeling Framework_Physics and Data",
-      "path": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md"
+      "basename": "CORDEX East Asia Activities in South Korea",
+      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
     },
     {
       "basename": "International Symposium",
       "path": "Events/2024 International Symposium/International Symposium.md"
+    },
+    {
+      "basename": "Development of Global Land Modeling Framework_Physics and Data",
+      "path": "Events/2024 International Symposium/Development of Global Land Modeling Framework_Physics and Data.md"
     },
     {
       "basename": "The Impact of Increased Uneven Rainfall on Terrestrial Hydrology in a Warming Climate",
@@ -195,10 +199,6 @@
     {
       "basename": "autoregressive.py",
       "path": "Coding/autoregressive.py.md"
-    },
-    {
-      "basename": "rollout.py",
-      "path": "Coding/rollout.py.md"
     }
   ],
   "omittedPaths": [
