@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Task.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GraphCast/Task/Input Data 다운.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,9 +190,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "68299bf5ddfa3119",
+  "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "GraphCast/structure/GraphCast Model.md",
     "GraphCast/Task/Task.md",
+    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
     "GraphCast/Coding/Property/latent_size.md",
     "GraphCast/Coding/Property/resolution.md",
@@ -206,7 +203,6 @@
     "GraphCast/Coding/GPU Info.md",
     "GraphCast/Task/eval_forcing 만들기.md",
     "GraphCast/Task/eval_target 만들기.md",
-    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/structure/Encoder.md",
     "GraphCast/Dataset.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
@@ -224,7 +220,6 @@
     "Events/2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
     "Events/2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
     "Events/2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
-    "Events/2024 UnionWorkshop/Session 4_기후변화와 지구 표면 및 생물권 상호작용.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",

@@ -369,6 +369,7 @@ sized
 space로
 step행ge
 structure가
+state로
 topic
 tags
 templete
@@ -2148,6 +2149,7 @@ lRR
 이라고
 이해해야
 이어붙여서
+이전
 필요함
 필요한
 필요
@@ -6048,6 +6050,7 @@ NXD
 다른사람에게
 다양한
 다시
+다음
 정확도
 시기
 시간

@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Task",
+      "path": "Task/Task.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "Task/Rossby Waves.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "reflection of planetary wave",
+      "path": "Task/reflection of planetary wave.md"
+    },
+    {
+      "basename": "Mesh Node",
+      "path": "GC graph/Mesh Node.md"
+    },
+    {
+      "basename": "Mesh Edge",
+      "path": "GC graph/Mesh Edge.md"
+    },
+    {
+      "basename": "Grid2Mesh Edge",
+      "path": "GC graph/Grid2Mesh Edge.md"
+    },
+    {
+      "basename": "Grid Node",
+      "path": "GC graph/Grid Node.md"
+    },
+    {
+      "basename": "solar_radiation.py",
+      "path": "Coding/solar_radiation.py.md"
+    },
+    {
+      "basename": "rollout.py",
+      "path": "Coding/rollout.py.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "Coding/graphcast.py.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Coding/Code.md"
+    },
+    {
+      "basename": "latent_size",
+      "path": "Coding/Property/latent_size.md"
+    },
+    {
+      "basename": "mesh_size",
+      "path": "Coding/Property/mesh_size.md"
+    },
+    {
+      "basename": "mesh2grid_dege_normalization_factor",
+      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
+    },
+    {
+      "basename": "Properties",
+      "path": "Coding/Property/Properties.md"
+    },
+    {
+      "basename": "eval_forcing 만들기",
+      "path": "Task/eval_forcing 만들기.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
+      "basename": "Transformed Eulerian Mean (TEM) Momentum Equation",
+      "path": "Task/Transformed Eulerian Mean (TEM) Momentum Equation.md"
+    },
+    {
       "basename": "Processor",
       "path": "GraphCast/structure/Processor.md"
     },
@@ -85,14 +169,6 @@
       "path": "Graduate/O.md"
     },
     {
-      "basename": "Task",
-      "path": "Task/Task.md"
-    },
-    {
-      "basename": "Rossby Waves",
-      "path": "Task/Rossby Waves.md"
-    },
-    {
       "basename": "요청 사항",
       "path": "Task/요청 사항.md"
     },
@@ -103,10 +179,6 @@
     {
       "basename": "GNN으로 기상 예측 가능",
       "path": "paper/GNN으로 기상 예측 가능.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Overview.md"
     },
     {
       "basename": "GraphCast by Deepmind",
@@ -125,80 +197,8 @@
       "path": "Task/Pasted image 20240708164348.png"
     },
     {
-      "basename": "reflection of planetary wave",
-      "path": "Task/reflection of planetary wave.md"
-    },
-    {
       "basename": "Prediction Challenge",
       "path": "Task/Prediction Challenge.md"
-    },
-    {
-      "basename": "solar_radiation.py",
-      "path": "Coding/solar_radiation.py.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Coding/Code.md"
-    },
-    {
-      "basename": "GPU Info",
-      "path": "Coding/GPU Info.md"
-    },
-    {
-      "basename": "autoregressive.py",
-      "path": "Coding/autoregressive.py.md"
-    },
-    {
-      "basename": "rollout.py",
-      "path": "Coding/rollout.py.md"
-    },
-    {
-      "basename": "GraphCast Model",
-      "path": "structure/GraphCast Model.md"
-    },
-    {
-      "basename": "Message-passing GNN",
-      "path": "structure/Message-passing GNN.md"
-    },
-    {
-      "basename": "latent_size",
-      "path": "Coding/Property/latent_size.md"
-    },
-    {
-      "basename": "resolution",
-      "path": "Coding/Property/resolution.md"
-    },
-    {
-      "basename": "mesh2grid_dege_normalization_factor",
-      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "Coding/graphcast.py.md"
-    },
-    {
-      "basename": "Server Info",
-      "path": "Coding/Server Info.md"
-    },
-    {
-      "basename": "Properties",
-      "path": "Coding/Property/Properties.md"
-    },
-    {
-      "basename": "Conda Env",
-      "path": "Coding/Conda Env.md"
-    },
-    {
-      "basename": "hidden_layers",
-      "path": "Coding/Property/hidden_layers.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "structure/Encoder.md"
     }
   ],
   "omittedPaths": [
