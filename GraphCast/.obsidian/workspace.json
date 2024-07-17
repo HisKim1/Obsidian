@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task/Task.md",
-                "mode": "preview",
+                "file": "Task/eval_target 만들기.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task/Task.md",
+                "file": "Task/eval_target 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task/Task.md",
+                "file": "Task/eval_target 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task/Task.md"
+                "file": "Task/eval_target 만들기.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "9fc0601e006cb1b2",
   "lastOpenFiles": [
-    "Task/Input Data 다운.md",
     "Task/Task.md",
+    "Task/eval_target 만들기.md",
+    "Task/Input Data 다운.md",
     "Task/Rossby Waves.md",
     "Task/Residual Mean Circulation.md",
     "Task/reflection of planetary wave.md",
@@ -208,7 +209,6 @@
     "Papers/Northern and Southern Annular Mode.md",
     "Papers/Untitled.md",
     "Papers/윤기's 1.md",
-    "Papers/templete/논문 정리.md",
     "Projects - Demo Project",
     "GraphCast/Task/Pasted image 20240708164348.png",
     "Task/Pasted image 20240708164348.png",

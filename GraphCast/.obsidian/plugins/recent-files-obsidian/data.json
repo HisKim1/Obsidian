@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "eval_target 만들기",
+      "path": "Task/eval_target 만들기.md"
+    },
+    {
       "basename": "Task",
       "path": "Task/Task.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240708164348",
       "path": "Task/Pasted image 20240708164348.png"
-    },
-    {
-      "basename": "Prediction Challenge",
-      "path": "Task/Prediction Challenge.md"
     }
   ],
   "omittedPaths": [

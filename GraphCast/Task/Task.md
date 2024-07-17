@@ -75,5 +75,5 @@ e.g. [[Rossby Waves]]를 잡을 수 있을까?
  ### Input Data 제작기
  
 - [x] [[Input Data 다운]]
-- [x] [[eval_target 만들기]]
+- [ ] [[eval_target 만들기]]
 - [ ] [[eval_forcing 만들기]]
