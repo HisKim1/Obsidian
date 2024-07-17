@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3b8307609ecf2555",
+        "id": "d2366929c2340619",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc0601e006cb1b2",
+            "id": "a7ad563c4f159e83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab574a26b6e01ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68299bf5ddfa3119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/ERA5.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Question",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/ERA5.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/ERA5.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/ERA5.md"
+                "file": "GraphCast/Task/Input Data 다운.md"
               }
             }
           },
@@ -180,8 +195,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fc0601e006cb1b2",
+  "active": "68299bf5ddfa3119",
   "lastOpenFiles": [
+    "GraphCast/Task/Task.md",
+    "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
+    "GraphCast/Coding/Property/latent_size.md",
+    "GraphCast/Coding/Property/resolution.md",
+    "GraphCast/ERA5.md",
+    "GraphCast/Coding/rollout.py.md",
+    "GraphCast/Coding/GPU Info.md",
+    "GraphCast/Task/eval_forcing 만들기.md",
+    "GraphCast/Task/eval_target 만들기.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/structure/Encoder.md",
     "GraphCast/Dataset.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "README.md",
@@ -199,17 +225,6 @@
     "Events/2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
     "Events/2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
     "Events/2024 UnionWorkshop/Session 4_기후변화와 지구 표면 및 생물권 상호작용.md",
-    "Events/2024 UnionWorkshop/Session 1_수재해 & 강수 패턴 1.md",
-    "Events/2024 UnionWorkshop/self-Organizing Map, SOM.md",
-    "Events/2024 UnionWorkshop/Sea-Spray.md",
-    "Events/2024 UnionWorkshop/Regime Shift in the East Asian Summer Monsoon during the Early 2000s_The Role of Land-Atmosphere Interactions.md",
-    "Events/2024 UnionWorkshop/Polynya.md",
-    "Events/2024 UnionWorkshop/Polynaya.md",
-    "Events/2024 UnionWorkshop/Photosynthetic Response and Resilience in Pan-tropical Terrestrial Ecosystems_ Insights from the Coupled Carbon-water-energy Cycle.md",
-    "Events/2024 UnionWorkshop/Improving seasonal forecasts for boreal winter using multiple approaches.md",
-    "Events/2024 UnionWorkshop/Long-term variability of the warm Arctic cold Eurasia pattern inferred from tree-ring records and large ensemble model simulations.md",
-    "Events/2024 UnionWorkshop/Long-Term Change of Interannual Variation in East Asian Summer Precipitation Since 1999.md",
-    "Events/2024 UnionWorkshop/Improvement of Seasonal Soil Moisture Forecasts Using the APCC Multi-Model Ensemble Forecast Products.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",

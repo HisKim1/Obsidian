@@ -121,6 +121,8 @@ fdfe
 fgg
 fuqu
 ffa
+fixed
+features의
 name
 nYYYFF
 nOq
@@ -218,6 +220,9 @@ ni
 ntt
 njG
 nmc
+normalization을
+none
+norm
 site
 status
 stratosphere에서
@@ -360,6 +365,10 @@ sE
 srs
 svv
 sYYY
+sized
+space로
+step행ge
+structure가
 topic
 tags
 templete
@@ -476,6 +485,7 @@ tjR
 tjn
 tjb
 ttt
+trained
 aliases
 against
 and
@@ -734,6 +744,7 @@ cGZ
 cGb
 cdff
 cle
+chunked
 Tool
 Troposphere에서
 Thermal
@@ -1863,6 +1874,8 @@ ppp
 psv
 psq
 puu
+prediction가
+pre
 here
 host
 haa
@@ -1989,6 +2002,7 @@ hW
 코리올리
 실행하려면
 실제
+실행이
 library
 lbb
 lM
@@ -2133,6 +2147,7 @@ lRR
 이루지
 이라고
 이해해야
+이어붙여서
 필요함
 필요한
 필요
@@ -2145,6 +2160,8 @@ lRR
 해줘야
 해보는
 해상되지
+해상도
+해준다
 에서
 에도
 구동
@@ -2415,6 +2432,8 @@ geIK
 gN
 gSR
 gX
+generator가
+generator에서
 GraphCast
 GPU
 Geostrophic
@@ -2511,6 +2530,7 @@ GNn
 Gwp
 GBB
 GKK
+Grid
 Cast
 Circulation
 Changes
@@ -2799,6 +2819,7 @@ EJz
 EPP
 EDDDD
 EDDDDDDDD
+Embedder
 Message
 Mean
 MJJ
@@ -2905,6 +2926,9 @@ MfN
 MyO
 Mbrj
 MBJ
+Multi
+MLP로
+MLP에서
 in
 iii
 iYp
@@ -3044,6 +3068,7 @@ ikn
 인생사를
 됩니다
 쓰인
+쓰려고
 되는지
 되더라
 되었는지
@@ -3071,6 +3096,7 @@ ikn
 핵심
 개념
 개념적
+개수
 Stratospheric
 Surface
 SU
@@ -3432,6 +3458,8 @@ mRN
 mkk
 mII
 mpwu
+max
+model의
 서풍에
 서로
 각운동량
@@ -3783,6 +3811,7 @@ PD
 PTlb
 PDl
 Poe
+Perceptrons
 질량
 질서도
 재분배
@@ -4016,6 +4045,8 @@ wch
 wP
 wS
 wWW
+weight
+weight를
 높이
 활성화
 활동
@@ -5168,6 +5199,7 @@ eBC
 ePT
 eKn
 ed
+embed
 VAA
 VWWc
 VUU
@@ -5873,6 +5905,8 @@ NXD
 만남에서
 만들어나가는
 만약
+만든다
+만든
 돌리면
 돌려
 돌아가게만
@@ -5911,6 +5945,7 @@ NXD
 생각을
 생각했던
 생각이
+생성해주면
 적당했다
 바꾸면
 바꾸셈
@@ -5939,6 +5974,7 @@ NXD
 것을
 것이나
 것은
+것인지
 앞으로
 있을까
 있다
@@ -5952,6 +5988,7 @@ NXD
 있습니다
 있고
 있기
+있게
 향상
 향상시키는
 딥마인드가
@@ -5968,6 +6005,7 @@ NXD
 자기가
 자신의
 자랑하고
+자료형인가
 화려한
 수식
 수송을
@@ -6032,6 +6070,7 @@ NXD
 저장
 저장해둔
 저분이
+저건
 경로
 경험의
 경험을
@@ -6111,6 +6150,7 @@ NXD
 선이
 함수가
 함으로써
+함수는
 그냥
 그런
 그리고
@@ -6120,6 +6160,9 @@ NXD
 그것을
 그렇다면
 그를
+그걸
+그대로
+그거
 잔류
 평균
 평가할
@@ -6131,6 +6174,7 @@ NXD
 나의
 나가다
 나만의
+나머지
 운동량
 운명이
 플럭스의
@@ -6138,6 +6182,7 @@ NXD
 규모
 포함합니다
 포착하고
+포함할
 동서
 동일
 동안
@@ -6232,3 +6277,12 @@ NXD
 뢿s
 뫯Y
 뮻X
+범위
+값을
+잡으면
+될까
+뭐지
+뭐하는
+얼마나
+길이로
+달라도

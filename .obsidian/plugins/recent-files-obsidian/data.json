@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "mesh2grid_dege_normalization_factor",
+      "path": "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md"
+    },
+    {
+      "basename": "latent_size",
+      "path": "GraphCast/Coding/Property/latent_size.md"
+    },
+    {
+      "basename": "resolution",
+      "path": "GraphCast/Coding/Property/resolution.md"
+    },
+    {
       "basename": "ERA5",
       "path": "GraphCast/ERA5.md"
+    },
+    {
+      "basename": "rollout.py",
+      "path": "GraphCast/Coding/rollout.py.md"
+    },
+    {
+      "basename": "GPU Info",
+      "path": "GraphCast/Coding/GPU Info.md"
+    },
+    {
+      "basename": "eval_forcing 만들기",
+      "path": "GraphCast/Task/eval_forcing 만들기.md"
+    },
+    {
+      "basename": "eval_target 만들기",
+      "path": "GraphCast/Task/eval_target 만들기.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "GraphCast/structure/Encoder.md"
     },
     {
       "basename": "Dataset",
@@ -65,20 +105,8 @@
       "path": "GraphCast/Coding/Code.md"
     },
     {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
       "basename": "Server Info",
       "path": "GraphCast/Coding/Server Info.md"
-    },
-    {
-      "basename": "GPU Info",
-      "path": "GraphCast/Coding/GPU Info.md"
     },
     {
       "basename": "Conda Env",
@@ -171,30 +199,6 @@
     {
       "basename": "GraphCast Model",
       "path": "structure/GraphCast Model.md"
-    },
-    {
-      "basename": "Message-passing GNN",
-      "path": "structure/Message-passing GNN.md"
-    },
-    {
-      "basename": "latent_size",
-      "path": "Coding/Property/latent_size.md"
-    },
-    {
-      "basename": "resolution",
-      "path": "Coding/Property/resolution.md"
-    },
-    {
-      "basename": "mesh2grid_dege_normalization_factor",
-      "path": "Coding/Property/mesh2grid_dege_normalization_factor.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "Coding/graphcast.py.md"
-    },
-    {
-      "basename": "Server Info",
-      "path": "Coding/Server Info.md"
     }
   ],
   "omittedPaths": [

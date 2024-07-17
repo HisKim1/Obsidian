@@ -50,7 +50,7 @@ jax                       0.4.30                   pypi_0    pypi
 jaxlib                    0.4.30                   pypi_0    pypi
 ```
 
-#Question 
+
 ### [jax 라이브러리](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html)가 GPU 인식을 못 한다.
 ##### + jax version이 계속 변한다
 used conda environment
