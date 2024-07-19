@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e2dd23557c3d20d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab574a26b6e01ab0",
@@ -190,7 +201,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a7ad563c4f159e83",
+  "active": "e2dd23557c3d20d4",
   "lastOpenFiles": [
     "GraphCast/structure/GraphCast Model.md",
     "GraphCast/Task/Task.md",
