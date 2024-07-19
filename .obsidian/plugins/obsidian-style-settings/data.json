@@ -1,10 +1,12 @@
 {
-  "id@@h-color-theme@@dark": "#7ED2E7",
+  "id@@h-color-theme@@dark": "#64D2FF",
   "id@@h1-color-theme@@dark": "#7ED2E7",
   "id@@h2-color-theme@@dark": "#7ED2E7",
   "id@@h3-color-theme@@dark": "#7ED2E7",
   "id@@h4-color-theme@@dark": "#7ED2E7",
   "id@@h5-color-theme@@dark": "#7ED2E7",
   "id@@h6-color-theme@@dark": "#7ED2E7",
-  "id@@kanban-variant": "kanban-on"
+  "id@@kanban-variant": "kanban-on",
+  "id@@headers-one-color": true,
+  "id@@h-color-theme@@light": "#222222"
 }

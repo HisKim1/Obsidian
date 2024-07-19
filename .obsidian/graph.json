@@ -36,30 +36,30 @@
       }
     },
     {
-      "query": "path:Obsidian",
+      "query": "path:Graduate",
       "color": {
         "a": 1,
-        "rgb": 1973790
+        "rgb": 856343
       }
     },
     {
-      "query": "",
+      "query": "path:Events  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 856343
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 2.16288981288981,
   "lineSizeMultiplier": 4.53265895953757,
   "collapse-forces": false,
-  "centerStrength": 0.217919075144509,
-  "repelStrength": 7.45664739884393,
-  "linkStrength": 0.488439306358382,
+  "centerStrength": 0,
+  "repelStrength": 1.55925155925156,
+  "linkStrength": 1,
   "linkDistance": 47,
-  "scale": 0.8082751520145641,
-  "close": true
+  "scale": 1.1331879398218014,
+  "close": false
 }
