@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GraphCast Model",
-      "path": "GraphCast/structure/GraphCast Model.md"
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
     },
     {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
     },
     {
       "basename": "Input Data 다운",
@@ -59,10 +63,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
     },
     {
       "basename": "Processor",
