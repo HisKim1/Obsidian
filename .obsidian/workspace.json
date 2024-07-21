@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Task.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md"
+                "file": "GraphCast/Task/Task.md"
               }
             }
           },
@@ -182,11 +182,11 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Task/Task.md",
     "GraphCast/Coding/solar_radiation.py.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "GraphCast/Coding/Code.md",
-    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Coding/data_utils.py.md",
     "GraphCast/structure/GraphCast Model.md",
     "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
