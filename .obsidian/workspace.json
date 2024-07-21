@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Coding/solar_radiation.py.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,36 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ab574a26b6e01ab0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68299bf5ddfa3119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef7dc4a1be25655",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Task.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Task.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Task.md"
+                "file": "GraphCast/Task/Input Data 다운.md"
               }
             }
           },
@@ -210,14 +180,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ef7dc4a1be25655",
+  "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "GraphCast/Task/Task.md",
     "GraphCast/Coding/solar_radiation.py.md",
+    "Books/담론, 신영복의 마지막 강의.md",
     "GraphCast/Coding/Code.md",
     "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Coding/data_utils.py.md",
     "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/Task/Task.md",
     "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
     "GraphCast/Coding/Property/latent_size.md",
     "GraphCast/Coding/Property/resolution.md",
@@ -231,7 +202,6 @@
     "Events/2024 International Symposium/20240715_170609.jpg",
     "README.md",
     "Correlation_matrix_heatmap.png",
-    "Books/담론, 신영복의 마지막 강의.md",
     "GraphCast/structure/Processor.md",
     "Events/2024 UnionWorkshop/합동 세미나.md",
     "Events/2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
