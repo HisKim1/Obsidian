@@ -73,8 +73,8 @@ e.g. [[Rossby Waves]]를 잡을 수 있을까?
  ---
 # input data 만들기
 - [x] [[Input Data 다운]]
-- [ ] [[eval_target 만들기]]
-- [ ] [[eval_forcing 만들기]]
+- [x] [[eval_target 만들기]]
+- [x] [[eval_forcing 만들기]]
 
 # taskconfig
 ```

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+    },
+    {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "GraphCast/Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "eval_target 만들기",
+      "path": "GraphCast/Task/eval_target 만들기.md"
+    },
+    {
+      "basename": "eval_forcing 만들기",
+      "path": "GraphCast/Task/eval_forcing 만들기.md"
     },
     {
       "basename": "Input Data 다운",
@@ -51,14 +67,6 @@
     {
       "basename": "GPU Info",
       "path": "GraphCast/Coding/GPU Info.md"
-    },
-    {
-      "basename": "eval_forcing 만들기",
-      "path": "GraphCast/Task/eval_forcing 만들기.md"
-    },
-    {
-      "basename": "eval_target 만들기",
-      "path": "GraphCast/Task/eval_target 만들기.md"
     },
     {
       "basename": "Encoder",
@@ -191,14 +199,6 @@
     {
       "basename": "Code",
       "path": "Coding/Code.md"
-    },
-    {
-      "basename": "GPU Info",
-      "path": "Coding/GPU Info.md"
-    },
-    {
-      "basename": "autoregressive.py",
-      "path": "Coding/autoregressive.py.md"
     }
   ],
   "omittedPaths": [
