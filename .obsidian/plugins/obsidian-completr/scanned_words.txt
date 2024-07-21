@@ -117,8 +117,13 @@ fX
 flk
 fbX
 fVpO
-fuel
-flooding
+fdfe
+fgg
+fuqu
+ffa
+fixed
+features의
+forcings
 name
 nYYYFF
 nOq
@@ -475,6 +480,8 @@ tjn
 tjb
 ttt
 trained
+target
+times
 aliases
 against
 and
@@ -845,6 +852,8 @@ Tg
 TdyH
 Tc
 To
+TISR
+Top
 Brief
 Bfloat
 Balance
@@ -1042,6 +1051,7 @@ doYG
 dPXl
 dfd
 dKN
+derived
 of
 ojjjii
 oJg
@@ -1263,6 +1273,7 @@ RmBcZr
 Rr
 Rur
 Rw
+Radiation
 Alternatives
 Anomalous
 AAA
@@ -1376,6 +1387,7 @@ At
 ADDDDDDDD
 ACxu
 Ac
+Atmosphere
 Link
 LOO
 LQWW
@@ -2144,6 +2156,7 @@ location
 해상되지
 해상도
 해준다
+해당하는
 에서
 에도
 구동
@@ -2178,6 +2191,7 @@ location
 사람이
 사용하지만
 사실
+사용법
 기존
 기후에
 기후
@@ -2186,6 +2200,7 @@ location
 기상예측
 기상
 기억법
+기간과
 으로
 롤백
 혹은
@@ -3024,6 +3039,7 @@ isk
 iY
 iX
 ikn
+inputs
 지난
 지표
 지속
@@ -3218,6 +3234,7 @@ SEFT
 StS
 Sh
 Swv
+Solar
 순환
 순환을
 순환의
@@ -3233,6 +3250,7 @@ Swv
 변한다
 변경
 변화했을
+변수를
 날씨에
 날씨와
 날씨
@@ -3266,6 +3284,7 @@ Swv
 강해지면
 강의는
 강의도
+강제력
 zonal
 zh
 zz
@@ -4067,6 +4086,7 @@ weight를
 연장하여
 연결되어
 연결로
+연간
 통찰
 제공
 제트기류
@@ -4228,6 +4248,7 @@ INJ
 ISqvvf
 IJL
 IEND
+Incident
 yb
 yyyvvv
 yzz
@@ -5202,6 +5223,7 @@ ePT
 eKn
 ed
 embed
+extract
 VAA
 VWWc
 VUU
@@ -5581,6 +5603,8 @@ viq
 vnZI
 viy
 v쎳
+vars
+value를
 qbRRRrr
 qZ
 ql
@@ -5891,10 +5915,12 @@ NXD
 특정
 특성
 특성이
+특성을
 일시
 일은
 일반적으로
 일반적
+일간
 때의
 때문에
 때문입니다
@@ -5915,6 +5941,7 @@ NXD
 불가능
 불완전함
 처음
+처리
 말한
 말하는지
 페이퍼
@@ -5923,6 +5950,10 @@ NXD
 추가했을까
 추세
 추억을
+추가
+추가해줌
+추출
+추출하고
 어떻게
 어떤
 어렵게
@@ -6084,6 +6115,7 @@ NXD
 시문학
 시와
 시작한다면
+시간에
 온도
 접힘
 접근
@@ -6092,6 +6124,7 @@ NXD
 진행하는
 진실
 진실의
+진행도
 저기압
 저장
 저장해둔
@@ -6146,6 +6179,7 @@ NXD
 한다면
 계속
 계산해줌
+계산해서
 조절
 조정
 조교를
@@ -6167,6 +6201,9 @@ NXD
 새롭게
 데이터만
 데이터
+데이터셋에
+데이터셋에서
+데이터를
 크게
 복잡성과
 식별이
@@ -6180,6 +6217,7 @@ NXD
 합니다
 선택해서
 선이
+선행
 함수가
 함수
 함께
@@ -6346,3 +6384,46 @@ NXD
 후자를
 후회
 축소하고
+äv
+훗c
+쯳Gbw
+틤G
+üQS
+ür
+üC
+ÖL
+Ön
+퓖x
+뫸Q
+됢m
+뿿q
+햢Y
+셁d
+ÜF
+푿M
+혁f
+뜔l
+띂x
+봔V
+뾾E
+믟I
+껞q
+헞w
+뛛g
+퉅lX
+펌H
+뢿s
+뫯Y
+뮻X
+범위
+값을
+잡으면
+될까
+뭐지
+뭐하는
+얼마나
+길이로
+달라도
+용도
+입력
+목표

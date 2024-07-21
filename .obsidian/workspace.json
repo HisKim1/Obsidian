@@ -8,7 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa36369f001fe616",
+            "id": "a7ad563c4f159e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GraphCast/Coding/solar_radiation.py.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab574a26b6e01ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68299bf5ddfa3119",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "GraphCast/Coding/solar_radiation.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "GraphCast/Coding/solar_radiation.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md"
+                "file": "GraphCast/Coding/solar_radiation.py.md"
               }
             }
           },
@@ -182,9 +201,11 @@
   },
   "active": "aa36369f001fe616",
   "lastOpenFiles": [
-    "GraphCast/Task/Task.md",
-    "GraphCast/structure/GraphCast Model.md",
+    "GraphCast/Coding/Code.md",
     "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Coding/data_utils.py.md",
+    "GraphCast/structure/GraphCast Model.md",
+    "GraphCast/Task/Task.md",
     "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
     "GraphCast/Coding/Property/latent_size.md",
     "GraphCast/Coding/Property/resolution.md",
@@ -208,8 +229,6 @@
     "Events/2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
     "Events/2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
     "Events/2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
-    "Events/2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
-    "Events/2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
