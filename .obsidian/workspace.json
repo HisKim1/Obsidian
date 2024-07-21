@@ -38,8 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ef7dc4a1be25655",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +210,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "68299bf5ddfa3119",
+  "active": "5ef7dc4a1be25655",
   "lastOpenFiles": [
     "GraphCast/Coding/solar_radiation.py.md",
     "GraphCast/Coding/Code.md",
