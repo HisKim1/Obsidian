@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Coding/solar_radiation.py.md",
+                "file": "GraphCast/Task/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Coding/solar_radiation.py.md",
+                "file": "GraphCast/Task/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Coding/solar_radiation.py.md"
+                "file": "GraphCast/Task/Task.md"
               }
             }
           },
@@ -199,8 +199,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa36369f001fe616",
+  "active": "68299bf5ddfa3119",
   "lastOpenFiles": [
+    "GraphCast/Coding/solar_radiation.py.md",
     "GraphCast/Coding/Code.md",
     "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Coding/data_utils.py.md",
@@ -228,7 +229,6 @@
     "Events/2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
     "Events/2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
     "Events/2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
-    "Events/2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
