@@ -7,7 +7,25 @@
 4. 넣으면 돌아가야 됨!
 
 [single layer 딸깍딸깍](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form)
+1. Popular
+	1. 10m u-component of wind
+	2. 10m v-component of wind
+	3. mean sea level pressure
+	4. 2m temperature
+	5. total precipitation -> 얘만 hourly로 다운
+4. radiation and heat
+	1. (TOA incident solar radiation) 필요 없을 수도?
+5. others
+	1. geopotential
+	2. land-sea mask
 [multi layer 딸깍딸깍](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form)
+1. variables
+	1. geopotential
+	2. specific humidity
+	3. temperature
+	4. U-component of wind
+	5. V-component of wind
+	6. vertical velocity
 
 # 필요한 features
 - [x] geopotential_at_surface => single level에서 geopotential이 맞나? ㅇㅇ

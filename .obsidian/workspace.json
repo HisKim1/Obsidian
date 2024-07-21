@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fe902801f37c95af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c99bbbb6b5fe8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "27a08ef813e802c5",
         "type": "tabs",
         "children": [
@@ -32,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Task.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
+                "file": "GraphCast/Task/Input Data 다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md"
+                "file": "GraphCast/Task/Input Data 다운.md"
               }
             }
           },
@@ -199,13 +180,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c99bbbb6b5fe8af",
+  "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "GraphCast/Task/Sudden Stratospheric Warming.md",
+    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Task/Task.md",
     "GraphCast/Task/Residual Mean Circulation.md",
     "GraphCast/Task/eval_target 만들기.md",
     "GraphCast/Task/eval_forcing 만들기.md",
-    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Coding/solar_radiation.py.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "GraphCast/Coding/Code.md",
@@ -228,7 +210,6 @@
     "Events/2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
     "Events/2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
     "Events/2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
-    "Events/2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
