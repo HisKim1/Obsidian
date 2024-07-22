@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/GraphCast by Deepmind.md",
+                "file": "Papers/Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/GraphCast by Deepmind.md",
+                "file": "Papers/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/GraphCast by Deepmind.md",
+                "file": "Papers/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/GraphCast by Deepmind.md"
+                "file": "Papers/Overview.md"
               }
             }
           },
@@ -195,12 +195,12 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
-    "Papers/Overview.md",
-    "Papers/L. Olivetti, G.Messori, 2024.md",
     "Papers/R. Keisler, 2022.md",
+    "Papers/Overview.md",
+    "Papers/Lam. et al., 2023.md",
+    "Papers/L. Olivetti, G.Messori, 2024.md",
     "Templete/paper.md",
     "GraphCast/paper/General Forecasting Problem Statement.md",
-    "Papers/GraphCast by Deepmind.md",
     "Papers/Northern and Southern Annular Mode.md",
     "Papers/Arctic_Oscillation_II.svg",
     "GraphCast/Task/Input Data 다운.md",
