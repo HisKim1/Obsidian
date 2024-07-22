@@ -7,8 +7,8 @@ status:
 aliases:
   - templete
 tags: 
-when published: 2024-07-09T09:55:00
-where published:
+when_published: 2024-07-01
+where_published:
 ---
 ```ad-summary
 3줄 요약

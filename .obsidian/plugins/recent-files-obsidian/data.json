@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "M. Feldmann, et al., 2024",
+      "path": "Papers/M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
       "basename": "Overview",
       "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "L. Olivetti, G.Messori, 2024",
+      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
     },
     {
       "basename": "R. Keisler, 2022",
@@ -11,14 +31,6 @@
     {
       "basename": "Lam. et al., 2023",
       "path": "Papers/Lam. et al., 2023.md"
-    },
-    {
-      "basename": "L. Olivetti, G.Messori, 2024",
-      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
-    },
-    {
-      "basename": "paper",
-      "path": "Templete/paper.md"
     },
     {
       "basename": "General Forecasting Problem Statement",
@@ -35,14 +47,6 @@
     {
       "basename": "Input Data 다운",
       "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     },
     {
       "basename": "Residual Mean Circulation",
@@ -195,10 +199,6 @@
     {
       "basename": "논문 정리",
       "path": "templete/논문 정리.md"
-    },
-    {
-      "basename": "Pasted image 20240708164348",
-      "path": "Task/Pasted image 20240708164348.png"
     }
   ],
   "omittedPaths": [
