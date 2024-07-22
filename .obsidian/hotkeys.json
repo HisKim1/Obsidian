@@ -35,5 +35,14 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:Templete/paper.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

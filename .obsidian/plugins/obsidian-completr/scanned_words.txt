@@ -124,6 +124,15 @@ ffa
 fixed
 features의
 forcings
+filename
+format
+filter
+feGaussianBlur
+ffffff
+false
+fill
+font
+family
 name
 nYYYFF
 nOq
@@ -225,6 +234,10 @@ normalization을
 none
 norm
 nan
+namedview
+nonzero
+normal
+nodetypes
 site
 status
 stratosphere에서
@@ -368,6 +381,21 @@ split됨
 stabilization
 spells
 snowfall과
+standalone
+svg
+sodipodi
+space
+spreadMethod
+stop
+stdDeviation
+showgrid
+snap
+sotc
+stroke
+size
+stretch
+specification
+square
 topic
 tags
 templete
@@ -489,6 +517,10 @@ target
 times
 taskconfig
 trace
+transform
+text
+tspan
+translate
 aliases
 against
 and
@@ -613,6 +645,7 @@ aE
 adapt
 anthropogenic
 amt
+always
 cssclasses
 considered
 cell
@@ -745,6 +778,16 @@ circulation의
 convergence가
 compression
 cold
+clipPath
+clipPathUnits
+color
+collect
+current
+connector
+curvature
+clip
+cccscscsssscccccsssccsccscscccssssccc
+comparison
 Tool
 Troposphere에서
 Thermal
@@ -1072,6 +1115,11 @@ dKN
 derived
 dataset의
 dynamical
+docname
+defs
+dasharray
+dashoffset
+dffff
 of
 ojjjii
 oJg
@@ -1167,6 +1215,10 @@ oOb
 oJhp
 oC
 oT
+others
+opacity
+offset
+objecttolerance
 Reasoning
 Resources
 Residual
@@ -1296,6 +1348,7 @@ Rw
 Radiation
 Research
 Recent
+RDF
 Alternatives
 Anomalous
 AAA
@@ -1411,6 +1464,8 @@ ACxu
 Ac
 Atmosphere
 Adiabatic
+Arcitc
+ArialMT
 Link
 LOO
 LQWW
@@ -1626,6 +1681,11 @@ rss
 rOO
 rsX
 radiosondes
+rdf
+resource
+rez
+rule
+role
 blog
 break
 breaking에
@@ -1741,6 +1801,12 @@ bx
 brs
 bEzo
 bme
+bordercolor
+borderopacity
+bams
+brochure
+butt
+beat
 posts
 pf
 pss
@@ -1894,6 +1960,13 @@ prediction가
 pre
 pole에서
 patterns에
+preserve
+png
+path
+pad
+pagecolor
+pageopacity
+pageshadow
 here
 host
 haa
@@ -1994,6 +2067,8 @@ hycw
 hWv
 hW
 heavy
+hourly로
+height
 작업
 작동
 파일명
@@ -2144,6 +2219,10 @@ lack
 leads
 location
 latitudes에서
+linearGradient
+label
+linecap
+linejoin
 버전
 버전으로
 이상이
@@ -2473,6 +2552,11 @@ gX
 generator가
 generator에서
 gases와
+gradientUnits
+gradientTransform
+gridtolerance
+guidetolerance
+groupmode
 GraphCast
 GPU
 Geostrophic
@@ -2571,6 +2655,7 @@ GBB
 GKK
 Grid
 GC랑
+Graphcast
 Cast
 Circulation
 Changes
@@ -2659,6 +2744,7 @@ Cmm
 Circulation은
 Circulation의
 Connection
+Created
 Output
 OD
 OLL
@@ -2868,6 +2954,7 @@ Embedder
 Eulerian
 Events
 Early
+EGUsphere
 Message
 Mean
 MJJ
@@ -3085,6 +3172,9 @@ iY
 iX
 ikn
 inputs
+inkscape
+id
+image
 지난
 지표
 지속
@@ -3115,6 +3205,7 @@ inputs
 대단히
 대규모
 대부분
+대해
 인식도
 인근
 인식을
@@ -3165,6 +3256,7 @@ inputs
 개의
 개념적
 개념으로
+개에
 Stratospheric
 Surface
 SU
@@ -3425,6 +3517,7 @@ zuqww
 z앭
 zp
 zLt
+zoom
 mean
 mx
 mboy
@@ -3537,6 +3630,12 @@ mismatch
 modelling
 modeling
 moist
+metadata
+matrix
+maximized
+mode
+miter
+miterlimit
 서풍에
 서로
 각운동량
@@ -3639,6 +3738,7 @@ Wep
 WIIM
 WYWF
 Westerly
+Work
 의해
 의한
 의미로
@@ -3783,6 +3883,8 @@ HLJ
 HOO
 HKKCRR
 Hemisphere
+High
+HRES
 즉시
 Pressure
 PNG
@@ -3898,6 +4000,9 @@ Parameterization
 Projections
 Pole
 Prediction
+Popular
+Positive
+Pangu
 질량
 질서도
 재분배
@@ -4143,6 +4248,9 @@ wWW
 weight
 weight를
 winter에
+width
+window
+writing
 높이
 활성화
 활동
@@ -4331,6 +4439,8 @@ Incident
 Interaction
 Increase
 Impact
+Inkscape
+IFS
 yb
 yyyvvv
 yzz
@@ -4427,6 +4537,7 @@ yDnH
 yQ
 yL
 yDP
+ydpi
 QH
 Qaa
 QQQ
@@ -4804,6 +4915,9 @@ xmX
 xxx
 x퍩
 xxa
+xml
+xmlns
+xdpi
 JKjj
 JJJP
 JL
@@ -5188,6 +5302,8 @@ USa
 UKOO
 Uf
 UJKI
+UTF
+Users
 eG
 ell
 edd
@@ -5309,6 +5425,11 @@ embed
 extract
 effects를
 easterly로
+encoding
+export
+evenodd
+extremes
+extreme
 VAA
 VWWc
 VUU
@@ -5474,6 +5595,8 @@ uL
 u겟
 uoq
 uWR
+userSpaceOnUse
+url
 DEEE
 DPP
 Dt
@@ -5578,6 +5701,8 @@ Daa
 DDD
 Distribution
 Displacement
+Dan
+Desktop
 vm
 vLL
 vX
@@ -5693,6 +5818,7 @@ v쎳
 vars
 value를
 vortex가
+variant
 qbRRRrr
 qZ
 ql
@@ -5884,6 +6010,7 @@ ZuF
 ZMp
 ZAx
 ZGjJ
+ZCTWWA
 NMMm
 NN
 NdAa
@@ -5998,6 +6125,8 @@ NT
 NJJ
 NXD
 Northern
+Negative
+NWP
 쉄f
 믿vuum
 쳧O
@@ -6041,6 +6170,7 @@ Northern
 페이퍼
 산악학
 얘를
+얘만
 추가했을까
 추세
 추억을
@@ -6158,6 +6288,7 @@ Northern
 수정
 수학적
 수송
+수도
 따른
 따라
 따로
@@ -6195,6 +6326,7 @@ Northern
 성분을
 성분
 성분은
+성능
 형성돼
 형성된
 형식이
@@ -6416,6 +6548,7 @@ Northern
 또한
 목적
 목표
+목적별로
 패널과
 품질
 물리적
@@ -6521,6 +6654,7 @@ Northern
 얼마나
 길이로
 달라도
+달라
 용도
 입력
 편차
@@ -6534,3 +6668,4 @@ Northern
 벗어나
 차이가
 뒤에
+비교

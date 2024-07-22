@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templete",
+  "templates_folder": "Templete",
   "templates_pairs": [
     [
       "",
@@ -22,7 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templete/논문 정리.md",
+    "Templete/paper.md",
     ""
   ],
   "startup_templates": [

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
+                "file": "Papers/GraphCast by Deepmind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e670c16c98d485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templete/paper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
+                "file": "Papers/GraphCast by Deepmind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
+                "file": "Papers/GraphCast by Deepmind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Sudden Stratospheric Warming.md"
+                "file": "Papers/GraphCast by Deepmind.md"
               }
             }
           },
@@ -182,8 +195,16 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
-    "GraphCast/Task/Task.md",
+    "Papers/Overview.md",
+    "Papers/L. Olivetti, G.Messori, 2024.md",
+    "Papers/R. Keisler, 2022.md",
+    "Templete/paper.md",
+    "GraphCast/paper/General Forecasting Problem Statement.md",
+    "Papers/GraphCast by Deepmind.md",
+    "Papers/Northern and Southern Annular Mode.md",
+    "Papers/Arctic_Oscillation_II.svg",
     "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Task/Task.md",
     "GraphCast/Task/Sudden Stratospheric Warming.md",
     "GraphCast/Task/Residual Mean Circulation.md",
     "GraphCast/Task/eval_target 만들기.md",
@@ -202,14 +223,7 @@
     "GraphCast/structure/Encoder.md",
     "GraphCast/Dataset.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
-    "README.md",
     "Correlation_matrix_heatmap.png",
-    "GraphCast/structure/Processor.md",
-    "Events/2024 UnionWorkshop/합동 세미나.md",
-    "Events/2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
-    "Events/2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
-    "Events/2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
-    "Events/2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
@@ -219,7 +233,7 @@
     "Projects - Demo Project",
     "GraphCast/Task/Pasted image 20240708164348.png",
     "Task/Pasted image 20240708164348.png",
-    "templete",
+    "Templete",
     "요청 사항.pdf",
     "무제 파일.canvas",
     "무제 파일 1.canvas",

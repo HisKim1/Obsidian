@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+      "basename": "GraphCast by Deepmind",
+      "path": "Papers/GraphCast by Deepmind.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "L. Olivetti, G.Messori, 2024",
+      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
+    },
+    {
+      "basename": "R. Keisler, 2022",
+      "path": "Papers/R. Keisler, 2022.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
+      "basename": "General Forecasting Problem Statement",
+      "path": "GraphCast/paper/General Forecasting Problem Statement.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
+      "basename": "Arctic_Oscillation_II",
+      "path": "Papers/Arctic_Oscillation_II.svg"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
     },
     {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
     },
     {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     },
     {
       "basename": "Residual Mean Circulation",
@@ -89,16 +121,8 @@
       "path": "GraphCast/structure/Processor.md"
     },
     {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
       "basename": "윤기's 1",
       "path": "Papers/윤기's 1.md"
-    },
-    {
-      "basename": "논문 정리",
-      "path": "Papers/templete/논문 정리.md"
     },
     {
       "basename": "Overview",
@@ -115,10 +139,6 @@
     {
       "basename": "GraphCast GFS by NOAA",
       "path": "GraphCast/GraphCast GFS by NOAA.md"
-    },
-    {
-      "basename": "GraphCast by Deepmind",
-      "path": "GraphCast/paper/GraphCast by Deepmind.md"
     },
     {
       "basename": "Server Info",
@@ -179,26 +199,6 @@
     {
       "basename": "Pasted image 20240708164348",
       "path": "Task/Pasted image 20240708164348.png"
-    },
-    {
-      "basename": "reflection of planetary wave",
-      "path": "Task/reflection of planetary wave.md"
-    },
-    {
-      "basename": "Prediction Challenge",
-      "path": "Task/Prediction Challenge.md"
-    },
-    {
-      "basename": "solar_radiation.py",
-      "path": "Coding/solar_radiation.py.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Coding/Code.md"
     }
   ],
   "omittedPaths": [
