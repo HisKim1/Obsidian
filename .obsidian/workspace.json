@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "GraphCast/Task/Sudden Stratospheric Warming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md"
+                "file": "GraphCast/Task/Sudden Stratospheric Warming.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
-    "GraphCast/Task/Sudden Stratospheric Warming.md",
-    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Task/Task.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Task/Sudden Stratospheric Warming.md",
     "GraphCast/Task/Residual Mean Circulation.md",
     "GraphCast/Task/eval_target 만들기.md",
     "GraphCast/Task/eval_forcing 만들기.md",
