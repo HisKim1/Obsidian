@@ -2559,6 +2559,7 @@ gradientTransform
 gridtolerance
 guidetolerance
 groupmode
+general
 GraphCast
 GPU
 Geostrophic

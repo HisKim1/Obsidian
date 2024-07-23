@@ -4,7 +4,7 @@ site: https://arxiv.org/abs/2406.09474
 summary: 
 keyword: 
 status:
-  - WorkingOn
+  - NotYet
 aliases: 
 tags:
   - paper
