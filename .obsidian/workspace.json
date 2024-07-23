@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa36369f001fe616",
+            "id": "a7ad563c4f159e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "Papers/Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a894ff895cd344d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/D Kochkov, et al., 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b751756e72f7bafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/M. Feldmann, et al., 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "Papers/D Kochkov, et al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "Papers/D Kochkov, et al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md"
+                "file": "Papers/D Kochkov, et al., 2024.md"
               }
             }
           },
@@ -180,36 +207,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa36369f001fe616",
+  "active": "5a894ff895cd344d",
   "lastOpenFiles": [
+    "Papers/M. Feldmann, et al., 2024.md",
+    "Papers/D Kochkov, et al., 2024.md",
+    "Papers/Overview.md",
+    "Papers/J Kidston, et al.,.md",
+    "Templete/paper.md",
+    "GraphCast/Task/Sudden Stratospheric Warming.md",
     "GraphCast/Task/Task.md",
-    "GraphCast/structure/GraphCast Model.md",
+    "Papers/L. Olivetti, G.Messori, 2024.md",
+    "Papers/R. Keisler, 2022.md",
+    "Papers/Lam. et al., 2023.md",
+    "GraphCast/paper/General Forecasting Problem Statement.md",
+    "Papers/Northern and Southern Annular Mode.md",
+    "Papers/Arctic_Oscillation_II.svg",
     "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Task/Residual Mean Circulation.md",
+    "GraphCast/Task/eval_target 만들기.md",
+    "GraphCast/Task/eval_forcing 만들기.md",
+    "GraphCast/Coding/solar_radiation.py.md",
+    "Books/담론, 신영복의 마지막 강의.md",
+    "GraphCast/Coding/Code.md",
+    "GraphCast/Coding/data_utils.py.md",
+    "GraphCast/structure/GraphCast Model.md",
     "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
     "GraphCast/Coding/Property/latent_size.md",
     "GraphCast/Coding/Property/resolution.md",
     "GraphCast/ERA5.md",
     "GraphCast/Coding/rollout.py.md",
-    "GraphCast/Coding/GPU Info.md",
-    "GraphCast/Task/eval_forcing 만들기.md",
-    "GraphCast/Task/eval_target 만들기.md",
-    "GraphCast/structure/Encoder.md",
-    "GraphCast/Dataset.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
-    "README.md",
     "Correlation_matrix_heatmap.png",
-    "Books/담론, 신영복의 마지막 강의.md",
-    "GraphCast/structure/Processor.md",
-    "Events/2024 UnionWorkshop/합동 세미나.md",
-    "Events/2024 UnionWorkshop/한반도 여름철 집중호우 종관패턴 분류 및 예측; 한국형수치예보모델(KIM)의 앙상블을 활용하여.md",
-    "Events/2024 UnionWorkshop/최근 우리나라에서 식생 증가에 의한 여름철 가뭄 발생 가능성.md",
-    "Events/2024 UnionWorkshop/극지역 스톰 사례에 대한 해상분무의 효과.md",
-    "Events/2024 UnionWorkshop/가뭄에 따른 우리나라 대류권 오존 농도의 변동.md",
-    "Events/2024 UnionWorkshop/Time of emergence (TOE) of potential aridification in the western United States.md",
-    "Events/2024 UnionWorkshop/Summerish Spring Land Properties induce the change of the Weather Event in the Mid-latitude.md",
-    "Events/2024 UnionWorkshop/Statistical Seasonal Prediction of Arctic Sea-Ice Concentration based on Spatio-temporal Anomaly Persistent Method.md",
-    "Events/2024 UnionWorkshop/Session 2_수재해 & 강수 패턴 2.md",
-    "Events/2024 UnionWorkshop/Sesson 3_극지방 고위도 기후변화 영향.md",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
@@ -219,7 +247,7 @@
     "Projects - Demo Project",
     "GraphCast/Task/Pasted image 20240708164348.png",
     "Task/Pasted image 20240708164348.png",
-    "templete",
+    "Templete",
     "요청 사항.pdf",
     "무제 파일.canvas",
     "무제 파일 1.canvas",

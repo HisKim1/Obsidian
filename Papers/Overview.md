@@ -1,6 +1,6 @@
 ```dataview
 Table
-full_name as title, summary, keyword, datetime
+title, when_published as date, summary, keyword
 FROM #paper
-SORT datetime
+SORT when_published
 ```

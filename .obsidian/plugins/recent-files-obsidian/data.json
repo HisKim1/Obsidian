@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
+      "basename": "D Kochkov, et al., 2024",
+      "path": "Papers/D Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "M. Feldmann, et al., 2024",
+      "path": "Papers/M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "J Kidston, et al.,",
+      "path": "Papers/J Kidston, et al.,.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     },
     {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
     },
     {
-      "basename": "GraphCast Model",
-      "path": "GraphCast/structure/GraphCast Model.md"
+      "basename": "L. Olivetti, G.Messori, 2024",
+      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
+    },
+    {
+      "basename": "R. Keisler, 2022",
+      "path": "Papers/R. Keisler, 2022.md"
+    },
+    {
+      "basename": "Lam. et al., 2023",
+      "path": "Papers/Lam. et al., 2023.md"
+    },
+    {
+      "basename": "General Forecasting Problem Statement",
+      "path": "GraphCast/paper/General Forecasting Problem Statement.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
+      "basename": "Arctic_Oscillation_II",
+      "path": "Papers/Arctic_Oscillation_II.svg"
     },
     {
       "basename": "Input Data 다운",
       "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "GraphCast/Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "eval_target 만들기",
+      "path": "GraphCast/Task/eval_target 만들기.md"
+    },
+    {
+      "basename": "eval_forcing 만들기",
+      "path": "GraphCast/Task/eval_forcing 만들기.md"
+    },
+    {
+      "basename": "solar_radiation.py",
+      "path": "GraphCast/Coding/solar_radiation.py.md"
+    },
+    {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
+    },
+    {
+      "basename": "Code",
+      "path": "GraphCast/Coding/Code.md"
+    },
+    {
+      "basename": "data_utils.py",
+      "path": "GraphCast/Coding/data_utils.py.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
     },
     {
       "basename": "mesh2grid_dege_normalization_factor",
@@ -41,14 +113,6 @@
       "path": "GraphCast/Coding/GPU Info.md"
     },
     {
-      "basename": "eval_forcing 만들기",
-      "path": "GraphCast/Task/eval_forcing 만들기.md"
-    },
-    {
-      "basename": "eval_target 만들기",
-      "path": "GraphCast/Task/eval_target 만들기.md"
-    },
-    {
       "basename": "Encoder",
       "path": "GraphCast/structure/Encoder.md"
     },
@@ -69,24 +133,8 @@
       "path": "GraphCast/structure/Processor.md"
     },
     {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
-      "basename": "윤기's 1",
-      "path": "Papers/윤기's 1.md"
-    },
-    {
-      "basename": "논문 정리",
-      "path": "Papers/templete/논문 정리.md"
-    },
-    {
       "basename": "Overview",
       "path": "GraphCast/Overview.md"
-    },
-    {
-      "basename": "solar_radiation.py",
-      "path": "GraphCast/Coding/solar_radiation.py.md"
     },
     {
       "basename": "Prediction Challenge",
@@ -99,14 +147,6 @@
     {
       "basename": "GraphCast GFS by NOAA",
       "path": "GraphCast/GraphCast GFS by NOAA.md"
-    },
-    {
-      "basename": "GraphCast by Deepmind",
-      "path": "GraphCast/paper/GraphCast by Deepmind.md"
-    },
-    {
-      "basename": "Code",
-      "path": "GraphCast/Coding/Code.md"
     },
     {
       "basename": "Server Info",
@@ -159,46 +199,6 @@
     {
       "basename": "General Forecasting Problem Statement",
       "path": "paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "논문 정리",
-      "path": "templete/논문 정리.md"
-    },
-    {
-      "basename": "Pasted image 20240708164348",
-      "path": "Task/Pasted image 20240708164348.png"
-    },
-    {
-      "basename": "reflection of planetary wave",
-      "path": "Task/reflection of planetary wave.md"
-    },
-    {
-      "basename": "Prediction Challenge",
-      "path": "Task/Prediction Challenge.md"
-    },
-    {
-      "basename": "solar_radiation.py",
-      "path": "Coding/solar_radiation.py.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Coding/Code.md"
-    },
-    {
-      "basename": "GPU Info",
-      "path": "Coding/GPU Info.md"
-    },
-    {
-      "basename": "autoregressive.py",
-      "path": "Coding/autoregressive.py.md"
-    },
-    {
-      "basename": "rollout.py",
-      "path": "Coding/rollout.py.md"
     }
   ],
   "omittedPaths": [

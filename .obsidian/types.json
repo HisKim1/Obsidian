@@ -6,6 +6,8 @@
     "status": "multitext",
     "datetime": "datetime",
     "keyword": "multitext",
-    "where published": "multitext"
+    "where published": "multitext",
+    "when published": "date",
+    "when_published": "date"
   }
 }
