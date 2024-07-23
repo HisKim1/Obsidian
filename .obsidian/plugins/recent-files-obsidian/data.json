@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Papers/Untitled.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "J Kidston, et al.,",
+      "path": "Papers/J Kidston, et al.,.md"
+    },
+    {
       "basename": "M. Feldmann, et al., 2024",
       "path": "Papers/M. Feldmann, et al., 2024.md"
     },
     {
       "basename": "paper",
       "path": "Templete/paper.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Papers/Overview.md"
     },
     {
       "basename": "Sudden Stratospheric Warming",
@@ -125,10 +133,6 @@
       "path": "GraphCast/structure/Processor.md"
     },
     {
-      "basename": "윤기's 1",
-      "path": "Papers/윤기's 1.md"
-    },
-    {
       "basename": "Overview",
       "path": "GraphCast/Overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "General Forecasting Problem Statement",
       "path": "paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "논문 정리",
-      "path": "templete/논문 정리.md"
     }
   ],
   "omittedPaths": [
