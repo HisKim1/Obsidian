@@ -1,6 +1,6 @@
 ```dataview
 Table
-title, when_published as date, summary, keyword
+title, summary, keyword
 FROM #paper
-SORT when_published
+SORT status DESC
 ```

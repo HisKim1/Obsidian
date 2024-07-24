@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "J Kidston, et al.,",
+      "path": "Papers/J Kidston, et al.,.md"
+    },
+    {
       "basename": "Overview",
       "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "M. Feldmann, et al., 2024",
+      "path": "Papers/M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "2024-07-09",
+      "path": "2024-07-09.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     },
     {
       "basename": "담론, 신영복의 마지막 강의",
@@ -13,20 +29,8 @@
       "path": "Papers/D Kochkov, et al., 2024.md"
     },
     {
-      "basename": "M. Feldmann, et al., 2024",
-      "path": "Papers/M. Feldmann, et al., 2024.md"
-    },
-    {
-      "basename": "J Kidston, et al.,",
-      "path": "Papers/J Kidston, et al.,.md"
-    },
-    {
       "basename": "paper",
       "path": "Templete/paper.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     },
     {
       "basename": "Task",
@@ -195,10 +199,6 @@
     {
       "basename": "GraphCast by Deepmind",
       "path": "paper/GraphCast by Deepmind.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "paper/General Forecasting Problem Statement.md"
     }
   ],
   "omittedPaths": [

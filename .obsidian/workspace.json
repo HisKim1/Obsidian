@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Overview.md",
+                "file": "Papers/J Kidston, et al.,.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Overview.md",
+                "file": "Papers/J Kidston, et al.,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Overview.md",
+                "file": "Papers/J Kidston, et al.,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Overview.md"
+                "file": "Papers/J Kidston, et al.,.md"
               }
             }
           },
@@ -182,13 +182,14 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "Papers/Overview.md",
+    "Papers/M. Feldmann, et al., 2024.md",
+    "2024-07-09.md",
+    "GraphCast/Task/Sudden Stratospheric Warming.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "Papers/D Kochkov, et al., 2024.md",
-    "Papers/M. Feldmann, et al., 2024.md",
-    "Papers/Overview.md",
     "Papers/J Kidston, et al.,.md",
     "Templete/paper.md",
-    "GraphCast/Task/Sudden Stratospheric Warming.md",
     "GraphCast/Task/Task.md",
     "Papers/L. Olivetti, G.Messori, 2024.md",
     "Papers/R. Keisler, 2022.md",
@@ -208,7 +209,6 @@
     "GraphCast/Coding/Property/latent_size.md",
     "GraphCast/Coding/Property/resolution.md",
     "GraphCast/ERA5.md",
-    "GraphCast/Coding/rollout.py.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "Correlation_matrix_heatmap.png",
     "Events/2024 International Symposium/20240715_143252.jpg",
