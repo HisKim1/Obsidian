@@ -106,6 +106,8 @@ upward propagating planetary-scale wave가 스스로 circumpolar jet를 변화�
 ---
 # Surface Weater Impacts
 
+
+
 ---
 [^N/SAM]: [[Northern and Southern Annular Mode]]
 [^NAO]: North Atlantic Oscilliation
