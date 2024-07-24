@@ -398,6 +398,10 @@ specification
 square
 structure에
 split
+split될
+shifted
+stronger
+summertime
 topic
 tags
 templete
@@ -523,6 +527,7 @@ transform
 text
 tspan
 translate
+timescale
 aliases
 against
 and
@@ -650,6 +655,8 @@ amt
 always
 atlantic
 associated
+away
+abnorm
 cssclasses
 considered
 cell
@@ -792,6 +799,9 @@ curvature
 clip
 cccscscsssscccccsssccsccscscccssssccc
 comparison
+coupling에
+cyclones
+colder
 Tool
 Troposphere에서
 Thermal
@@ -1127,6 +1137,7 @@ dashoffset
 dffff
 dep
 displacement
+displaced
 of
 ojjjii
 oJg
@@ -1226,6 +1237,8 @@ others
 opacity
 offset
 objecttolerance
+ozone
+over
 Reasoning
 Resources
 Residual
@@ -1473,6 +1486,8 @@ Atmosphere
 Adiabatic
 Arcitc
 ArialMT
+Antarctic
+Antarctica
 Link
 LOO
 LQWW
@@ -1976,6 +1991,7 @@ pad
 pagecolor
 pageopacity
 pageshadow
+pole로부터
 here
 host
 haa
@@ -2432,6 +2448,7 @@ jP
 jF
 jD
 jG
+jet이
 설치
 설치되었고
 설명하는
@@ -3196,6 +3213,7 @@ inputs
 inkscape
 id
 image
+intense
 지난
 지표
 지속
@@ -3282,6 +3300,7 @@ image
 개념적
 개념으로
 개에
+개로
 Stratospheric
 Surface
 SU
@@ -3668,6 +3687,7 @@ mode
 miter
 miterlimit
 magnitude는
+massive
 서풍에
 서로
 각운동량
@@ -4290,6 +4310,9 @@ winter에
 width
 window
 writing
+weak
+westerlies면
+winds
 높이
 활성화
 활동
@@ -4678,6 +4701,8 @@ QsT
 Qfz
 Qth
 QSS
+QBO
+QBO가
 Xpo
 Xk
 XXH
@@ -5471,6 +5496,7 @@ evenodd
 extremes
 extreme
 event
+east
 VAA
 VWWc
 VUU
@@ -5638,6 +5664,7 @@ uoq
 uWR
 userSpaceOnUse
 url
+unusually
 DEEE
 DPP
 Dt
@@ -6169,6 +6196,7 @@ Northern
 Negative
 NWP
 NotYet
+NAO에
 쉄f
 믿vuum
 쳧O

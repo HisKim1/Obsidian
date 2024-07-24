@@ -9,6 +9,10 @@
       "path": "Papers/Northern and Southern Annular Mode.md"
     },
     {
+      "basename": "Quasi-Biennial Oscillation",
+      "path": "Papers/Quasi-Biennial Oscillation.md"
+    },
+    {
       "basename": "Overview",
       "path": "Papers/Overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Overview",
       "path": "Overview.md"
-    },
-    {
-      "basename": "GraphCast by Deepmind",
-      "path": "paper/GraphCast by Deepmind.md"
     }
   ],
   "omittedPaths": [

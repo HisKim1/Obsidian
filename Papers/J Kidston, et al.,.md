@@ -117,7 +117,17 @@ associated surface impact magnitude는 SSW의 structure에 dep.
    : the pole로부터 displaced away
    $\rightarrow$ weak surface response
 
+strato.-tropo. coupling에 의한 extreme weather occurrence changes $\simeq$ negative NAM/NAO에 의한 변화 $\perp\!\!\!\!\perp$ timescale
 
+[[Quasi-Biennial Oscillation]], (QBO)
+winter에 QBO가 westerlies면 circumpolar jet이 unusually strong
+$\Rightarrow$ intense & poleward-shifted tropospheric jet stream
+$\Rightarrow$ stronger surface winds & intense cyclones
+
+abnorm positive SAM + massive Antarctic ozone loss = 지역별 summertime 온도 변화
+
+---
+# Ocean Impacts
 
 ---
 [^N/SAM]: [[Northern and Southern Annular Mode]]
