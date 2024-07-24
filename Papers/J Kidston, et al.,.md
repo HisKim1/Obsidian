@@ -105,7 +105,15 @@ upward propagating planetary-scale wave가 스스로 circumpolar jet를 변화�
 - observed response can be realized w/ the additional contribution from tropospheric eddy momentum feedbacks
 ---
 # Surface Weater Impacts
+strato. circumpolar jet 약화 $\rightarrow$ strato-tropo. coupling이 atlantic blocking 경향 증가
 
+strato. circumpolar jet change $\propto$ extreme weather, climate event
+
+associated surface impact magnitude는 SSW의 structure에 dep.
+1. split event
+
+
+2. displacement event
 
 
 ---

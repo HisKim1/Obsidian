@@ -5,6 +5,10 @@
       "path": "Papers/J Kidston, et al.,.md"
     },
     {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
       "basename": "Overview",
       "path": "Papers/Overview.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "General Forecasting Problem Statement",
       "path": "GraphCast/paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
     },
     {
       "basename": "Arctic_Oscillation_II",

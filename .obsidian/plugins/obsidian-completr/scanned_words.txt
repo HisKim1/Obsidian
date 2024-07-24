@@ -396,6 +396,8 @@ size
 stretch
 specification
 square
+structure에
+split
 topic
 tags
 templete
@@ -646,6 +648,8 @@ adapt
 anthropogenic
 amt
 always
+atlantic
+associated
 cssclasses
 considered
 cell
@@ -1121,6 +1125,8 @@ defs
 dasharray
 dashoffset
 dffff
+dep
+displacement
 of
 ojjjii
 oJg
@@ -1809,6 +1815,7 @@ bams
 brochure
 butt
 beat
+blocking
 posts
 pf
 pss
@@ -3398,6 +3405,7 @@ Split
 Satellite
 Science
 Severe
+SSW의
 순환
 순환을
 순환의
@@ -3659,6 +3667,7 @@ maximized
 mode
 miter
 miterlimit
+magnitude는
 서풍에
 서로
 각운동량
@@ -5461,6 +5470,7 @@ export
 evenodd
 extremes
 extreme
+event
 VAA
 VWWc
 VUU
@@ -6435,6 +6445,7 @@ NotYet
 경험
 경험이
 경도
+경향
 교환
 교류에서도
 교재에서
@@ -6607,6 +6618,7 @@ NotYet
 약해지면
 약해지거나
 약소합니다
+약화
 스스로
 결론
 결과가
