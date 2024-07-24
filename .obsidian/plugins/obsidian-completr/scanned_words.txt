@@ -2861,6 +2861,7 @@ OOO
 Obsidian
 Ozone
 Ozone의
+Ocean
 Error
 Eddy
 EEE
@@ -3227,6 +3228,7 @@ intense
 지금까지
 지식을
 지금껏
+지역별
 보내주신
 보통
 보임
