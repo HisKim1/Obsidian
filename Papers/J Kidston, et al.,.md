@@ -111,9 +111,12 @@ strato. circumpolar jet change $\propto$ extreme weather, climate event
 
 associated surface impact magnitude는 SSW의 structure에 dep.
 1. split event
-
-
+   : strato. polar vortex가 2개로 split될 때
+   $\rightarrow$ strong surface response
 2. displacement event
+   : the pole로부터 displaced away
+   $\rightarrow$ weak surface response
+
 
 
 ---
