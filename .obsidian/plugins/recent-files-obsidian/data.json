@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "WMO, 2012",
+      "path": "Papers/WMO, 2012.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "2024-07-01",
+      "path": "2024-07-01.md"
+    },
+    {
       "basename": "Input Data 다운",
       "path": "GraphCast/Task/Input Data 다운.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Quasi-Biennial Oscillation",
       "path": "Papers/Quasi-Biennial Oscillation.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Papers/Overview.md"
     },
     {
       "basename": "M. Feldmann, et al., 2024",
@@ -191,14 +199,6 @@
     {
       "basename": "Dataset",
       "path": "Dataset.md"
-    },
-    {
-      "basename": "GNN으로 기상 예측 가능",
-      "path": "paper/GNN으로 기상 예측 가능.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Overview.md"
     }
   ],
   "omittedPaths": [

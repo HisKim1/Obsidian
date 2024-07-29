@@ -2691,6 +2691,7 @@ GKK
 Grid
 GC랑
 Graphcast
+Guidelines
 Cast
 Circulation
 Changes
@@ -2994,6 +2995,7 @@ Early
 EGUsphere
 Environments
 Erdos
+Ensemble
 Message
 Mean
 MJJ
@@ -3428,6 +3430,7 @@ Satellite
 Science
 Severe
 SSW의
+System
 순환
 순환을
 순환의
