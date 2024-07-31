@@ -413,6 +413,9 @@ sys
 spread
 spaghetti
 stamp
+session
+std
+showing
 topic
 tags
 templete
@@ -825,6 +828,9 @@ condition
 confidence
 conditions
 chaos에
+class
+call
+contoured
 Tool
 Troposphere에서
 Thermal
@@ -953,6 +959,7 @@ TEM
 Temperature
 Timescale
 Thunderstorm
+TaskConfig
 Brief
 Bfloat
 Balance
@@ -1164,6 +1171,7 @@ displaced
 days
 detail이
 domain
+downscaling을
 of
 ojjjii
 oJg
@@ -1267,6 +1275,9 @@ ozone
 over
 other
 observation
+output을
+outputs
+one
 Reasoning
 Resources
 Residual
@@ -1744,6 +1755,10 @@ role
 run
 range도
 rapidly
+return
+regional
+region이
+respect
 blog
 break
 breaking에
@@ -1869,6 +1884,7 @@ blocking
 best
 boundary
 basic
+btw
 posts
 pf
 pss
@@ -2036,6 +2052,15 @@ permitting이라고도
 predictability
 probability
 postage
+prediction으로
+presenter
+param
+proportion
+predict
+particular
+point
+plots
+presentation
 here
 host
 haa
@@ -2170,6 +2195,7 @@ height
 코리올리
 실행하려면
 실제
+실행
 library
 lbb
 lM
@@ -2637,6 +2663,10 @@ gridtolerance
 guidetolerance
 groupmode
 general
+gnn
+graph로
+gnn으로
+graphical
 GraphCast
 GPU
 Geostrophic
@@ -2738,6 +2768,8 @@ GC랑
 Graphcast
 Guidelines
 General
+GNNs
+GFDL
 Cast
 Circulation
 Changes
@@ -2830,6 +2862,9 @@ Created
 Convective
 Chaos
 Comments
+Cha
+CORDEX
+CMIP
 Output
 OD
 OLL
@@ -3046,6 +3081,7 @@ Erdos
 Ensemble
 EPS
 EPS라고도
+EA가
 Message
 Mean
 MJJ
@@ -3159,6 +3195,8 @@ Methods
 Major
 March
 Models
+ModelConfig
+MPI
 in
 iii
 iYp
@@ -3269,6 +3307,8 @@ id
 image
 intense
 into
+init
+indiv
 지난
 지표
 지속
@@ -3495,6 +3535,7 @@ Scenarios
 순환에
 순서도
 순환과
+순차적
 변화가
 변화
 변화의
@@ -3506,6 +3547,7 @@ Scenarios
 변경
 변화했을
 변수를
+변환
 날씨에
 날씨와
 날씨
@@ -3756,6 +3798,10 @@ massive
 moving
 maps
 meteograms
+mseh
+maybe
+members
+meteorological
 서풍에
 서로
 각운동량
@@ -3861,6 +3907,7 @@ Westerly
 Work
 Warnings
 WMO
+WCRP에서
 의해
 의한
 의미로
@@ -4008,6 +4055,8 @@ HKKCRR
 Hemisphere
 High
 HRES
+Hyun
+HadGEM
 즉시
 Pressure
 PNG
@@ -4251,6 +4300,7 @@ February
 Fast
 Full
 초기
+초기화
 위치
 위해
 위상
@@ -4388,6 +4438,7 @@ writing
 weak
 westerlies면
 winds
+whether
 높이
 활성화
 활동
@@ -5445,6 +5496,7 @@ UJKI
 UTF
 Users
 Use
+UNIST
 eG
 ell
 edd
@@ -5854,6 +5906,8 @@ Desktop
 Direct
 DMO
 Deterministic
+Dataset으로
+Dong
 vm
 vLL
 vX
@@ -6643,6 +6697,7 @@ NAO에
 데이터셋에서
 데이터를
 크게
+크다
 복잡성과
 복잡한
 식별이

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "Papers/WMO, 2012.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "Papers/WMO, 2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "Papers/WMO, 2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md"
+                "file": "Papers/WMO, 2012.md"
               }
             }
           },
@@ -182,12 +182,18 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "Papers/Overview.md",
+    "Papers/WMO, 2012.md",
+    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
+    "File/Pasted image 20240731110643.png",
+    "File/Pasted image 20240731110640.png",
+    "GraphCast/Coding/graphcast.py.md",
+    "GraphCast/structure/Processor.md",
+    "GraphCast/Coding/Code.md",
+    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Task/Task.md",
     "GraphCast/Task/Sudden Stratospheric Warming.md",
-    "Papers/WMO, 2012.md",
-    "Papers/Overview.md",
     "2024-07-01.md",
-    "GraphCast/Task/Input Data 다운.md",
     "Papers/J Kidston, et al.,.md",
     "Papers/Northern and Southern Annular Mode.md",
     "Papers/Quasi-Biennial Oscillation.md",
@@ -205,10 +211,6 @@
     "GraphCast/Task/eval_target 만들기.md",
     "GraphCast/Task/eval_forcing 만들기.md",
     "GraphCast/Coding/solar_radiation.py.md",
-    "GraphCast/Coding/Code.md",
-    "GraphCast/Coding/data_utils.py.md",
-    "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "Correlation_matrix_heatmap.png",
     "Events/2024 International Symposium/20240715_143252.jpg",

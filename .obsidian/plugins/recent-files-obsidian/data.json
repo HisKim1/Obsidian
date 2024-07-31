@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "WMO, 2012",
+      "path": "Papers/WMO, 2012.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "CORDEX East Asia Activities in South Korea",
+      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "GraphCast/Coding/graphcast.py.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "Code",
+      "path": "GraphCast/Coding/Code.md"
+    },
+    {
       "basename": "Input Data 다운",
       "path": "GraphCast/Task/Input Data 다운.md"
     },
@@ -11,14 +35,6 @@
     {
       "basename": "Sudden Stratospheric Warming",
       "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "WMO, 2012",
-      "path": "Papers/WMO, 2012.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Papers/Overview.md"
     },
     {
       "basename": "2024-07-01",
@@ -93,10 +109,6 @@
       "path": "GraphCast/Coding/solar_radiation.py.md"
     },
     {
-      "basename": "Code",
-      "path": "GraphCast/Coding/Code.md"
-    },
-    {
       "basename": "data_utils.py",
       "path": "GraphCast/Coding/data_utils.py.md"
     },
@@ -145,10 +157,6 @@
       "path": "README.md"
     },
     {
-      "basename": "Processor",
-      "path": "GraphCast/structure/Processor.md"
-    },
-    {
       "basename": "Overview",
       "path": "GraphCast/Overview.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Rossby Waves",
       "path": "Task/Rossby Waves.md"
-    },
-    {
-      "basename": "요청 사항",
-      "path": "Task/요청 사항.md"
-    },
-    {
-      "basename": "Dataset",
-      "path": "Dataset.md"
     }
   ],
   "omittedPaths": [
