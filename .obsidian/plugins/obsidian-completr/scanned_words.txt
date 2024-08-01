@@ -138,6 +138,7 @@ forecast이더라도
 frequency
 forecat
 forcast
+feature는
 name
 nYYYFF
 nOq
@@ -426,6 +427,9 @@ skewed
 some
 seeing
 samples
+sized
+space로
+step행ge
 topic
 tags
 templete
@@ -557,6 +561,7 @@ tp는
 theory
 timescale이라서
 they
+terms
 aliases
 against
 and
@@ -849,6 +854,7 @@ contoured
 correct
 continuous
 calibration
+count해서
 Tool
 Troposphere에서
 Thermal
@@ -1197,6 +1203,7 @@ distributed
 difficult
 details
 diagram
+doubled
 of
 ojjjii
 oJg
@@ -1437,6 +1444,7 @@ Recent
 RDF
 Regional
 Reforecasts
+Refinement
 Alternatives
 Anomalous
 AAA
@@ -1922,6 +1930,7 @@ basic
 btw
 biases
 bounded
+bidirectional
 posts
 pf
 pss
@@ -2405,6 +2414,7 @@ library들도
 이해해야
 이동함
 이성과
+이면
 필요함
 필요한
 필요
@@ -2443,6 +2453,7 @@ library들도
 가중치로
 가능성
 가장
+가까운
 요청
 요소
 요지를
@@ -3141,6 +3152,7 @@ Ensemble
 EPS
 EPS라고도
 EA가
+Edges
 Message
 Mean
 MJJ
@@ -3256,6 +3268,7 @@ March
 Models
 ModelConfig
 MPI
+Multilevel
 in
 iii
 iYp
@@ -3462,6 +3475,7 @@ information
 개념으로
 개에
 개로
+개를
 Stratospheric
 Surface
 SU
@@ -4249,6 +4263,7 @@ Products
 Probabilistic
 Post
 Processing
+Perceptrons
 질량
 질서도
 재분배
@@ -4369,6 +4384,7 @@ Frequency
 February
 Fast
 Full
+Faces
 초기
 초기화
 위치
@@ -4534,6 +4550,7 @@ well
 연도별로
 연관될
 연구할수록
+연결
 통찰
 제공
 제트기류
@@ -5708,6 +5725,7 @@ effective
 events
 enough
 env가
+edge는
 VAA
 VWWc
 VUU
@@ -5878,6 +5896,8 @@ userSpaceOnUse
 url
 unusually
 user
+unidirectional
+uni
 DEEE
 DPP
 Dt
@@ -6422,6 +6442,8 @@ Negative
 NWP
 NotYet
 NAO에
+Num
+Nodes
 쉄f
 믿vuum
 쳧O
@@ -6579,6 +6601,7 @@ NAO에
 여기에
 여기저기
 여기서
+여기서는
 자세한
 자연스럽게
 자동
