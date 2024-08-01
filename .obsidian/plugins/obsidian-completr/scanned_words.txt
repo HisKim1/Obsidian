@@ -135,6 +135,8 @@ font
 family
 forecast를
 forecast이더라도
+frequency
+forecat
 name
 nYYYFF
 nOq
@@ -416,6 +418,13 @@ stamp
 session
 std
 showing
+systematic
+smoothly
+structure
+skewed
+some
+seeing
+samples
 topic
 tags
 templete
@@ -546,6 +555,7 @@ temperature는
 tp는
 theory
 timescale이라서
+they
 aliases
 against
 and
@@ -679,6 +689,9 @@ analysis에
 analysis
 ahead
 area
+adjust
+approximately
+afterwards
 cssclasses
 considered
 cell
@@ -831,6 +844,9 @@ chaos에
 class
 call
 contoured
+correct
+continuous
+calibration
 Tool
 Troposphere에서
 Thermal
@@ -960,6 +976,7 @@ Temperature
 Timescale
 Thunderstorm
 TaskConfig
+Techniques
 Brief
 Bfloat
 Balance
@@ -1172,6 +1189,12 @@ days
 detail이
 domain
 downscaling을
+doesn
+direct
+distributed
+difficult
+details
+diagram
 of
 ojjjii
 oJg
@@ -1278,6 +1301,8 @@ observation
 output을
 outputs
 one
+often
+optimizing
 Reasoning
 Resources
 Residual
@@ -1409,6 +1434,7 @@ Research
 Recent
 RDF
 Regional
+Reforecasts
 Alternatives
 Anomalous
 AAA
@@ -1759,6 +1785,13 @@ return
 regional
 region이
 respect
+remove
+represented
+represent
+reforecasts
+reliability
+rare
+reliablility
 blog
 break
 breaking에
@@ -1885,6 +1918,8 @@ best
 boundary
 basic
 btw
+biases
+bounded
 posts
 pf
 pss
@@ -2061,6 +2096,10 @@ particular
 point
 plots
 presentation
+processing
+post
+probabilistic
+particularly
 here
 host
 haa
@@ -2163,6 +2202,9 @@ hW
 heavy
 hourly로
 height
+highly
+historical
+happened
 작업
 작동
 작은
@@ -2321,6 +2363,8 @@ linecap
 linejoin
 local
 lateral
+less
+loocking
 버전
 버전으로
 이상이
@@ -2667,6 +2711,7 @@ gnn
 graph로
 gnn으로
 graphical
+good
 GraphCast
 GPU
 Geostrophic
@@ -2865,6 +2910,7 @@ Comments
 Cha
 CORDEX
 CMIP
+Clustering
 Output
 OD
 OLL
@@ -3309,6 +3355,8 @@ intense
 into
 init
 indiv
+improving
+information
 지난
 지표
 지속
@@ -3529,6 +3577,7 @@ System
 Should
 Standard
 Scenarios
+Statistical
 순환
 순환을
 순환의
@@ -3675,6 +3724,7 @@ z앭
 zp
 zLt
 zoom
+zero
 mean
 mx
 mboy
@@ -3802,6 +3852,9 @@ mseh
 maybe
 members
 meteorological
+multi
+measure
+matched
 서풍에
 서로
 각운동량
@@ -3924,6 +3977,7 @@ WCRP에서
 단열
 단기에
 단위
+단점
 냉각
 야기
 야기한
@@ -4206,6 +4260,7 @@ Processing
 중략
 중심을
 중요함
+중요해보이지는
 증가
 증폭
 Feedbacks
@@ -4439,6 +4494,8 @@ weak
 westerlies면
 winds
 whether
+what
+well
 높이
 활성화
 활동
@@ -4630,6 +4687,7 @@ Increase
 Impact
 Inkscape
 IFS
+Issue
 yb
 yyyvvv
 yzz
@@ -5109,6 +5167,7 @@ xxa
 xml
 xmlns
 xdpi
+xeplicitly
 JKjj
 JJJP
 JL
@@ -5629,6 +5688,10 @@ errors
 evolves가
 evolve
 ensemble
+easy
+effective
+events
+enough
 VAA
 VWWc
 VUU
@@ -5708,6 +5771,7 @@ Vjj
 VL
 VPrJ
 Vo
+Verification
 uuu
 uJMM
 ukii
@@ -5908,6 +5972,7 @@ DMO
 Deterministic
 Dataset으로
 Dong
+Downscaling
 vm
 vLL
 vX
@@ -6026,6 +6091,7 @@ vortex가
 variant
 var에는
 very
+varies
 qbRRRrr
 qZ
 ql
@@ -6126,6 +6192,8 @@ qhZ
 qGN
 qnd
 quantiles
+quantify
+quality
 ZZ
 Zi
 ZQQ
@@ -6735,6 +6803,7 @@ NAO에
 그렇지만
 그릇이기는
 그나마
+그다지
 잔류
 평균
 평가
