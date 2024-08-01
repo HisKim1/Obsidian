@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
-    },
-    {
       "basename": "WMO, 2012",
       "path": "Papers/WMO, 2012.md"
     },
     {
       "basename": "Overview",
       "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "논문 정리",
+      "path": "GraphCast/templete/논문 정리.md"
+    },
+    {
+      "basename": "Quasi-Biennial Oscillation",
+      "path": "Papers/Quasi-Biennial Oscillation.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "GraphCast/Task/Rossby Waves.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "GraphCast GFS by NOAA",
+      "path": "GraphCast/GraphCast GFS by NOAA.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "GraphCast/Overview.md"
+    },
+    {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
     },
     {
       "basename": "CORDEX East Asia Activities in South Korea",
@@ -47,10 +67,6 @@
     {
       "basename": "Northern and Southern Annular Mode",
       "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
-      "basename": "Quasi-Biennial Oscillation",
-      "path": "Papers/Quasi-Biennial Oscillation.md"
     },
     {
       "basename": "M. Feldmann, et al., 2024",
@@ -145,20 +161,12 @@
       "path": "Events/2024 International Symposium/20240715_170609.jpg"
     },
     {
-      "basename": "Overview",
-      "path": "GraphCast/Overview.md"
-    },
-    {
       "basename": "Prediction Challenge",
       "path": "GraphCast/Task/Prediction Challenge.md"
     },
     {
       "basename": "Pasted image 20240708164348",
       "path": "GraphCast/Task/Pasted image 20240708164348.png"
-    },
-    {
-      "basename": "GraphCast GFS by NOAA",
-      "path": "GraphCast/GraphCast GFS by NOAA.md"
     },
     {
       "basename": "Server Info",

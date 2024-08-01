@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "Papers/WMO, 2012.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "Papers/WMO, 2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md",
+                "file": "Papers/WMO, 2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/담론, 신영복의 마지막 강의.md"
+                "file": "Papers/WMO, 2012.md"
               }
             }
           },
@@ -182,15 +182,20 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
-    "README.md",
+    "Papers/Overview.md",
+    "GraphCast/templete/논문 정리.md",
+    "Papers/Quasi-Biennial Oscillation.md",
+    "GraphCast/Task/Rossby Waves.md",
+    "GraphCast/Task/Sudden Stratospheric Warming.md",
+    "GraphCast/Task/Task.md",
+    "GraphCast/GraphCast GFS by NOAA.md",
+    "GraphCast/Overview.md",
     "Books/담론, 신영복의 마지막 강의.md",
+    "README.md",
     "질문.md",
     "2024-07-01.md",
     "GraphCast/Task/Input Data 다운.md",
-    "GraphCast/Task/Task.md",
-    "GraphCast/Task/Sudden Stratospheric Warming.md",
     "Papers/WMO, 2012.md",
-    "Papers/Overview.md",
     "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
@@ -199,18 +204,13 @@
     "GraphCast/Coding/Code.md",
     "Papers/J Kidston, et al.,.md",
     "Papers/Northern and Southern Annular Mode.md",
-    "Papers/Quasi-Biennial Oscillation.md",
     "Papers/M. Feldmann, et al., 2024.md",
     "2024-07-09.md",
     "Papers/D Kochkov, et al., 2024.md",
     "Templete/paper.md",
     "Papers/L. Olivetti, G.Messori, 2024.md",
     "Papers/R. Keisler, 2022.md",
-    "Papers/Lam. et al., 2023.md",
-    "GraphCast/paper/General Forecasting Problem Statement.md",
     "Papers/Arctic_Oscillation_II.svg",
-    "GraphCast/Task/Residual Mean Circulation.md",
-    "GraphCast/Task/eval_target 만들기.md",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "Correlation_matrix_heatmap.png",
     "Events/2024 International Symposium/20240715_143252.jpg",
