@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+    },
+    {
       "basename": "WMO, 2012",
       "path": "Papers/WMO, 2012.md"
     },
@@ -25,22 +41,6 @@
       "path": "GraphCast/Coding/Code.md"
     },
     {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "2024-07-01",
-      "path": "2024-07-01.md"
-    },
-    {
       "basename": "J Kidston, et al.,",
       "path": "Papers/J Kidston, et al.,.md"
     },
@@ -55,14 +55,6 @@
     {
       "basename": "M. Feldmann, et al., 2024",
       "path": "Papers/M. Feldmann, et al., 2024.md"
-    },
-    {
-      "basename": "2024-07-09",
-      "path": "2024-07-09.md"
-    },
-    {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
     },
     {
       "basename": "D Kochkov, et al., 2024",
@@ -151,10 +143,6 @@
     {
       "basename": "20240715_170609",
       "path": "Events/2024 International Symposium/20240715_170609.jpg"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Overview",
