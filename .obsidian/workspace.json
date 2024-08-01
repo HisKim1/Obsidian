@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/D Kochkov, et al., 2024.md",
+                "file": "학기말 설문조사 결과.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/D Kochkov, et al., 2024.md",
+                "file": "학기말 설문조사 결과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/D Kochkov, et al., 2024.md",
+                "file": "학기말 설문조사 결과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/D Kochkov, et al., 2024.md"
+                "file": "학기말 설문조사 결과.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "5a894ff895cd344d",
   "lastOpenFiles": [
-    "Papers/M. Feldmann, et al., 2024.md",
     "Papers/D Kochkov, et al., 2024.md",
+    "Papers/M. Feldmann, et al., 2024.md",
     "Papers/Overview.md",
     "Papers/J Kidston, et al.,.md",
     "Templete/paper.md",

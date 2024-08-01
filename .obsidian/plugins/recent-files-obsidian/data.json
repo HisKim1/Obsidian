@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "학기말 설문조사 결과",
+      "path": "학기말 설문조사 결과.md"
+    },
+    {
       "basename": "D Kochkov, et al., 2024",
       "path": "Papers/D Kochkov, et al., 2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GraphCast by Deepmind",
       "path": "paper/GraphCast by Deepmind.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "paper/General Forecasting Problem Statement.md"
     }
   ],
   "omittedPaths": [
