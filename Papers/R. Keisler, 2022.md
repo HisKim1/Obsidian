@@ -6,11 +6,13 @@ keyword:
   - MPNN
 status:
   - Done
-aliases: 
+aliases:
 tags:
   - paper
 datetime: 2024-06-22T13:58:00
 when_published: 2022-02-15
+where_published:
+  - arXiv
 ---
 ## **Dataset**
 1) ERA5

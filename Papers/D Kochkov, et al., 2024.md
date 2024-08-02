@@ -1,16 +1,16 @@
 ---
 title: Neural general circulation models for weather and climate
 site: https://www.nature.com/articles/s41586-024-07744-y#Sec2
-summary: 
-keyword: 
+summary:
+keyword:
 status:
   - WorkingOn
-aliases: 
+aliases:
 tags:
   - paper
 when_published: 2024-07-22
 where_published:
-  - nature
+  - Nature
 ---
 ```ad-summary
 3줄 요약
@@ -25,7 +25,7 @@ General circulation models (GCMs) are the foundation of weather and climate pred
 1. they do not produce calibrated uncertainty estimates, which is essential for useful weather forecasts.
 2. MSE for averaging over uncertainty, producing unrealistically blurry predictions when optimized for multi-day forecasts
 3. misrepresent derived (diagnostic) variables such as geostrophic wind
-4. the lack of coupling between machine-learning components and the governing equations during training potentially causes serious problems, such as instability and climate drift [[N. Brenowiz and C. Bretherton, 2019]]
+4. the lack of coupling between machine-learning components and the governing equations during training potentially causes serious problems, such as instability and climate drift [[N. Brenowiz, C. Bretherton, 2019]]
 
 
 ---

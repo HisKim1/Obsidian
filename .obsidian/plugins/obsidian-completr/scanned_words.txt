@@ -570,6 +570,7 @@ they
 terms
 think
 tens
+thermodynamics
 aliases
 against
 and
@@ -869,6 +870,9 @@ count해서
 calibrated
 components
 causes
+core
+conventional
+cloud
 Tool
 Troposphere에서
 Thermal
@@ -1226,6 +1230,7 @@ during
 drift
 does
 different
+differentiable
 of
 ojjjii
 oJg
@@ -1592,6 +1597,7 @@ Antarctic
 Antarctica
 Area
 Appling
+AMIP
 Link
 LOO
 LQWW
@@ -1829,6 +1835,7 @@ reliability
 rare
 reliablility
 realtime
+resolving
 blog
 break
 breaking에
@@ -2151,6 +2158,8 @@ producing
 potentially
 problems
 publishes
+physics
+predicts
 here
 host
 haa
@@ -2425,6 +2434,7 @@ lib이
 library를
 library들도
 look
+learned
 버전
 버전으로
 이상이
@@ -3317,6 +3327,7 @@ ModelConfig
 MPI
 Multilevel
 MSE
+Medium
 in
 iii
 iYp
@@ -3937,6 +3948,8 @@ max
 model의
 misrepresent
 machine
+module
+motion
 서풍에
 서로
 서버의
@@ -4320,6 +4333,7 @@ Post
 Processing
 Perceptrons
 Parametrization
+Project
 질량
 질서도
 재분배
@@ -4441,6 +4455,7 @@ February
 Fast
 Full
 Faces
+For
 초기
 초기화
 위치
@@ -4777,6 +4792,7 @@ Impact
 Inkscape
 IFS
 Issue
+Intercomparison
 yb
 yyyvvv
 yzz
@@ -5963,6 +5979,7 @@ unidirectional
 uni
 unrealistically
 use
+unresolved
 DEEE
 DPP
 Dt

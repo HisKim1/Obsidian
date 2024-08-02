@@ -10,7 +10,7 @@ keyword:
   - weather extreme
 status:
   - Done
-aliases: 
+aliases:
 tags:
   - paper
 when_published: 2024-04-10
