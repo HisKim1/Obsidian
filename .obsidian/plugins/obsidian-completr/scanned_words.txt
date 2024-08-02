@@ -432,6 +432,7 @@ space로
 step행ge
 state로
 structure가
+serious
 topic
 tags
 templete
@@ -701,6 +702,7 @@ adjust
 approximately
 afterwards
 anaconda
+averaging
 cssclasses
 considered
 cell
@@ -857,6 +859,9 @@ correct
 continuous
 calibration
 count해서
+calibrated
+components
+causes
 Tool
 Troposphere에서
 Thermal
@@ -987,6 +992,7 @@ Timescale
 Thunderstorm
 TaskConfig
 Techniques
+Tests
 Brief
 Bfloat
 Balance
@@ -1206,6 +1212,10 @@ difficult
 details
 diagram
 doubled
+day
+diagnostic
+during
+drift
 of
 ojjjii
 oJg
@@ -1314,6 +1324,7 @@ outputs
 one
 often
 optimizing
+optimized
 Reasoning
 Resources
 Residual
@@ -1933,6 +1944,8 @@ btw
 biases
 bounded
 bidirectional
+blurry
+between
 posts
 pf
 pss
@@ -2115,6 +2128,10 @@ probabilistic
 particularly
 permission
 pakage에
+produce
+producing
+potentially
+problems
 here
 host
 haa
@@ -2237,6 +2254,7 @@ happened
 문단을
 문득
 문사철과
+문제점
 상황
 상위버전들이
 상승한
@@ -2739,6 +2757,8 @@ graph로
 gnn으로
 graphical
 good
+geostrophic
+governing
 GraphCast
 GPU
 Geostrophic
@@ -2842,6 +2862,8 @@ Guidelines
 General
 GNNs
 GFDL
+GCMs
+Graining
 Cast
 Circulation
 Changes
@@ -2938,6 +2960,7 @@ Cha
 CORDEX
 CMIP
 Clustering
+Coarse
 Output
 OD
 OLL
@@ -3156,6 +3179,7 @@ EPS
 EPS라고도
 EA가
 Edges
+Extended
 Message
 Mean
 MJJ
@@ -3272,6 +3296,7 @@ Models
 ModelConfig
 MPI
 Multilevel
+MSE
 in
 iii
 iYp
@@ -3386,6 +3411,7 @@ init
 indiv
 improving
 information
+instability
 지난
 지표
 지속
@@ -3608,6 +3634,7 @@ Should
 Standard
 Scenarios
 Statistical
+Spatially
 순환
 순환을
 순환의
@@ -3887,6 +3914,8 @@ measure
 matched
 max
 model의
+misrepresent
+machine
 서풍에
 서로
 서버의
@@ -4269,6 +4298,7 @@ Probabilistic
 Post
 Processing
 Perceptrons
+Parametrization
 질량
 질서도
 재분배
@@ -5331,6 +5361,7 @@ JOO
 JNg
 JXx
 January
+JAMES
 YY
 YlzK
 YRRR
@@ -5731,6 +5762,9 @@ events
 enough
 env가
 edge는
+estimates
+essential
+equations
 VAA
 VWWc
 VUU
@@ -5903,6 +5937,7 @@ unusually
 user
 unidirectional
 uni
+unrealistically
 DEEE
 DPP
 Dt

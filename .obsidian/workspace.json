@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Papers/D Kochkov, et al., 2024.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -182,7 +183,11 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "File/Pasted image 20240802130028.png",
+    "Papers/N..md",
+    "Papers/D Kochkov, et al., 2024.md",
     "Papers/Overview.md",
+    "Papers/N. Brenowiz and C. Bretherton, 2019.md",
     "GraphCast/structure/Processor.md",
     "GraphCast/structure/GraphCast Model.md",
     "GraphCast/structure/Encoder.md",
@@ -204,10 +209,6 @@
     "GraphCast/Task/Sudden Stratospheric Warming.md",
     "GraphCast/Task/Task.md",
     "GraphCast/GraphCast GFS by NOAA.md",
-    "GraphCast/Overview.md",
-    "Books/담론, 신영복의 마지막 강의.md",
-    "README.md",
-    "질문.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "Papers/Arctic_Oscillation_II.svg",
