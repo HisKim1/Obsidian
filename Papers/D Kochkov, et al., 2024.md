@@ -40,9 +40,10 @@ For weather
 - GraphCast & Pangu: ML-based
 For climate
 - global cloud-resolving model
-- 
+- Atmospheric Model Intercomparison Project, AMIP
 ---
-# Method
+# Medium-range Weather forecasting
+
 
 ---
 # Result
