@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dataset",
+      "path": "GraphCast/Dataset.md"
+    },
+    {
       "basename": "Overview",
       "path": "Papers/Overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GPU Info",
       "path": "GraphCast/Coding/GPU Info.md"
-    },
-    {
-      "basename": "Dataset",
-      "path": "GraphCast/Dataset.md"
     }
   ],
   "omittedPaths": [
