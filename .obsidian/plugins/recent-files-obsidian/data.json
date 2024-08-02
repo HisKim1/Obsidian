@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "Properties",
+      "path": "GraphCast/Coding/Property/Properties.md"
+    },
+    {
+      "basename": "mesh2grid_edge_normalization_factor",
+      "path": "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md"
+    },
+    {
       "basename": "Encoder",
       "path": "GraphCast/structure/Encoder.md"
     },
@@ -93,10 +109,6 @@
       "path": "GraphCast/Coding/graphcast.py.md"
     },
     {
-      "basename": "Processor",
-      "path": "GraphCast/structure/Processor.md"
-    },
-    {
       "basename": "Code",
       "path": "GraphCast/Coding/Code.md"
     },
@@ -157,14 +169,6 @@
       "path": "GraphCast/Coding/data_utils.py.md"
     },
     {
-      "basename": "GraphCast Model",
-      "path": "GraphCast/structure/GraphCast Model.md"
-    },
-    {
-      "basename": "mesh2grid_dege_normalization_factor",
-      "path": "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md"
-    },
-    {
       "basename": "latent_size",
       "path": "GraphCast/Coding/Property/latent_size.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240708164348",
       "path": "GraphCast/Task/Pasted image 20240708164348.png"
-    },
-    {
-      "basename": "Server Info",
-      "path": "GraphCast/Coding/Server Info.md"
     }
   ],
   "omittedPaths": [

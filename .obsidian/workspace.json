@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/structure/Encoder.md",
+                "file": "GraphCast/structure/GraphCast Model.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/structure/Encoder.md",
+                "file": "GraphCast/structure/GraphCast Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/structure/Encoder.md",
+                "file": "GraphCast/structure/GraphCast Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/structure/Encoder.md"
+                "file": "GraphCast/structure/GraphCast Model.md"
               }
             }
           },
@@ -183,6 +183,11 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "GraphCast/structure/Processor.md",
+    "GraphCast/Coding/Property/Properties.md",
+    "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md",
+    "GraphCast/structure/GraphCast Model.md",
+    "GraphCast/structure/Encoder.md",
     "GraphCast/GC graph/GraphCast's Graph.md",
     "GraphCast/GC graph/Mesh2Grid Edge.md",
     "GraphCast/GC graph/Mesh Node.md",
@@ -204,13 +209,8 @@
     "Books/담론, 신영복의 마지막 강의.md",
     "README.md",
     "질문.md",
-    "2024-07-01.md",
-    "GraphCast/Task/Input Data 다운.md",
-    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
-    "GraphCast/Coding/graphcast.py.md",
-    "GraphCast/structure/Processor.md",
     "Papers/Arctic_Oscillation_II.svg",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "Correlation_matrix_heatmap.png",
