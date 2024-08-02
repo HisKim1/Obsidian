@@ -2,8 +2,9 @@
    [[GraphCast's Graph]]의 features, $\mathcal{V}^G, \mathcal{V}^M, \mathcal{E}^M, \mathcal{E}^{G2M}, \mathcal{E}^{M2G}$를 5 Multi-layer Perceptrons, MLP로 fixed sized latent space로 embed 
    
 ```ad-question
-   #question
    5 MLP가 5 hidden layer라는건지, 아니면 그냥 feature 5개를 각 MLP에 넣은 건지. 그렇다면 각 MLP는 어떻게 생겼는지 확인
+
+$\Rightarrow$ feature를 vector로 변환 후 5-layer MLP 1개에 넣어서 처리. 다른 과정도 모두 동일
 ```
    
    $$\begin{align*} \mathbf{v}^{G}_i &= \text{MLP}_{\text{embedder}}^{\mathcal{V}_G} (\mathbf{v}^{G, \text{features}}_i) \\ \mathbf{v}^{M}_i &= \text{MLP}_{\text{embedder}}^{\mathcal{V}_M} (\mathbf{v}^{M, \text{features}}_i) \\ \mathbf{e}^{M}_{\nu_s^M \rightarrow \nu_r^M} &= \text{MLP}_{\text{embedder}}^{\mathcal{E}_M} (\mathbf{e}^{M, \text{features}}_{\nu_s^M \rightarrow \nu_r^M}) \\ \mathbf{e}^{G2M}_{\nu_s^G \rightarrow \nu_r^M} &= \text{MLP}_{\text{embedder}}^{\mathcal{E}_{\text{G2M}}} (\mathbf{e}^{G2M, \text{features}}_{\nu_s^G \rightarrow \nu_r^M}) \\ \mathbf{e}^{M2G}_{\nu_s^M \rightarrow \nu_r^G} &= \text{MLP}_{\text{embedder}}^{\mathcal{E}_{\text{M2G}}} (\mathbf{e}^{M2G, \text{features}}_{\nu_s^M \rightarrow \nu_r^G}) \end{align*}$$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/structure/GraphCast Model.md",
+                "file": "Papers/D Kochkov, et al., 2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/structure/GraphCast Model.md",
+                "file": "Papers/D Kochkov, et al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/structure/GraphCast Model.md",
+                "file": "Papers/D Kochkov, et al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/structure/GraphCast Model.md"
+                "file": "Papers/D Kochkov, et al., 2024.md"
               }
             }
           },
@@ -183,11 +182,12 @@
   },
   "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
+    "Papers/Overview.md",
     "GraphCast/structure/Processor.md",
-    "GraphCast/Coding/Property/Properties.md",
-    "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md",
     "GraphCast/structure/GraphCast Model.md",
     "GraphCast/structure/Encoder.md",
+    "GraphCast/Coding/Property/Properties.md",
+    "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md",
     "GraphCast/GC graph/GraphCast's Graph.md",
     "GraphCast/GC graph/Mesh2Grid Edge.md",
     "GraphCast/GC graph/Mesh Node.md",
@@ -197,7 +197,6 @@
     "GraphCast/Task/Residual Mean Circulation.md",
     "GraphCast/Task/reflection of planetary wave.md",
     "GraphCast/Task/Prediction Challenge.md",
-    "Papers/Overview.md",
     "Papers/WMO, 2012.md",
     "GraphCast/templete/논문 정리.md",
     "Papers/Quasi-Biennial Oscillation.md",

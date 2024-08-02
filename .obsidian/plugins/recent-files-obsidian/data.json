@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "GraphCast Model",
-      "path": "GraphCast/structure/GraphCast Model.md"
+      "basename": "D Kochkov, et al., 2024",
+      "path": "Papers/D Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
     },
     {
       "basename": "Processor",
       "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "GraphCast/structure/Encoder.md"
     },
     {
       "basename": "Properties",
@@ -15,10 +27,6 @@
     {
       "basename": "mesh2grid_edge_normalization_factor",
       "path": "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "GraphCast/structure/Encoder.md"
     },
     {
       "basename": "GraphCast's Graph",
@@ -55,10 +63,6 @@
     {
       "basename": "Prediction Challenge",
       "path": "GraphCast/Task/Prediction Challenge.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Papers/Overview.md"
     },
     {
       "basename": "WMO, 2012",
@@ -123,10 +127,6 @@
     {
       "basename": "M. Feldmann, et al., 2024",
       "path": "Papers/M. Feldmann, et al., 2024.md"
-    },
-    {
-      "basename": "D Kochkov, et al., 2024",
-      "path": "Papers/D Kochkov, et al., 2024.md"
     },
     {
       "basename": "paper",
