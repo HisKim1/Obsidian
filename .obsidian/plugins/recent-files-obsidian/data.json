@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "S. Rasp, et. al., 2024",
+      "path": "S. Rasp, et. al., 2024.md"
+    },
+    {
+      "basename": "R. Keisler, 2022",
+      "path": "Papers/R. Keisler, 2022.md"
+    },
+    {
+      "basename": "J Kidston, et al.,",
+      "path": "Papers/J Kidston, et al.,.md"
+    },
+    {
+      "basename": "N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/N. Brenowiz, C. Bretherton, 2019.md"
+    },
+    {
+      "basename": "Dataset",
+      "path": "GraphCast/Dataset.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "D Kochkov, et al., 2024",
+      "path": "Papers/D Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "L. Olivetti, G.Messori, 2024",
+      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
+    },
+    {
+      "basename": "Quasi-Biennial Oscillation",
+      "path": "Papers/Quasi-Biennial Oscillation.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
+    },
+    {
       "basename": "Encoder",
       "path": "GraphCast/structure/Encoder.md"
+    },
+    {
+      "basename": "Properties",
+      "path": "GraphCast/Coding/Property/Properties.md"
+    },
+    {
+      "basename": "mesh2grid_edge_normalization_factor",
+      "path": "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md"
     },
     {
       "basename": "GraphCast's Graph",
@@ -41,20 +93,12 @@
       "path": "GraphCast/Task/Prediction Challenge.md"
     },
     {
-      "basename": "Overview",
-      "path": "Papers/Overview.md"
-    },
-    {
       "basename": "WMO, 2012",
       "path": "Papers/WMO, 2012.md"
     },
     {
       "basename": "논문 정리",
       "path": "GraphCast/templete/논문 정리.md"
-    },
-    {
-      "basename": "Quasi-Biennial Oscillation",
-      "path": "Papers/Quasi-Biennial Oscillation.md"
     },
     {
       "basename": "Rossby Waves",
@@ -93,16 +137,8 @@
       "path": "GraphCast/Coding/graphcast.py.md"
     },
     {
-      "basename": "Processor",
-      "path": "GraphCast/structure/Processor.md"
-    },
-    {
       "basename": "Code",
       "path": "GraphCast/Coding/Code.md"
-    },
-    {
-      "basename": "J Kidston, et al.,",
-      "path": "Papers/J Kidston, et al.,.md"
     },
     {
       "basename": "Northern and Southern Annular Mode",
@@ -113,20 +149,8 @@
       "path": "Papers/M. Feldmann, et al., 2024.md"
     },
     {
-      "basename": "D Kochkov, et al., 2024",
-      "path": "Papers/D Kochkov, et al., 2024.md"
-    },
-    {
       "basename": "paper",
       "path": "Templete/paper.md"
-    },
-    {
-      "basename": "L. Olivetti, G.Messori, 2024",
-      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
-    },
-    {
-      "basename": "R. Keisler, 2022",
-      "path": "Papers/R. Keisler, 2022.md"
     },
     {
       "basename": "Lam. et al., 2023",
@@ -155,14 +179,6 @@
     {
       "basename": "data_utils.py",
       "path": "GraphCast/Coding/data_utils.py.md"
-    },
-    {
-      "basename": "GraphCast Model",
-      "path": "GraphCast/structure/GraphCast Model.md"
-    },
-    {
-      "basename": "mesh2grid_dege_normalization_factor",
-      "path": "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md"
     },
     {
       "basename": "latent_size",

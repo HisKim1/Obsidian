@@ -8,19 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7ad563c4f159e83",
+            "id": "2452dd414dae8c73",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bc3ac65f746aace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/structure/Encoder.md",
+                "file": "S. Rasp, et. al., 2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -95,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/structure/Encoder.md",
+                "file": "S. Rasp, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/structure/Encoder.md",
+                "file": "S. Rasp, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/structure/Encoder.md"
+                "file": "S. Rasp, et. al., 2024.md"
               }
             }
           },
@@ -181,8 +189,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a7ad563c4f159e83",
+  "active": "0bc3ac65f746aace",
   "lastOpenFiles": [
+    "S. Rasp, et. al., 2024.md",
+    "Papers/R. Keisler, 2022.md",
+    "Papers/J Kidston, et al.,.md",
+    "Papers/N. Brenowiz, C. Bretherton, 2019.md",
+    "GraphCast/Dataset.md",
+    "Papers/Overview.md",
+    "Papers/D Kochkov, et al., 2024.md",
+    "Papers/L. Olivetti, G.Messori, 2024.md",
+    "Papers/Quasi-Biennial Oscillation.md",
+    "Papers/N..md",
+    "File/Pasted image 20240802130028.png",
+    "GraphCast/structure/Processor.md",
+    "GraphCast/structure/GraphCast Model.md",
+    "GraphCast/structure/Encoder.md",
+    "GraphCast/Coding/Property/Properties.md",
+    "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md",
     "GraphCast/GC graph/GraphCast's Graph.md",
     "GraphCast/GC graph/Mesh2Grid Edge.md",
     "GraphCast/GC graph/Mesh Node.md",
@@ -192,25 +216,10 @@
     "GraphCast/Task/Residual Mean Circulation.md",
     "GraphCast/Task/reflection of planetary wave.md",
     "GraphCast/Task/Prediction Challenge.md",
-    "Papers/Overview.md",
     "Papers/WMO, 2012.md",
     "GraphCast/templete/논문 정리.md",
-    "Papers/Quasi-Biennial Oscillation.md",
-    "GraphCast/Task/Rossby Waves.md",
-    "GraphCast/Task/Sudden Stratospheric Warming.md",
-    "GraphCast/Task/Task.md",
-    "GraphCast/GraphCast GFS by NOAA.md",
-    "GraphCast/Overview.md",
-    "Books/담론, 신영복의 마지막 강의.md",
-    "README.md",
-    "질문.md",
-    "2024-07-01.md",
-    "GraphCast/Task/Input Data 다운.md",
-    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
-    "GraphCast/Coding/graphcast.py.md",
-    "GraphCast/structure/Processor.md",
     "Papers/Arctic_Oscillation_II.svg",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "Events/2024 International Symposium/20240715_143252.jpg",

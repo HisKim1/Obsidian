@@ -1,16 +1,16 @@
 ---
 title: Neural general circulation models for weather and climate
 site: https://www.nature.com/articles/s41586-024-07744-y#Sec2
-summary: 
-keyword: 
+summary:
+keyword:
 status:
-  - NotYet
-aliases: 
+  - WorkingOn
+aliases:
 tags:
   - paper
 when_published: 2024-07-22
 where_published:
-  - nature
+  - Nature
 ---
 ```ad-summary
 3줄 요약
@@ -21,12 +21,29 @@ General circulation models (GCMs) are the foundation of weather and climate pred
 ```
 
 # Introduction
+## data-driven model의 문제점
+1. they do not produce calibrated uncertainty estimates, which is essential for useful weather forecasts.
+2. MSE for averaging over uncertainty, producing unrealistically blurry predictions when optimized for multi-day forecasts
+3. misrepresent derived (diagnostic) variables such as geostrophic wind
+4. the lack of coupling between machine-learning components and the governing equations during training potentially causes serious problems, such as instability and climate drift [[N. Brenowiz, C. Bretherton, 2019]]
+
 
 ---
-# Conclusion
+# Neural GCMs
+![[Pasted image 20240802130028.png]]
+differentiable dynamical core + learned physics module
+- dynamical core: large-scale fluid motion & thermodynamics 
+- learned physics: predicts the effect of unresolved processes
 
+For weather
+- ECMWF-HRES: best-in-class conventional physics-based
+- GraphCast & Pangu: ML-based
+For climate
+- global cloud-resolving model
+- Atmospheric Model Intercomparison Project, AMIP
 ---
-# Method
+# Medium-range Weather forecasting
+
 
 ---
 # Result

@@ -14,4 +14,4 @@ graphcast.py의 ModelConfig class에서 확인 가능!
 ![[resolution]]
 ![[hidden_layers]]
 ![[radius_query_fraction_edge_length]]
-![[mesh2grid_dege_normalization_factor]]
+![[mesh2grid_edge_normalization_factor]]

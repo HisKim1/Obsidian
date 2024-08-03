@@ -244,6 +244,7 @@ namedview
 nonzero
 normal
 nodetypes
+needs
 site
 status
 stratosphere에서
@@ -430,6 +431,11 @@ samples
 sized
 space로
 step행ge
+state로
+structure가
+serious
+sometimes
+sake
 topic
 tags
 templete
@@ -562,6 +568,9 @@ theory
 timescale이라서
 they
 terms
+think
+tens
+thermodynamics
 aliases
 against
 and
@@ -699,6 +708,9 @@ adjust
 approximately
 afterwards
 anaconda
+averaging
+available
+availability
 cssclasses
 considered
 cell
@@ -855,6 +867,12 @@ correct
 continuous
 calibration
 count해서
+calibrated
+components
+causes
+core
+conventional
+cloud
 Tool
 Troposphere에서
 Thermal
@@ -985,6 +1003,8 @@ Timescale
 Thunderstorm
 TaskConfig
 Techniques
+Tests
+This
 Brief
 Bfloat
 Balance
@@ -1204,6 +1224,13 @@ difficult
 details
 diagram
 doubled
+day
+diagnostic
+during
+drift
+does
+different
+differentiable
 of
 ojjjii
 oJg
@@ -1312,6 +1339,10 @@ outputs
 one
 often
 optimizing
+optimized
+operational
+operationally
+only
 Reasoning
 Resources
 Residual
@@ -1566,6 +1597,7 @@ Antarctic
 Antarctica
 Area
 Appling
+AMIP
 Link
 LOO
 LQWW
@@ -1802,6 +1834,8 @@ reforecasts
 reliability
 rare
 reliablility
+realtime
+resolving
 blog
 break
 breaking에
@@ -1931,6 +1965,12 @@ btw
 biases
 bounded
 bidirectional
+blurry
+between
+because
+been
+bit
+beneficial
 posts
 pf
 pss
@@ -2113,6 +2153,13 @@ probabilistic
 particularly
 permission
 pakage에
+produce
+producing
+potentially
+problems
+publishes
+physics
+predicts
 here
 host
 haa
@@ -2241,9 +2288,7 @@ happened
 문단을
 문득
 문사철과
-문법
-문장
-문제가
+문제점
 상황
 상위버전들이
 상승한
@@ -2401,6 +2446,8 @@ library는
 lib이
 library를
 library들도
+look
+learned
 버전
 버전으로
 버금
@@ -2469,6 +2516,7 @@ library들도
 이천구
 이성과
 이면
+이전
 필요함
 필요한
 필요
@@ -2830,6 +2878,8 @@ graph로
 gnn으로
 graphical
 good
+geostrophic
+governing
 GraphCast
 GPU
 Geostrophic
@@ -2933,6 +2983,8 @@ Guidelines
 General
 GNNs
 GFDL
+GCMs
+Graining
 Cast
 Circulation
 Changes
@@ -3029,6 +3081,7 @@ Cha
 CORDEX
 CMIP
 Clustering
+Coarse
 Output
 OD
 OLL
@@ -3247,6 +3300,7 @@ EPS
 EPS라고도
 EA가
 Edges
+Extended
 Message
 Mean
 MJJ
@@ -3363,6 +3417,8 @@ Models
 ModelConfig
 MPI
 Multilevel
+MSE
+Medium
 in
 iii
 iYp
@@ -3477,6 +3533,8 @@ init
 indiv
 improving
 information
+instability
+identical
 지난
 지표
 지속
@@ -3739,6 +3797,7 @@ Should
 Standard
 Scenarios
 Statistical
+Spatially
 순환
 순환을
 순환의
@@ -4032,6 +4091,12 @@ meteorological
 multi
 measure
 matched
+max
+model의
+misrepresent
+machine
+module
+motion
 서풍에
 서로
 서술한바와같이
@@ -4435,6 +4500,8 @@ Probabilistic
 Post
 Processing
 Perceptrons
+Parametrization
+Project
 질량
 질서도
 질문간의
@@ -4564,6 +4631,7 @@ February
 Fast
 Full
 Faces
+For
 초기
 초고
 초기화
@@ -4711,6 +4779,7 @@ winds
 whether
 what
 well
+windows
 높이
 높아져
 높은
@@ -4919,6 +4988,7 @@ Impact
 Inkscape
 IFS
 Issue
+Intercomparison
 yb
 yyyvvv
 yzz
@@ -5016,7 +5086,7 @@ yQ
 yL
 yDP
 ydpi
-y축의
+years
 QH
 Qaa
 QQQ
@@ -5526,6 +5596,7 @@ JOO
 JNg
 JXx
 January
+JAMES
 YY
 YlzK
 YRRR
@@ -5926,6 +5997,10 @@ events
 enough
 env가
 edge는
+estimates
+essential
+equations
+exactly
 VAA
 VWWc
 VUU
@@ -6098,6 +6173,9 @@ unusually
 user
 unidirectional
 uni
+unrealistically
+use
+unresolved
 DEEE
 DPP
 Dt
@@ -6644,6 +6722,8 @@ NotYet
 NAO에
 Num
 Nodes
+NWPs
+Now
 쉄f
 믿vuum
 쳧O
@@ -6686,6 +6766,7 @@ Nodes
 만일
 만약에
 만들어낸
+만든다
 돌리면
 돌려
 돌아가게만
@@ -6885,8 +6966,7 @@ Nodes
 것을
 것이나
 것은
-것들
-것과
+것인지
 앞으로
 앞에서
 앞의것
@@ -6908,6 +6988,7 @@ Nodes
 있을
 있느냐고
 있음에도
+있게
 향상
 향상시키는
 향상에
@@ -6945,14 +7026,7 @@ Nodes
 자기가
 자신의
 자랑하고
-자료
-자신감은
-자신감
-자른
-자마자
-자기
-자기집
-자신
+자료형인가
 화려한
 수식
 수송을
@@ -7077,14 +7151,7 @@ Nodes
 다양한
 다음과
 다시
-다만
-다소
-다수
-다음에
 다음
-다시말하면
-다음으로
-다섯
 정확도
 정의
 정확히
@@ -7141,6 +7208,7 @@ Nodes
 저것
 저것만큼
 저장되어
+저건
 경로
 경계층
 경험의

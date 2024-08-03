@@ -36,7 +36,7 @@
                 "hide": true
               },
               "title": {
-                "width": 225
+                "width": 574
               },
               "keyword": {
                 "width": 419
@@ -61,15 +61,24 @@
               },
               "summary": {
                 "width": 541
+              },
+              "name": {
+                "width": 258
               }
             },
             "orderFields": [
               "name",
               "status",
+              "summary",
               "title",
               "keyword",
-              "summary",
-              "where published"
+              "when_published",
+              "where_published",
+              "path",
+              "aliases",
+              "datetime",
+              "site",
+              "tags"
             ]
           },
           "filter": {

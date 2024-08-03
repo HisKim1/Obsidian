@@ -1,11 +1,11 @@
 ---
 title: "Lightning-Fast Thunderstorm Warnings: Predicting Severe Convective Environments with Global Neural Weather Models"
 site: https://arxiv.org/abs/2406.09474
-summary: 
-keyword: 
+summary:
+keyword:
 status:
   - NotYet
-aliases: 
+aliases:
 tags:
   - paper
 when_published: 2024-07-13
