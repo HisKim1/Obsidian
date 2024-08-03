@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "wcrp",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 1.55925155925156,
   "linkStrength": 1,
   "linkDistance": 47,
-  "scale": 0.808275152014568,
+  "scale": 1.1331879398218028,
   "close": false
 }

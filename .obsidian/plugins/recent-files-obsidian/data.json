@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "학기말 설문조사 결과",
-      "path": "학기말 설문조사 결과.md"
+      "basename": "Encoder",
+      "path": "GraphCast/structure/Encoder.md"
     },
     {
-      "basename": "D Kochkov, et al., 2024",
-      "path": "Papers/D Kochkov, et al., 2024.md"
+      "basename": "GraphCast's Graph",
+      "path": "GraphCast/GC graph/GraphCast's Graph.md"
     },
     {
-      "basename": "M. Feldmann, et al., 2024",
-      "path": "Papers/M. Feldmann, et al., 2024.md"
+      "basename": "Mesh2Grid Edge",
+      "path": "GraphCast/GC graph/Mesh2Grid Edge.md"
+    },
+    {
+      "basename": "Mesh Node",
+      "path": "GraphCast/GC graph/Mesh Node.md"
+    },
+    {
+      "basename": "Mesh Edge",
+      "path": "GraphCast/GC graph/Mesh Edge.md"
+    },
+    {
+      "basename": "Grid2Mesh Edge",
+      "path": "GraphCast/GC graph/Grid2Mesh Edge.md"
+    },
+    {
+      "basename": "Grid Node",
+      "path": "GraphCast/GC graph/Grid Node.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "GraphCast/Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "reflection of planetary wave",
+      "path": "GraphCast/Task/reflection of planetary wave.md"
+    },
+    {
+      "basename": "Prediction Challenge",
+      "path": "GraphCast/Task/Prediction Challenge.md"
     },
     {
       "basename": "Overview",
       "path": "Papers/Overview.md"
     },
     {
-      "basename": "J Kidston, et al.,",
-      "path": "Papers/J Kidston, et al.,.md"
+      "basename": "WMO, 2012",
+      "path": "Papers/WMO, 2012.md"
     },
     {
-      "basename": "paper",
-      "path": "Templete/paper.md"
+      "basename": "논문 정리",
+      "path": "GraphCast/templete/논문 정리.md"
+    },
+    {
+      "basename": "Quasi-Biennial Oscillation",
+      "path": "Papers/Quasi-Biennial Oscillation.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "GraphCast/Task/Rossby Waves.md"
     },
     {
       "basename": "Sudden Stratospheric Warming",
@@ -31,6 +67,58 @@
     {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "GraphCast GFS by NOAA",
+      "path": "GraphCast/GraphCast GFS by NOAA.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "GraphCast/Overview.md"
+    },
+    {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "CORDEX East Asia Activities in South Korea",
+      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
+    },
+    {
+      "basename": "graphcast.py",
+      "path": "GraphCast/Coding/graphcast.py.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "Code",
+      "path": "GraphCast/Coding/Code.md"
+    },
+    {
+      "basename": "J Kidston, et al.,",
+      "path": "Papers/J Kidston, et al.,.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
+      "basename": "M. Feldmann, et al., 2024",
+      "path": "Papers/M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "D Kochkov, et al., 2024",
+      "path": "Papers/D Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
     },
     {
       "basename": "L. Olivetti, G.Messori, 2024",
@@ -49,20 +137,8 @@
       "path": "GraphCast/paper/General Forecasting Problem Statement.md"
     },
     {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
       "basename": "Arctic_Oscillation_II",
       "path": "Papers/Arctic_Oscillation_II.svg"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
-      "basename": "Residual Mean Circulation",
-      "path": "GraphCast/Task/Residual Mean Circulation.md"
     },
     {
       "basename": "eval_target 만들기",
@@ -75,14 +151,6 @@
     {
       "basename": "solar_radiation.py",
       "path": "GraphCast/Coding/solar_radiation.py.md"
-    },
-    {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
-    },
-    {
-      "basename": "Code",
-      "path": "GraphCast/Coding/Code.md"
     },
     {
       "basename": "data_utils.py",
@@ -117,10 +185,6 @@
       "path": "GraphCast/Coding/GPU Info.md"
     },
     {
-      "basename": "Encoder",
-      "path": "GraphCast/structure/Encoder.md"
-    },
-    {
       "basename": "Dataset",
       "path": "GraphCast/Dataset.md"
     },
@@ -129,28 +193,8 @@
       "path": "Events/2024 International Symposium/20240715_170609.jpg"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Processor",
-      "path": "GraphCast/structure/Processor.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "GraphCast/Overview.md"
-    },
-    {
-      "basename": "Prediction Challenge",
-      "path": "GraphCast/Task/Prediction Challenge.md"
-    },
-    {
       "basename": "Pasted image 20240708164348",
       "path": "GraphCast/Task/Pasted image 20240708164348.png"
-    },
-    {
-      "basename": "GraphCast GFS by NOAA",
-      "path": "GraphCast/GraphCast GFS by NOAA.md"
     },
     {
       "basename": "Server Info",

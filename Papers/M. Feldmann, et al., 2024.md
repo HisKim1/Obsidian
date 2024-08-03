@@ -8,8 +8,9 @@ status:
 aliases: 
 tags:
   - paper
-when_published: 2024-07-09T09:55:00
+when_published: 2024-07-13
 where_published:
+  - arXiv
 ---
 ```ad-summary
 3줄 요약

@@ -105,6 +105,34 @@ upward propagating planetary-scale wave가 스스로 circumpolar jet를 변화�
 - observed response can be realized w/ the additional contribution from tropospheric eddy momentum feedbacks
 ---
 # Surface Weater Impacts
+strato. circumpolar jet 약화 $\rightarrow$ strato-tropo. coupling이 atlantic blocking 경향 증가
+
+strato. circumpolar jet change $\propto$ extreme weather, climate event
+
+associated surface impact magnitude는 SSW의 structure에 dep.
+1. split event
+   : strato. polar vortex가 2개로 split될 때
+   $\rightarrow$ strong surface response
+2. displacement event
+   : the pole로부터 displaced away
+   $\rightarrow$ weak surface response
+
+strato.-tropo. coupling에 의한 extreme weather occurrence changes $\simeq$ negative NAM/NAO에 의한 변화 $\perp\!\!\!\!\perp$ timescale
+
+[[Quasi-Biennial Oscillation]], (QBO)
+winter에 QBO가 westerlies면 circumpolar jet이 unusually strong
+$\Rightarrow$ intense & poleward-shifted tropospheric jet stream
+$\Rightarrow$ stronger surface winds & intense cyclones
+
+abnorm positive SAM + massive Antarctic ozone loss = 지역별 summertime 온도 변화
+
+---
+# Ocean Impacts
+## Southern Hemisphere
+
+
+## Northern Hemisphere
+
 
 ---
 [^N/SAM]: [[Northern and Southern Annular Mode]]

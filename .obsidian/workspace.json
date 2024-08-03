@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a894ff895cd344d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "학기말 설문조사 결과.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b751756e72f7bafc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/M. Feldmann, et al., 2024.md",
-                "mode": "source",
+                "file": "GraphCast/structure/Encoder.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Question",
+                "query": "tag:Document",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -121,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학기말 설문조사 결과.md",
+                "file": "GraphCast/structure/Encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학기말 설문조사 결과.md",
+                "file": "GraphCast/structure/Encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학기말 설문조사 결과.md"
+                "file": "GraphCast/structure/Encoder.md"
               }
             }
           },
@@ -207,42 +181,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a894ff895cd344d",
+  "active": "a7ad563c4f159e83",
   "lastOpenFiles": [
-    "Correlation_matrix_heatmap.png",
-    "Papers/D Kochkov, et al., 2024.md",
-    "Papers/M. Feldmann, et al., 2024.md",
+    "GraphCast/GC graph/GraphCast's Graph.md",
+    "GraphCast/GC graph/Mesh2Grid Edge.md",
+    "GraphCast/GC graph/Mesh Node.md",
+    "GraphCast/GC graph/Mesh Edge.md",
+    "GraphCast/GC graph/Grid2Mesh Edge.md",
+    "GraphCast/GC graph/Grid Node.md",
+    "GraphCast/Task/Residual Mean Circulation.md",
+    "GraphCast/Task/reflection of planetary wave.md",
+    "GraphCast/Task/Prediction Challenge.md",
     "Papers/Overview.md",
-    "Papers/J Kidston, et al.,.md",
-    "Templete/paper.md",
+    "Papers/WMO, 2012.md",
+    "GraphCast/templete/논문 정리.md",
+    "Papers/Quasi-Biennial Oscillation.md",
+    "GraphCast/Task/Rossby Waves.md",
     "GraphCast/Task/Sudden Stratospheric Warming.md",
     "GraphCast/Task/Task.md",
-    "Papers/L. Olivetti, G.Messori, 2024.md",
-    "Papers/R. Keisler, 2022.md",
-    "Papers/Lam. et al., 2023.md",
-    "GraphCast/paper/General Forecasting Problem Statement.md",
-    "Papers/Northern and Southern Annular Mode.md",
-    "Papers/Arctic_Oscillation_II.svg",
-    "GraphCast/Task/Input Data 다운.md",
-    "GraphCast/Task/Residual Mean Circulation.md",
-    "GraphCast/Task/eval_target 만들기.md",
-    "GraphCast/Task/eval_forcing 만들기.md",
-    "GraphCast/Coding/solar_radiation.py.md",
+    "GraphCast/GraphCast GFS by NOAA.md",
+    "GraphCast/Overview.md",
     "Books/담론, 신영복의 마지막 강의.md",
-    "GraphCast/Coding/Code.md",
-    "GraphCast/Coding/data_utils.py.md",
-    "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/Coding/Property/mesh2grid_dege_normalization_factor.md",
-    "GraphCast/Coding/Property/latent_size.md",
-    "GraphCast/Coding/Property/resolution.md",
-    "GraphCast/ERA5.md",
+    "README.md",
+    "질문.md",
+    "2024-07-01.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md",
+    "File/Pasted image 20240731110643.png",
+    "File/Pasted image 20240731110640.png",
+    "GraphCast/Coding/graphcast.py.md",
+    "GraphCast/structure/Processor.md",
+    "Papers/Arctic_Oscillation_II.svg",
     "Events/2024 International Symposium/20240715_170609.jpg",
     "Events/2024 International Symposium/20240715_143252.jpg",
     "Events/2024 UnionWorkshop",
     "Events/2024 International Symposium",
     "Events",
     "Books",
-    "File",
     "Projects - Demo Project",
     "GraphCast/Task/Pasted image 20240708164348.png",
     "Task/Pasted image 20240708164348.png",

@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignJustify",
       "LiArchive",
       "LiBookOpen",
       "LiAlbum",
@@ -38,5 +39,6 @@
   "Events": "LiBaggageClaim",
   "Papers": "LiAlbum",
   "Books": "LiBookOpen",
-  "Templete": "LiArchive"
+  "Templete": "LiArchive",
+  "Papers/Overview.md": "LiAlignJustify"
 }

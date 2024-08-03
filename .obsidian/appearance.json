@@ -3,7 +3,7 @@
   "textFontFamily": "Pretendard",
   "interfaceFontFamily": "Pretendard",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 15,
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
   "cssTheme": "GitHub Theme"
 }

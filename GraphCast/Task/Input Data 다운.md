@@ -15,9 +15,10 @@
 	5. total precipitation -> 얘만 hourly로 다운
 4. radiation and heat
 	1. (TOA incident solar radiation) 필요 없을 수도?
-5. others
+5. other
 	1. geopotential
 	2. land-sea mask
+
 [multi layer 딸깍딸깍](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form)
 1. variables
 	1. geopotential
