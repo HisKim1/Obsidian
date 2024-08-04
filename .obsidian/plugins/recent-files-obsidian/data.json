@@ -199,6 +199,66 @@
     {
       "basename": "GPU Info",
       "path": "GraphCast/Coding/GPU Info.md"
+    },
+    {
+      "basename": "Dataset",
+      "path": "GraphCast/Dataset.md"
+    },
+    {
+      "basename": "20240715_170609",
+      "path": "Events/2024 International Symposium/20240715_170609.jpg"
+    },
+    {
+      "basename": "Pasted image 20240708164348",
+      "path": "GraphCast/Task/Pasted image 20240708164348.png"
+    },
+    {
+      "basename": "Server Info",
+      "path": "GraphCast/Coding/Server Info.md"
+    },
+    {
+      "basename": "Conda Env",
+      "path": "GraphCast/Coding/Conda Env.md"
+    },
+    {
+      "basename": "autoregressive.py",
+      "path": "GraphCast/Coding/autoregressive.py.md"
+    },
+    {
+      "basename": "GraphCast's Graph",
+      "path": "GraphCast/GC graph/GraphCast's Graph.md"
+    },
+    {
+      "basename": "O",
+      "path": "Graduate/O.md"
+    },
+    {
+      "basename": "Task",
+      "path": "Task/Task.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "Task/Rossby Waves.md"
+    },
+    {
+      "basename": "요청 사항",
+      "path": "Task/요청 사항.md"
+    },
+    {
+      "basename": "Dataset",
+      "path": "Dataset.md"
+    },
+    {
+      "basename": "GNN으로 기상 예측 가능",
+      "path": "paper/GNN으로 기상 예측 가능.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
+      "basename": "GraphCast by Deepmind",
+      "path": "paper/GraphCast by Deepmind.md"
     }
   ],
   "omittedPaths": [
