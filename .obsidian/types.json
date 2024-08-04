@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "status": "multitext",
-    "datetime": "datetime",
+    "datetime": "date",
     "keyword": "multitext",
     "where published": "multitext",
     "when published": "date",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
       "basename": "S. Rasp, et. al., 2024",
       "path": "Papers/S. Rasp, et. al., 2024.md"
     },
@@ -149,10 +157,6 @@
       "path": "Papers/M. Feldmann, et al., 2024.md"
     },
     {
-      "basename": "paper",
-      "path": "Templete/paper.md"
-    },
-    {
       "basename": "Lam. et al., 2023",
       "path": "Papers/Lam. et al., 2023.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "ERA5",
       "path": "GraphCast/ERA5.md"
-    },
-    {
-      "basename": "rollout.py",
-      "path": "GraphCast/Coding/rollout.py.md"
     }
   ],
   "omittedPaths": [

@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmCheck",
       "LiAlignJustify",
       "LiArchive",
       "LiBookOpen",
@@ -40,5 +41,6 @@
   "Papers": "LiAlbum",
   "Books": "LiBookOpen",
   "Templete": "LiArchive",
-  "Papers/Overview.md": "LiAlignJustify"
+  "Papers/Overview.md": "LiAlignJustify",
+  "TODO": "LiAlarmCheck"
 }
