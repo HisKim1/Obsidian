@@ -11,7 +11,8 @@ due in or after {{date}} - path includes {{date}}
 sort by scheduled, due
 ```
 
-#### 
+#### 🤦‍♂️개쩌는 인턴 생활
+
 
 #### 🍻 Relax & Chill 
 <%*
@@ -33,7 +34,5 @@ if (dayOfWeek === 0) {
   tR += "- [ ] 힙합 죠져~\n";
 }
 %>
-
-
 ### What to work on tomorrow?
 `ctrl + L`

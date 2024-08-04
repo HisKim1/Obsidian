@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templete/TODO.md",
+                "file": "TODO/2024-08-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templete/TODO.md",
+                "file": "TODO/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templete/TODO.md",
+                "file": "TODO/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templete/TODO.md"
+                "file": "TODO/2024-08-05.md"
               }
             }
           },
@@ -182,12 +182,12 @@
   },
   "active": "3df638e8e0d1a2ba",
   "lastOpenFiles": [
-    "TODO/2024-08-04.md",
     "Templete/TODO.md",
+    "TODO/2024-08-05.md",
+    "TODO/2024-08-04.md",
     "TODO/2024-08-03.md",
     "TODO/2024-08-02.md",
     "Templete/paper.md",
-    "TODO/2024-08-05.md",
     "TODO/TODO.md",
     "TODO/2024-08-07.md",
     "TODO/2024-08-08.md",

@@ -3555,6 +3555,7 @@ info
 인생사와
 인생사를
 인간의
+인턴
 됩니다
 쓰인
 쓰려고
@@ -3604,6 +3605,7 @@ info
 개에
 개로
 개를
+개쩌는
 Stratospheric
 Surface
 SU
