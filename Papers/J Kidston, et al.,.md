@@ -129,8 +129,6 @@ abnorm positive SAM + massive Antarctic ozone loss = 지역별 summertime 온도
 ---
 # Ocean Impacts
 ## Southern Hemisphere
-
-
 ## Northern Hemisphere
 
 

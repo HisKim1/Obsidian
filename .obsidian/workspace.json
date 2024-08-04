@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27a08ef813e802c5",
+        "id": "54e5cb152d802bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "b33883e93d450f38",
+            "id": "f2806204030d4b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,16 +17,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0752c435683ec330",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
               }
             }
           }
@@ -190,20 +180,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b33883e93d450f38",
+  "active": "f2806204030d4b6a",
   "lastOpenFiles": [
-    "Templete/TODO.md",
-    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
     "TODO/2024-08-04.md",
-    "Excalidraw",
+    "Templete/TODO.md",
+    "TODO/2024-08-03.md",
+    "TODO/2024-08-02.md",
+    "TODO/2024-08-07.md",
+    "TODO/2024-08-08.md",
+    "TODO/2021-W44.md",
+    "TODO/Vision Board.md",
+    "TODO/2024-08-06.md",
+    "TODO/2024-08-05.md",
     "Templete/paper.md",
+    "TODO/24.08.04.md",
+    "Papers/J Kidston, et al.,.md",
+    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
+    "Excalidraw",
     "Papers/S. Rasp, et. al., 2024.md",
     "TODO",
     "conflict-files-obsidian-git.md",
     "Papers/D Kochkov, et al., 2024.md",
     "Correlation_matrix_heatmap.png",
     "Papers/R. Keisler, 2022.md",
-    "Papers/J Kidston, et al.,.md",
     "Papers/N. Brenowiz, C. Bretherton, 2019.md",
     "GraphCast/Dataset.md",
     "Papers/Overview.md",
@@ -213,15 +212,6 @@
     "File/Pasted image 20240802130028.png",
     "GraphCast/structure/Processor.md",
     "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/structure/Encoder.md",
-    "GraphCast/Coding/Property/Properties.md",
-    "GraphCast/Coding/Property/mesh2grid_edge_normalization_factor.md",
-    "GraphCast/GC graph/GraphCast's Graph.md",
-    "GraphCast/GC graph/Mesh2Grid Edge.md",
-    "GraphCast/GC graph/Mesh Node.md",
-    "GraphCast/GC graph/Mesh Edge.md",
-    "GraphCast/GC graph/Grid2Mesh Edge.md",
-    "GraphCast/GC graph/Grid Node.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "Papers/Arctic_Oscillation_II.svg",

@@ -1258,6 +1258,7 @@ desired
 date
 document
 decompress
+dayOfWeek
 of
 ojjjii
 oJg
@@ -1505,6 +1506,7 @@ RDF
 Regional
 Reforecasts
 Refinement
+Relax
 Alternatives
 Anomalous
 AAA
@@ -1628,6 +1630,8 @@ Area
 Appling
 AMIP
 Additional
+Accidentally
+Awesome
 Link
 LOO
 LQWW
@@ -2482,6 +2486,8 @@ look
 learned
 list
 listed
+last
+let
 버전
 버전으로
 이상이
@@ -3041,6 +3047,8 @@ CMIP
 Clustering
 Coarse
 Conflicts
+CROSSFIT
+Chill
 Output
 OD
 OLL
@@ -3554,6 +3562,7 @@ info
 되었는지
 되기도
 되고
+되는데
 모르겠습니다
 모르지만
 모르겟음
@@ -4009,6 +4018,7 @@ machine
 module
 motion
 menu
+moment
 서풍에
 서로
 서버의
@@ -4130,6 +4140,7 @@ WeatherBench
 공유하여
 공감
 공유하며
+공부하기
 단열
 단기에
 단위
@@ -5872,6 +5883,7 @@ equations
 exactly
 every
 excalidraw
+else
 VAA
 VWWc
 VUU
@@ -6617,6 +6629,8 @@ Not
 일반적
 일간
 일반적인
+일요일
+일정
 때의
 때문에
 때문입니다
@@ -6851,6 +6865,7 @@ Not
 정확히
 정의됩니다
 정도
+정리하기
 시기
 시간
 시간을
@@ -6955,6 +6970,7 @@ Not
 조절
 조정
 조교를
+조지기
 우리가
 우선
 우리의
@@ -7023,6 +7039,7 @@ Not
 평가
 평가할
 평균적으로
+평일
 남북
 남북반구
 남반구도
@@ -7065,6 +7082,7 @@ Not
 매한가지
 매사
 밀도
+밀린
 뭔지
 몰라서
 마지막
@@ -7095,6 +7113,7 @@ Not
 목적
 목표
 목적별로
+목요일까지
 패널과
 품질
 물리적
@@ -7188,6 +7207,7 @@ Not
 존재다
 들려주던
 들었습니다
+들어가면
 못한
 못하더라
 담겨
@@ -7240,3 +7260,12 @@ Not
 뽑아낼
 판단
 벤치마크
+논문
+읽기
+읽고
+헬로
+월요일부터
+금요일
+힙합
+죠져
+출처
