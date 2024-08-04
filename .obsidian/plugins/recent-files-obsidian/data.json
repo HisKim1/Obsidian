@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-04",
+      "path": "TODO/2024-08-04.md"
+    },
+    {
       "basename": "TODO",
       "path": "Templete/TODO.md"
+    },
+    {
+      "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
     },
     {
       "basename": "paper",
@@ -191,10 +199,6 @@
     {
       "basename": "resolution",
       "path": "GraphCast/Coding/Property/resolution.md"
-    },
-    {
-      "basename": "ERA5",
-      "path": "GraphCast/ERA5.md"
     }
   ],
   "omittedPaths": [

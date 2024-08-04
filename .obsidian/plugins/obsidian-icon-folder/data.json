@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolders",
+      "LiPaintbrush",
       "LiAlarmCheck",
       "LiAlignJustify",
       "LiArchive",
@@ -42,5 +44,7 @@
   "Books": "LiBookOpen",
   "Templete": "LiArchive",
   "Papers/Overview.md": "LiAlignJustify",
-  "TODO": "LiAlarmCheck"
+  "TODO": "LiAlarmCheck",
+  "Excalidraw": "LiPaintbrush",
+  "File": "LiFolders"
 }

@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templete/TODO.md",
+                "file": "TODO/2024-08-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0752c435683ec330",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
               }
             }
           }
@@ -44,26 +54,26 @@
             }
           },
           {
+            "id": "6f9163b10e327518",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "22576245cff92cdf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Document",
+                "query": "[\"where published\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "bf7c68202e43a21c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templete/TODO.md",
+                "file": "TODO/2024-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +121,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templete/TODO.md",
+                "file": "TODO/2024-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4349d433e3938dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO/2024-08-04.md"
+              }
+            }
+          },
+          {
+            "id": "501fc52739e03c74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -129,37 +161,15 @@
             }
           },
           {
-            "id": "4349d433e3938dee",
+            "id": "bf7c68202e43a21c",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Templete/TODO.md"
-              }
-            }
-          },
-          {
-            "id": "6f9163b10e327518",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "bookmarks",
               "state": {}
-            }
-          },
-          {
-            "id": "501fc52739e03c74",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,9 +192,11 @@
   },
   "active": "b33883e93d450f38",
   "lastOpenFiles": [
-    "Templete/paper.md",
     "Templete/TODO.md",
+    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
     "TODO/2024-08-04.md",
+    "Excalidraw",
+    "Templete/paper.md",
     "Papers/S. Rasp, et. al., 2024.md",
     "TODO",
     "conflict-files-obsidian-git.md",
@@ -210,7 +222,6 @@
     "GraphCast/GC graph/Mesh Edge.md",
     "GraphCast/GC graph/Grid2Mesh Edge.md",
     "GraphCast/GC graph/Grid Node.md",
-    "GraphCast/Task/Residual Mean Circulation.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "Papers/Arctic_Oscillation_II.svg",
@@ -228,7 +239,6 @@
     "요청 사항.pdf",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "Task",
     "GraphCast/무제 파일.canvas"
   ]
 }

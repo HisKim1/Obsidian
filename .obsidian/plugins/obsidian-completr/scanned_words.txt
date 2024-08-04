@@ -442,6 +442,7 @@ sometimes
 sake
 scanned
 simple
+settings
 topic
 tags
 templete
@@ -890,6 +891,9 @@ completr
 cursor
 conflicted
 conflicts
+clock
+command
+check
 Tool
 Troposphere에서
 Thermal
@@ -1252,6 +1256,8 @@ differentiable
 deleted
 desired
 date
+document
+decompress
 of
 ojjjii
 oJg
@@ -1365,6 +1371,7 @@ operational
 operationally
 only
 obsidian
+out
 Reasoning
 Resources
 Residual
@@ -2195,6 +2202,9 @@ physics
 predicts
 plugins
 position
+plugin
+parsed
+palette
 here
 host
 haa
@@ -3113,6 +3123,7 @@ Obsidian
 Ozone
 Ozone의
 Ocean
+OPTIONS
 Error
 Eddy
 EEE
@@ -3250,6 +3261,8 @@ EPS라고도
 EA가
 Edges
 Extended
+EXCALIDRAW
+Excalidraw
 Message
 Mean
 MJJ
@@ -3368,6 +3381,7 @@ MPI
 Multilevel
 MSE
 Medium
+MORE
 in
 iii
 iYp
@@ -3484,6 +3498,7 @@ improving
 information
 instability
 identical
+info
 지난
 지표
 지속
@@ -3708,6 +3723,8 @@ Standard
 Scenarios
 Statistical
 Spatially
+Switch
+Saving
 순환
 순환을
 순환의
@@ -3991,6 +4008,7 @@ misrepresent
 machine
 module
 motion
+menu
 서풍에
 서로
 서버의
@@ -5518,6 +5536,7 @@ Y벳
 YnW
 YSJ
 YYi
+YYYY
 Kx
 KAA
 KMM
@@ -5852,6 +5871,7 @@ essential
 equations
 exactly
 every
+excalidraw
 VAA
 VWWc
 VUU
@@ -5932,6 +5952,7 @@ VL
 VPrJ
 Vo
 Verification
+VIEW
 uuu
 uJMM
 ukii
@@ -6027,6 +6048,7 @@ uni
 unrealistically
 use
 unresolved
+under
 DEEE
 DPP
 Dt
@@ -6140,6 +6162,8 @@ Dataset으로
 Dong
 Downscaling
 Driven
+Drawing
+Decompress
 vm
 vLL
 vX
