@@ -47,7 +47,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +210,14 @@
   },
   "active": "519ba8d5f34f2ad8",
   "lastOpenFiles": [
+    "TODO/2024-08-06.md",
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+    "Templete/TODO.md",
     "TODO/2024-08-05.md",
     "Papers/D Kochkov, et al., 2024.md",
     "Papers/Bonavita , M, 2024.md",
     "File/Pasted image 20240805095841.png",
     "Correlation_matrix_heatmap.png",
-    "Templete/TODO.md",
     "Papers/Northern and Southern Annular Mode.md",
     "Papers/N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/Quasi-Biennial Oscillation.md",
@@ -223,7 +225,6 @@
     "Papers/WMO, 2012.md",
     "Papers/S. Rasp, et. al., 2024.md",
     "TODO/2024-08-15.md",
-    "TODO/2024-08-06.md",
     "TODO/2024-08-07.md",
     "TODO/2024-08-04.md",
     "TODO/2024-08-03.md",
