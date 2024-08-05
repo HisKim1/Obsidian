@@ -45,6 +45,24 @@ For climate
 # Medium-range Weather forecasting
 성능 비교에는 [[S. Rasp, et. al., 2024|WeatherBench2]] 썼다
 
+## Model Accuracy
+<font color="#00e676">Deterministic models</font> that produce a single weather forecast for given initial conditions can be <font color="#00e676">compared effectively using RMSE skill</font> at short lead times.
+
+Ensembles are essential for <font color="#00e676">capturing intrinsic uncertainty</font> of weather forecasts, especially at longer lead times.
+## Case Study
+An important characteristic of forecasts is <font color="#00e676">their resemblance to realistic weather patterns</font>.
+
+<font color="#00e676">Blurrier forecasts</font> correspond to <font color="#00e676">physically inconsistent</font> atmospheric conditions and misrepresent extreme weather.
+
+## Spectra
+We can <font color="#00e676">quantify the blurriness</font> of different forecast models <font color="#00e676">via their power spectra</font>.
+
+## Water budget
+
+## Geostrophic Wind Balance
+
+## Generalizing to Unseen Data
+
 ---
 # Result
 

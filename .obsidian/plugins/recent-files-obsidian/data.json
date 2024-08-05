@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-05",
+      "path": "TODO/2024-08-05.md"
+    },
+    {
       "basename": "D Kochkov, et al., 2024",
       "path": "Papers/D Kochkov, et al., 2024.md"
     },
     {
-      "basename": "2024-08-05",
-      "path": "TODO/2024-08-05.md"
+      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
+      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
+    },
+    {
+      "basename": "Correlation_matrix_heatmap",
+      "path": "Correlation_matrix_heatmap.png"
+    },
+    {
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
     },
     {
       "basename": "Northern and Southern Annular Mode",
@@ -31,14 +43,6 @@
     {
       "basename": "S. Rasp, et. al., 2024",
       "path": "Papers/S. Rasp, et. al., 2024.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "Templete/TODO.md"
-    },
-    {
-      "basename": "Correlation_matrix_heatmap",
-      "path": "Correlation_matrix_heatmap.png"
     },
     {
       "basename": "paper",

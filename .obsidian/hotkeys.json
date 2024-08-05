@@ -62,5 +62,21 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editing-toolbar:change-font-color": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editing-toolbar:change-background-color": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }

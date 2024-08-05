@@ -286,7 +286,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
-  "cMenuFontColor": "#00b0f0",
+  "cMenuFontColor": "#00e676",
   "cMenuBackgroundColor": "#b1ffff",
   "autohide": false,
   "custom_bg1": "#FFB78B8C",
@@ -298,6 +298,6 @@
   "custom_fc2": "#DE7802",
   "custom_fc3": "#2673DD",
   "custom_fc4": "#6425D0",
-  "custom_fc5": "#646A73",
+  "custom_fc5": "#00E676",
   "isLoadOnMobile": false
 }
