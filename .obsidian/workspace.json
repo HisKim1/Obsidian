@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+                "file": "TODO/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+                "file": "TODO/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
+                "file": "TODO/2024-08-05.md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1961407fb3521ed8",
+  "active": "519ba8d5f34f2ad8",
   "lastOpenFiles": [
-    "TODO/2024-08-05.md",
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+    "TODO/2024-08-05.md",
     "Papers/D Kochkov, et al., 2024.md",
     "Papers/Bonavita , M, 2024.md",
     "File/Pasted image 20240805095841.png",
