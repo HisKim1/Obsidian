@@ -1,10 +1,10 @@
 ---
 title: Neural general circulation models for weather and climate
 site: https://www.nature.com/articles/s41586-024-07744-y#Sec2
-summary: NN + NWP / 날씨부터 기후까지 / 이상적인
+summary: NN + NWP / 날씨부터 기후까지 / 첫 hybrid 모델
 keyword: 
 status:
-  - WorkingOn
+  - Done
 aliases: 
 tags:
   - paper
@@ -13,7 +13,9 @@ where_published:
   - Nature
 ---
 ```ad-summary
-3줄 요약
+GCM의 2부분 중에서 physics를 NN으로 대체했더니 !blur한 예측을 하더라. 
+당연히 연산 cost 줄었다.
+앞으로 나아가야 할 방향성을 실현한 모델이지 않을까.
 ```
 
 ```ad-abstract

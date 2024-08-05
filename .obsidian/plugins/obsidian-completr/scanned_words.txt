@@ -475,6 +475,7 @@ sz
 stjZx
 spectra
 study
+shows
 topic
 tags
 templete
@@ -963,6 +964,7 @@ compared
 capturing
 characteristic
 correspond
+chunks로
 Tool
 Troposphere에서
 Thermal
@@ -2722,6 +2724,7 @@ limitations
 에서
 에도
 에르되시
+에러는
 구동
 구해보자
 구조
@@ -2899,6 +2902,7 @@ j뚴
 설명이
 설약이라고
 설치된
+설명해주지는
 graphcast
 gf
 ggg
@@ -3044,6 +3048,7 @@ gcii
 got
 google만
 google
+google과
 GraphCast
 GPU
 Geostrophic
@@ -3645,6 +3650,7 @@ MS
 Mvn
 Mfz
 MCRz
+Moire
 in
 iii
 iYp
@@ -3821,6 +3827,7 @@ inconsistent
 인생사를
 인간의
 인턴
+인한
 됩니다
 쓰인
 쓰려고
@@ -4009,6 +4016,7 @@ SVV
 Sde
 Study
 Spectra
+Similarly
 순환
 순환을
 순환의
@@ -4736,9 +4744,11 @@ Perceptrons
 Parametrization
 Project
 PXR
+Pattern이
 질량
 질서도
 재분배
+재현
 발생
 발생하는
 발달에
@@ -4749,6 +4759,7 @@ PXR
 발생에
 발견되었기
 발견한
+발생한다
 감소
 중위도
 중요한
@@ -5015,6 +5026,7 @@ workspace
 waom
 wRzf
 wRhP
+worsens
 높이
 활성화
 활동
@@ -7398,6 +7410,8 @@ NZN
 오존홀
 오전
 오랜
+오차가
+오차를
 분포
 분열
 분류하는
@@ -7519,6 +7533,7 @@ NZN
 그다지
 그래프
 그러고
+그게
 잔류
 평균
 평가
@@ -7541,6 +7556,7 @@ NZN
 나만의
 나타냄
 나뉨
+나타난다
 운동량
 운동을
 운명이

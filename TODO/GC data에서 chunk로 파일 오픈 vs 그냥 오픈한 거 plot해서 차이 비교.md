@@ -29,3 +29,9 @@ multiprocessing의 영향? 기타 연산 방식의 변화로 인한 차이 발�
 | input  | all_chunk   | tp_chunk   | none      |
 | output | all\_both\_ | tp\_both\_ | none_both |
 | Done?  | ✈           |            |           |
+
+### Result
+1. chunks로 인한 오차가 발생한다.
+2. 그 에러는 재현 가능하다.
+3. 하지만 그게 google과 ERA5의 오차를 설명해주지는 않는다.
+4. 특정 timestep, level에서 Moire Pattern이 나타난다
