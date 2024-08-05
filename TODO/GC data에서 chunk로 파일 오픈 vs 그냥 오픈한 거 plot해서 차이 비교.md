@@ -24,13 +24,8 @@ multiprocessing의 영향? 기타 연산 방식의 변화로 인한 차이 발�
 	2-3. google만 chunk로 open
 	2-4. 둘 다 chunk로 open
 
-|        |             |            |           |          |            |           |           |          |
-| ------ | ----------- | ---------- | --------- | -------- | ---------- | --------- | --------- | -------- |
-| ERA5   | 1           | 1          | 1         | 1        | 0          | 0         | 0         | 0        |
-| google | 1           | 1          | 0         | 0        | 1          | 1         | 0         | 0        |
-| input  | all_chunk   | tp_chunk   | all_chunk | tp_chunk | all_chunk  | tp_chunk  | all_chunk | tp_chunk |
-| output | all\_both\_ | tp\_both\_ | all_ERA5  | tp_ERA5  | all_google | tp_google | all_none  | tp_none  |
-| Done?  | ✈           |            |           |          |            |           |           |          |
-```python
-chunk={time="auto", lat="30", lon ="60"}
-```
+|        |             |            |           |
+| ------ | ----------- | ---------- | --------- |
+| input  | all_chunk   | tp_chunk   | none      |
+| output | all\_both\_ | tp\_both\_ | none_both |
+| Done?  | ✈           |            |           |

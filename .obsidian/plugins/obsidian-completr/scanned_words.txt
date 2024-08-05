@@ -265,6 +265,7 @@ nV
 nnT
 nZv
 nmT
+noted
 site
 status
 stratosphere에서
@@ -472,6 +473,8 @@ swq
 sp
 sz
 stjZx
+spectra
+study
 topic
 tags
 templete
@@ -764,6 +767,7 @@ aJk
 ae
 aki
 arXiv
+atmospheric
 cssclasses
 considered
 cell
@@ -956,6 +960,9 @@ concatenator
 chunk로
 chunk
 compared
+capturing
+characteristic
+correspond
 Tool
 Troposphere에서
 Thermal
@@ -1201,6 +1208,7 @@ Beon
 Byq
 BUC
 BHDDDDDDT
+Blurrier
 description
 driving
 dAJ
@@ -1346,6 +1354,7 @@ dBCC
 defXu
 dhkk
 downscaling
+deterioration
 of
 ojjjii
 oJg
@@ -2010,6 +2019,8 @@ rW
 rN
 rrr
 rP
+resemblance
+realistic
 blog
 break
 breaking에
@@ -2153,6 +2164,7 @@ bcx
 bZZZQ
 bgO
 budget
+blurriness
 posts
 pf
 pss
@@ -2361,6 +2373,8 @@ plot
 process
 precip은
 precipitation만
+physically
+power
 here
 host
 haa
@@ -2476,6 +2490,7 @@ hc
 hj
 hhj
 hxyy
+highlighted
 작업
 작동
 작은
@@ -2654,6 +2669,8 @@ lY
 lV
 lfo
 lzu
+longer
+limitations
 버전
 버전으로
 이상이
@@ -3501,6 +3518,7 @@ Efv
 EUf
 EZzo
 Ensemble이란
+Ensembles
 Message
 Mean
 MJJ
@@ -3752,6 +3770,9 @@ ivv
 iGf
 iiih
 iiiE
+intrinsic
+important
+inconsistent
 지난
 지표
 지속
@@ -4304,6 +4325,7 @@ mx뵗P
 mCFF
 mV
 multiprocessing으로
+misrepresents
 서풍에
 서로
 서버의
@@ -6291,6 +6313,7 @@ e폸
 ec
 eFPP
 effectively
+especially
 VAA
 VWWc
 VUU
@@ -6727,6 +6750,7 @@ vt
 vx
 vL
 vvuq
+via
 qbRRRrr
 qZ
 ql
@@ -7750,3 +7774,4 @@ NZN
 종관기상학
 랩실
 와서
+까는
