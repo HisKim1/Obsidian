@@ -6,7 +6,8 @@ keyword:
 status:
   - NotYet
 aliases: 
-tags: 
+tags:
+  - paper
 when_published: 2024-06-18
 where_published:
   - JAMES

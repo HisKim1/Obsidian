@@ -4,6 +4,20 @@
     "type": "split",
     "children": [
       {
+        "id": "43241b73823f3ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519ba8d5f34f2ad8",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "f786870f74b7ba87",
         "type": "tabs",
         "children": [
@@ -13,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-05.md",
+                "file": "Papers/D Kochkov, et al., 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TODO/2024-08-05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,38 +190,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3df638e8e0d1a2ba",
+  "active": "519ba8d5f34f2ad8",
   "lastOpenFiles": [
-    "Templete/TODO.md",
+    "Papers/D Kochkov, et al., 2024.md",
     "TODO/2024-08-05.md",
+    "Papers/Northern and Southern Annular Mode.md",
+    "Papers/N. Brenowiz, C. Bretherton, 2019.md",
+    "Papers/Quasi-Biennial Oscillation.md",
+    "Papers/R. Keisler, 2022.md",
+    "Papers/WMO, 2012.md",
+    "Papers/S. Rasp, et. al., 2024.md",
+    "TODO/2024-08-15.md",
+    "Templete/TODO.md",
+    "TODO/2024-08-06.md",
+    "TODO/2024-08-07.md",
+    "Correlation_matrix_heatmap.png",
     "TODO/2024-08-04.md",
     "TODO/2024-08-03.md",
     "TODO/2024-08-02.md",
     "Templete/paper.md",
     "TODO/TODO.md",
-    "TODO/2024-08-07.md",
     "TODO/2024-08-08.md",
     "TODO/2021-W44.md",
     "TODO/Vision Board.md",
-    "TODO/2024-08-06.md",
     "TODO/24.08.04.md",
     "Papers/J Kidston, et al.,.md",
     "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
     "Excalidraw",
-    "Papers/S. Rasp, et. al., 2024.md",
     "TODO",
     "conflict-files-obsidian-git.md",
-    "Papers/D Kochkov, et al., 2024.md",
-    "Correlation_matrix_heatmap.png",
-    "Papers/R. Keisler, 2022.md",
-    "Papers/N. Brenowiz, C. Bretherton, 2019.md",
     "GraphCast/Dataset.md",
     "Papers/Overview.md",
-    "Papers/L. Olivetti, G.Messori, 2024.md",
-    "Papers/Quasi-Biennial Oscillation.md",
-    "Papers/N..md",
     "File/Pasted image 20240802130028.png",
-    "GraphCast/structure/Processor.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "Papers/Arctic_Oscillation_II.svg",

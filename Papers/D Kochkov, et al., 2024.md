@@ -1,11 +1,11 @@
 ---
 title: Neural general circulation models for weather and climate
 site: https://www.nature.com/articles/s41586-024-07744-y#Sec2
-summary:
-keyword:
+summary: NN + NWP / 날씨부터 기후까지 / 이상적인
+keyword: 
 status:
   - WorkingOn
-aliases:
+aliases: 
 tags:
   - paper
 when_published: 2024-07-22
@@ -43,7 +43,7 @@ For climate
 - Atmospheric Model Intercomparison Project, AMIP
 ---
 # Medium-range Weather forecasting
-
+성능 비교에는 [[S. Rasp, et. al., 2024|WeatherBench2]] 썼다
 
 ---
 # Result

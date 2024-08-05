@@ -7,7 +7,7 @@ keyword:
   - GNN
   - GraphCast
 status:
-  - WorkingOn
+  - Done
 aliases:
   - templete
 tags:

@@ -7,12 +7,18 @@ clock_out:
 ### 📚 밀린 거
 ```tasks
 not done 
-due in or after {{date}} - path includes {{date}} 
+path does not include {{query.file.path}}
+path regex matches /TODO/
 sort by scheduled, due
 ```
 
-#### 🤦‍♂️개쩌는 인턴 생활
+#### 🤦‍♂️ 개쩌는 인턴 생활\
+`ctrl + L`
 
+#### 👨‍🏫 개쩌는 조교 생활
+`ctrl + L`
+
+#### 🏭 생산적으로 살기
 
 #### 🍻 Relax & Chill 
 <%*
@@ -21,18 +27,18 @@ let dayOfWeek = date.day();
 
 // 평일
 if (dayOfWeek >= 1 && dayOfWeek <= 5) {
-  tR += "- [ ] CROSSFIT 조지기\n";
+  tR += "- [ ] CROSSFIT 죠지기🏋️‍♀️\n";
 }
 
 // 금요일
 if (dayOfWeek == 5) {
-  tR += "- [ ] 힙합 죠져~\n";
+  tR += "- [ ] 힙합 죠져~🤸‍♂️\n";
 }
 
 // 일요일
 if (dayOfWeek === 0) {
-  tR += "- [ ] 힙합 죠져~\n";
+  tR += "- [ ] 힙합 죠져~🤸‍♂️\n";
 }
 %>
-### What to work on tomorrow?
-`ctrl + L`
+
+#### 💨뒤.로.미.루.기
