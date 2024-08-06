@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "GC input 차이로 output이 달라진다는 PPT",
-      "path": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
+      "basename": "2024-08-07",
+      "path": "TODO/2024-08-07.md"
     },
     {
       "basename": "2024-08-06",
       "path": "TODO/2024-08-06.md"
     },
     {
-      "basename": "2024-08-07",
-      "path": "TODO/2024-08-07.md"
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "eval_target 만들기",
+      "path": "GraphCast/Task/eval_target 만들기.md"
+    },
+    {
+      "basename": "GC input 차이로 output이 달라진다는 PPT",
+      "path": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
+    },
+    {
+      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
+      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
     },
     {
       "basename": "2024-08-12",
@@ -41,10 +61,6 @@
       "path": "Papers/WMO, 2012.md"
     },
     {
-      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
-      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
-    },
-    {
       "basename": "D Kochkov, et al., 2024",
       "path": "Papers/D Kochkov, et al., 2024.md"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "R. Keisler, 2022",
       "path": "Papers/R. Keisler, 2022.md"
-    },
-    {
-      "basename": "paper",
-      "path": "Templete/paper.md"
     },
     {
       "basename": "J Kidston, et al.,",
@@ -161,10 +173,6 @@
       "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     },
     {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
-    },
-    {
       "basename": "GraphCast GFS by NOAA",
       "path": "GraphCast/GraphCast GFS by NOAA.md"
     },
@@ -175,10 +183,6 @@
     {
       "basename": "담론, 신영복의 마지막 강의",
       "path": "Books/담론, 신영복의 마지막 강의.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
     },
     {
       "basename": "CORDEX East Asia Activities in South Korea",
@@ -195,10 +199,6 @@
     {
       "basename": "M. Feldmann, et al., 2024",
       "path": "Papers/M. Feldmann, et al., 2024.md"
-    },
-    {
-      "basename": "Lam. et al., 2023",
-      "path": "Papers/Lam. et al., 2023.md"
     }
   ],
   "omittedPaths": [

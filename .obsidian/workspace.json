@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md",
+                "file": "TODO/2024-08-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md",
+                "file": "TODO/2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md",
+                "file": "TODO/2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
+                "file": "TODO/2024-08-07.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
+                "file": "TODO/2024-08-07.md"
               }
             }
           }
@@ -193,7 +193,12 @@
   "active": "1961407fb3521ed8",
   "lastOpenFiles": [
     "TODO/2024-08-06.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Task/Task.md",
+    "GraphCast/Task/eval_target 만들기.md",
     "TODO/GC input 차이로 output이 달라진다는 PPT.md",
+    "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+    "Templete/paper.md",
     "TODO/2024-08-07.md",
     "TODO/2024-08-12.md",
     "Templete/TODO.md",
@@ -202,7 +207,6 @@
     "TODO/2024-08-05.md",
     "TODO/2024-08-15.md",
     "Papers/WMO, 2012.md",
-    "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "Untitled.canvas",
     "Papers/D Kochkov, et al., 2024.md",
     "File/Pasted image 20240805095841.png",
@@ -214,13 +218,9 @@
     "TODO/2024-08-04.md",
     "TODO/2024-08-03.md",
     "TODO/2024-08-02.md",
-    "Templete/paper.md",
     "TODO/TODO.md",
     "TODO/2024-08-08.md",
     "TODO/2021-W44.md",
-    "TODO/Vision Board.md",
-    "TODO/24.08.04.md",
-    "Papers/J Kidston, et al.,.md",
     "Excalidraw",
     "TODO",
     "File/Pasted image 20240802130028.png",
