@@ -5,16 +5,24 @@
       "path": "TODO/2024-08-06.md"
     },
     {
-      "basename": "2024-08-05",
-      "path": "TODO/2024-08-05.md"
+      "basename": "2024-08-07",
+      "path": "TODO/2024-08-07.md"
+    },
+    {
+      "basename": "2024-08-15",
+      "path": "TODO/2024-08-15.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
     },
     {
       "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
       "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
     },
     {
-      "basename": "TODO",
-      "path": "Templete/TODO.md"
+      "basename": "2024-08-05",
+      "path": "TODO/2024-08-05.md"
     },
     {
       "basename": "D Kochkov, et al., 2024",

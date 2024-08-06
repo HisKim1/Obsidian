@@ -27,17 +27,17 @@ let dayOfWeek = date.day();
 
 // 평일
 if (dayOfWeek >= 1 && dayOfWeek <= 5) {
-  tR += "- [ ] CROSSFIT 죠지기🏋️‍♀️\n";
+  tR += "- [ ] 📅 " + tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") + " | CROSSFIT 죠지기🏋️‍♀️\n";
 }
 
 // 금요일
 if (dayOfWeek == 5) {
-  tR += "- [ ] 힙합 죠져~🤸‍♂️\n";
+  tR += "- [ ] 📅 " + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") + " | 힙합 죠져~🤸‍♂️\n";
 }
 
 // 일요일
 if (dayOfWeek === 0) {
-  tR += "- [ ] 힙합 죠져~🤸‍♂️\n";
+  tR += "- [ ] 📅 " + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") + " | 힙합 죠져~🤸‍♂️\n";
 }
 %>
 
