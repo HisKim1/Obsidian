@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Papers/M. Bonavita, 2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -173,9 +173,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "610ecd6b57669db1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Papers/M. Bonavita, 2024.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,6 +209,7 @@
   "active": "e3763b7744f67dcf",
   "lastOpenFiles": [
     "TODO/2024-08-06.md",
+    "Papers/S. Rasp, et. al., 2024.md",
     "Papers/M. Bonavita, 2024.md",
     "TODO/2024-08-05.md",
     "TODO/2024-08-07.md",
@@ -214,7 +225,6 @@
     "Papers/N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/Quasi-Biennial Oscillation.md",
     "Papers/R. Keisler, 2022.md",
-    "Papers/S. Rasp, et. al., 2024.md",
     "TODO/2024-08-04.md",
     "TODO/2024-08-03.md",
     "TODO/2024-08-02.md",
