@@ -9,7 +9,8 @@ clock_out:
 not done 
 path does not include {{query.file.path}}
 path regex matches /TODO/
-sort by scheduled, due
+id does not include 25
+sort by due, scheduled
 ```
 
 #### 🤦‍♂️ 개쩌는 인턴 생활\
@@ -27,17 +28,17 @@ let dayOfWeek = date.day();
 
 // 평일
 if (dayOfWeek >= 1 && dayOfWeek <= 5) {
-  tR += "- [ ] 📅 " + tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") + " | CROSSFIT 죠지기🏋️‍♀️\n";
+  tR += "- [ ] CROSSFIT 죠지기🏋️‍♀️ | 🆔 25\n";
 }
 
 // 금요일
 if (dayOfWeek == 5) {
-  tR += "- [ ] 📅 " + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") + " | 힙합 죠져~🤸‍♂️\n";
+  tR += "- [ ] 힙합 죠져~🤸‍♂️ | 🆔 25\n";
 }
 
 // 일요일
 if (dayOfWeek === 0) {
-  tR += "- [ ] 📅 " + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") + " | 힙합 죠져~🤸‍♂️\n";
+  tR += "- [ ] 힙합 죠져~🤸‍♂️ | 🆔 25\n";
 }
 %>
 

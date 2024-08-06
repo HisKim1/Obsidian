@@ -5,6 +5,10 @@
       "path": "TODO/2024-08-06.md"
     },
     {
+      "basename": "2024-08-05",
+      "path": "TODO/2024-08-05.md"
+    },
+    {
       "basename": "2024-08-07",
       "path": "TODO/2024-08-07.md"
     },
@@ -17,12 +21,12 @@
       "path": "Templete/TODO.md"
     },
     {
-      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
-      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
+      "basename": "WMO, 2012",
+      "path": "Papers/WMO, 2012.md"
     },
     {
-      "basename": "2024-08-05",
-      "path": "TODO/2024-08-05.md"
+      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
+      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
     },
     {
       "basename": "D Kochkov, et al., 2024",
@@ -51,10 +55,6 @@
     {
       "basename": "R. Keisler, 2022",
       "path": "Papers/R. Keisler, 2022.md"
-    },
-    {
-      "basename": "WMO, 2012",
-      "path": "Papers/WMO, 2012.md"
     },
     {
       "basename": "S. Rasp, et. al., 2024",
