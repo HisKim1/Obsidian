@@ -477,6 +477,7 @@ stjZx
 spectra
 study
 shows
+struct
 topic
 tags
 templete
@@ -770,6 +771,9 @@ ae
 aki
 arXiv
 atmospheric
+adversarial
+attack
+ageo
 cssclasses
 considered
 cell
@@ -1854,6 +1858,7 @@ Lw
 LnN
 LjV
 LrZ
+Letters
 relevant
 residual
 rK
@@ -3057,6 +3062,7 @@ got
 google만
 google
 google과
+geo
 GraphCast
 GPU
 Geostrophic
@@ -3172,6 +3178,8 @@ GtD
 Gjr
 GH
 Generalizing
+GC에서
+Geophysical
 Cast
 Circulation
 Changes
@@ -5047,6 +5055,7 @@ worsens
 장기
 장소에
 장이
+장기에서
 예측
 예정
 예측을
@@ -7155,6 +7164,7 @@ NZN
 돌아가게만
 돌아가야
 돌아와서
+돌아가는
 불가능
 불완전함
 불과하다고
@@ -7274,6 +7284,7 @@ NZN
 있느냐고
 있음에도
 있게
+있지
 향상
 향상시키는
 향상에
@@ -7799,6 +7810,7 @@ NZN
 뽑아낼
 뽑아보자
 판단
+판구가
 벤치마크
 논문
 읽기
@@ -7822,3 +7834,4 @@ NZN
 리마인드
 퇴근하고
 워크샵
+터질
