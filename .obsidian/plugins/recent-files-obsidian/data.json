@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GC input 차이로 output이 달라진다는 PPT",
+      "path": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
+    },
+    {
       "basename": "2024-08-06",
       "path": "TODO/2024-08-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lam. et al., 2023",
       "path": "Papers/Lam. et al., 2023.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "GraphCast/paper/General Forecasting Problem Statement.md"
     }
   ],
   "omittedPaths": [

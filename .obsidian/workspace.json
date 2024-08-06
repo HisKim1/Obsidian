@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-06.md",
+                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-06.md",
+                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-06.md",
+                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-06.md"
+                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-06.md"
+                "file": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
               }
             }
           }
@@ -192,8 +192,9 @@
   },
   "active": "1961407fb3521ed8",
   "lastOpenFiles": [
-    "TODO/2024-08-07.md",
     "TODO/2024-08-06.md",
+    "TODO/GC input 차이로 output이 달라진다는 PPT.md",
+    "TODO/2024-08-07.md",
     "TODO/2024-08-12.md",
     "Templete/TODO.md",
     "Papers/M. Bonavita, 2024.md",
@@ -220,7 +221,6 @@
     "TODO/Vision Board.md",
     "TODO/24.08.04.md",
     "Papers/J Kidston, et al.,.md",
-    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
     "Excalidraw",
     "TODO",
     "File/Pasted image 20240802130028.png",
