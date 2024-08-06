@@ -62,7 +62,7 @@ We can <font color="#00e676">quantify the blurriness</font> of different forecas
 ## Water budget
 
 ## Geostrophic Wind Balance
-A recent study highlighted that Pangu <font color="#00e676">misrepresents the vertical structure</font> of the geostrophic and noted a deterioration at longer lead times. [[Bonavita , M, 2024]]
+A recent study highlighted that Pangu <font color="#00e676">misrepresents the vertical structure</font> of the geostrophic and noted a deterioration at longer lead times. [[M. Bonavita, 2024]]
 Similarly, we observe that GraphCast shows an error that worsens with lead time.
 ## Generalizing to Unseen Data
 
