@@ -17,7 +17,7 @@ where_published:
 ```
 
 ```ad-abstract
-
+Machine Learning (ML) is having a profound impact in the domain of Weather and Climate Prediction. A recent development in this area has been the emergence of fully data‐driven ML prediction models which routinely claim superior performance to that of traditional physics‐based models. We examine some aspects of the forecasts produced by three of the leading current ML models, <span style="background:rgba(205, 244, 105, 0.55)">Pangu‐Weather, FourCastNet and GraphCast</span>, with a focus on their fidelity and physical consistency. The main conclusion is that these <span style="background:rgba(205, 244, 105, 0.55)">ML models are not able to properly reproduce sub‐synoptic and mesoscale weather phenomena</span> and <span style="background:rgba(205, 244, 105, 0.55)">lack the fidelity and physical consistency</span> of physics‐based models and this has impacts on the interpretation of their forecasts and their perceived skill. Balancing forecast skill and physical realism will be an important consideration for future ML models.
 ```
 
 # Introduction
