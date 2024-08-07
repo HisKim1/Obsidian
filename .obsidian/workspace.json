@@ -24,17 +24,11 @@
             "id": "1afc0b6878ce3fba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "file": "TODO/2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "file": "TODO/2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md"
+                "file": "TODO/2024-08-07.md"
               }
             }
           },
@@ -179,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md"
+                "file": "TODO/2024-08-07.md"
               }
             }
           }
@@ -205,15 +199,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1afc0b6878ce3fba",
+  "active": "1961407fb3521ed8",
   "lastOpenFiles": [
-    "Papers/@NOAA, 2020.md",
+    "Papers/@S. Rasp, et. al., 2024.md",
     "TODO/2024-08-07.md",
+    "Papers/@NOAA, 2020.md",
     "Papers/@ECMWF, 2021.md",
     "Papers/@M. Feldmann, et al., 2024.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/@P. Dueben, P. Bauer, 2018.md",
-    "Papers/@S. Rasp, et. al., 2024.md",
     "WeatherBench",
     "Papers/Overview.md",
     "Papers/@WMO, 2012.md",
