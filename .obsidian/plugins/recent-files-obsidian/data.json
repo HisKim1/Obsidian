@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "@M. Feldmann, et al., 2024",
+      "path": "Papers/@M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "@N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
+    },
+    {
+      "basename": "@P. Dueben, P. Bauer, 2018",
+      "path": "Papers/@P. Dueben, P. Bauer, 2018.md"
+    },
+    {
+      "basename": "2024-08-07",
+      "path": "TODO/2024-08-07.md"
+    },
+    {
       "basename": "@S. Rasp, et. al., 2024",
       "path": "Papers/@S. Rasp, et. al., 2024.md"
     },
@@ -19,14 +39,6 @@
     {
       "basename": "Northern and Southern Annular Mode",
       "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
-      "basename": "@N. Brenowiz, C. Bretherton, 2019",
-      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
-    },
-    {
-      "basename": "@M. Feldmann, et al., 2024",
-      "path": "Papers/@M. Feldmann, et al., 2024.md"
     },
     {
       "basename": "@Lam. et al., 2023",
@@ -51,10 +63,6 @@
     {
       "basename": "@M. Bonavita, 2024",
       "path": "Papers/@M. Bonavita, 2024.md"
-    },
-    {
-      "basename": "2024-08-07",
-      "path": "TODO/2024-08-07.md"
     },
     {
       "basename": "2024-08-06",
@@ -191,14 +199,6 @@
     {
       "basename": "Overview",
       "path": "GraphCast/Overview.md"
-    },
-    {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
-    },
-    {
-      "basename": "CORDEX East Asia Activities in South Korea",
-      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
     }
   ],
   "omittedPaths": [
