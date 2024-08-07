@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "@S. Rasp, et. al., 2024",
+      "path": "Papers/@S. Rasp, et. al., 2024.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Papers/Overview.md"
+    },
+    {
+      "basename": "@WMO, 2012",
+      "path": "Papers/@WMO, 2012.md"
+    },
+    {
+      "basename": "@R. Keisler, 2022",
+      "path": "Papers/@R. Keisler, 2022.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
+      "basename": "@N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
+    },
+    {
+      "basename": "@M. Feldmann, et al., 2024",
+      "path": "Papers/@M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "@Lam. et al., 2023",
+      "path": "Papers/@Lam. et al., 2023.md"
+    },
+    {
+      "basename": "@L. Olivetti, G.Messori, 2024",
+      "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
+    },
+    {
+      "basename": "@J. Kidston, et al.,",
+      "path": "Papers/@J. Kidston, et al.,.md"
+    },
+    {
+      "basename": "@D. Kochkov, et al., 2024",
+      "path": "Papers/@D. Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "Arctic_Oscillation_II",
+      "path": "Papers/Arctic_Oscillation_II.svg"
+    },
+    {
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
+    },
+    {
       "basename": "2024-08-07",
       "path": "TODO/2024-08-07.md"
     },
     {
       "basename": "2024-08-06",
       "path": "TODO/2024-08-06.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
     },
     {
       "basename": "Input Data 다운",
@@ -37,18 +93,6 @@
       "path": "TODO/2024-08-12.md"
     },
     {
-      "basename": "TODO",
-      "path": "Templete/TODO.md"
-    },
-    {
-      "basename": "M. Bonavita, 2024",
-      "path": "Papers/M. Bonavita, 2024.md"
-    },
-    {
-      "basename": "S. Rasp, et. al., 2024",
-      "path": "Papers/S. Rasp, et. al., 2024.md"
-    },
-    {
       "basename": "2024-08-05",
       "path": "TODO/2024-08-05.md"
     },
@@ -57,36 +101,12 @@
       "path": "TODO/2024-08-15.md"
     },
     {
-      "basename": "WMO, 2012",
-      "path": "Papers/WMO, 2012.md"
-    },
-    {
-      "basename": "D Kochkov, et al., 2024",
-      "path": "Papers/D Kochkov, et al., 2024.md"
-    },
-    {
       "basename": "Correlation_matrix_heatmap",
       "path": "Correlation_matrix_heatmap.png"
     },
     {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
-      "basename": "N. Brenowiz, C. Bretherton, 2019",
-      "path": "Papers/N. Brenowiz, C. Bretherton, 2019.md"
-    },
-    {
       "basename": "Quasi-Biennial Oscillation",
       "path": "Papers/Quasi-Biennial Oscillation.md"
-    },
-    {
-      "basename": "R. Keisler, 2022",
-      "path": "Papers/R. Keisler, 2022.md"
-    },
-    {
-      "basename": "J Kidston, et al.,",
-      "path": "Papers/J Kidston, et al.,.md"
     },
     {
       "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
@@ -95,14 +115,6 @@
     {
       "basename": "Dataset",
       "path": "GraphCast/Dataset.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Papers/Overview.md"
-    },
-    {
-      "basename": "L. Olivetti, G.Messori, 2024",
-      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
     },
     {
       "basename": "Processor",
@@ -187,18 +199,6 @@
     {
       "basename": "CORDEX East Asia Activities in South Korea",
       "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "GraphCast/Coding/graphcast.py.md"
-    },
-    {
-      "basename": "Code",
-      "path": "GraphCast/Coding/Code.md"
-    },
-    {
-      "basename": "M. Feldmann, et al., 2024",
-      "path": "Papers/M. Feldmann, et al., 2024.md"
     }
   ],
   "omittedPaths": [

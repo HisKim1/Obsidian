@@ -27,7 +27,7 @@ General circulation models (GCMs) are the foundation of weather and climate pred
 1. they do not produce calibrated uncertainty estimates, which is essential for useful weather forecasts.
 2. MSE for averaging over uncertainty, producing unrealistically blurry predictions when optimized for multi-day forecasts
 3. misrepresent derived (diagnostic) variables such as geostrophic wind
-4. the lack of coupling between machine-learning components and the governing equations during training potentially causes serious problems, such as instability and climate drift [[N. Brenowiz, C. Bretherton, 2019]]
+4. the lack of coupling between machine-learning components and the governing equations during training potentially causes serious problems, such as instability and climate drift [[@N. Brenowiz, C. Bretherton, 2019]]
 
 
 ---
@@ -45,7 +45,7 @@ For climate
 - Atmospheric Model Intercomparison Project, AMIP
 ---
 # Medium-range Weather forecasting
-성능 비교에는 [[S. Rasp, et. al., 2024|WeatherBench2]] 썼다
+성능 비교에는 [[@S. Rasp, et. al., 2024|WeatherBench2]] 썼다
 
 ## Model Accuracy
 <font color="#00e676">Deterministic models</font> that produce a single weather forecast for given initial conditions can be <font color="#00e676">compared effectively using RMSE skill</font> at short lead times.
@@ -62,7 +62,7 @@ We can <font color="#00e676">quantify the blurriness</font> of different forecas
 ## Water budget
 
 ## Geostrophic Wind Balance
-A recent study highlighted that Pangu <font color="#00e676">misrepresents the vertical structure</font> of the geostrophic and noted a deterioration at longer lead times. [[M. Bonavita, 2024]]
+A recent study highlighted that Pangu <font color="#00e676">misrepresents the vertical structure</font> of the geostrophic and noted a deterioration at longer lead times. [[@M. Bonavita, 2024]]
 Similarly, we observe that GraphCast shows an error that worsens with lead time.
 ## Generalizing to Unseen Data
 
