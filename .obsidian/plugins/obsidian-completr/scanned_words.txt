@@ -149,6 +149,8 @@ fe
 fbC
 fUL
 fjh
+fidelity
+forecasted
 name
 nYYYFF
 nOq
@@ -480,6 +482,9 @@ study
 shows
 struct
 slp
+sample
+smoothness
+states
 topic
 tags
 templete
@@ -625,6 +630,7 @@ tu
 tsA
 tH
 tuu
+taken
 aliases
 against
 and
@@ -776,6 +782,9 @@ atmospheric
 adversarial
 attack
 ageo
+apporach
+analyze
+accumulation
 cssclasses
 considered
 cell
@@ -972,6 +981,7 @@ capturing
 characteristic
 correspond
 chunks로
+consistency
 Tool
 Troposphere에서
 Thermal
@@ -1366,6 +1376,7 @@ downscaling
 deterioration
 difference
 download받은
+developers
 of
 ojjjii
 oJg
@@ -1487,6 +1498,7 @@ ogG
 owW
 ord
 open
+oviate
 Reasoning
 Resources
 Residual
@@ -2034,6 +2046,9 @@ rP
 resemblance
 realistic
 roadmap
+representative
+repeated
+rapid
 blog
 break
 breaking에
@@ -2390,6 +2405,10 @@ physically
 power
 plot하는
 pattern
+predictive
+probelm
+progressively
+preice
 here
 host
 haa
@@ -2690,6 +2709,7 @@ lfo
 lzu
 longer
 limitations
+limit
 버전
 버전으로
 이상이
@@ -3073,6 +3093,7 @@ google만
 google
 google과
 geo
+generation
 GraphCast
 GPU
 Geostrophic
@@ -3679,6 +3700,7 @@ Mfz
 MCRz
 Moire
 Machine
+MLWP
 in
 iii
 iYp
@@ -3807,6 +3829,10 @@ iiiE
 intrinsic
 important
 inconsistent
+imperfect
+its
+increasing
+increased
 지난
 지표
 지속
@@ -3881,6 +3907,8 @@ inconsistent
 모르는
 모델들이
 모델에
+모델이
+모델들
 최신
 최소한으로만
 최소한
@@ -4779,6 +4807,7 @@ Project
 PXR
 Pattern이
 PPT
+Pangu는
 질량
 질서도
 질문하고
@@ -4796,6 +4825,7 @@ PPT
 발견되었기
 발견한
 발생한다
+발전하고
 감소
 중위도
 중요한
@@ -4913,6 +4943,7 @@ Fnn
 FPPP
 Fpv
 FDDDD
+FourCastNet
 초기
 초기화
 위치
@@ -5077,6 +5108,7 @@ worsens
 예측의
 예리하게
 예상되는
+예시
 연구에
 연관돼
 연직
@@ -6802,6 +6834,7 @@ vx
 vL
 vvuq
 via
+view
 qbRRRrr
 qZ
 ql

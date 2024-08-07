@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-07.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-07.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-07.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-07.md"
+                "file": "Papers/@M. Bonavita, 2024.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-07.md"
+                "file": "Papers/@M. Bonavita, 2024.md"
               }
             }
           }
@@ -201,8 +201,10 @@
   },
   "active": "1961407fb3521ed8",
   "lastOpenFiles": [
-    "Papers/@S. Rasp, et. al., 2024.md",
+    "Papers/Hierarchical Temporal Aggregation, HTA.md",
+    "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-08-07.md",
+    "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@NOAA, 2020.md",
     "Papers/@ECMWF, 2021.md",
     "Papers/@M. Feldmann, et al., 2024.md",
@@ -218,7 +220,6 @@
     "Papers/@J. Kidston, et al.,.md",
     "Papers/@D. Kochkov, et al., 2024.md",
     "Papers/Arctic_Oscillation_II.svg",
-    "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-08-06.md",
     "Templete/TODO.md",
     "GraphCast/Task/Input Data 다운.md",
@@ -228,7 +229,6 @@
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "Templete/paper.md",
     "TODO/2024-08-12.md",
-    "TODO/2024-08-05.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",

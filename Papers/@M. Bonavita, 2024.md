@@ -21,12 +21,23 @@ Machine Learning (ML) is having a profound impact in the domain of Weather and C
 ```
 
 # Introduction
+ML-based  모델이 급격히 발전하고 있다.
+w/ 예시 모델들
+
+여기서는
+> The apporach we have taken is to choose a representative sample of the current generation of MLWP model, Pangu-Weather, FourCastNet and GraphCast and analyze their forecast output from<font color="#00e676"> the point of view of physical consistency and fidelity.</font> 
 
 ---
-# Conclusion
+# Data and Methods
+> As noted by the Pangu-Weather developers, the <font color="#00e676">repeated application</font> of an imperfect model leads to rapid <font color="#00e676">accumulation of errors</font> and can limit its predictive skill. 
+
+> MLWP models <font color="#00e676">oviate this probelm </font>by progressively<font color="#00e676"> increasing the forecast horizon </font>over which the ML model is trained, typically at the price of <font color="#00e676">increased smoothness</font> of the forecasted states.
+
+Pangu는 문제 해결 위해 [[Hierarchical Temporal Aggregation, HTA]] 사용
 
 ---
-# Method
+# Spectral Diagnostics
+MLWP의 잘 알려진 문제는 lead time따라 forecast가 "blurry"해진다는 것.
 
 ---
 # Result

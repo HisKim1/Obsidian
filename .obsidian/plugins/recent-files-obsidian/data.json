@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
+    },
+    {
+      "basename": "Hierarchical Temporal Aggregation, HTA",
+      "path": "Papers/Hierarchical Temporal Aggregation, HTA.md"
+    },
+    {
       "basename": "2024-08-07",
       "path": "TODO/2024-08-07.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Arctic_Oscillation_II",
       "path": "Papers/Arctic_Oscillation_II.svg"
-    },
-    {
-      "basename": "@M. Bonavita, 2024",
-      "path": "Papers/@M. Bonavita, 2024.md"
     },
     {
       "basename": "2024-08-06",
@@ -195,10 +199,6 @@
     {
       "basename": "Sudden Stratospheric Warming",
       "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "GraphCast GFS by NOAA",
-      "path": "GraphCast/GraphCast GFS by NOAA.md"
     }
   ],
   "omittedPaths": [
