@@ -54,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md",
+                "file": "TODO/2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md",
+                "file": "TODO/2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md"
+                "file": "TODO/2024-08-07.md"
               }
             }
           },
@@ -198,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md"
+                "file": "TODO/2024-08-07.md"
               }
             }
           }
@@ -224,10 +226,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1961407fb3521ed8",
+  "active": "bafd6d8b217042c6",
   "lastOpenFiles": [
-    "TODO/2024-08-07.md",
     "Papers/@M. Bonavita, 2024.md",
+    "TODO/2024-08-07.md",
     "Papers/WeatherBench2.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/@S. Rasp, et. al., 2024.md",
