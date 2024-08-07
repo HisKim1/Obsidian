@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "@S. Rasp, et. al., 2024",
+      "path": "Papers/@S. Rasp, et. al., 2024.md"
+    },
+    {
+      "basename": "@NOAA, 2020",
+      "path": "Papers/@NOAA, 2020.md"
+    },
+    {
+      "basename": "2024-08-07",
+      "path": "TODO/2024-08-07.md"
+    },
+    {
+      "basename": "@ECMWF, 2021",
+      "path": "Papers/@ECMWF, 2021.md"
     },
     {
       "basename": "@M. Feldmann, et al., 2024",
@@ -15,14 +27,6 @@
     {
       "basename": "@P. Dueben, P. Bauer, 2018",
       "path": "Papers/@P. Dueben, P. Bauer, 2018.md"
-    },
-    {
-      "basename": "2024-08-07",
-      "path": "TODO/2024-08-07.md"
-    },
-    {
-      "basename": "@S. Rasp, et. al., 2024",
-      "path": "Papers/@S. Rasp, et. al., 2024.md"
     },
     {
       "basename": "Overview",
@@ -110,7 +114,7 @@
     },
     {
       "basename": "Correlation_matrix_heatmap",
-      "path": "Correlation_matrix_heatmap.png"
+      "path": "Papers/Correlation_matrix_heatmap.png"
     },
     {
       "basename": "Quasi-Biennial Oscillation",
@@ -195,10 +199,6 @@
     {
       "basename": "GraphCast GFS by NOAA",
       "path": "GraphCast/GraphCast GFS by NOAA.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "GraphCast/Overview.md"
     }
   ],
   "omittedPaths": [

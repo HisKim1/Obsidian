@@ -85,10 +85,10 @@
             "conjunction": "and",
             "conditions": [
               {
-                "field": "tags",
-                "operator": "has-any-of",
+                "field": "name",
+                "operator": "contains",
                 "enabled": true,
-                "value": "[\"paper\"]"
+                "value": "@"
               }
             ]
           },

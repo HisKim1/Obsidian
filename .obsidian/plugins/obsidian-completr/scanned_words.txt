@@ -2033,6 +2033,7 @@ rrr
 rP
 resemblance
 realistic
+roadmap
 blog
 break
 breaking에
@@ -2525,6 +2526,7 @@ hybrid
 문득
 문사철과
 문제점
+문제점들
 상황
 상위버전들이
 상승한
@@ -3548,6 +3550,7 @@ EUf
 EZzo
 Ensemble이란
 Ensembles
+ECMWF에서
 Message
 Mean
 MJJ
@@ -3675,6 +3678,7 @@ Mvn
 Mfz
 MCRz
 Moire
+Machine
 in
 iii
 iYp
@@ -5072,6 +5076,7 @@ worsens
 예측을
 예측의
 예리하게
+예상되는
 연구에
 연관돼
 연직
@@ -7231,6 +7236,7 @@ NZN
 생산적으로
 생산하는가
 생산적이게
+생각하는
 적당했다
 적용
 적절한
@@ -7448,6 +7454,7 @@ NZN
 교재에서
 교수님
 교환학기
+교수님과
 오존
 오존층
 오존홀
@@ -7584,6 +7591,7 @@ NZN
 그래프
 그러고
 그게
+그런지
 잔류
 평균
 평가
@@ -7839,6 +7847,7 @@ NZN
 판구가
 벤치마크
 논문
+논의상의하기
 읽기
 읽고
 읽어봐야
@@ -7866,3 +7875,4 @@ NZN
 깃허브
 회신하기
 박스에
+뱡향과

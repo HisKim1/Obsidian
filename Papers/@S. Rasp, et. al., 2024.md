@@ -1,7 +1,7 @@
 ---
 title: "WeatherBench 2: A Benchmark for the Next Generation of Data-Driven Global Weather Models"
 site: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS004019?af=R
-summary: 신상 벤치마크 모델에 대한 것으로 추정
+summary: 신상 벤치마크 WeatherBench2 소개
 keyword: 
 status:
   - NotYet

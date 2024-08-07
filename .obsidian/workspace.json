@@ -21,28 +21,20 @@
             }
           },
           {
-            "id": "06afbf12827a03a2",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "69b4999cd3b0fe91",
+            "id": "1afc0b6878ce3fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Papers/@S. Rasp, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Papers/@S. Rasp, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Papers/@S. Rasp, et. al., 2024.md"
               }
             }
           },
@@ -187,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Papers/@S. Rasp, et. al., 2024.md"
               }
             }
           }
@@ -213,13 +205,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "69b4999cd3b0fe91",
+  "active": "1afc0b6878ce3fba",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Papers/@NOAA, 2020.md",
+    "TODO/2024-08-07.md",
+    "Papers/@ECMWF, 2021.md",
     "Papers/@M. Feldmann, et al., 2024.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/@P. Dueben, P. Bauer, 2018.md",
-    "TODO/2024-08-07.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "WeatherBench",
     "Papers/Overview.md",
@@ -242,10 +235,9 @@
     "Templete/paper.md",
     "TODO/2024-08-12.md",
     "TODO/2024-08-05.md",
-    "TODO/2024-08-15.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
-    "Correlation_matrix_heatmap.png",
+    "Papers/Correlation_matrix_heatmap.png",
     "Excalidraw",
     "TODO",
     "File/Pasted image 20240802130028.png",
