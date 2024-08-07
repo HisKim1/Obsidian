@@ -151,6 +151,7 @@ fUL
 fjh
 fidelity
 forecasted
+forecast가
 name
 nYYYFF
 nOq
@@ -485,6 +486,11 @@ slp
 sample
 smoothness
 states
+squared
+smoothing
+smoothing되어서
+spectral
+spectrally
 topic
 tags
 templete
@@ -631,6 +637,8 @@ tsA
 tH
 tuu
 taken
+time따라
+tat
 aliases
 against
 and
@@ -982,6 +990,7 @@ characteristic
 correspond
 chunks로
 consistency
+closer
 Tool
 Troposphere에서
 Thermal
@@ -1499,6 +1508,7 @@ owW
 ord
 open
 oviate
+optimize
 Reasoning
 Resources
 Residual
@@ -2049,6 +2059,8 @@ roadmap
 representative
 repeated
 rapid
+reduction
+resolved
 blog
 break
 breaking에
@@ -2409,6 +2421,8 @@ predictive
 probelm
 progressively
 preice
+price
+pdf
 here
 host
 haa
@@ -2546,6 +2560,7 @@ hybrid
 문사철과
 문제점
 문제점들
+문제는
 상황
 상위버전들이
 상승한
@@ -2760,6 +2775,7 @@ limit
 해상도
 해준다
 해당하는
+해진다는
 에서
 에도
 에르되시
@@ -3701,6 +3717,8 @@ MCRz
 Moire
 Machine
 MLWP
+MLWP의
+ML의
 in
 iii
 iYp
@@ -4076,6 +4094,7 @@ Sde
 Study
 Spectra
 Similarly
+Spectral
 순환
 순환을
 순환의
@@ -4827,6 +4846,7 @@ Pangu는
 발생한다
 발전하고
 감소
+감소한다
 중위도
 중요한
 중요성
@@ -5094,7 +5114,10 @@ waom
 wRzf
 wRhP
 worsens
+weighted
+wavenumber쪽이
 높이
+높은
 활성화
 활동
 활용
@@ -5707,6 +5730,7 @@ kG
 kK
 kBSK
 kmDz
+km이고
 xxxnn
 xh
 xU
@@ -6583,6 +6607,7 @@ ujs
 ujV
 ugn
 uhbJ
+unpredictable
 DEEE
 DPP
 Dt
@@ -6708,6 +6733,7 @@ DZF
 DZV
 DNN
 DDDDDDDU
+Diagnostics
 vm
 vLL
 vX
@@ -7337,6 +7363,7 @@ NZN
 있음에도
 있게
 있지
+있더라
 향상
 향상시키는
 향상에
@@ -7535,6 +7562,7 @@ NZN
 부족하고
 부름
 알아서
+알려진
 뜬다
 라이브러리
 폴더에
@@ -7911,3 +7939,4 @@ NZN
 회신하기
 박스에
 뱡향과
+봤을

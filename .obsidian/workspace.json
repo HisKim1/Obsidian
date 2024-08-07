@@ -21,11 +21,37 @@
             }
           },
           {
+            "id": "6fa6e3ebdfa36158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/WeatherBench2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1afc0b6878ce3fba",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
               "state": {}
+            }
+          },
+          {
+            "id": "bafd6d8b217042c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-08-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -86,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -178,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,9 +226,10 @@
   },
   "active": "1961407fb3521ed8",
   "lastOpenFiles": [
-    "Papers/Hierarchical Temporal Aggregation, HTA.md",
-    "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-08-07.md",
+    "Papers/@M. Bonavita, 2024.md",
+    "Papers/WeatherBench2.md",
+    "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@NOAA, 2020.md",
     "Papers/@ECMWF, 2021.md",
@@ -228,7 +254,6 @@
     "TODO/GC input 차이로 output이 달라진다는 PPT.md",
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "Templete/paper.md",
-    "TODO/2024-08-12.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",

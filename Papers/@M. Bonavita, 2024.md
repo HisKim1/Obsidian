@@ -39,6 +39,21 @@ Pangu는 문제 해결 위해 [[Hierarchical Temporal Aggregation, HTA]] 사용
 # Spectral Diagnostics
 MLWP의 잘 알려진 문제는 lead time따라 forecast가 "blurry"해진다는 것.
 
+> $\because$ trained to<font color="#00e676"> optimize a weighted mean squared/absolute error</font> (L2/L1) norm of forecast errors.
+> $\Rightarrow$ producing forecasts closer to the mean of the forecast pdf, tat is, <font color="#00e676">smoothing out unpredictable details</font> from the forecast
+
+smoothing되어서 power spectra 봤을 때 높은 wavenumber쪽이 낮다 = spectral energy reduction
+$\Rightarrow$ ML 모델들이 less spectrally resolved forecast를 produce
+$\Rightarrow$ ML의 effective resolution = 500~700km이고 lead time 따라 감소한다
+(+[[Hierarchical Temporal Aggregation, HTA]] 효과 좀 있더라)
+$\Rightarrow$ synoptic은 괜찮지만, sub-synoptic & mesoscale이면 effect가 noticeable
+
+왜 MLWP가 progressive loss of detail?
+bc trained to produce forecasts that are closer to an ensemble forecast mean than to deterministic forecst
+
+
+
+
 ---
 # Result
 

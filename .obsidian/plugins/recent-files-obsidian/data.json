@@ -5,12 +5,16 @@
       "path": "Papers/@M. Bonavita, 2024.md"
     },
     {
-      "basename": "Hierarchical Temporal Aggregation, HTA",
-      "path": "Papers/Hierarchical Temporal Aggregation, HTA.md"
-    },
-    {
       "basename": "2024-08-07",
       "path": "TODO/2024-08-07.md"
+    },
+    {
+      "basename": "WeatherBench2",
+      "path": "Papers/WeatherBench2.md"
+    },
+    {
+      "basename": "Hierarchical Temporal Aggregation, HTA",
+      "path": "Papers/Hierarchical Temporal Aggregation, HTA.md"
     },
     {
       "basename": "@S. Rasp, et. al., 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Rossby Waves",
       "path": "GraphCast/Task/Rossby Waves.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
     }
   ],
   "omittedPaths": [
