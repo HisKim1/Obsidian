@@ -5,6 +5,10 @@
       "path": "TODO/2024-08-07.md"
     },
     {
+      "basename": "2024-08-08",
+      "path": "TODO/2024-08-08.md"
+    },
+    {
       "basename": "@M. Bonavita, 2024",
       "path": "Papers/@M. Bonavita, 2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "논문 정리",
       "path": "GraphCast/templete/논문 정리.md"
-    },
-    {
-      "basename": "Rossby Waves",
-      "path": "GraphCast/Task/Rossby Waves.md"
     }
   ],
   "omittedPaths": [

@@ -109,12 +109,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -228,8 +228,9 @@
   },
   "active": "bafd6d8b217042c6",
   "lastOpenFiles": [
-    "Papers/@M. Bonavita, 2024.md",
+    "TODO/2024-08-08.md",
     "TODO/2024-08-07.md",
+    "Papers/@M. Bonavita, 2024.md",
     "Papers/WeatherBench2.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/@S. Rasp, et. al., 2024.md",
@@ -255,7 +256,6 @@
     "GraphCast/Task/eval_target 만들기.md",
     "TODO/GC input 차이로 output이 달라진다는 PPT.md",
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
-    "Templete/paper.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",
