@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S. Rasp, et. al., 2024.md",
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S. Rasp, et. al., 2024.md",
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S. Rasp, et. al., 2024.md",
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S. Rasp, et. al., 2024.md"
+                "file": "Books/담론, 신영복의 마지막 강의.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "0bc3ac65f746aace",
   "lastOpenFiles": [
+    "Correlation_matrix_heatmap.png",
     "S. Rasp, et. al., 2024.md",
     "Papers/R. Keisler, 2022.md",
     "Papers/J Kidston, et al.,.md",
@@ -217,7 +218,6 @@
     "GraphCast/Task/reflection of planetary wave.md",
     "GraphCast/Task/Prediction Challenge.md",
     "Papers/WMO, 2012.md",
-    "GraphCast/templete/논문 정리.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "Papers/Arctic_Oscillation_II.svg",
