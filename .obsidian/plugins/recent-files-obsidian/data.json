@@ -5,6 +5,10 @@
       "path": "WeatherBench/WeatherBench2.md"
     },
     {
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
+    },
+    {
       "basename": "2024-08-07",
       "path": "TODO/2024-08-07.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2024-08-08",
       "path": "TODO/2024-08-08.md"
-    },
-    {
-      "basename": "@M. Bonavita, 2024",
-      "path": "Papers/@M. Bonavita, 2024.md"
     },
     {
       "basename": "Hierarchical Temporal Aggregation, HTA",

@@ -18,7 +18,7 @@ pip install https://storage.googleapis.com/jax-releases/cuda12_plugin/jax_cuda12
 ```
 ### 3. run [Quickstart](https://weatherbench2.readthedocs.io/en/latest/evaluation.html)
 `his_weatherbench2/docs/source/evaluation.ipynb`와 동일한 파일임.
-
+-> 잘 돌아감 2024-08-08 15:31
 ### 4. understand Usage & API
 
 ### 5. check important functions
