@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "WeatherBench/WeatherBench2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,13 +88,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "WeatherBench/WeatherBench2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "WeatherBench/WeatherBench2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-08.md"
+                "file": "WeatherBench/WeatherBench2.md"
               }
             }
           },
@@ -180,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-08.md"
+                "file": "WeatherBench/WeatherBench2.md"
               }
             }
           }
@@ -208,12 +206,12 @@
   },
   "active": "bafd6d8b217042c6",
   "lastOpenFiles": [
+    "TODO/2024-08-07.md",
+    "Papers/@S. Rasp, et. al., 2024.md",
+    "TODO/2024-08-08.md",
+    "WeatherBench/WeatherBench2.md",
     "Papers/@M. Bonavita, 2024.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
-    "TODO/2024-08-08.md",
-    "TODO/2024-08-07.md",
-    "Papers/WeatherBench2.md",
-    "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@NOAA, 2020.md",
     "Papers/@ECMWF, 2021.md",
     "Papers/@M. Feldmann, et al., 2024.md",
