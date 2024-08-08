@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "TODO/2024-08-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "TODO/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "TODO/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-08.md"
+                "file": "TODO/2024-08-09.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-08.md"
+                "file": "TODO/2024-08-09.md"
               }
             }
           }
@@ -192,11 +192,12 @@
   },
   "active": "9335c4a188206791",
   "lastOpenFiles": [
+    "TODO/2024-08-08.md",
+    "TODO/2024-08-09.md",
     "Papers/@M. Bonavita, 2024.md",
     "WeatherBench/WeatherBench2.md",
     "TODO/2024-08-07.md",
     "Papers/@S. Rasp, et. al., 2024.md",
-    "TODO/2024-08-08.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/@NOAA, 2020.md",
     "Papers/@ECMWF, 2021.md",
@@ -219,7 +220,6 @@
     "GraphCast/Task/Task.md",
     "GraphCast/Task/eval_target 만들기.md",
     "TODO/GC input 차이로 output이 달라진다는 PPT.md",
-    "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",
