@@ -21,41 +21,20 @@
             }
           },
           {
-            "id": "6fa6e3ebdfa36158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/WeatherBench2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1afc0b6878ce3fba",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
             "id": "bafd6d8b217042c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TODO/2024-08-07.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -229,9 +208,9 @@
   "active": "bafd6d8b217042c6",
   "lastOpenFiles": [
     "TODO/2024-08-08.md",
-    "TODO/2024-08-07.md",
     "Papers/@M. Bonavita, 2024.md",
     "Papers/WeatherBench2.md",
+    "TODO/2024-08-07.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@NOAA, 2020.md",

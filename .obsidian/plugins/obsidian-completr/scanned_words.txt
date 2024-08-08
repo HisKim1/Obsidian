@@ -152,6 +152,8 @@ fjh
 fidelity
 forecasted
 forecast가
+functions
+forecst
 name
 nYYYFF
 nOq
@@ -271,6 +273,7 @@ nmT
 noted
 now
 noise
+noticeable
 site
 status
 stratosphere에서
@@ -491,6 +494,8 @@ smoothing
 smoothing되어서
 spectral
 spectrally
+synoptic은
+synoptic
 topic
 tags
 templete
@@ -991,6 +996,7 @@ correspond
 chunks로
 consistency
 closer
+clone
 Tool
 Troposphere에서
 Thermal
@@ -1237,6 +1243,8 @@ Byq
 BUC
 BHDDDDDDT
 Blurrier
+Basic
+Based
 description
 driving
 dAJ
@@ -1386,6 +1394,8 @@ deterioration
 difference
 download받은
 developers
+detail
+deterministic
 of
 ojjjii
 oJg
@@ -1786,6 +1796,7 @@ AJP
 AaO
 ATT
 Accuracy
+API
 Link
 LOO
 LQWW
@@ -2423,6 +2434,7 @@ progressively
 preice
 price
 pdf
+progressive
 here
 host
 haa
@@ -2760,6 +2772,7 @@ limit
 이상적인
 이쁘게
 이걸
+이사
 필요함
 필요한
 필요
@@ -2835,6 +2848,7 @@ limit
 기준
 기후까지
 기숙사
+기초교양
 으로
 롤백
 혹은
@@ -3111,6 +3125,7 @@ google
 google과
 geo
 generation
+git
 GraphCast
 GPU
 Geostrophic
@@ -3228,6 +3243,7 @@ GH
 Generalizing
 GC에서
 Geophysical
+GSC로
 Cast
 Circulation
 Changes
@@ -3589,6 +3605,7 @@ EZzo
 Ensemble이란
 Ensembles
 ECMWF에서
+EIA
 Message
 Mean
 MJJ
@@ -3720,6 +3737,7 @@ Machine
 MLWP
 MLWP의
 ML의
+MLWP가
 in
 iii
 iYp
@@ -4415,9 +4433,11 @@ mV
 multiprocessing으로
 misrepresents
 moire
+mesoscale이면
 서풍에
 서로
 서버의
+서버로
 각운동량
 각색해서
 각색한
@@ -4431,6 +4451,7 @@ moire
 전자를
 전파됨
 전체
+전컴
 속도
 유발
 유도된
@@ -4828,6 +4849,7 @@ PXR
 Pattern이
 PPT
 Pangu는
+Process
 질량
 질서도
 질문하고
@@ -5328,6 +5350,8 @@ Itz
 IMM
 Izfao
 IKw
+Info
+Initiation
 yb
 yyyvvv
 yzz
@@ -6271,6 +6295,7 @@ USE
 Uzj
 Ue
 Unseen
+Usage
 eG
 ell
 edd
@@ -6422,6 +6447,8 @@ ec
 eFPP
 effectively
 especially
+env
+effect가
 VAA
 VWWc
 VUU
@@ -6609,6 +6636,7 @@ ujV
 ugn
 uhbJ
 unpredictable
+understand
 DEEE
 DPP
 Dt
@@ -7236,6 +7264,7 @@ NZN
 만에
 만들어낸
 만든다
+만들어서
 돌리면
 돌려
 돌아가게만
@@ -7321,6 +7350,7 @@ NZN
 학자들이
 학부
 학적팀
+학부사무실
 로만
 하는
 하면
@@ -7391,6 +7421,7 @@ NZN
 자신의
 자랑하고
 자료형인가
+자유선택으로
 화려한
 수식
 수송을
@@ -7410,6 +7441,7 @@ NZN
 따른
 따라
 따로
+따라서
 움직여
 움직이는
 없이
@@ -7499,6 +7531,7 @@ NZN
 진실의
 진행도
 진행
+진행해야
 저기압
 저장
 저장해둔
@@ -7603,6 +7636,7 @@ NZN
 확인
 확인해서
 확인해보기
+확인하기
 새로운
 새로
 새롭게
@@ -7620,6 +7654,7 @@ NZN
 식별이
 완전히
 완고한
+완료
 걸로
 걸어온
 걸쳐서
@@ -7856,6 +7891,8 @@ NZN
 들었습니다
 들어가면
 들고
+들어가야
+들어간
 못한
 못하더라
 담겨
@@ -7949,3 +7986,5 @@ NZN
 뱡향과
 봤을
 밤에는
+괜찮지만
+졸업요건
