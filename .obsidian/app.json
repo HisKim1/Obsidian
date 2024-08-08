@@ -13,5 +13,7 @@
   "showLineNumber": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "File"
+  "attachmentFolderPath": "File",
+  "showRibbon": true,
+  "promptDelete": false
 }

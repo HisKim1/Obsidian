@@ -85,10 +85,10 @@
             "conjunction": "and",
             "conditions": [
               {
-                "field": "tags",
-                "operator": "has-any-of",
+                "field": "name",
+                "operator": "contains",
                 "enabled": true,
-                "value": "[\"paper\"]"
+                "value": "@"
               }
             ]
           },
@@ -175,6 +175,9 @@
     "projectSizeLimit": 1000,
     "frontmatter": {
       "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
     },
     "commands": [],
     "linkBehavior": "open-editor"

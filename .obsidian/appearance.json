@@ -1,9 +1,10 @@
 {
-  "accentColor": "#64d2ff",
+  "accentColor": "#00e676",
   "textFontFamily": "Pretendard",
   "interfaceFontFamily": "Pretendard",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 21,
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
-  "cssTheme": "GitHub Theme"
+  "cssTheme": "GitHub Theme",
+  "theme": "system"
 }

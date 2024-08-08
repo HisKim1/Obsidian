@@ -6,6 +6,10 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCheckCircle",
+      "LiFolders",
+      "LiPaintbrush",
+      "LiAlarmCheck",
       "LiAlignJustify",
       "LiArchive",
       "LiBookOpen",
@@ -32,7 +36,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "GraphCast": "LiGrip",
   "Graduate": "LiAward",
@@ -40,5 +45,9 @@
   "Papers": "LiAlbum",
   "Books": "LiBookOpen",
   "Templete": "LiArchive",
-  "Papers/Overview.md": "LiAlignJustify"
+  "Papers/Overview.md": "LiAlignJustify",
+  "TODO": "LiAlarmCheck",
+  "Excalidraw": "LiPaintbrush",
+  "File": "LiFolders",
+  "WeatherBench": "LiCheckCircle"
 }

@@ -1,48 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
-      "basename": "Correlation_matrix_heatmap",
-      "path": "Correlation_matrix_heatmap.png"
+      "basename": "2024-08-08",
+      "path": "TODO/2024-08-08.md"
     },
     {
-      "basename": "S. Rasp, et. al., 2024",
-      "path": "S. Rasp, et. al., 2024.md"
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
     },
     {
-      "basename": "R. Keisler, 2022",
-      "path": "Papers/R. Keisler, 2022.md"
+      "basename": "WeatherBench2",
+      "path": "WeatherBench/WeatherBench2.md"
     },
     {
-      "basename": "J Kidston, et al.,",
-      "path": "Papers/J Kidston, et al.,.md"
+      "basename": "2024-08-07",
+      "path": "TODO/2024-08-07.md"
     },
     {
-      "basename": "N. Brenowiz, C. Bretherton, 2019",
-      "path": "Papers/N. Brenowiz, C. Bretherton, 2019.md"
+      "basename": "@S. Rasp, et. al., 2024",
+      "path": "Papers/@S. Rasp, et. al., 2024.md"
     },
     {
-      "basename": "Dataset",
-      "path": "GraphCast/Dataset.md"
+      "basename": "Hierarchical Temporal Aggregation, HTA",
+      "path": "Papers/Hierarchical Temporal Aggregation, HTA.md"
+    },
+    {
+      "basename": "@NOAA, 2020",
+      "path": "Papers/@NOAA, 2020.md"
+    },
+    {
+      "basename": "@ECMWF, 2021",
+      "path": "Papers/@ECMWF, 2021.md"
+    },
+    {
+      "basename": "@M. Feldmann, et al., 2024",
+      "path": "Papers/@M. Feldmann, et al., 2024.md"
+    },
+    {
+      "basename": "@N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
+    },
+    {
+      "basename": "@P. Dueben, P. Bauer, 2018",
+      "path": "Papers/@P. Dueben, P. Bauer, 2018.md"
     },
     {
       "basename": "Overview",
       "path": "Papers/Overview.md"
     },
     {
-      "basename": "D Kochkov, et al., 2024",
-      "path": "Papers/D Kochkov, et al., 2024.md"
+      "basename": "@WMO, 2012",
+      "path": "Papers/@WMO, 2012.md"
     },
     {
-      "basename": "L. Olivetti, G.Messori, 2024",
-      "path": "Papers/L. Olivetti, G.Messori, 2024.md"
+      "basename": "@R. Keisler, 2022",
+      "path": "Papers/@R. Keisler, 2022.md"
+    },
+    {
+      "basename": "Northern and Southern Annular Mode",
+      "path": "Papers/Northern and Southern Annular Mode.md"
+    },
+    {
+      "basename": "@Lam. et al., 2023",
+      "path": "Papers/@Lam. et al., 2023.md"
+    },
+    {
+      "basename": "@L. Olivetti, G.Messori, 2024",
+      "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
+    },
+    {
+      "basename": "@J. Kidston, et al.,",
+      "path": "Papers/@J. Kidston, et al.,.md"
+    },
+    {
+      "basename": "@D. Kochkov, et al., 2024",
+      "path": "Papers/@D. Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "Arctic_Oscillation_II",
+      "path": "Papers/Arctic_Oscillation_II.svg"
+    },
+    {
+      "basename": "2024-08-06",
+      "path": "TODO/2024-08-06.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "eval_target 만들기",
+      "path": "GraphCast/Task/eval_target 만들기.md"
+    },
+    {
+      "basename": "GC input 차이로 output이 달라진다는 PPT",
+      "path": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
+    },
+    {
+      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
+      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
+      "basename": "2024-08-12",
+      "path": "TODO/2024-08-12.md"
+    },
+    {
+      "basename": "2024-08-05",
+      "path": "TODO/2024-08-05.md"
+    },
+    {
+      "basename": "2024-08-15",
+      "path": "TODO/2024-08-15.md"
+    },
+    {
+      "basename": "Correlation_matrix_heatmap",
+      "path": "Papers/Correlation_matrix_heatmap.png"
     },
     {
       "basename": "Quasi-Biennial Oscillation",
       "path": "Papers/Quasi-Biennial Oscillation.md"
+    },
+    {
+      "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
+    },
+    {
+      "basename": "Dataset",
+      "path": "GraphCast/Dataset.md"
     },
     {
       "basename": "Processor",
@@ -99,106 +199,6 @@
     {
       "basename": "Prediction Challenge",
       "path": "GraphCast/Task/Prediction Challenge.md"
-    },
-    {
-      "basename": "WMO, 2012",
-      "path": "Papers/WMO, 2012.md"
-    },
-    {
-      "basename": "논문 정리",
-      "path": "GraphCast/templete/논문 정리.md"
-    },
-    {
-      "basename": "Rossby Waves",
-      "path": "GraphCast/Task/Rossby Waves.md"
-    },
-    {
-      "basename": "Sudden Stratospheric Warming",
-      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
-    },
-    {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "GraphCast GFS by NOAA",
-      "path": "GraphCast/GraphCast GFS by NOAA.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "GraphCast/Overview.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
-      "basename": "CORDEX East Asia Activities in South Korea",
-      "path": "Events/2024 International Symposium/CORDEX East Asia Activities in South Korea.md"
-    },
-    {
-      "basename": "graphcast.py",
-      "path": "GraphCast/Coding/graphcast.py.md"
-    },
-    {
-      "basename": "Code",
-      "path": "GraphCast/Coding/Code.md"
-    },
-    {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
-      "basename": "M. Feldmann, et al., 2024",
-      "path": "Papers/M. Feldmann, et al., 2024.md"
-    },
-    {
-      "basename": "paper",
-      "path": "Templete/paper.md"
-    },
-    {
-      "basename": "Lam. et al., 2023",
-      "path": "Papers/Lam. et al., 2023.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "GraphCast/paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "Arctic_Oscillation_II",
-      "path": "Papers/Arctic_Oscillation_II.svg"
-    },
-    {
-      "basename": "eval_target 만들기",
-      "path": "GraphCast/Task/eval_target 만들기.md"
-    },
-    {
-      "basename": "eval_forcing 만들기",
-      "path": "GraphCast/Task/eval_forcing 만들기.md"
-    },
-    {
-      "basename": "solar_radiation.py",
-      "path": "GraphCast/Coding/solar_radiation.py.md"
-    },
-    {
-      "basename": "data_utils.py",
-      "path": "GraphCast/Coding/data_utils.py.md"
-    },
-    {
-      "basename": "latent_size",
-      "path": "GraphCast/Coding/Property/latent_size.md"
-    },
-    {
-      "basename": "resolution",
-      "path": "GraphCast/Coding/Property/resolution.md"
-    },
-    {
-      "basename": "ERA5",
-      "path": "GraphCast/ERA5.md"
-    },
-    {
-      "basename": "rollout.py",
-      "path": "GraphCast/Coding/rollout.py.md"
     }
   ],
   "omittedPaths": [
