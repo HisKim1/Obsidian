@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-08.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-08.md"
+                "file": "Papers/@M. Bonavita, 2024.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-08.md"
+                "file": "Papers/@M. Bonavita, 2024.md"
               }
             }
           }
@@ -205,13 +204,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bafd6d8b217042c6",
+  "active": "1961407fb3521ed8",
   "lastOpenFiles": [
-    "TODO/2024-08-07.md",
-    "TODO/2024-08-08.md",
-    "Papers/@M. Bonavita, 2024.md",
-    "Papers/WeatherBench2.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
+    "Papers/@M. Bonavita, 2024.md",
+    "TODO/2024-08-08.md",
+    "TODO/2024-08-07.md",
+    "Papers/WeatherBench2.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@NOAA, 2020.md",
     "Papers/@ECMWF, 2021.md",

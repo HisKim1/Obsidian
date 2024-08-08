@@ -274,6 +274,7 @@ noted
 now
 noise
 noticeable
+number
 site
 status
 stratosphere에서
@@ -798,6 +799,8 @@ ageo
 apporach
 analyze
 accumulation
+applications
+any
 cssclasses
 considered
 cell
@@ -997,6 +1000,7 @@ chunks로
 consistency
 closer
 clone
+combine
 Tool
 Troposphere에서
 Thermal
@@ -1396,6 +1400,8 @@ download받은
 developers
 detail
 deterministic
+develop
+discontinuities
 of
 ojjjii
 oJg
@@ -2435,6 +2441,7 @@ preice
 price
 pdf
 progressive
+provide
 here
 host
 haa
@@ -2789,6 +2796,7 @@ limit
 해준다
 해당하는
 해진다는
+해결하기
 에서
 에도
 에르되시
@@ -2835,6 +2843,7 @@ limit
 사용법
 사용하려고
 사이
+사용한
 기존
 기후에
 기후
@@ -2964,6 +2973,7 @@ jtW
 jV
 jzW
 j뚴
+jpd
 설치
 설치되었고
 설명하는
@@ -3126,6 +3136,7 @@ google과
 geo
 generation
 git
+granularity
 GraphCast
 GPU
 Geostrophic
@@ -3870,6 +3881,7 @@ imperfect
 its
 increasing
 increased
+inference
 지난
 지표
 지속
@@ -4550,6 +4562,7 @@ WgG
 Wpq
 Wb
 Water
+Weather가
 의해
 의한
 의미로
@@ -5148,6 +5161,7 @@ wavenumber쪽이
 장소에
 장이
 장기에서
+장점
 예측
 예정
 예측을
@@ -5176,6 +5190,7 @@ wavenumber쪽이
 제시하는
 제거한
 제습제
+제대로
 IHDR
 IDATx
 IB
@@ -6449,6 +6464,7 @@ effectively
 especially
 env
 effect가
+evolution
 VAA
 VWWc
 VUU
@@ -6637,6 +6653,7 @@ ugn
 uhbJ
 unpredictable
 understand
+unphysical
 DEEE
 DPP
 Dt
@@ -7272,6 +7289,7 @@ NZN
 돌아와서
 돌아가는
 돌렸을
+돌아가고
 불가능
 불완전함
 불과하다고
@@ -7302,6 +7320,7 @@ NZN
 어리석어지지
 어차피
 어떠한가
+어떤지
 넣었단
 넣어야
 넣으면
@@ -7500,6 +7519,7 @@ NZN
 정의됩니다
 정도
 정리하기
+정신나간
 시기
 시간
 시간을
@@ -7561,6 +7581,7 @@ NZN
 오차를
 오면
 오늘
+오차
 분포
 분열
 분류하는
@@ -7599,6 +7620,7 @@ NZN
 부풀리지
 부족하고
 부름
+부족
 알아서
 알려진
 뜬다
@@ -7816,6 +7838,7 @@ NZN
 세월에
 세미나
 세팅
+세분성
 트렌드
 년에
 년의
@@ -7988,3 +8011,4 @@ NZN
 밤에는
 괜찮지만
 졸업요건
+누적으로
