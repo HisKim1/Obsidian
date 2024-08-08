@@ -52,8 +52,6 @@ $\Rightarrow$ synoptic은 괜찮지만, sub-synoptic & mesoscale이면 effect가
 bc trained to produce forecasts that are closer to an ensemble forecast mean than to deterministic forecst
 
 
- .
-
 ---
 # Result
 
