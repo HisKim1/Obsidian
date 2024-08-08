@@ -10,7 +10,7 @@ forecast1 서버로 이사 완료
 [installation](https://weatherbench2.readthedocs.io/en/latest/index.html) 따라서 설치 진행해야 함.
 `hiskim1_weatherbench2` conda 환경 새로 만들어서 진행하는 게 좋을 듯
 -> 설치 완료 | `python setup.py install`도 같이 해줌
-jax 해결 필요. 
+jax 해결 필요 없을 듯? 
 ﻿```shell
 ﻿conda remove jax
 ﻿conda install jax
