@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-09.md",
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-09.md",
+                "file": "Books/담론, 신영복의 마지막 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-09.md"
+                "file": "Books/담론, 신영복의 마지막 강의.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-09.md"
+                "file": "Books/담론, 신영복의 마지막 강의.md"
               }
             }
           }
@@ -190,10 +190,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9335c4a188206791",
+  "active": "453dc17a9621c605",
   "lastOpenFiles": [
     "TODO/2024-08-08.md",
-    "TODO/2024-08-09.md",
+    "conflict-files-obsidian-git.md",
     "Papers/@M. Bonavita, 2024.md",
     "WeatherBench/WeatherBench2.md",
     "TODO/2024-08-07.md",
@@ -237,7 +237,6 @@
     "File",
     "Projects - Demo Project",
     "GraphCast/Task/Pasted image 20240708164348.png",
-    "Task/Pasted image 20240708164348.png",
     "Templete",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
