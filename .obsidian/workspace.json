@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-09.md",
+                "file": "How to apply Multiprocessing in my tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,15 +21,12 @@
             }
           },
           {
-            "id": "7ec6c98257c9bad0",
+            "id": "a4618f37f4a7d87a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TODO/How to apply Multiprocessing in my tasks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md"
               }
             }
           }
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/How to apply Multiprocessing in my tasks.md",
+                "file": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/How to apply Multiprocessing in my tasks.md",
+                "file": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/How to apply Multiprocessing in my tasks.md"
+                "file": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md"
               }
             }
           },
@@ -178,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/How to apply Multiprocessing in my tasks.md"
+                "file": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md"
               }
             }
           }
@@ -201,19 +198,27 @@
       "markdown-importer:Open format converter": true,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ec6c98257c9bad0",
+  "active": "a4618f37f4a7d87a",
   "lastOpenFiles": [
-    "TODO/2024-08-09.md",
-    "TODO/How to apply Multiprocessing in my tasks.md",
-    "Books/담론, 신영복의 마지막 강의.md",
+    "How to apply Multiprocessing in my tasks.md",
+    "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+    "TODO/2024-08-05.md",
+    "TODO/2024-08-06.md",
+    "TODO/2024-08-07.md",
     "TODO/2024-08-08.md",
+    "TODO/2024-08-09.md",
+    "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
+    "Books/담론, 신영복의 마지막 강의.md",
     "conflict-files-obsidian-git.md",
     "Papers/@M. Bonavita, 2024.md",
     "WeatherBench/WeatherBench2.md",
-    "TODO/2024-08-07.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/@NOAA, 2020.md",
@@ -226,14 +231,7 @@
     "Papers/@WMO, 2012.md",
     "Papers/@R. Keisler, 2022.md",
     "Papers/Northern and Southern Annular Mode.md",
-    "Papers/@Lam. et al., 2023.md",
-    "Papers/@L. Olivetti, G.Messori, 2024.md",
-    "Papers/@J. Kidston, et al.,.md",
-    "Papers/@D. Kochkov, et al., 2024.md",
     "Papers/Arctic_Oscillation_II.svg",
-    "TODO/2024-08-06.md",
-    "Templete/TODO.md",
-    "GraphCast/Task/Input Data 다운.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",
