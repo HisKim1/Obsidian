@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ec6c98257c9bad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/How to apply Multiprocessing in my tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-09.md",
+                "file": "TODO/How to apply Multiprocessing in my tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-09.md",
+                "file": "TODO/How to apply Multiprocessing in my tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-09.md"
+                "file": "TODO/How to apply Multiprocessing in my tasks.md"
               }
             }
           },
@@ -164,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-09.md"
+                "file": "TODO/How to apply Multiprocessing in my tasks.md"
               }
             }
           }
@@ -190,8 +204,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "453dc17a9621c605",
+  "active": "7ec6c98257c9bad0",
   "lastOpenFiles": [
+    "TODO/2024-08-09.md",
+    "TODO/How to apply Multiprocessing in my tasks.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "TODO/2024-08-08.md",
     "conflict-files-obsidian-git.md",
@@ -218,8 +234,6 @@
     "TODO/2024-08-06.md",
     "Templete/TODO.md",
     "GraphCast/Task/Input Data 다운.md",
-    "GraphCast/Task/Task.md",
-    "GraphCast/Task/eval_target 만들기.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",
