@@ -5,3 +5,11 @@ wordcloud_*
 .Obsidian/plugins/remember-cursor-position/cursor-*
 
 .Obsidian/work*
+
+.trash/
+
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
+
+.obsidian/workspace.json
+
+.obsidian/plugins/recent-files-obsidian/data.json
