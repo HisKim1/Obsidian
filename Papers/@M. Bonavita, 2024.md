@@ -55,7 +55,7 @@ spectral 특징을 보면 예측 모델의 성능이 scale따라 달라지더라
 
 > <font color="#00e676">The spectral characteristics</font> of the forecasts can in general affect standard <font color="#00e676">deterministic forecast skill performance</font> measures. 
 > . . .
-> It is apparent how the less spectrally resolved forecasts appears to be more skillful than their higher resolution version.
+> It is apparent how the <font color="#00e676">less spectrally resolved forecasts appears to be more skillful</font> than their higher resolution version.
 
 
 ---
