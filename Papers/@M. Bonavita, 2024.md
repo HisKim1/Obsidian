@@ -51,6 +51,12 @@ $\Rightarrow$ synoptic은 괜찮지만, sub-synoptic & mesoscale이면 effect가
 왜 MLWP가 progressive loss of detail?
 bc trained to produce forecasts that are closer to an ensemble forecast mean than to deterministic forecst
 
+spectral 특징을 보면 예측 모델의 성능이 scale따라 달라지더라
+
+> <font color="#00e676">The spectral characteristics</font> of the forecasts can in general affect standard <font color="#00e676">deterministic forecast skill performance</font> measures. 
+> . . .
+> It is apparent how the less spectrally resolved forecasts appears to be more skillful than their higher resolution version.
+
 
 ---
 # Result
