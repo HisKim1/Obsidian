@@ -155,6 +155,10 @@ forecast가
 functions
 forecst
 func
+fIZFQrak
+function을
+fnz
+function과
 name
 nYYYFF
 nOq
@@ -276,6 +280,7 @@ now
 noise
 noticeable
 number
+nkF
 site
 status
 stratosphere에서
@@ -503,6 +508,11 @@ scalability
 syMfxdlv
 server
 size를
+saO
+sturfrlG
+sFkZ
+smaller
+start
 topic
 tags
 templete
@@ -653,6 +663,7 @@ time따라
 tat
 trash
 task
+task라면
 aliases
 against
 and
@@ -810,6 +821,9 @@ accumulation
 applications
 any
 arg
+aKIvxstz
+aAf
+argment
 cssclasses
 considered
 cell
@@ -1153,6 +1167,9 @@ Today
 Test
 Text
 Type
+Total
+TQZknl
+Tv
 Brief
 Bfloat
 Balance
@@ -1268,6 +1285,7 @@ Basic
 Based
 Background
 Benefit
+Bound
 description
 driving
 dAJ
@@ -1542,11 +1560,11 @@ ozV
 ogG
 owW
 ord
-open
 oviate
 optimize
 oF
 occured
+overload로
 Reasoning
 Resources
 Residual
@@ -1827,6 +1845,8 @@ Accuracy
 API
 AWS
 Answer
+Atfo
+AKyOX
 Link
 LOO
 LQWW
@@ -1928,6 +1948,9 @@ LrZ
 Letters
 LKPYe
 LDW
+LCgLMSJb
+LCNgB
+LXZr
 relevant
 residual
 rK
@@ -2107,6 +2130,9 @@ resolved
 running
 required
 resources
+rCfo
+rAN
+results
 blog
 break
 breaking에
@@ -2480,6 +2506,9 @@ pool
 parameter
 parameters의
 perform
+process가
+parameter로
+processors
 here
 host
 haa
@@ -2599,11 +2628,13 @@ highlighted
 hybrid
 has
 happen
+hVHBxmE
 작업
 작동
 작업해보았는데
 작은
 작업을
+작성
 파일명
 파동
 파동이
@@ -2612,6 +2643,7 @@ happen
 파동에
 파일
 파일임
+파악이
 번째
 번에
 환경
@@ -2623,6 +2655,7 @@ happen
 문제점
 문제점들
 문제는
+문제를
 상황
 상위버전들이
 상승한
@@ -2634,6 +2667,7 @@ happen
 상한
 상승
 상의상의
+상당히
 코드를
 코드와
 코리올리
@@ -2649,6 +2683,7 @@ happen
 실행에
 실행할
 실행해야
+실행한다
 library
 lbb
 lM
@@ -2835,6 +2870,7 @@ least
 이야기했습니다
 이유입니다
 이상
+이해를
 필요함
 필요한
 필요
@@ -2854,6 +2890,7 @@ least
 해결하기
 해줌
 해서
+해도
 에서
 에도
 에르되시
@@ -2883,6 +2920,7 @@ least
 가까운
 가즈
 가져다
+가정
 요청
 요소
 요지를
@@ -3203,6 +3241,7 @@ geo
 generation
 git
 granularity
+gXynSDL
 GraphCast
 GPU
 Geostrophic
@@ -3439,6 +3478,11 @@ CPU를
 CPU
 CPU에
 Caution
+Calculation
+Create
+Combine
+CgdLiBZP
+CGmBHKBf
 Output
 OD
 OLL
@@ -3534,6 +3578,10 @@ OJI
 OPTIONS
 Original
 Overhead
+Open
+OUVw
+Overload
+Ordinary
 Error
 Eddy
 EEE
@@ -4074,6 +4122,7 @@ indirect
 개를
 개쩌는
 개라고
+개만
 Stratospheric
 Surface
 SU
@@ -4215,6 +4264,10 @@ Similarly
 Spectral
 Suppose
 Solution
+Save
+SfavX
+SPZiGsbw
+Situation
 순환
 순환을
 순환의
@@ -4542,6 +4595,11 @@ map
 mUIoyyco
 module은
 memory를
+must
+multiprocessing할
+multiplier
+multiprocessing하면
+message
 서풍에
 서로
 서버의
@@ -4662,6 +4720,8 @@ Wb
 Water
 Weather가
 WsSY
+WUt
+WOpz
 의해
 의한
 의미로
@@ -4681,6 +4741,8 @@ WsSY
 단기에
 단위
 단점
+단축할
+단순한
 냉각
 야기
 야기한
@@ -4833,6 +4895,7 @@ HIKg
 HKy
 HVv
 Hisu
+HjZDmFSZ
 즉시
 Pressure
 PNG
@@ -4984,6 +5047,7 @@ Pool
 발견한
 발생한다
 발전하고
+발생했을
 감소
 감소한다
 중위도
@@ -5105,6 +5169,7 @@ Fpv
 FDDDD
 File
 FourCastNet
+FppYW
 초기
 초기화
 위치
@@ -5264,6 +5329,7 @@ wavenumber쪽이
 waiting
 wkfYxP
 while
+way
 높이
 높은
 활성화
@@ -5308,6 +5374,7 @@ while
 제습제
 제대로
 제자를
+제작
 IHDR
 IDATx
 IB
@@ -5484,6 +5551,7 @@ Izfao
 IKw
 Info
 Initiation
+IYexXHrG
 yb
 yyyvvv
 yzz
@@ -5789,6 +5857,7 @@ XDB
 XDDDDDDDU
 XDDDDDDDD
 XDDDDDDD
+XAGW
 kii
 kk
 ktLjm
@@ -5888,6 +5957,7 @@ kK
 kBSK
 kmDz
 km이고
+kXbccfos
 xxxnn
 xh
 xU
@@ -6322,6 +6392,7 @@ KT
 KOI
 Kq
 Kim
+KSvR
 UQQ
 UWW
 UVV
@@ -6430,6 +6501,7 @@ Uzj
 Ue
 Unseen
 Usage
+UVLqZpkG
 eG
 ell
 edd
@@ -6676,6 +6748,7 @@ Vjv
 Vj
 Vuh
 VIEW
+VPyzj
 uuu
 uJMM
 ukii
@@ -6907,6 +6980,8 @@ Decompress
 Diagnostics
 Dask
 Deadlock
+DNv
+DCL
 vm
 vLL
 vX
@@ -7034,6 +7109,7 @@ vL
 vvuq
 via
 view
+vhFd
 qbRRRrr
 qZ
 ql
@@ -7145,6 +7221,8 @@ qus
 qu
 qrp
 quq
+qbB
+qN
 ZZ
 Zi
 ZQQ
@@ -7244,6 +7322,7 @@ Zvv
 Zuqt
 Zjz
 ZXd
+ZEB
 NMMm
 NN
 NdAa
@@ -7377,6 +7456,8 @@ NGAA
 NZN
 NKR
 NsNNr
+NxR
+NVMdSQh
 쉄f
 믿vuum
 쳧O
@@ -7424,6 +7505,8 @@ NsNNr
 돌아가고
 돌아감
 돌입
+돌아가다가
+돌아가기
 불가능
 불완전함
 불과하다고
@@ -7460,10 +7543,12 @@ NsNNr
 어차피
 어떠한가
 어떤지
+어렵다
 넣었단
 넣어야
 넣으면
 넣어줫음
+넣을
 받아서
 받은
 받는다
@@ -7564,6 +7649,7 @@ NsNNr
 하나를
 하나의
 하여
+하나가
 것보다
 것인가
 것이
@@ -7642,6 +7728,7 @@ NsNNr
 수밖에
 수행할
 수를
+수강신청
 따른
 따라
 따로
@@ -7659,6 +7746,7 @@ NsNNr
 없지
 없는
 없으면서
+없다면
 아니면
 아직
 아주
@@ -7739,6 +7827,7 @@ NsNNr
 정도
 정리하기
 정신나간
+정해
 시기
 시간
 시간을
@@ -7806,6 +7895,7 @@ NsNNr
 오면
 오늘
 오차
+오래
 분포
 분열
 분류하는
@@ -7908,6 +7998,7 @@ NsNNr
 확인해서
 확인해보기
 확인하기
+확인한다
 새로운
 새로
 새롭게
@@ -7923,6 +8014,7 @@ NsNNr
 크로스핏
 복잡성과
 복잡한
+복잡하고
 식별이
 완전히
 완고한
@@ -7931,6 +8023,8 @@ NsNNr
 걸로
 걸어온
 걸쳐서
+걸리는
+걸릴
 합쳐
 합쳐야
 합성
@@ -7947,6 +8041,7 @@ NsNNr
 함수와
 함수를
 함수에게
+함수에
 그냥
 그룹으로
 그런
@@ -8026,6 +8121,7 @@ NsNNr
 매개변수
 매한가지
 매사
+매우
 밀도
 밀린
 뭔지
@@ -8037,6 +8133,7 @@ NsNNr
 마무리를
 마무리만
 마저
+마주치게
 흔들림
 약해지면
 약해지거나
@@ -8155,6 +8252,7 @@ NsNNr
 점들을
 점의
 점유하고
+점유율을
 찍어
 면이
 무기가
@@ -8162,6 +8260,7 @@ NsNNr
 무엇
 무방함
 무한
+무엇인지
 언어를
 언어의
 언어는
@@ -8420,6 +8519,7 @@ NsNNr
 죠져
 죠지기
 출처
+출력이
 랩실
 랩미팅
 랩세미나
@@ -8441,6 +8541,14 @@ NsNNr
 착취하는
 커널
 엄밀한
+엄밀히
 독립적인
 잘게
 쪼개서
+디버깅
+난이도
+난삽하여
+먼저
+짜자
+돕기
+획기적으로
