@@ -57,6 +57,10 @@ spectral 특징을 보면 예측 모델의 성능이 scale따라 달라지더라
 > . . .
 > It is apparent how the <font color="#00e676">less spectrally resolved forecasts appears to be more skillful</font> than their higher resolution version.
 
+---
+# Physical Consistency of Pangu-Weather forecasts
+
+
 
 ---
 # Result
