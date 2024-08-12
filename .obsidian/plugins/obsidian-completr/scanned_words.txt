@@ -520,6 +520,12 @@ scale따라
 standard
 significant
 surfaces
+simulators
+spatially
+scales
+smoother
+satisfied
+signature
 topic
 tags
 templete
@@ -673,6 +679,8 @@ task
 task라면
 thus
 topography
+there
+twins
 aliases
 against
 and
@@ -843,6 +851,8 @@ analogous
 allows
 approximation
 atmosphere
+advantages
+appear
 cssclasses
 considered
 cell
@@ -1054,6 +1064,10 @@ connected
 convergence
 continuity
 component랑
+compelling
+caveats
+cannot
+chaotic
 Tool
 Troposphere에서
 Thermal
@@ -1196,6 +1210,7 @@ TQZknl
 Tv
 Topic
 Taxas
+These
 Brief
 Bfloat
 Balance
@@ -1473,6 +1488,9 @@ divergence
 diagnosed
 diego
 diffuse
+digital
+decreasing
+drop
 of
 ojjjii
 oJg
@@ -2176,6 +2194,9 @@ rotational
 regions
 realism
 raise
+representing
+relationships
+reduced
 blog
 break
 breaking에
@@ -2323,6 +2344,7 @@ blurriness
 bound
 bandwidth
 balance
+balances
 posts
 pf
 pss
@@ -2555,6 +2577,8 @@ parameter로
 processors
 performance
 picture
+purpose
+problematic
 here
 host
 haa
@@ -3294,6 +3318,7 @@ git
 granularity
 gXynSDL
 github에
+growth
 GraphCast
 GPU
 Geostrophic
@@ -3797,6 +3822,7 @@ EIA
 Elements
 EskCH
 Exception
+EM
 Message
 Mean
 MJJ
@@ -5252,6 +5278,7 @@ File
 FourCastNet
 FppYW
 Fee
+From
 초기
 초기화
 위치
@@ -5413,6 +5440,7 @@ wkfYxP
 while
 way
 weaker
+wavenumber
 높이
 높은
 활성화
@@ -6753,6 +6781,7 @@ executing
 excess
 equation
 estimate
+estimators
 VAA
 VWWc
 VUU
@@ -6840,6 +6869,7 @@ Vj
 Vuh
 VIEW
 VPyzj
+View
 uuu
 uJMM
 ukii
@@ -6944,6 +6974,7 @@ unpredictable
 understand
 unphysical
 unrealistic
+uncertainties
 DEEE
 DPP
 Dt
@@ -7322,6 +7353,7 @@ qrp
 quq
 qbB
 qN
+quantities
 ZZ
 Zi
 ZQQ
