@@ -159,6 +159,7 @@ fIZFQrak
 function을
 fnz
 function과
+fields
 name
 nYYYFF
 nOq
@@ -515,6 +516,8 @@ smaller
 start
 scale따라
 standard
+significant
+surfaces
 topic
 tags
 templete
@@ -666,6 +669,8 @@ tat
 trash
 task
 task라면
+thus
+topography
 aliases
 against
 and
@@ -831,6 +836,10 @@ appears
 areas
 active
 ageostrophic을
+allow
+analogous
+allows
+approximation
 cssclasses
 considered
 cell
@@ -1041,6 +1050,7 @@ characteristics
 connected
 convergence
 continuity
+component랑
 Tool
 Troposphere에서
 Thermal
@@ -1452,6 +1462,7 @@ develop
 discontinuities
 demo에서
 divergence
+diagnosed
 of
 ojjjii
 oJg
@@ -1578,6 +1589,7 @@ oF
 occured
 overload로
 output이
+oceans
 Reasoning
 Resources
 Residual
@@ -2148,6 +2160,8 @@ resources
 rCfo
 rAN
 results
+rotational
+regions
 blog
 break
 breaking에
@@ -2294,6 +2308,7 @@ budget
 blurriness
 bound
 bandwidth
+balance
 posts
 pf
 pss
@@ -2850,6 +2865,7 @@ load
 lazy
 least
 linked
+lying
 버전
 버전으로
 이상이
@@ -3898,6 +3914,8 @@ Multiprocessing
 MduWrii
 Memory
 Moral
+MLWP에서
+Motions
 in
 iii
 iYp
@@ -4032,6 +4050,7 @@ increasing
 increased
 inference
 indirect
+isobaric
 지난
 지표
 지속
@@ -4625,6 +4644,8 @@ message
 measures
 midlatitude
 motions
+manner
+motions가
 서풍에
 서로
 서버의
@@ -6691,6 +6712,7 @@ execute
 executing
 excess
 equation
+estimate
 VAA
 VWWc
 VUU
@@ -6881,6 +6903,7 @@ under
 unpredictable
 understand
 unphysical
+unrealistic
 DEEE
 DPP
 Dt
@@ -7012,6 +7035,7 @@ Deadlock
 DNv
 DCL
 Divergent
+Divergence
 vm
 vLL
 vX
@@ -7140,6 +7164,7 @@ vvuq
 via
 view
 vhFd
+vorticity
 qbRRRrr
 qZ
 ql
@@ -8207,6 +8232,7 @@ NWP보다
 토양
 현상
 현대
+현저하게
 홍수
 둘러싸여
 둘로
@@ -8590,3 +8616,4 @@ NWP보다
 돕기
 획기적으로
 국가장학금
+떨어짐

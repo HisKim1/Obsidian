@@ -72,6 +72,13 @@ $\Rightarrow$ MLWP가 NWP보다  ageostrophic을 약하게 예측
 
 $\Rightarrow$ MLWP에서 $\frac{\text{divergence}}{\text{vorticity}}$가 현저하게 떨어짐
 $\Rightarrow$ rotational component랑 vertical motions가 unphysical 
+
+## Vertical Motions
+> It is apparent that while the diagnosed w is unrealistic in regions with significant topography (i.e., where isobaric surfaces end up below ground), it is a qualitatively good approximation in low lying areas and over the oceans.
+
+
+
+
 ---
 
 ---
