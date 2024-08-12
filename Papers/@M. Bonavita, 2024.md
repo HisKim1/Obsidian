@@ -65,7 +65,7 @@ $$V_g = \frac{1}{f}\hat{k} \times \nabla_p\Phi $$
 $$V_ag = V - V_g$$
 > <font color="#00e676">Ageostrophic winds in midlatitude synoptic system</font> are connected with <font color="#00e676">areas of convergence/divergence</font> which, through the continuity equation, are linked to <font color="#00e676">areas of vertical motions and active weather</font>.
 
-MLWP가 NWP보다  ageostrophic을 약하게 예측 
+$\Rightarrow$ MLWP가 NWP보다  ageostrophic을 약하게 예측 
 
 ---
 # Result
