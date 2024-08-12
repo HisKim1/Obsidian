@@ -92,12 +92,16 @@ $\Rightarrow$ 판구 예측으로 수식 돌려서 vertical velocity 구해보�
    $\rightarrow$ other quantities that can be <font color="#00e676">diagnosed from balance relationships</font> , ... , <font color="#00e676">are also unrealistic</font>
 
 ### 2. View as estimators of the mean of the forecast pdf is also problematic.
-1) $\not\exists$ signature drop in energy of the ECMWF EM at synoptic scales in the medium range (3-5 days) 
-   ($\because$ loss of predictability at these lead times / spatial scales bc chaotic growth of initial and forecast uncertainties)
-   & MLWP's reduced forecast variability at smaller spatial scales
+1) <font color="#00e676">loss of predictability </font>at medium range lead times (3-5 days) & synoptic spatial scales 
+   $\because$ chaotic <font color="#00e676">growth</font> of initial and forecast <font color="#00e676">uncertainties</font>
+   $\sim \not\exists$ <font color="#00e676">signature drop in energy</font> of the ECMWF EM at synoptic scales in the medium range (3-5 days) 
+2) <font color="#00e676">heteroscedasticity in the distribution of forecast errors </font>with forecast lead time
+   $\rightarrow$ MLWP's<font color="#00e676"> reduced forecast variability</font> at smaller spatial scales
+   pf) <font color="#00e676">inability</font> of Pangu-Weather to produce <font color="#00e676">realistic error growth</font> from small-amplitude initial condition perturbation (i.e., lack of a "butterfly effect")
    
-2) 
-### 3. 
+> $\therefore$ <font color="#00e676">MLWP models in ensemble prediction</font> may turn out to be <font color="#00e676">challenging</font>, at least in terms of <font color="#00e676">following the current paradigm of forecast ensembles </font>as collections of perturbed realizations of physically valid model trajectories.
+
+
 
 ---
 # References
