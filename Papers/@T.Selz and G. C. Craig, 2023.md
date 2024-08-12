@@ -1,7 +1,7 @@
 ---
 title: Can Artificial Intelligence-Based Weather Prediction Models Simulate the Butterfly Effect?
 site: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL105747
-summary: 
+summary: 판구가 butterfly effect 부족으로 앙상블 못 쓴다는 근거로 쓰인 논문
 keyword: 
 status:
   - NotYet

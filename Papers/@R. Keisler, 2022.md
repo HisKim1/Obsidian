@@ -5,11 +5,11 @@ summary: GNN으로 기후 예측 가능하다고 처음 말한
 keyword:
   - MPNN
 status:
-  - Done
+  - ==Done==
 aliases:
 tags:
   - paper
-datetime: 2024-06-22T13:58:00
+datetime: 2024-06-22T13:58
 when_published: 2022-02-15
 where_published:
   - arXiv

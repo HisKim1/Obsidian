@@ -1,11 +1,11 @@
 ---
 title: Spatially Extended Tests of a Neural Network Parametrization Trained by Coarse-Graining
 site: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001711
-summary:
-keyword:
+summary: NeuralGCM에서 ML의 문제점으로 제시된 근거 논문
+keyword: 
 status:
   - NotYet
-aliases:
+aliases: 
 tags:
   - paper
 when_published: 2019-07-29

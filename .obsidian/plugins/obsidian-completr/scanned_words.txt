@@ -1338,6 +1338,7 @@ Bound
 Berkeley
 Barbara
 Boston
+Butterfly
 description
 driving
 dAJ
@@ -1914,6 +1915,7 @@ Atfo
 AKyOX
 Ageostrophic
 Austin
+Artificial
 Link
 LOO
 LQWW
@@ -2747,6 +2749,7 @@ heteroscedasticity
 문제점들
 문제는
 문제를
+문제점으로
 상황
 상위버전들이
 상승한
@@ -3588,6 +3591,7 @@ CGmBHKBf
 Consistency
 Cornell
 Conclusions
+Can
 Output
 OD
 OLL
@@ -4185,6 +4189,7 @@ inability
 쓰는
 쓰기는
 쓰기
+쓰임
 되는지
 되더라
 되었는지
@@ -4392,6 +4397,8 @@ San
 Stanrford
 Santa
 SchXool
+Simulate
+Statistical
 순환
 순환을
 순환의
@@ -5515,6 +5522,7 @@ wavenumber
 제대로
 제자를
 제작
+제시된
 IHDR
 IDATx
 IB
@@ -5692,6 +5700,7 @@ IKw
 Info
 Initiation
 IYexXHrG
+Intelligence
 yb
 yyyvvv
 yzz
@@ -7140,6 +7149,7 @@ Department
 Due
 Davis
 Discussion
+DLWP가
 vm
 vLL
 vX
@@ -7620,6 +7630,8 @@ NsNNr
 NxR
 NVMdSQh
 NWP보다
+NeuralGCM
+NeuralGCM에서
 쉄f
 믿vuum
 쳧O
@@ -8124,6 +8136,8 @@ NWP보다
 부자
 부각한다
 부분적으로
+부족하다는
+부족으로
 알아서
 알려진
 뜬다
@@ -8559,6 +8573,7 @@ NWP보다
 뿐만아니라
 근거하여
 근거로
+근거
 막론하고
 든간에
 논하지
@@ -8732,3 +8747,6 @@ NWP보다
 국가장학금
 떨어짐
 골라서
+궁금해서
+앙상블
+쓴다는

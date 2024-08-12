@@ -1,10 +1,13 @@
 ---
 title: On some limitations of current machine learning weather prediction models
 site: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107377
-summary: 판구가 장기에서 geo, ageo. wind vertical struct 예측을 못하더라.
-keyword: 
+summary: DLWP가 physics param 예측을 못하더라
+keyword:
+  - Spectral Energy
+  - Physical Inconsistency
+  - Error growth
 status:
-  - WorkingOn
+  - ==Done==
 aliases: 
 tags:
   - paper

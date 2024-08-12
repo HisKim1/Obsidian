@@ -7,13 +7,13 @@ keyword:
   - GNN
   - GraphCast
 status:
-  - Done
+  - ==Done==
 aliases:
   - templete
 tags:
   - paper
   - Key
-datetime: 2024-07-09T10:14:00
+datetime: 2024-07-09T10:14
 when_published: 2023-12-22
 where_published:
   - Science
