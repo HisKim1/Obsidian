@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Papers/@M. Bonavita, 2024.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",

@@ -82,7 +82,22 @@ $\Rightarrow$ 판구 예측으로 수식 돌려서 vertical velocity 구해보�
 ><font color="#00e676"> general noisiness and lack of realism </font>of the TC in Pangu-Weather forecast (and the other ML models, ... ) raise further questions about the ability of MLWP models to provide a <font color="#00e676">physically consistent picture of the evolution of the atmosphere</font>.
 ---
 # Discussion and Conclusions
+> These advantages appear compelling, there are some caveats.
 
+### 1. cannot be considered general-purpose atmosphere simulators or atmospheric "digital twins."
+1) From power spectra, <font color="#00e676">decreasing energy w/ increasing wavenumber</font> (higher spatially resolved scales)
+2) ML weather models produce progressively <font color="#00e676">smoother forecasts</font>
+   $\rightarrow$ <font color="#00e676">problems in</font> representing fundamental <font color="#00e676">dynamical balance</font> relationships
+3) physical balances are not satisfied 
+   $\rightarrow$ other quantities that can be <font color="#00e676">diagnosed from balance relationships</font> , ... , <font color="#00e676">are also unrealistic</font>
+
+### 2. View as estimators of the mean of the forecast pdf is also problematic.
+1) $\not\exists$ signature drop in energy of the ECMWF EM at synoptic scales in the medium range (3-5 days) 
+   ($\because$ loss of predictability at these lead times / spatial scales bc chaotic growth of initial and forecast uncertainties)
+   & MLWP's reduced forecast variability at smaller spatial scales
+   
+2) 
+### 3. 
 
 ---
 # References
