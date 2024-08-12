@@ -9,14 +9,14 @@ keyword:
   - forecast
   - weather extreme
 status:
-  - Done
+  - ==Done==
 aliases:
 tags:
   - paper
 when_published: 2024-04-10
 where_published:
   - EGUsphere
-datetime: 2024-07-22T13:57:00
+datetime: 2024-07-22T13:57
 ---
 ```ad-summary
 성능이 region, lead time별로 차이가 많이 난다. 

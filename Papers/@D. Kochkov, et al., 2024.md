@@ -1,10 +1,11 @@
 ---
 title: Neural general circulation models for weather and climate
 site: https://www.nature.com/articles/s41586-024-07744-y#Sec2
-summary: NN + NWP / 날씨부터 기후까지 / 첫 hybrid 모델
-keyword: 
+summary: NeuralGCM=NN + NWP / 날씨부터 기후까지 / 첫 hybrid 모델
+keyword:
+  - NeuralGCM
 status:
-  - Done
+  - ==Done==
 aliases: 
 tags:
   - paper
@@ -71,3 +72,4 @@ Similarly, we observe that GraphCast shows an error that worsens with lead time.
 
 ---
 # References
+[[@M. Bonavita, 2024]]
