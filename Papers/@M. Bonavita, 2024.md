@@ -74,15 +74,14 @@ $\Rightarrow$ MLWP에서 $\frac{\text{divergence}}{\text{vorticity}}$가 현저�
 $\Rightarrow$ rotational component랑 vertical motions가 unphysical 
 
 ## Vertical Motions
-> It is apparent that while the diagnosed w is unrealistic in regions with significant topography (i.e., where isobaric surfaces end up below ground), it is a qualitatively good approximation in low lying areas and over the oceans.
+> It is apparent that while the diagnosed $w$ is unrealistic in regions with significant topography (i.e., where isobaric surfaces end up below ground), it is a qualitatively good approximation in low lying areas and over the oceans.
 
+$\Rightarrow$ 판구 예측으로 수식 돌려서 vertical velocity 구해보니까 40% weaker and more diffuse
+\+ autoregressive 모델들에서 더 심하게 나타남
 
-
-
+><font color="#00e676"> general noisiness and lack of realism </font>of the TC in Pangu-Weather forecast (and the other ML models, ... ) raise further questions about the ability of MLWP models to provide a <font color="#00e676">physically consistent picture of the evolution of the atmosphere</font>.
 ---
-
----
-# Result
+# Discussion and Conclusions
 
 ---
 # References
