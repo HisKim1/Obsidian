@@ -67,6 +67,13 @@ $$V_ag = V - V_g$$
 
 $\Rightarrow$ MLWP가 NWP보다  ageostrophic을 약하게 예측 
 
+## Rotational and Divergent Wind components
+> <font color="#00e676">Divergence and vorticity fields </font>thus allow to estimate the <font color="#00e676">dynamical consistency of the forecasted wind</font>, in a manner analogous to what<font color="#00e676"> geostrophic balance </font>allows to do in terms of the <font color="#00e676">dynamical consistency of mass and wind fields.</font>
+
+$\Rightarrow$ MLWP에서 $\frac{\text{divergence}}{\text{vorticity}}$가 현저하게 떨어짐
+$\Rightarrow$ rotational component랑 vertical motions가 unphysical 
+---
+
 ---
 # Result
 
