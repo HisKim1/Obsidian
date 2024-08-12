@@ -13,3 +13,11 @@ wordcloud_*
 .obsidian/workspace.json
 
 .obsidian/plugins/recent-files-obsidian/data.json
+
+.obsidian/plugins/obsidian-completr/scanned_words.txt
+
+.obsidian/plugins/recent-files-obsidian/data.json
+
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
+
+.obsidian/workspace.json
