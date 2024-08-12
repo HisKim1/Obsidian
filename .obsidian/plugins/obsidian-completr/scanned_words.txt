@@ -161,6 +161,7 @@ fnz
 function과
 fields
 further
+functions랑
 name
 nYYYFF
 nOq
@@ -681,6 +682,9 @@ thus
 topography
 there
 twins
+turn
+trajectories
+tend
 aliases
 against
 and
@@ -853,6 +857,8 @@ approximation
 atmosphere
 advantages
 appear
+amplitude
+aspects로
 cssclasses
 considered
 cell
@@ -1068,6 +1074,8 @@ compelling
 caveats
 cannot
 chaotic
+collections
+curricula
 Tool
 Troposphere에서
 Thermal
@@ -1491,6 +1499,8 @@ diffuse
 digital
 decreasing
 drop
+distribution
+double
 of
 ojjjii
 oJg
@@ -1618,6 +1628,7 @@ occured
 overload로
 output이
 oceans
+optimizing하면
 Reasoning
 Resources
 Residual
@@ -2197,6 +2208,8 @@ raise
 representing
 relationships
 reduced
+realizations
+ranges를
 blog
 break
 breaking에
@@ -2345,6 +2358,8 @@ bound
 bandwidth
 balance
 balances
+butterfly
+better
 posts
 pf
 pss
@@ -2579,6 +2594,10 @@ performance
 picture
 purpose
 problematic
+paradigm
+perturbed
+present
+penalty
 here
 host
 haa
@@ -2700,6 +2719,7 @@ has
 happen
 hVHBxmE
 higher
+heteroscedasticity
 작업
 작동
 작업해보았는데
@@ -2997,6 +3017,7 @@ lying
 가즈
 가져다
 가정
+가능할
 요청
 요소
 요지를
@@ -3320,6 +3341,7 @@ granularity
 gXynSDL
 github에
 growth
+general하게
 GraphCast
 GPU
 Geostrophic
@@ -3966,6 +3988,7 @@ Motions
 MIT
 Madison
 Michigan
+ML도
 in
 iii
 iYp
@@ -4101,6 +4124,7 @@ increased
 inference
 indirect
 isobaric
+inability
 지난
 지표
 지속
@@ -4159,6 +4183,8 @@ isobaric
 쓰려고
 쓰여
 쓰는
+쓰기는
+쓰기
 되는지
 되더라
 되었는지
@@ -5280,6 +5306,7 @@ FourCastNet
 FppYW
 Fee
 From
+Froecast
 초기
 초기화
 위치
@@ -6976,6 +7003,7 @@ understand
 unphysical
 unrealistic
 uncertainties
+upscale
 DEEE
 DPP
 Dt
@@ -7241,6 +7269,7 @@ via
 view
 vhFd
 vorticity
+valid
 qbRRRrr
 qZ
 ql
@@ -7819,6 +7848,7 @@ NWP보다
 있게
 있지
 있더라
+있지만
 향상
 향상시키는
 향상에
@@ -8403,6 +8433,7 @@ NWP보다
 무방함
 무한
 무엇인지
+무리가
 언어를
 언어의
 언어는
@@ -8700,3 +8731,4 @@ NWP보다
 획기적으로
 국가장학금
 떨어짐
+골라서

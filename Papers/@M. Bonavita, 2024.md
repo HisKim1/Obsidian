@@ -13,7 +13,7 @@ where_published:
   - Geophysical Research Letters
 ---
 ```ad-summary
-3줄 요약
+MLWP가 physics-driven characteristics such as (a)geostrophic wind, spectra, vertical velocity를 잘 못 맞추더라. 이유는 mean을 맞추는 nature of ML 때문. 다만 원하는 특성에만 optimize한다면 충분히 유용할 거다
 ```
 
 ```ad-abstract
@@ -101,7 +101,15 @@ $\Rightarrow$ 판구 예측으로 수식 돌려서 vertical velocity 구해보�
    
 > $\therefore$ <font color="#00e676">MLWP models in ensemble prediction</font> may turn out to be <font color="#00e676">challenging</font>, at least in terms of <font color="#00e676">following the current paradigm of forecast ensembles </font>as collections of perturbed realizations of physically valid model trajectories.
 
+### Conclusions
+> Froecast models with reduced variability and which do not present the standard upscale error growth of physics-based models tend to perform better on deterministic forecast skill measures, especially at longer lead times ("double penalty" effect) and ...
+
+general하게 쓰기는 무리가 있지만 specific aspects로 optimizing하면 쓰기 좋다
+
+loss functions랑 training curricula 잘 골라서 different forecast ranges를 위한 ML도 가능할 듯
+
 
 
 ---
 # References
+[[@T.Selz and G. C. Craig, 2023]]
