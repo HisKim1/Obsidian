@@ -49,10 +49,37 @@ error growth를 잘 하는지 보겠다
 # Conclusion
 
 ---
-# Method
+# Experiments
+
+### The AI-Based Model Pangu
+deterministic forecasts / 13 pressure levels
+5 pressure level variables (u, v, t, z, q) & 4 surface variables (u10, v10, t2m, slp)
+0.25$^\circ$
+1, 3, 6, 24hr를 각각 학습 $\rightarrow$ 24부터 빈 틈을 채워나가는 방식
+
+### The PDE-Based Model ICON
+<font color="#00e676">ICO</font>sahedral <font color="#00e676">N</font>on-hydrostatic model
+PDE-based NWP
+자세한 건 알 필요 없을 듯?
+
+### Initial Conditions
+2021.06.26 00h 기준으로 진행 
+$\because$ 북미 summer convection $\uparrow \quad \Rightarrow$ error growth $\uparrow$ / 당연히 maritime & wintertime도 global diagnostics의 avg에 포함될 것
+
+ECMWF의 ERA5 reanalysis 대신 operational analysis 사용
+$\because \quad \exists$  minor & insignificant differences
+
+initial perturbations는 ECMWF의 ensemble data assimilations (EDA)에서 찾음
+
+
+### Experiments
+
+
+### Diagnostics
 
 ---
-# Result
+# Results
 
 ---
 # References
+ 

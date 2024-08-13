@@ -27,13 +27,14 @@
               "type": "markdown",
               "state": {
                 "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-13.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-13.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-13.md"
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
               }
             }
           },
@@ -178,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-13.md"
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
               }
             }
           }
@@ -205,13 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "453dc17a9621c605",
+  "active": "8f173441aca36995",
   "lastOpenFiles": [
+    "TODO/2024-08-13.md",
     "TODO/2024-08-12.md",
     "TODO/2024-08-15.md",
     "TODO/2024-08-09.md",
     "TODO/2024-08-23.md",
-    "TODO/2024-08-13.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Papers/@J. Kidston, et al.,.md",
     "Papers/@M. Bonavita, 2024.md",
