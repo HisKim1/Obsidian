@@ -7,13 +7,13 @@ keyword:
   - Dask
 summary: CPU를 효율적으로 착취하는 방법 w/ python
 ---
-# Process
+# 💻 Process
 ### Definition
 a program in execution load into memory 
 $\rightarrow$ `.ipynb` 커널 실행시 process 1개라고 봐도 무방함 (엄밀히 말하면 아님. 이해를 돕기 위한 가정)
 
 ### Type
-##### 1. I/O-bound process
+##### 1. I/O-bound process🔄
    <font color="#00e676">I/O (Input/output)</font>하는 데에 시간을 더 많이 쓰는 프로세스
    = 연산에 필요한 파일을 불러오거나 계산이 완료된 파일을 저장하는 데 시간 소요 $\uparrow$ 
    $\rightarrow$ CPU 사용 시간 $\simeq$ 5% / process state = waiting
@@ -22,7 +22,7 @@ $\rightarrow$ `.ipynb` 커널 실행시 process 1개라고 봐도 무방함 (엄
 2) 원격 기상 데이터베이스 쿼리 = network I/O
 3) 이미지 저장 = disk I/O
 ```
-##### 2. CPU-bound process
+##### 2. CPU-bound process 🧮
    <font color="#00e676">CPU 연산</font>에 시간을 더 많이 쓰는 프로세스
    $\rightarrow$ CPU 사용 시간 $\simeq$ 90% / process state = running
 ```ad-example
@@ -33,7 +33,7 @@ $\rightarrow$ `.ipynb` 커널 실행시 process 1개라고 봐도 무방함 (엄
 ```
 
 ---
-# Multiprocessing
+# 🚀 Multiprocessing
 
 ```ad-question
 우리 *forecast1* 서버에는 CPU가 40개나 있는데, 왜 나는 CPU를 1개밖에 쓰고 있지 못할까....
@@ -62,8 +62,8 @@ parameter: `arg_list[]`
 큰 dataset을 잘게 쪼개서 처리 $\Rightarrow$ 자동으로 multiprocessing, lazy evaluation^[불필요한 연산을 하지 않기 위해 계산 결과값이 실제로 필요할 때까지 계산을 미루는 기법]
 
 ---
-# Caution
-### case 1 | Memory 사용량을 계산해야 한다!
+# ⚠️ Caution
+### case 1 | Memory 사용량을 계산해야 한다! 🧮
 ##### Question
 Suppose that weather1 server has <font color="#00e676">16GB memory</font>, <font color="#00e676">16 multi-processors</font>.
 I execute `with multiprocessing.Pool() as Pool` for multiprocessing a function `cal_correlation`, each of them requires <font color="#00e676">at least 2GB memory</font>. What will happen?
@@ -81,7 +81,7 @@ $\Rightarrow$ **Deadlock 돌입, execution time $\rightarrow \infty$**
 서버는 나만 쓰는 게 아니다. 실행 전 CPU, memory 점유율을 확인한다. 그 이후 실행한다.
 memory 용량이 300GB라고 해서 memory를 100% 사용하려 하면 안 된다. ^[컴퓨터에는 수십만개의 background process가 돌아가고 있고 그 process를 위한 memory 공간이 있어야 컴퓨터가 정상적으로 돌아간다. 하다 못해 `ls`, `cd` 같은 linux 명령어도 다 프로세스로 처리되므로 multiprocessing한다고 memory 용량을 다 채워버리면 아무런 조치를 취할 수 없을 것이다...]
 
-## case 2 | 디버깅 난이도 상승
+## case 2 | 디버깅 난이도 상승 🐛
 앞으로 multiprocessing하면 자주 마주치게 될 error message
 ```ad-error
 . . . 
@@ -99,7 +99,7 @@ During handling of the above exception, another exception occurred . . .
 4. start multiprocessing!
 $\therefore$ 한 번에 잘 짜자
 
-## case 3 | Overhead < Benefit ?
+## case 3 | Overhead < Benefit ⚖️
 ### Overhead
 any combination of <font color="#00e676">excess or indirect</font> computation time, memory, bandwidth, or other resources that are required to perform a specific task^[Wikepidia]
 
