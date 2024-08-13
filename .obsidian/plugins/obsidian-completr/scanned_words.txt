@@ -2625,6 +2625,14 @@ percentage
 perturbations
 pred
 predictability에
+parallelism
+parameter를
+parameter
+processors
+parameters의
+process가
+parameter로
+perform
 here
 host
 haa
@@ -3000,6 +3008,8 @@ levels
 이러한
 이야기하지
 이외
+이해를
+이상
 필요함
 필요한
 필요
@@ -3083,6 +3093,9 @@ levels
 사회
 사회는
 사람은
+사용량을
+사이즈를
+사용하려
 기존
 기후에
 기후
@@ -5605,6 +5618,7 @@ wintertime도
 제대로
 제자를
 제외
+제작
 IHDR
 IDATx
 IB
@@ -7942,6 +7956,9 @@ NeuralGCM에서
 하는지
 하나를
 하늘이
+하여
+하나의
+하나가
 것보다
 것인가
 것이
@@ -8029,6 +8046,7 @@ NeuralGCM에서
 수학자
 수밖에
 수강신청
+수를
 따른
 따라
 따로
@@ -8046,6 +8064,7 @@ NeuralGCM에서
 없지
 없는
 없으면서
+없다면
 아니면
 아직
 아주
@@ -8249,6 +8268,7 @@ NeuralGCM에서
 고유한
 고른다면
 고결한
+고정
 준비해야
 준비하기
 준비하며
@@ -8268,6 +8288,7 @@ NeuralGCM에서
 부각한다
 부족으로
 부터
+부분적으로
 알아서
 알려진
 뜬다
@@ -8808,6 +8829,7 @@ NeuralGCM에서
 된바에야
 된이상
 된다고
+된다
 게다가
 게우다
 잇따라
@@ -8913,3 +8935,15 @@ NeuralGCM에서
 충분히
 채워나가는
 북미
+국가장학금
+착취하는
+커널
+엄밀히
+돕기
+잘게
+쪼개서
+디버깅
+난이도
+난삽하여
+짜자
+획기적으로

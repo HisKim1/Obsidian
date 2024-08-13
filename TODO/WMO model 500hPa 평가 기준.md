@@ -1,0 +1,2 @@
+> The <font color="#00e676">middle troposphere</font> at 500 hPa, which is usually called the <font color="#00e676">level of nondivergence</font>, is l<font color="#00e676">ess influenced by terrain</font> and is the <font color="#00e676">most applicable height</font> for forecasting weather system movement; therefore, 500 hPa geopotential height is the <font color="#00e676">traditional meteorological element field</font> for international verification and diagnosis.^[S. Sun, et al., 2023]
+
