@@ -94,7 +94,12 @@ $\therefore$ $\not \exists$ singular vectors & deterministic model $\Rightarrow$
 
 ### Diagnostics
 300hPa difference kinetic energy, DKE를 기준으로 비교 
-$\because$ 
+(DKE$\neq$ obs - pred error)
+$\because$ error growth & intrinsic predictability에 자주 쓰이더라 
+$$\text{DKE} = \text{var}(u) + \text{var}(v)$$
+
+DKE의 spectral representation $\propto$ kinetic energy (KE) spectrum of the atm
+
 
 ---
 # Results
