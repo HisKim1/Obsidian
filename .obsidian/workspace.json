@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+                "file": "TODO/2024-08-13.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+                "file": "TODO/2024-08-13.md"
               }
             }
           }
@@ -209,16 +208,21 @@
   },
   "active": "8f173441aca36995",
   "lastOpenFiles": [
-    "TODO/2024-08-13.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "Templete/TODO.md",
     "TODO/2024-08-12.md",
-    "TODO/2024-08-15.md",
     "TODO/2024-08-09.md",
+    "TODO/2024-08-08.md",
+    "How to apply Multiprocessing in my tasks.md",
+    "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md",
+    "TODO/2024-08-13.md",
+    "TODO/2024-08-15.md",
     "TODO/2024-08-23.md",
     "Papers/@J. Kidston, et al.,.md",
     "Papers/@M. Bonavita, 2024.md",
     "conflict-files-obsidian-git.md",
-    "How to apply Multiprocessing in my tasks.md",
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "TODO/GC input 차이로 output이 달라진다는 PPT.md",
     "Papers/@D. Kochkov, et al., 2024.md",
@@ -227,14 +231,9 @@
     "Papers/@M. Feldmann, et al., 2024.md",
     "Graduate/University.md",
     "Graduate/create a link.md",
-    "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md",
-    "Templete/TODO.md",
     "TODO/2024-08-14.md",
-    "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md",
     "Excalidraw/Untitled.md",
     "TODO/2024-08-05.md",
-    "TODO/2024-08-06.md",
-    "TODO/2024-08-07.md",
     "WeatherBench",
     "Papers/Arctic_Oscillation_II.svg",
     "Untitled.canvas",

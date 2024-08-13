@@ -163,6 +163,7 @@ fields
 further
 functions랑
 factor
+first
 name
 nYYYFF
 nOq
@@ -532,6 +533,8 @@ saturation
 subsequent
 sahedral
 summer
+singular
+spectrum
 topic
 tags
 templete
@@ -1233,6 +1236,7 @@ Topic
 Taxas
 These
 Tiny
+Time
 Brief
 Bfloat
 Balance
@@ -1520,6 +1524,7 @@ dynamics인
 dominates
 diagnostics의
 differences
+dynamics의
 of
 ojjjii
 oJg
@@ -1648,6 +1653,7 @@ overload로
 output이
 oceans
 optimizing하면
+obs
 Reasoning
 Resources
 Residual
@@ -2236,6 +2242,9 @@ release가
 reanalysis
 rescaling
 rescale해서
+rate가
+respectively
+rates
 blog
 break
 breaking에
@@ -2628,6 +2637,8 @@ property
 perturbations는
 percentage
 perturbations
+pred
+predictability에
 here
 host
 haa
@@ -3001,6 +3012,7 @@ levels
 이상
 이해를
 이수정
+이외
 필요함
 필요한
 필요
@@ -4236,6 +4248,7 @@ indicates
 쓰기는
 쓰기
 쓰임
+쓰이더라
 되는지
 되더라
 되었는지
@@ -4447,6 +4460,7 @@ Santa
 SchXool
 Simulate
 Statistical
+Serise
 순환
 순환을
 순환의
@@ -4808,6 +4822,7 @@ minor
 전체
 전컴
 전달하는
+전반적으로
 속도
 유발
 유도된
@@ -4919,6 +4934,7 @@ WP의
 의미합니다
 의미
 의외의
+의미없다는
 극지방
 극향
 공기
@@ -5569,6 +5585,7 @@ wintertime도
 연산
 연습해볼
 연산한다
+연구가
 통찰
 제공
 제트기류
@@ -5581,6 +5598,7 @@ wintertime도
 제자를
 제작
 제시된
+제외
 IHDR
 IDATx
 IB
@@ -5765,6 +5783,7 @@ ICON
 ICO
 Initial
 Isaksen
+ICON에서는
 yb
 yyyvvv
 yzz
@@ -6172,6 +6191,7 @@ kmDz
 km이고
 kXbccfos
 known
+kinetic
 xxxnn
 xh
 xU
@@ -6888,6 +6908,7 @@ exponential
 error는
 effect일
 experiments
+estimation에
 VAA
 VWWc
 VUU
@@ -7223,6 +7244,9 @@ Due
 Davis
 Discussion
 DLWP가
+DKE를
+DKE
+DKE의
 vm
 vLL
 vX
@@ -7353,6 +7377,7 @@ view
 vhFd
 vorticity
 valid
+vectors
 qbRRRrr
 qZ
 ql
@@ -7795,6 +7820,7 @@ NeuralGCM에서
 어떠한가
 어떤지
 어렵다
+어려움들
 넣었단
 넣어야
 넣으면
@@ -7938,6 +7964,7 @@ NeuralGCM에서
 있더라
 있지만
 있나
+있어서
 향상
 향상시키는
 향상에
@@ -8415,6 +8442,7 @@ NeuralGCM에서
 결과로
 결과
 결정하자
+결과는
 줘서
 측정
 덩어리
@@ -8443,6 +8471,7 @@ NeuralGCM에서
 현저하게
 현재
 현재의
+현실적인
 홍수
 둘러싸여
 둘로

@@ -100,9 +100,20 @@ $$\text{DKE} = \text{var}(u) + \text{var}(v)$$
 
 DKE의 spectral representation $\propto$ kinetic energy (KE) spectrum of the atm
 
-
 ---
 # Results
+전반적으로 예측 결과는 비슷하다 (mean, RMSE)
+
+### Time Serise of DKE
+##### case 1) 100% perturbation
+Pangu, ICON growth rate가 2.2/day, 1.7/day, respectively
+$\Rightarrow$ synoptic scale dynamics의 characteristics 
+
+##### case 2) 0.01% perturbation
+ICON에서는 initial growth rates $\Uparrow$; $10^{20}$/day during the first 3hr
+$\Rightarrow$ fast saturation at small scales
+
+$\therefore$ init uncertainty$\downarrow$  
 
 ---
 # References
