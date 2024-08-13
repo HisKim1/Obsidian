@@ -103,7 +103,7 @@ DKE의 spectral representation $\propto$ kinetic energy (KE) spectrum of the atm
 ---
 # Results
 전반적으로 예측 결과는 비슷하다 (mean, RMSE)
-
+KE가 대부분 중위도에 있어서 DKE도 중위도를 반영$\uparrow$ 
 ### Time Serise of DKE
 ##### case 1) 100% perturbation
 Pangu, ICON growth rate가 2.2/day, 1.7/day, respectively
@@ -113,7 +113,20 @@ $\Rightarrow$ synoptic scale dynamics의 characteristics
 ICON에서는 initial growth rates $\Uparrow$; $10^{20}$/day during the first 3hr
 $\Rightarrow$ fast saturation at small scales
 
-$\therefore$ init uncertainty$\downarrow$  
+ init uncertainty$\downarrow$
+$\rightarrow$ init growth rate$\uparrow$
+$\rightarrow$ DKE reduction$\downarrow$ at late times 
+$\rightarrow$ predictability limited
+
+##### case 3) Pangu
+100%랑 0.1% 결과값이 just shifted vertically by 1000$^2$ 
+72hr 뒤 DKE도 100%, 0.1% 각각 2.3, 3.1배
+
+$\therefore$ const. error growth $\Rightarrow$ unlimited predictability & $\not \exists$ butterfly effect
+
+### Spatial Structure of DKE
+
+
 
 ---
 # References
