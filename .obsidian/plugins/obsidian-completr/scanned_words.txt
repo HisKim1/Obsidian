@@ -527,6 +527,8 @@ scales
 smoother
 satisfied
 signature
+saturation
+subsequent
 topic
 tags
 templete
@@ -685,6 +687,7 @@ twins
 turn
 trajectories
 tend
+tiny
 aliases
 against
 and
@@ -859,6 +862,7 @@ advantages
 appear
 amplitude
 aspects로
+amplified
 cssclasses
 considered
 cell
@@ -1076,6 +1080,8 @@ cannot
 chaotic
 collections
 curricula
+creating
+convective
 Tool
 Troposphere에서
 Thermal
@@ -1219,6 +1225,7 @@ Tv
 Topic
 Taxas
 These
+Tiny
 Brief
 Bfloat
 Balance
@@ -1502,6 +1509,8 @@ decreasing
 drop
 distribution
 double
+dynamics인
+dominates
 of
 ojjjii
 oJg
@@ -2212,6 +2221,8 @@ relationships
 reduced
 realizations
 ranges를
+refers
+release가
 blog
 break
 breaking에
@@ -2600,6 +2611,7 @@ paradigm
 perturbed
 present
 penalty
+property
 here
 host
 haa
@@ -3061,6 +3073,7 @@ lying
 기후까지
 기숙사
 기초교양
+기반
 으로
 롤백
 혹은
@@ -3345,6 +3358,7 @@ gXynSDL
 github에
 growth
 general하게
+growth를
 GraphCast
 GPU
 Geostrophic
@@ -4152,6 +4166,7 @@ inability
 보여주어
 보내기
 보면
+보겠다
 대로
 대기
 대신에
@@ -4215,6 +4230,7 @@ inability
 모델들
 모듈
 모델들에서
+모델과
 최신
 최소한으로만
 최소한
@@ -4860,6 +4876,7 @@ WsSY
 WUt
 WOpz
 Wisconsin
+WP의
 의해
 의한
 의미로
@@ -5170,6 +5187,8 @@ Process
 Pool
 Physical
 Purdue
+Pangu의
+PDE
 질량
 질서도
 질문하고
@@ -5702,6 +5721,8 @@ Info
 Initiation
 IYexXHrG
 Intelligence
+Inconsistency
+ICON이라는
 yb
 yyyvvv
 yzz
@@ -6108,6 +6129,7 @@ kBSK
 kmDz
 km이고
 kXbccfos
+known
 xxxnn
 xh
 xU
@@ -6820,6 +6842,8 @@ excess
 equation
 estimate
 estimators
+exponential
+error는
 VAA
 VWWc
 VUU
@@ -7014,6 +7038,9 @@ unphysical
 unrealistic
 uncertainties
 upscale
+unfortunate
+until
+uncertainty가
 DEEE
 DPP
 Dt
@@ -7671,6 +7698,7 @@ NeuralGCM에서
 만들어낸
 만든다
 만들어서
+만일
 돌리면
 돌려
 돌아가게만
@@ -8258,6 +8286,7 @@ NeuralGCM에서
 평균적으로
 평일
 평가해야
+평가하겠다
 남북
 남북반구
 남반구도
@@ -8360,6 +8389,8 @@ NeuralGCM에서
 현상
 현대
 현저하게
+현재
+현재의
 홍수
 둘러싸여
 둘로
@@ -8462,6 +8493,7 @@ NeuralGCM에서
 끝내
 끝나고
 존재다
+존재
 들려주던
 들었습니다
 들어가면
@@ -8530,6 +8562,7 @@ NeuralGCM에서
 비유했습니다
 비교에는
 비교하기
+비교하겠다
 피어슨
 피드백
 양의
@@ -8559,6 +8592,7 @@ NeuralGCM에서
 줄은모른다
 줄은
 줄인다
+줄면
 키워드
 했습니다
 했어요
@@ -8752,3 +8786,5 @@ NeuralGCM에서
 궁금해서
 앙상블
 쓴다는
+원인
+충분히

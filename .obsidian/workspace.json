@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f173441aca36995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,18 +206,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "453dc17a9621c605",
+  "active": "8f173441aca36995",
   "lastOpenFiles": [
+    "Papers/@J. Kidston, et al.,.md",
+    "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-08-13.md",
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "TODO/2024-08-12.md",
     "conflict-files-obsidian-git.md",
     "How to apply Multiprocessing in my tasks.md",
     "TODO/2024-08-09.md",
     "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "TODO/GC input 차이로 output이 달라진다는 PPT.md",
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Papers/@D. Kochkov, et al., 2024.md",
-    "Papers/@M. Bonavita, 2024.md",
     "Papers/@WMO, 2012.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/@M. Feldmann, et al., 2024.md",
@@ -219,7 +234,6 @@
     "TODO/2024-08-07.md",
     "TODO/2024-08-08.md",
     "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
-    "Books/담론, 신영복의 마지막 강의.md",
     "WeatherBench",
     "Papers/Arctic_Oscillation_II.svg",
     "Untitled.canvas",
