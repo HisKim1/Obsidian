@@ -90,9 +90,11 @@ $\Rightarrow$ "butterfly"-like perturbations and provide estimates of the intrin
 
 $\therefore$ $\not \exists$ singular vectors & deterministic model $\Rightarrow$ error growth estimation에 좋다!
 
-
+이외 현실적인 어려움들......
 
 ### Diagnostics
+300hPa difference kinetic energy, DKE를 기준으로 비교 
+$\because$ 
 
 ---
 # Results
