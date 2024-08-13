@@ -162,6 +162,7 @@ function과
 fields
 further
 functions랑
+factor
 name
 nYYYFF
 nOq
@@ -690,6 +691,7 @@ turn
 trajectories
 tend
 tiny
+twin
 aliases
 against
 and
@@ -2232,6 +2234,8 @@ ranges를
 refers
 release가
 reanalysis
+rescaling
+rescale해서
 blog
 break
 breaking에
@@ -2622,6 +2626,8 @@ present
 penalty
 property
 perturbations는
+percentage
+perturbations
 here
 host
 haa
@@ -3033,6 +3039,7 @@ levels
 구성의
 구현하는
 구해보니까
+구한
 가능한
 가능하다면
 가열
@@ -3884,6 +3891,7 @@ EM
 Experiments
 ECMWF의
 EDA
+EDA에
 Message
 Mean
 MJJ
@@ -4164,6 +4172,7 @@ indirect
 isobaric
 inability
 insignificant
+indicates
 지난
 지표
 지속
@@ -4486,6 +4495,7 @@ Statistical
 주역
 주고
 주자주에서는
+주는
 방정식
 방안
 방법
@@ -4493,6 +4503,7 @@ Statistical
 방향
 방해받음
 방식
+방법이
 강제력이
 강화
 강화된
@@ -5076,6 +5087,7 @@ HKy
 HVv
 Hisu
 HjZDmFSZ
+HR이
 즉시
 Pressure
 PNG
@@ -5539,6 +5551,7 @@ wintertime도
 예상되는
 예시
 예측으로
+예상
 연구에
 연관돼
 연직
@@ -6873,6 +6886,8 @@ estimate
 estimators
 exponential
 error는
+effect일
+experiments
 VAA
 VWWc
 VUU
@@ -7070,6 +7085,7 @@ upscale
 unfortunate
 until
 uncertainty가
+uncertainty를
 DEEE
 DPP
 Dt
@@ -7898,6 +7914,7 @@ NeuralGCM에서
 것인지
 것으로
 것보다는
+것이라
 앞으로
 있을까
 있다
@@ -7920,6 +7937,7 @@ NeuralGCM에서
 있지
 있더라
 있지만
+있나
 향상
 향상시키는
 향상에
@@ -8017,6 +8035,7 @@ NeuralGCM에서
 거바
 거의
 거칠더라도
+거기서
 관련
 관측을
 관측
@@ -8310,6 +8329,7 @@ NeuralGCM에서
 그렇지만
 그래서
 그렇게
+그대로
 잔류
 평균
 평가

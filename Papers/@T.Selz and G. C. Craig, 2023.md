@@ -79,6 +79,17 @@ initial perturbations는 ECMWF의 ensemble data assimilations (EDA)에서 찾음
 3. ICON-LR-100%
 4. ICON-LR-0.1%
 5. ICON-HR-0.1%
+(ICON-HR-100%은 의미없다는 선행 연구가 있어서 제외)
+
+ICON-HR이 best estimate of convective-scale error growth & butterfly effect일 것이라 예상
+
+> The percentage factor (100% or 0.1%) indicates a rescaling of the initial condition perturbations derived from the EDA system. 
+
+uncertainty를 주는 방법이 EDA에 있나 봄. 거기서 구한 perturbation을 100% 그대로 or 0.1%로  rescale해서 줌
+$\Rightarrow$ "butterfly"-like perturbations and provide estimates of the intrinsic limit / a.k.a. "identical twin" experiments
+
+$\therefore$ $\not \exists$ singular vectors & deterministic model $\Rightarrow$ error growth estimation에 좋다!
+
 
 
 ### Diagnostics
