@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-13.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-13.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-13.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-13.md"
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO/2024-08-13.md"
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "453dc17a9621c605",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TODO/2024-08-13.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-08-23.md",
     "How to apply Multiprocessing in my tasks.md",
     "Books/담론, 신영복의 마지막 강의.md",
