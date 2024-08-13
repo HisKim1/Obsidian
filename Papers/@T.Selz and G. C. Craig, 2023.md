@@ -69,10 +69,16 @@ $\because$ 북미 summer convection $\uparrow \quad \Rightarrow$ error growth $\
 ECMWF의 ERA5 reanalysis 대신 operational analysis 사용
 $\because \quad \exists$  minor & insignificant differences
 
-initial perturbations는 ECMWF의 ensemble data assimilations (EDA)에서 찾음
-
+initial perturbations는 ECMWF의 ensemble data assimilations (EDA)에서 찾음 @Isaksen et al., 2010
 
 ### Experiments
+총 5가지 실험
+모델명-해상도-perturbation scale
+1. Pangu-100%
+2. Pangu-0.1%
+3. ICON-LR-100%
+4. ICON-LR-0.1%
+5. ICON-HR-0.1%
 
 
 ### Diagnostics
