@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "2024-08-14",
       "path": "TODO/2024-08-14.md"
     },
@@ -9,68 +10,30 @@
       "path": "TODO/2024-08-13.md"
     },
     {
+=======
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
       "basename": "@T.Selz and G. C. Craig, 2023",
       "path": "Papers/@T.Selz and G. C. Craig, 2023.md"
     },
     {
-      "basename": "TODO",
-      "path": "Templete/TODO.md"
+      "basename": "2024-08-13",
+      "path": "TODO/2024-08-13.md"
+    },
+    {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
     },
     {
       "basename": "2024-08-12",
       "path": "TODO/2024-08-12.md"
     },
     {
-      "basename": "2024-08-09",
-      "path": "TODO/2024-08-09.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "TODO/2024-08-08.md"
-    },
-    {
-      "basename": "How to apply Multiprocessing in my tasks",
-      "path": "How to apply Multiprocessing in my tasks.md"
-    },
-    {
-      "basename": "Drawing 2024-08-09 10.20.33.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-08-09 11.24.45.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md"
-    },
-    {
-      "basename": "2024-08-15",
-      "path": "TODO/2024-08-15.md"
-    },
-    {
-      "basename": "2024-08-23",
-      "path": "TODO/2024-08-23.md"
-    },
-    {
-      "basename": "@J. Kidston, et al.,",
-      "path": "Papers/@J. Kidston, et al.,.md"
+      "basename": "@D. Kochkov, et al., 2024",
+      "path": "Papers/@D. Kochkov, et al., 2024.md"
     },
     {
       "basename": "@M. Bonavita, 2024",
       "path": "Papers/@M. Bonavita, 2024.md"
-    },
-    {
-      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
-      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
-    },
-    {
-      "basename": "GC input 차이로 output이 달라진다는 PPT",
-      "path": "TODO/GC input 차이로 output이 달라진다는 PPT.md"
-    },
-    {
-      "basename": "@D. Kochkov, et al., 2024",
-      "path": "Papers/@D. Kochkov, et al., 2024.md"
     },
     {
       "basename": "@WMO, 2012",
@@ -93,6 +56,41 @@
       "path": "Graduate/create a link.md"
     },
     {
+<<<<<<< HEAD
+=======
+      "basename": "Drawing 2024-08-09 11.24.45.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
+    },
+    {
+      "basename": "2024-08-09",
+      "path": "TODO/2024-08-09.md"
+    },
+    {
+      "basename": "2024-08-14",
+      "path": "TODO/2024-08-14.md"
+    },
+    {
+      "basename": "How to apply Multiprocessing in my tasks",
+      "path": "How to apply Multiprocessing in my tasks.md"
+    },
+    {
+      "basename": "Drawing 2024-08-09 10.20.33.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md"
+    },
+    {
+      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
+      "path": "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
       "basename": "2024-08-05",
       "path": "TODO/2024-08-05.md"
     },
@@ -105,8 +103,12 @@
       "path": "TODO/2024-08-07.md"
     },
     {
-      "basename": "담론, 신영복의 마지막 강의",
-      "path": "Books/담론, 신영복의 마지막 강의.md"
+      "basename": "2024-08-08",
+      "path": "TODO/2024-08-08.md"
+    },
+    {
+      "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
+      "path": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
     }
   ],
   "omittedPaths": []

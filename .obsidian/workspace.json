@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-08-14.md",
                 "mode": "source",
                 "backlinks": true,
@@ -26,6 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
+=======
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
                 "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "mode": "source",
                 "backlinks": true,
@@ -91,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "884cb5b2441d767e",
@@ -108,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-08-14.md",
+=======
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-08-14.md",
+=======
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-08-14.md"
+=======
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
               }
             }
           },
@@ -178,7 +192,11 @@
             "state": {
               "type": "file-properties",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-08-14.md"
+=======
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
               }
             }
           }
@@ -208,6 +226,7 @@
   "active": "453dc17a9621c605",
   "lastOpenFiles": [
     "TODO/2024-08-13.md",
+<<<<<<< HEAD
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Templete/TODO.md",
     "TODO/2024-08-12.md",
@@ -221,20 +240,24 @@
     "TODO/2024-08-23.md",
     "Papers/@J. Kidston, et al.,.md",
     "Papers/@M. Bonavita, 2024.md",
+=======
+>>>>>>> ab2efaccb5a0565d6f18c1e4e851afe309139813
     "conflict-files-obsidian-git.md",
-    "TODO/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
-    "TODO/GC input 차이로 output이 달라진다는 PPT.md",
-    "Papers/@D. Kochkov, et al., 2024.md",
-    "Papers/@WMO, 2012.md",
-    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
-    "Papers/@M. Feldmann, et al., 2024.md",
-    "Graduate/University.md",
-    "Graduate/create a link.md",
-    "TODO/2024-08-14.md",
-    "Excalidraw/Untitled.md",
-    "TODO/2024-08-05.md",
+    "TODO/2024-08-23.md",
+    "How to apply Multiprocessing in my tasks.md",
+    "Books/담론, 신영복의 마지막 강의.md",
+    "TODO/2024-08-12.md",
+    "TODO/2024-08-08.md",
+    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
+    "WeatherBench/WeatherBench2.md",
     "WeatherBench",
     "Papers/Arctic_Oscillation_II.svg",
+    "TODO/2024-08-06.md",
+    "Templete/TODO.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Task/Task.md",
+    "GraphCast/Task/eval_target 만들기.md",
+    "TODO/GC input 차이로 output이 달라진다는 PPT.md",
     "Untitled.canvas",
     "File/Pasted image 20240805095841.png",
     "Papers/Correlation_matrix_heatmap.png",
