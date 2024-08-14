@@ -125,7 +125,13 @@ $\rightarrow$ predictability limited
 $\therefore$ const. error growth $\Rightarrow$ unlimited predictability & $\not \exists$ butterfly effect
 
 ### Spatial Structure of DKE
+![[@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw|600]]
+Pangu-100% & Pangu-0.1%는 거의 identical
+$\Rightarrow$ init cond.와 무관한 structure
 
+ amplitude가 바뀌면 structure도 바뀌어야 함. 하지만 판구는 0.1%에서 scale만 바뀌었을 뿐. 
+
+### Spectra of DKE
 
 
 ---

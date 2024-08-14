@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "556fc6e95b1ee594",
+    "id": "3cee375f211aad00",
     "type": "split",
     "children": [
       {
-        "id": "cae698f872276c0b",
+        "id": "c6f27d7df1de34c8",
         "type": "tabs",
         "children": [
           {
-            "id": "453dc17a9621c605",
+            "id": "2cbfdb8ab6951334",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73dbb8266f7e8949",
+    "id": "5190e9a22aa068f3",
     "type": "split",
     "children": [
       {
-        "id": "8cdf6866c93c3f0f",
+        "id": "eac4ed8cc3ec76a5",
         "type": "tabs",
         "children": [
           {
-            "id": "14a65964b8df11e0",
+            "id": "54abeabfc44f063b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,21 +44,13 @@
             }
           },
           {
-            "id": "6f9163b10e327518",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "22576245cff92cdf",
+            "id": "8d125211a37ceaef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"where published\"]",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,7 +59,15 @@
             }
           },
           {
-            "id": "c74ce20a1f106552",
+            "id": "c391e666e89cf8c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c554d77c749ad57",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -78,18 +78,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 244.5
   },
   "right": {
-    "id": "884cb5b2441d767e",
+    "id": "b8bd9fb580c16d11",
     "type": "split",
     "children": [
       {
-        "id": "d358ee4cc6698aaf",
+        "id": "f4a0b63b82577d96",
         "type": "tabs",
         "children": [
           {
-            "id": "ad54b7f87dc37433",
+            "id": "976d3b8b6875bd2e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "19f009935a9d2653",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +114,7 @@
             }
           },
           {
-            "id": "a85213ee702c48ab",
+            "id": "cdaf57593c157ff0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,17 +126,22 @@
             }
           },
           {
-            "id": "4349d433e3938dee",
+            "id": "4f57df36d2c0c508",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-08-14.md"
+=======
+                "sortOrder": "frequency",
+                "useHierarchy": true
+>>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
               }
             }
           },
           {
-            "id": "501fc52739e03c74",
+            "id": "00801a181c2f63c7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,36 +153,16 @@
             }
           },
           {
-            "id": "a8b7406b37e6681d",
+            "id": "217b0e74a797c1a1",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "bf7c68202e43a21c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "610ecd6b57669db1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
                 "file": "TODO/2024-08-14.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,59 +171,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "markdown-importer:Open format converter": true,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "453dc17a9621c605",
+  "active": "2cbfdb8ab6951334",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Papers/@T.Selz and G. C. Craig, 2023.md",
+=======
+    "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "TODO/2024-08-14.md",
+>>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
     "TODO/2024-08-13.md",
-    "conflict-files-obsidian-git.md",
-    "TODO/2024-08-23.md",
+    "TODO/WMO model 500hPa 평가 기준.md",
+    "TODO/2024-08-15.md",
     "How to apply Multiprocessing in my tasks.md",
-    "Books/담론, 신영복의 마지막 강의.md",
-    "TODO/2024-08-12.md",
-    "TODO/2024-08-08.md",
-    "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
-    "WeatherBench/WeatherBench2.md",
-    "WeatherBench",
-    "Papers/Arctic_Oscillation_II.svg",
-    "TODO/2024-08-06.md",
-    "Templete/TODO.md",
-    "GraphCast/Task/Input Data 다운.md",
-    "GraphCast/Task/Task.md",
-    "GraphCast/Task/eval_target 만들기.md",
-    "TODO/GC input 차이로 output이 달라진다는 PPT.md",
-    "Untitled.canvas",
-    "File/Pasted image 20240805095841.png",
-    "Papers/Correlation_matrix_heatmap.png",
-    "Excalidraw",
-    "TODO",
-    "File/Pasted image 20240802130028.png",
-    "File/Pasted image 20240731110643.png",
-    "File/Pasted image 20240731110640.png",
-    "Events/2024 International Symposium/20240715_170609.jpg",
-    "Events/2024 International Symposium/20240715_143252.jpg",
-    "Events/2024 UnionWorkshop",
-    "Events/2024 International Symposium",
-    "Events",
-    "Books",
-    "File",
-    "Projects - Demo Project",
-    "GraphCast/Task/Pasted image 20240708164348.png",
-    "Templete",
-    "무제 파일.canvas",
-    "무제 파일 1.canvas",
-    "GraphCast/무제 파일.canvas"
+    "TODO/2024-08-05.md"
   ]
 }

@@ -164,6 +164,9 @@ further
 functions랑
 factor
 first
+forecasters
+friction
+frictional
 name
 nYYYFF
 nOq
@@ -287,6 +290,7 @@ noticeable
 number
 nkF
 noisiness
+nondivergence
 site
 status
 stratosphere에서
@@ -535,6 +539,9 @@ sahedral
 summer
 singular
 spectrum
+studies
+significantly
+stability
 topic
 tags
 templete
@@ -695,6 +702,9 @@ trajectories
 tend
 tiny
 twin
+terrain
+therefore
+troughs
 aliases
 against
 and
@@ -873,6 +883,9 @@ amplified
 avg에
 assimilations
 al
+applicable
+applied
+accurate
 cssclasses
 considered
 cell
@@ -1093,6 +1106,11 @@ curricula
 creating
 convective
 const
+called
+clearer
+correlate
+crucial
+correlated
 Tool
 Troposphere에서
 Thermal
@@ -1358,6 +1376,7 @@ Berkeley
 Barbara
 Boston
 Butterfly
+BMA
 description
 driving
 dAJ
@@ -1526,6 +1545,8 @@ dominates
 diagnostics의
 differences
 dynamics의
+diagnosis
+developments
 of
 ojjjii
 oJg
@@ -1800,6 +1821,8 @@ Relax
 RMSE
 Rotational
 Results
+Representative
+Relatively
 Alternatives
 Anomalous
 AAA
@@ -2248,6 +2271,10 @@ rate가
 respectively
 rates
 rate
+reflects
+represents
+region
+relative
 blog
 break
 breaking에
@@ -2625,6 +2652,15 @@ percentage
 perturbations
 pred
 predictability에
+parallelism
+parameter를
+parameter
+processors
+parameters의
+process가
+parameter로
+perform
+potential
 here
 host
 haa
@@ -2749,6 +2785,7 @@ higher
 heteroscedasticity
 hr를
 hydrostatic
+hemispheric
 작업
 작동
 작업해보았는데
@@ -2958,6 +2995,7 @@ least
 linked
 lying
 levels
+lower
 버전
 버전으로
 이상이
@@ -3000,6 +3038,8 @@ levels
 이러한
 이야기하지
 이외
+이해를
+이상
 필요함
 필요한
 필요
@@ -3083,6 +3123,9 @@ levels
 사회
 사회는
 사람은
+사용량을
+사이즈를
+사용하려
 기존
 기후에
 기후
@@ -3385,6 +3428,7 @@ github에
 growth
 general하게
 growth를
+give
 GraphCast
 GPU
 Geostrophic
@@ -3633,6 +3677,8 @@ Cornell
 Conclusions
 Can
 Conditions
+Compared
+Correlation
 Output
 OD
 OLL
@@ -3895,6 +3941,7 @@ Experiments
 ECMWF의
 EDA
 EDA에
+EMOS
 Message
 Mean
 MJJ
@@ -4176,6 +4223,11 @@ isobaric
 inability
 insignificant
 indicates
+influenced
+international
+improvement
+indicator
+instance
 지난
 지표
 지속
@@ -4462,6 +4514,9 @@ Statistical
 Serise
 Spatial
 Structure
+Scale
+Stable
+Smooth
 순환
 순환을
 순환의
@@ -4803,6 +4858,12 @@ manner
 motions가
 maritime
 minor
+middle
+most
+movement
+many
+minimal
+making
 서풍에
 서로
 서버의
@@ -5393,6 +5454,7 @@ FppYW
 Fee
 From
 Froecast
+Few
 초기
 초기화
 위치
@@ -5605,6 +5667,7 @@ wintertime도
 제대로
 제자를
 제외
+제작
 IHDR
 IDATx
 IB
@@ -6915,6 +6978,10 @@ error는
 effect일
 experiments
 estimation에
+ess
+element
+effects
+easier
 VAA
 VWWc
 VUU
@@ -7114,6 +7181,7 @@ until
 uncertainty가
 uncertainty를
 unlimited
+usually
 DEEE
 DPP
 Dt
@@ -7387,6 +7455,7 @@ vorticity
 valid
 vectors
 vertically
+verification
 qbRRRrr
 qZ
 ql
@@ -7942,6 +8011,9 @@ NeuralGCM에서
 하는지
 하나를
 하늘이
+하여
+하나의
+하나가
 것보다
 것인가
 것이
@@ -8029,6 +8101,7 @@ NeuralGCM에서
 수학자
 수밖에
 수강신청
+수를
 따른
 따라
 따로
@@ -8046,6 +8119,7 @@ NeuralGCM에서
 없지
 없는
 없으면서
+없다면
 아니면
 아직
 아주
@@ -8249,6 +8323,7 @@ NeuralGCM에서
 고유한
 고른다면
 고결한
+고정
 준비해야
 준비하기
 준비하며
@@ -8268,6 +8343,7 @@ NeuralGCM에서
 부각한다
 부족으로
 부터
+부분적으로
 알아서
 알려진
 뜬다
@@ -8808,6 +8884,7 @@ NeuralGCM에서
 된바에야
 된이상
 된다고
+된다
 게다가
 게우다
 잇따라
@@ -8913,4 +8990,19 @@ NeuralGCM에서
 충분히
 채워나가는
 북미
+<<<<<<< HEAD
 국가장학금
+=======
+국가장학금
+착취하는
+커널
+엄밀히
+돕기
+잘게
+쪼개서
+디버깅
+난이도
+난삽하여
+짜자
+획기적으로
+>>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
