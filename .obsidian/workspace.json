@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "Papers/@WMO, 2012.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2890f54c57de2d4",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TODO/2024-08-14.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,14 +187,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d82b6a42cd6cf567",
+  "active": "c2890f54c57de2d4",
   "lastOpenFiles": [
-    "TODO/2024-08-15.md",
+    "Papers/@WMO, 2012.md",
+    "Papers/Hierarchical Temporal Aggregation, HTA.md",
+    "Papers/Northern and Southern Annular Mode.md",
+    "Papers/Quasi-Biennial Oscillation.md",
     "TODO/2024-08-14.md",
-    "TODO/2024-08-23.md",
-    "TODO/GC input 차이로 output이 달라진다.md",
-    "Templete/TODO.md",
+    "Papers/Overview.md",
+    "How to apply Multiprocessing in my tasks.md",
+    "TODO/WMO model 500hPa 평가 기준.md",
+    "Test/GraphCast input 차이로 output이 달라지는지 Test.md",
     "Test/GraphCast Butterfly Effect Test.md",
+    "TODO/2024-08-15.md",
+    "TODO/2024-08-23.md",
+    "Templete/TODO.md",
     "Papers/@Lam. et al., 2023.md",
     "GraphCast/paper/General Forecasting Problem Statement.md",
     "Test/Untitled.canvas",
@@ -197,7 +209,6 @@
     "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Test",
-    "TODO/WMO model 500hPa 평가 기준.md",
     "GraphCast/Dataset.md",
     "GraphCast/Overview.md",
     "GraphCast/ERA5.md",
@@ -206,17 +217,11 @@
     "TODO/Monthly/2024-08.md",
     "Templete/Monthly Note.md",
     "Templete/paper.md",
-    "TODO/2024-08-06.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "File/Pasted image 20240805095841.png",
     "File/Pasted image 20240814153603.png",
     "File/Pasted image 20240802130028.png",
-    "TODO/2024-08-12.md",
-    "TODO/2024-08-05.md",
-    "TODO/2024-08-07.md",
-    "TODO/Monthly",
-    "TODO/Overview.md",
-    "TODO/2024-08-08.md"
+    "TODO/Monthly"
   ]
 }
