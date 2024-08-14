@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarPlus",
       "LiCheckCircle",
       "LiFolders",
       "LiPaintbrush",
@@ -49,5 +50,6 @@
   "TODO": "LiAlarmCheck",
   "Excalidraw": "LiPaintbrush",
   "File": "LiFolders",
-  "WeatherBench": "LiCheckCircle"
+  "WeatherBench": "LiCheckCircle",
+  "TODO/Monthly": "LiCalendarPlus"
 }
