@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ea87c9c8a65be39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-08-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Task.md",
+                "file": "TODO/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Task.md",
+                "file": "TODO/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Task.md"
+                "file": "TODO/2024-08-14.md"
               }
             }
           }
@@ -194,10 +207,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e12293d826119019",
+  "active": "1ea87c9c8a65be39",
   "lastOpenFiles": [
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Papers/@WMO, 2012.md",
+    "Papers/@ECMWF, 2021.md",
+    "GraphCast/Task/Task.md",
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "TODO/2024-08-07.md",
     "Papers/@M. Bonavita, 2024.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
