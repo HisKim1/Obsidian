@@ -2661,6 +2661,14 @@ process가
 parameter로
 perform
 potential
+performance
+picture
+purpose
+problematic
+paradigm
+perturbed
+present
+penalty
 here
 host
 haa
@@ -5669,6 +5677,7 @@ wintertime도
 제자를
 제외
 제작
+제시된
 IHDR
 IDATx
 IB
@@ -5853,6 +5862,7 @@ ICO
 Initial
 Isaksen
 ICON에서는
+Inconsistency
 yb
 yyyvvv
 yzz
@@ -9006,3 +9016,5 @@ NeuralGCM에서
 짜자
 획기적으로
 >>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
+떨어짐
+골라서

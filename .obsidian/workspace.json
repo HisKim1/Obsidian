@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "TODO/2024-08-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "e12293d826119019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@M. Bonavita, 2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-14.md"
+                "file": "Papers/@M. Bonavita, 2024.md"
               }
             }
           }
@@ -181,9 +195,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa7c28c0f960a7ec",
+  "active": "e12293d826119019",
   "lastOpenFiles": [
-    "How to apply Multiprocessing in my tasks.md",
-    "TODO/2024-08-14.md"
+    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
+    "Papers/@J. Kidston, et al., 2015.md",
+    "TODO/2024-08-07.md",
+    "TODO/2024-08-14.md",
+    "How to apply Multiprocessing in my tasks.md"
   ]
 }
