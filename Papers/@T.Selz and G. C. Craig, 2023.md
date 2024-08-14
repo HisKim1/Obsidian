@@ -141,9 +141,15 @@ global 300hPa KE & DKE의 spectra를 보았다
    perturbation amplitude에 영향 거의 X 
    $\because$ background spectrum = atm or model의 climatological feature
 2. Pangu-100%
-   0~24h: 500km 이하 looeses energy
+   0~24h: 500km 이하 looeses energy 
+   $\Rightarrow$ lower level error가 not saturated 
+   $\Rightarrow$ stagnation of error growth, even at large scales
    24h~: remains stable; no further decay
-
+   1000km 쯤 되면 ICON이랑 비슷하다
+3. ICON-LR-100%
+   200km 이하 saturated $\Rightarrow$ $\not\exists$ info 4 prediction
+   24h~74h: error growth $\Rightarrow$ error가 이어서 synoptic scale에서 growth 
+4. 
 ---
 # References
  
