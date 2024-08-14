@@ -49,7 +49,7 @@ ICON이라는 PDE 기반 모델과 비교하겠다
 error growth를 잘 하는지 보겠다
 
 ---
-# Conclusion
+# Discussion
 
 ---
 # Experiments
@@ -149,7 +149,11 @@ global 300hPa KE & DKE의 spectra를 보았다
 3. ICON-LR-100%
    200km 이하 saturated $\Rightarrow$ $\not\exists$ info 4 prediction
    24h~74h: error growth $\Rightarrow$ error가 이어서 synoptic scale에서 growth 
-4. 
+4. ICON-LR-0.1% vs Pangu-LR-0.1%
+   판구에서는 butterfly effect의 signature인 instantaneous downscale propagation of the energy peak to smaller scales가 나타나지 않음
+   $\Rightarrow$ decorrelation; 
+   small difference $\leftrightarrow$ large-scale advection
+   원래같으면 !linear error growth in regions of moist convections때문에 error가 smaller scale로 propagate되었어야? 납득 불가
 ---
 # References
  

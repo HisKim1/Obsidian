@@ -545,6 +545,12 @@ stability
 structure도
 scale만
 spectra를
+saturated
+stagnation
+stable
+signature인
+scales가
+scale로
 topic
 tags
 templete
@@ -893,6 +899,7 @@ accurate
 amplitude가
 advice
 amplitude에
+advection
 cssclasses
 considered
 cell
@@ -1121,6 +1128,7 @@ correlated
 cond
 continental
 climatological
+convections때문에
 Tool
 Troposphere에서
 Thermal
@@ -1557,6 +1565,9 @@ differences
 dynamics의
 diagnosis
 developments
+decay
+downscale
+decorrelation
 of
 ojjjii
 oJg
@@ -2285,6 +2296,7 @@ reflects
 represents
 region
 relative
+remains
 blog
 break
 breaking에
@@ -2682,6 +2694,8 @@ penalty
 period
 prof
 perturb
+peak
+propagate되었어야
 here
 host
 haa
@@ -3017,6 +3031,7 @@ linked
 lying
 levels
 lower
+looeses
 버전
 버전으로
 이상이
@@ -3061,6 +3076,8 @@ lower
 이외
 이해를
 이상
+이하
+이어서
 필요함
 필요한
 필요
@@ -4258,6 +4275,7 @@ international
 improvement
 indicator
 instance
+instantaneous
 지난
 지표
 지속
@@ -4337,6 +4355,7 @@ instance
 되기도
 되고
 되는데
+되면
 모르겠습니다
 모르지만
 모르겟음
@@ -5898,6 +5917,7 @@ Initial
 Isaksen
 ICON에서는
 Inconsistency
+ICON이랑
 yb
 yyyvvv
 yzz
@@ -7031,6 +7051,8 @@ effects
 easier
 ensemble로
 ensemble을
+even
+effect의
 VAA
 VWWc
 VUU
@@ -7918,6 +7940,7 @@ NA에
 불과하다고
 불러오거나
 불러들인
+불가
 처음
 처리
 말한
@@ -8555,6 +8578,7 @@ NA에
 나타난다
 나만
 나타남
+나타나지
 운동량
 운동을
 운명이
@@ -9018,6 +9042,7 @@ NA에
 판구가
 판구
 판구는
+판구에서는
 벤치마크
 칬MNN
 폢R
@@ -9063,6 +9088,7 @@ NA에
 앙상블
 쓴다는
 원인
+원래같으면
 충분히
 채워나가는
 북미
@@ -9085,3 +9111,4 @@ NA에
 떨어짐
 골라서
 건드렸다
+납득
