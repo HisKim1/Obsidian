@@ -140,7 +140,9 @@ global 300hPa KE & DKE의 spectra를 보았다
 1. background spectrum
    perturbation amplitude에 영향 거의 X 
    $\because$ background spectrum = atm or model의 climatological feature
-2. 
+2. Pangu-100%
+   0~24h: 500km 이하 looeses energy
+   24h~: remains stable; no further decay
 
 ---
 # References
