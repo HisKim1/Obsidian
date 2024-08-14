@@ -544,6 +544,7 @@ significantly
 stability
 structure도
 scale만
+spectra를
 topic
 tags
 templete
@@ -707,6 +708,7 @@ twin
 terrain
 therefore
 troughs
+training에
 aliases
 against
 and
@@ -889,6 +891,8 @@ applicable
 applied
 accurate
 amplitude가
+advice
+amplitude에
 cssclasses
 considered
 cell
@@ -1115,6 +1119,8 @@ correlate
 crucial
 correlated
 cond
+continental
+climatological
 Tool
 Troposphere에서
 Thermal
@@ -2673,6 +2679,9 @@ paradigm
 perturbed
 present
 penalty
+period
+prof
+perturb
 here
 host
 haa
@@ -3091,6 +3100,7 @@ lower
 구현하는
 구해보니까
 구한
+구현
 가능한
 가능하다면
 가열
@@ -3111,6 +3121,7 @@ lower
 요소
 요지를
 요약할
+요망
 사항
 사용자들에게
 사용
@@ -3138,6 +3149,8 @@ lower
 사용량을
 사이즈를
 사용하려
+사용함
+사용되지
 기존
 기후에
 기후
@@ -3285,6 +3298,7 @@ just
 설명해주지는
 설문
 설명은
+설정
 graphcast
 gf
 ggg
@@ -3562,6 +3576,7 @@ GSC로
 GB라고
 GRE
 GeorgiaTech
+GraphCast가
 Cast
 Circulation
 Changes
@@ -3691,6 +3706,7 @@ Can
 Conditions
 Compared
 Correlation
+Criteria
 Output
 OD
 OLL
@@ -3790,6 +3806,7 @@ Open
 OUVw
 Overload
 Ordinary
+Objective
 Error
 Eddy
 EEE
@@ -3954,6 +3971,7 @@ ECMWF의
 EDA
 EDA에
 EMOS
+Effect를
 Message
 Mean
 MJJ
@@ -4257,6 +4275,7 @@ instance
 지나치게
 지속적
 지속적이지
+지정
 보내주신
 보통
 보임
@@ -4266,6 +4285,7 @@ instance
 보내기
 보면
 보겠다
+보았다
 대로
 대기
 대신에
@@ -4355,6 +4375,7 @@ instance
 않았던가
 않습니다
 않는다
+않은
 싶습니다
 싶은
 핵심
@@ -4549,6 +4570,8 @@ Smooth
 변수를
 변환
 변수별
+변수
+변수에만
 날씨에
 날씨와
 날씨
@@ -4578,6 +4601,7 @@ Smooth
 주고
 주자주에서는
 주는
+주기
 방정식
 방안
 방법
@@ -4877,6 +4901,8 @@ movement
 many
 minimal
 making
+mimic하는
+method
 서풍에
 서로
 서버의
@@ -5317,6 +5343,8 @@ Physical
 Purdue
 Pangu의
 PDE
+Procedure
+Perturbed
 질량
 질서도
 질문하고
@@ -5637,11 +5665,13 @@ wintertime도
 활성화
 활동
 활용
+활용할
 장기
 장소에
 장이
 장기에서
 장점
+장도
 예측
 예정
 예측을
@@ -6999,6 +7029,8 @@ ess
 element
 effects
 easier
+ensemble로
+ensemble을
 VAA
 VWWc
 VUU
@@ -7826,6 +7858,7 @@ NVMdSQh
 NWP보다
 NeuralGCM
 NeuralGCM에서
+NA에
 쉄f
 믿vuum
 쳧O
@@ -7909,6 +7942,7 @@ NeuralGCM에서
 추가로
 추정
 추천서
+추후
 어떻게
 어떤
 어렵게
@@ -8124,6 +8158,7 @@ NeuralGCM에서
 수밖에
 수강신청
 수를
+수리하기
 따른
 따라
 따로
@@ -8142,6 +8177,7 @@ NeuralGCM에서
 없는
 없으면서
 없다면
+없는가
 아니면
 아직
 아주
@@ -8221,6 +8257,7 @@ NeuralGCM에서
 다운로드
 다소
 다음에라야
+다양하게
 정확도
 정의
 정확히
@@ -8251,6 +8288,8 @@ NeuralGCM에서
 시반
 시각
 시대
+시간대를
+시간대
 온도
 온위의
 온도가
@@ -8393,6 +8432,7 @@ NeuralGCM에서
 조사
 조절해
 조금이나마
+조정할
 우리가
 우선
 우리의
@@ -8416,6 +8456,7 @@ NeuralGCM에서
 확인해보기
 확인하기
 확인한다
+확인해보자
 새로운
 새로
 새롭게
@@ -8549,6 +8590,7 @@ NeuralGCM에서
 밀도
 밀린
 뭔지
+뭔갈
 몰라서
 마지막
 마찬가지입니다
@@ -8558,6 +8600,7 @@ NeuralGCM에서
 마무리만
 마저
 마주치게
+마음대로
 흔들림
 약해지면
 약해지거나
@@ -8789,6 +8832,7 @@ NeuralGCM에서
 비교에는
 비교하기
 비교하겠다
+비교할
 피어슨
 피드백
 피할
@@ -8956,6 +9000,7 @@ NeuralGCM에서
 봐도
 참나
 참여
+참조
 맹자가
 맹자
 헝가리
@@ -8967,6 +9012,8 @@ NeuralGCM에서
 뜨기
 뽑아낼
 뽑아보자
+뽑았었는데
+뽑기
 판단
 판구가
 판구
@@ -8989,6 +9036,7 @@ NeuralGCM에서
 죠지기
 출처
 출력이
+출력
 랩실
 랩미팅
 랩세미나
@@ -9026,6 +9074,7 @@ NeuralGCM에서
 엄밀히
 돕기
 잘게
+잘못
 쪼개서
 디버깅
 난이도
@@ -9035,3 +9084,4 @@ NeuralGCM에서
 >>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
 떨어짐
 골라서
+건드렸다
