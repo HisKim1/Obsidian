@@ -542,6 +542,8 @@ spectrum
 studies
 significantly
 stability
+structure도
+scale만
 topic
 tags
 templete
@@ -886,6 +888,7 @@ al
 applicable
 applied
 accurate
+amplitude가
 cssclasses
 considered
 cell
@@ -1111,6 +1114,7 @@ clearer
 correlate
 crucial
 correlated
+cond
 Tool
 Troposphere에서
 Thermal
@@ -7968,6 +7972,9 @@ NeuralGCM에서
 바닷물이기는
 바다는
 바다를
+바뀌면
+바뀌어야
+바뀌었을
 학습하는
 학술
 학자들이
@@ -8689,6 +8696,7 @@ NeuralGCM에서
 무한
 무엇인지
 무리가
+무관한
 언어를
 언어의
 언어는
@@ -8954,6 +8962,7 @@ NeuralGCM에서
 판단
 판구가
 판구
+판구는
 벤치마크
 칬MNN
 폢R

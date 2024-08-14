@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md",
+                "file": "GraphCast/Task/Task.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e8b488226acf38e8",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md",
+                "file": "GraphCast/Task/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md",
+                "file": "GraphCast/Task/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@M. Bonavita, 2024.md"
+                "file": "GraphCast/Task/Task.md"
               }
             }
           }
@@ -197,9 +196,12 @@
   },
   "active": "e12293d826119019",
   "lastOpenFiles": [
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "Papers/@WMO, 2012.md",
+    "TODO/2024-08-07.md",
+    "Papers/@M. Bonavita, 2024.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/@J. Kidston, et al., 2015.md",
-    "TODO/2024-08-07.md",
     "TODO/2024-08-14.md",
     "How to apply Multiprocessing in my tasks.md"
   ]
