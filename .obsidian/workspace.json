@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72f6c24a8e3769a6",
+            "id": "d82b6a42cd6cf567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f1c082fd2f025e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2024-08-05.md",
+                "file": "TODO/2024-08-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-05.md",
+                "file": "TODO/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-05.md",
+                "file": "TODO/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-05.md"
+                "file": "TODO/2024-08-14.md"
               }
             }
           }
@@ -181,44 +167,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
+      "templater-obsidian:Templater": true,
       "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open this month": false
+      "periodic-notes:Open this month": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4f1c082fd2f025e3",
+  "active": "d82b6a42cd6cf567",
   "lastOpenFiles": [
-    "TODO/2024-08-06.md",
-    "TODO/2024-08-12.md",
-    "TODO/2024-08-14.md",
-    "TODO/2024-08-05.md",
-    "Templete/TODO.md",
-    "Templete/Monthly Note.md",
-    "TODO/2024-08-07.md",
-    "Templete/paper.md",
-    "TODO/Monthly",
     "TODO/2024-08-15.md",
-    "TODO/Overview.md",
-    "File/Pasted image 20240814153603.png",
+    "TODO/2024-08-14.md",
     "TODO/2024-08-23.md",
-    "TODO/2024-08-08.md",
-    "TODO/2024-08-09.md",
-    "Papers/Overview.md",
-    "conflict-files-obsidian-git.md",
-    "Papers/@J. Kidston, et al., 2015.md",
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "TODO/GC input 차이로 output이 달라진다.md",
+    "Templete/TODO.md",
+    "Test/GraphCast Butterfly Effect Test.md",
+    "Papers/@Lam. et al., 2023.md",
+    "GraphCast/paper/General Forecasting Problem Statement.md",
+    "Test/Untitled.canvas",
+    "Papers/@M. Bonavita, 2024.md",
     "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
-    "TODO/2024-08-13.md",
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "Test",
     "TODO/WMO model 500hPa 평가 기준.md",
-    "How to apply Multiprocessing in my tasks.md"
+    "GraphCast/Dataset.md",
+    "GraphCast/Overview.md",
+    "GraphCast/ERA5.md",
+    "GraphCast/Task/GraphCast GFS by NOAA.md",
+    "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
+    "TODO/Monthly/2024-08.md",
+    "Templete/Monthly Note.md",
+    "Templete/paper.md",
+    "TODO/2024-08-06.md",
+    "File/Pasted image 20240731110643.png",
+    "File/Pasted image 20240731110640.png",
+    "File/Pasted image 20240805095841.png",
+    "File/Pasted image 20240814153603.png",
+    "File/Pasted image 20240802130028.png",
+    "TODO/2024-08-12.md",
+    "TODO/2024-08-05.md",
+    "TODO/2024-08-07.md",
+    "TODO/Monthly",
+    "TODO/Overview.md",
+    "TODO/2024-08-08.md"
   ]
 }
