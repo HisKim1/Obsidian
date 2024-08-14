@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "3cee375f211aad00",
+    "id": "ffc4be58be39b34d",
     "type": "split",
     "children": [
       {
-        "id": "c6f27d7df1de34c8",
+        "id": "766c633f9ca590a6",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbfdb8ab6951334",
+            "id": "fa7c28c0f960a7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-14.md",
-                "mode": "source",
+                "file": "How to apply Multiprocessing in my tasks.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5190e9a22aa068f3",
+    "id": "c6c553e136f17b08",
     "type": "split",
     "children": [
       {
-        "id": "eac4ed8cc3ec76a5",
+        "id": "81ce578695f884d6",
         "type": "tabs",
         "children": [
           {
-            "id": "54abeabfc44f063b",
+            "id": "8fe8190b5e59db18",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8d125211a37ceaef",
+            "id": "1286597ae82e0871",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "c391e666e89cf8c8",
+            "id": "546f9f81a044b69d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "6c554d77c749ad57",
+            "id": "a5b41b79ea9c7181",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -78,18 +78,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "b8bd9fb580c16d11",
+    "id": "e8b488226acf38e8",
     "type": "split",
     "children": [
       {
-        "id": "f4a0b63b82577d96",
+        "id": "f54c7aa404056020",
         "type": "tabs",
         "children": [
           {
-            "id": "976d3b8b6875bd2e",
+            "id": "83bc2b92306454b6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +98,12 @@
             }
           },
           {
-            "id": "19f009935a9d2653",
+            "id": "d641a1865b18d4fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "How to apply Multiprocessing in my tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,34 +115,30 @@
             }
           },
           {
-            "id": "cdaf57593c157ff0",
+            "id": "6f1b934c09debae4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "How to apply Multiprocessing in my tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4f57df36d2c0c508",
+            "id": "721db9fb617ba69f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-<<<<<<< HEAD
-                "file": "TODO/2024-08-14.md"
-=======
                 "sortOrder": "frequency",
                 "useHierarchy": true
->>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
               }
             }
           },
           {
-            "id": "00801a181c2f63c7",
+            "id": "560c434f26845759",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,12 +150,12 @@
             }
           },
           {
-            "id": "217b0e74a797c1a1",
+            "id": "f344206381017f37",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-14.md"
+                "file": "How to apply Multiprocessing in my tasks.md"
               }
             }
           }
@@ -173,6 +170,7 @@
     "hiddenItems": {
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,23 +178,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2cbfdb8ab6951334",
+  "active": "fa7c28c0f960a7ec",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
-=======
-    "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
-    "TODO/2024-08-14.md",
->>>>>>> 6150ec57a933906d514299ce12ca19d8ac794b6c
-    "TODO/2024-08-13.md",
-    "TODO/WMO model 500hPa 평가 기준.md",
-    "TODO/2024-08-15.md",
-    "How to apply Multiprocessing in my tasks.md",
-    "TODO/2024-08-05.md"
+    "TODO/2024-08-14.md"
   ]
 }
