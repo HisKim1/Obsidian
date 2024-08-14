@@ -164,6 +164,9 @@ further
 functions랑
 factor
 first
+forecasters
+friction
+frictional
 name
 nYYYFF
 nOq
@@ -536,6 +539,9 @@ sahedral
 summer
 singular
 spectrum
+studies
+significantly
+stability
 topic
 tags
 templete
@@ -698,6 +704,7 @@ tiny
 twin
 terrain
 therefore
+troughs
 aliases
 against
 and
@@ -877,6 +884,8 @@ avg에
 assimilations
 al
 applicable
+applied
+accurate
 cssclasses
 considered
 cell
@@ -1098,6 +1107,10 @@ creating
 convective
 const
 called
+clearer
+correlate
+crucial
+correlated
 Tool
 Troposphere에서
 Thermal
@@ -1363,6 +1376,7 @@ Berkeley
 Barbara
 Boston
 Butterfly
+BMA
 description
 driving
 dAJ
@@ -1532,6 +1546,7 @@ diagnostics의
 differences
 dynamics의
 diagnosis
+developments
 of
 ojjjii
 oJg
@@ -1806,6 +1821,8 @@ Relax
 RMSE
 Rotational
 Results
+Representative
+Relatively
 Alternatives
 Anomalous
 AAA
@@ -2254,6 +2271,10 @@ rate가
 respectively
 rates
 rate
+reflects
+represents
+region
+relative
 blog
 break
 breaking에
@@ -2639,6 +2660,7 @@ parameters의
 process가
 parameter로
 perform
+potential
 here
 host
 haa
@@ -2763,6 +2785,7 @@ higher
 heteroscedasticity
 hr를
 hydrostatic
+hemispheric
 작업
 작동
 작업해보았는데
@@ -2972,6 +2995,7 @@ least
 linked
 lying
 levels
+lower
 버전
 버전으로
 이상이
@@ -3404,6 +3428,7 @@ github에
 growth
 general하게
 growth를
+give
 GraphCast
 GPU
 Geostrophic
@@ -3652,6 +3677,8 @@ Cornell
 Conclusions
 Can
 Conditions
+Compared
+Correlation
 Output
 OD
 OLL
@@ -3914,6 +3941,7 @@ Experiments
 ECMWF의
 EDA
 EDA에
+EMOS
 Message
 Mean
 MJJ
@@ -4197,6 +4225,9 @@ insignificant
 indicates
 influenced
 international
+improvement
+indicator
+instance
 지난
 지표
 지속
@@ -4483,6 +4514,9 @@ Statistical
 Serise
 Spatial
 Structure
+Scale
+Stable
+Smooth
 순환
 순환을
 순환의
@@ -4827,6 +4861,9 @@ minor
 middle
 most
 movement
+many
+minimal
+making
 서풍에
 서로
 서버의
@@ -5417,6 +5454,7 @@ FppYW
 Fee
 From
 Froecast
+Few
 초기
 초기화
 위치
@@ -6942,6 +6980,8 @@ experiments
 estimation에
 ess
 element
+effects
+easier
 VAA
 VWWc
 VUU
