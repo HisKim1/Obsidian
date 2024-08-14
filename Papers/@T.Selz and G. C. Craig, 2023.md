@@ -135,7 +135,12 @@ $\Rightarrow$ init cond.와 무관한 structure
  amplitude가 바뀌면 structure도 바뀌어야 함. 하지만 판구는 0.1%에서 scale만 바뀌었을 뿐. 
 
 ### Spectra of DKE
+global 300hPa KE & DKE의 spectra를 보았다
 
+1. background spectrum
+   perturbation amplitude에 영향 거의 X 
+   $\because$ background spectrum = atm or model의 climatological feature
+2. 
 
 ---
 # References
