@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d5851f72b4aa656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-08-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+                "file": "TODO/2024-08-14.md"
               }
             }
           }
@@ -180,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cbfdb8ab6951334",
+  "active": "5d5851f72b4aa656",
   "lastOpenFiles": [
-    "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
     "TODO/2024-08-14.md",
     "TODO/2024-08-13.md",
     "TODO/WMO model 500hPa 평가 기준.md",
