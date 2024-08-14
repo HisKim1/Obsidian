@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-14.md",
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-14.md"
+                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
               }
             }
           }
@@ -182,8 +182,10 @@
   },
   "active": "2cbfdb8ab6951334",
   "lastOpenFiles": [
-    "TODO/2024-08-13.md",
+    "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md",
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "TODO/2024-08-14.md",
+    "TODO/2024-08-13.md",
     "TODO/WMO model 500hPa 평가 기준.md",
     "TODO/2024-08-15.md",
     "How to apply Multiprocessing in my tasks.md",
