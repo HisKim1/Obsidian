@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+                "file": "TODO/2024-08-14.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+                "file": "TODO/2024-08-14.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "453dc17a9621c605",
   "lastOpenFiles": [
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "TODO/2024-08-13.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-08-23.md",
