@@ -49,10 +49,17 @@ dash는 comma보다 강력한 separation, colon보다 informal, parentheses보�
 ##### 9. The number of the subject determines the number of the verb.
 단복수 잘 맞춰라.
 **common blunder**
-1) one of ... + singular verb
-2) each, either, everyone, everybody, neither, nobody, someone + singular verb
-3) none (no one or not one) + singular verb
-4) none (more than one) + plural verb
+1) *one of ...* + singular verb
+2) *each, either, everyone, everybody, neither, nobody, someone* + singular verb
+3) *none* (no one or not one) + singular verb
+4) *none* (more than one) + plural verb
+5) ~~ and ~~ + plural verb
+6) 셀 수 없는 명사들 & each, every + singular verb
+7) singular subject + *with, as well as, in addition to, except, together with, no less than*  + singular verb
+8) 기타 등등... learn the idioms 해라...
+
+##### 10. Use the proper case of pronoun.
+
 
 
 ---
