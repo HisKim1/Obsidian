@@ -291,6 +291,8 @@ number
 nkF
 noisiness
 nondivergence
+nouns
+nonrestrictive
 site
 status
 stratosphere에서
@@ -551,6 +553,13 @@ stable
 signature인
 scales가
 scale로
+singluar
+serise
+silver
+subject
+statements
+several
+subordinate
 topic
 tags
 templete
@@ -715,6 +724,9 @@ terrain
 therefore
 troughs
 training에
+three
+two
+thoroughly
 aliases
 against
 and
@@ -900,6 +912,8 @@ amplitude가
 advice
 amplitude에
 advection
+after
+argument
 cssclasses
 considered
 cell
@@ -1129,6 +1143,17 @@ cond
 continental
 climatological
 convections때문에
+consonant
+conjunction
+comma
+copper
+commas
+clause이면
+clause
+clauses
+connectrive
+close
+competent
 Tool
 Troposphere에서
 Thermal
@@ -1697,6 +1722,8 @@ output이
 oceans
 optimizing하면
 obs
+once
+omitted
 Reasoning
 Resources
 Residual
@@ -1844,6 +1871,7 @@ Rotational
 Results
 Representative
 Relatively
+Rules
 Alternatives
 Anomalous
 AAA
@@ -2297,6 +2325,8 @@ represents
 region
 relative
 remains
+red
+relation
 blog
 break
 breaking에
@@ -2447,6 +2477,7 @@ balance
 balances
 butterfly
 better
+blue
 posts
 pf
 pss
@@ -2696,6 +2727,12 @@ prof
 perturb
 peak
 propagate되었어야
+possessive
+pronominal
+parenthetic
+parenthetic하다
+perilous
+punctuation
 here
 host
 haa
@@ -2821,6 +2858,7 @@ heteroscedasticity
 hr를
 hydrostatic
 hemispheric
+heard
 작업
 작동
 작업해보았는데
@@ -2849,6 +2887,7 @@ hemispheric
 문제는
 문제를
 문제점으로
+문장을
 상황
 상위버전들이
 상승한
@@ -3098,6 +3137,7 @@ looeses
 해줌
 해서
 해도
+해야
 에서
 에도
 에르되시
@@ -3118,6 +3158,7 @@ looeses
 구해보니까
 구한
 구현
+구두점
 가능한
 가능하다면
 가열
@@ -3316,6 +3357,7 @@ just
 설문
 설명은
 설정
+설명적인
 graphcast
 gf
 ggg
@@ -3472,6 +3514,7 @@ growth
 general하게
 growth를
 give
+gold
 GraphCast
 GPU
 Geostrophic
@@ -3989,6 +4032,8 @@ EDA
 EDA에
 EMOS
 Effect를
+Elementary
+Enclose
 Message
 Mean
 MJJ
@@ -4276,6 +4321,8 @@ improvement
 indicator
 instance
 instantaneous
+introducing
+immediate
 지난
 지표
 지속
@@ -4319,6 +4366,7 @@ instantaneous
 대표적인
 대학자가
 대신
+대명사의
 인식도
 인근
 인식을
@@ -4569,6 +4617,7 @@ Structure
 Scale
 Stable
 Smooth
+Strunk
 순환
 순환을
 순환의
@@ -5049,6 +5098,9 @@ WUt
 WOpz
 Wisconsin
 WP의
+William
+White
+When
 의해
 의한
 의미로
@@ -5072,6 +5124,7 @@ WP의
 단점
 단축할
 단순한
+단수형
 냉각
 야기
 야기한
@@ -5365,6 +5418,7 @@ Pangu의
 PDE
 Procedure
 Perturbed
+Place
 질량
 질서도
 질문하고
@@ -5517,6 +5571,7 @@ Fee
 From
 Froecast
 Few
+Form
 초기
 초기화
 위치
@@ -5529,6 +5584,7 @@ Few
 위에서
 위하여
 위한
+위험한
 역할
 역할을
 프로세스
@@ -5680,6 +5736,7 @@ way
 weaker
 wavenumber
 wintertime도
+white
 높이
 높은
 활성화
@@ -7054,6 +7111,11 @@ ensemble로
 ensemble을
 even
 effect의
+except
+expressions
+expression인지
+expressed
+econnective
 VAA
 VWWc
 VUU
@@ -7254,6 +7316,7 @@ uncertainty가
 uncertainty를
 unlimited
 usually
+unconvinced
 DEEE
 DPP
 Dt
@@ -8164,6 +8227,7 @@ NA에
 자신을
 자기를
 자존심입니다
+자음
 화려한
 수식
 수송을
@@ -8230,6 +8294,7 @@ NA에
 아홉
 아닙니다
 아님
+아닌지
 거야
 거니와
 거바
@@ -8346,6 +8411,7 @@ NA에
 경도
 경우
 경향
+경우가
 교환
 교류에서도
 교재에서
@@ -8382,6 +8448,7 @@ NA에
 소요
 소개하겠습니다
 소개합니다
+소유격
 과정
 과정을
 과정이
@@ -8459,6 +8526,7 @@ NA에
 조절해
 조금이나마
 조정할
+조항
 우리가
 우선
 우리의
@@ -8785,6 +8853,7 @@ NA에
 킬러처럼
 끝내
 끝나고
+끝나는
 존재다
 존재
 들려주던
@@ -9019,6 +9088,7 @@ NA에
 혼자
 종합한것과같이
 종관기상학
+종속된
 총적으로
 탕탕
 쾅쾅
@@ -9046,6 +9116,7 @@ NA에
 판구
 판구는
 판구에서는
+판단을
 벤치마크
 칬MNN
 폢R
@@ -9105,6 +9176,8 @@ NA에
 잘게
 잘못
 쪼개서
+쪼갤
+쪼갠다
 디버깅
 난이도
 난삽하여
@@ -9115,3 +9188,5 @@ NA에
 골라서
 건드렸다
 납득
+써라
+삽입된
