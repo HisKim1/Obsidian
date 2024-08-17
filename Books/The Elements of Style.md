@@ -21,8 +21,26 @@ nonrestrictive clause이면 문장을 두 개로 쪼갤 수 있고 parenthetic�
 >    He has had several years' experience **and** is thoroughly competent.
 
 ##### 5. Do not join independent clauses with a comma.
+cluases를 하나로 이으려면
+1) semicolon 이용
+   "It is nearly half past five; we cannot reach town before dark."
+2) replace the semicolons with periods
+   "It is nearly half past five. We cannot reach town before dark."
+3) comma 이용
+   "It is nearly half past five, and we cannot reach town before dark."
+
+세 방식을 비교해보면 ;이 더 close relationship을 보여주고, briefer and therefore more forcible. 단, clauses가 너무 짧거나 tone of sentence is easy and conversational일 때는 별로다
+
+##### 6. Do not break sentences in two.
+comma 자리에 period 두지 마라. 
+
+##### 7. Use a colon after an independent clause to introduce a list of particulars, an appositive, an amplification, or an illustrative quotation.
+
 
 ---
+blunder 실수
+lest 하지 않도록
+attempt 시도하다
 perilous 매우 위험한
 subordinate 종속된
 clause 절, 조항
