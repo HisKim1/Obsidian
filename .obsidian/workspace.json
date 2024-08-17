@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e8b488226acf38e8",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md",
+                "file": "TODO/2024-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@T.Selz and G. C. Craig, 2023.md"
+                "file": "TODO/2024-08-17.md"
               }
             }
           }
@@ -184,11 +183,12 @@
   },
   "active": "879101fdae79068e",
   "lastOpenFiles": [
+    "TODO/2024-08-23.md",
     "TODO/2024-08-15.md",
     "TODO/2024-08-16.md",
     "TODO/2024-08-17.md",
-    "TODO/2024-08-14.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "TODO/2024-08-14.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-08-07.md",
     "GraphCast/Task/Task.md",

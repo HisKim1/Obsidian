@@ -71,6 +71,7 @@ $\rightarrow$ 논리상 필요한 문장인 건 이해하겠다만, 이러면 ER
 low-resolution model을 해결하기 위해 stochastic convection scheme을 소개했었는데, 이걸 적용할 수도 있을 듯하다
 e.g. random seed로 stochastic parameterization / stochastic infer via super-resolution method
 
+$\therefore$ MLWP가 butterfly effect를 모사하지는 못 하지만, reliable prediction을 못 한다는 것은 아니며, reliable ensemble을 만들 수 없다는 뜻도 아니다. 다만 현재의 initial uncertainty에서 이 정도가 유의미한지 아직 모르는 것일 뿐.
 
 ---
 # Experiments
