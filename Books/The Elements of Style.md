@@ -40,9 +40,23 @@ comma 자리에 period 두지 마라.
    "Your dedicated whittler requires three props: a knife, a piece of wood, and a back porch."
 2) 2nd clause가 1st를 interpret or amplifies할 때
    "But even so, there was a directness and dispatch about animal burial: there was no stopover in the undertaker's foul parlor, no wreath or spray."
-   
+3) preceding clause를 support하거나 contribute하는 quotation 앞에
+   "The squalor of the streets reminded her of a line from Oscar Wilde: "We are all in the gutter, but some of us are looking at the stars."
+
+##### 8. Use a dash to set off an abrupt break or interruption and to announce a long appositive or summary.
+dash는 comma보다 강력한 separation, colon보다 informal, parentheses보다 relaxed
+
+##### 9. The number of the subject determines the number of the verb.
+단복수 잘 맞춰라.
+**common blunder**
+1) one of ... + singular verb
+2) each, either, everyone, everybody, neither, nobody, someone + singular verb
+3) none (no one or not one) + singular verb
+4) none (more than one) + plural verb
+
 
 ---
+parentheses 소괄호()
 dedicated 헌신적인, ~전용의
 appositive 동격
 blunder 실수
