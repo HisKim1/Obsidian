@@ -50,6 +50,27 @@ error growth를 잘 하는지 보겠다
 
 ---
 # Discussion
+1. MLWP의 장점: low computing cost $\rightarrow$ ensemble members 증가 가능
+2. large ensemble: reduce sampling uncertainty $\rightarrow$ reliable extreme event probability forecast
+그래서 가능할 것 같지만 <font color="#00e676">MLWP는 error growth가 realistic하지 않다</font>
+$\because$ intrinsic predictability limit = earth's atm physical property라서 measure or observe되지 않는다
+
+```ad-question
+"Reanalyzes like ERA5 however never come close enough to the true state to enable an observation of the butterfly effect, since our current observational and assmilation system still has very significant errors."
+
+$\rightarrow$ 논리상 필요한 문장인 건 이해하겠다만, 이러면 ERA5를 기준으로 비교하고 예측하는 모든 게 무의미하다는 뜻이 되지는 않나
+```
+
+1. Reanalysis 자체에 error가 있다
+2. NN은 그 만큼의 approximated development만 배울 수 있다
+   pf) 100% perturbation에서 error growth
+다른 MLWP도 비슷할 거 같은데, autoregressive model은 어떨 지 궁금하긴 하다
+
+> the essence of the butterfly effect is upscale<font color="#00e676"> propagation </font>of fast-growing <font color="#00e676">uncertainties</font> on small scales, mainly related to <font color="#00e676">convection and precipitation.</font>
+
+low-resolution model을 해결하기 위해 stochastic convection scheme을 소개했었는데, 이걸 적용할 수도 있을 듯하다
+e.g. random seed로 stochastic parameterization / stochastic infer via super-resolution method
+
 
 ---
 # Experiments
