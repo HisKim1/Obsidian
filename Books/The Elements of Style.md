@@ -35,9 +35,16 @@ cluases를 하나로 이으려면
 comma 자리에 period 두지 마라. 
 
 ##### 7. Use a colon after an independent clause to introduce a list of particulars, an appositive, an amplification, or an illustrative quotation.
-
+1) list of particulars
+   완전한 문장 뒤에 colon 붙이고 리스트 업
+   "Your dedicated whittler requires three props: a knife, a piece of wood, and a back porch."
+2) 2nd clause가 1st를 interpret or amplifies할 때
+   "But even so, there was a directness and dispatch about animal burial: there was no stopover in the undertaker's foul parlor, no wreath or spray."
+   
 
 ---
+dedicated 헌신적인, ~전용의
+appositive 동격
 blunder 실수
 lest 하지 않도록
 attempt 시도하다
