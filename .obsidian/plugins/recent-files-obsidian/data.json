@@ -9,6 +9,14 @@
       "path": "TODO/2024-08-19.md"
     },
     {
+      "basename": "2024-08-20",
+      "path": "TODO/2024-08-20.md"
+    },
+    {
+      "basename": "@WMO, 2012",
+      "path": "Papers/@WMO, 2012.md"
+    },
+    {
       "basename": "TODO",
       "path": "Templete/TODO.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2024-08-18",
       "path": "TODO/2024-08-18.md"
-    },
-    {
-      "basename": "@WMO, 2012",
-      "path": "Papers/@WMO, 2012.md"
     },
     {
       "basename": "Hierarchical Temporal Aggregation, HTA",
