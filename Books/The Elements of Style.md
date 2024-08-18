@@ -59,7 +59,7 @@ dash는 comma보다 강력한 separation, colon보다 informal, parentheses보�
 8) 기타 등등... learn the idioms 해라...
 
 ##### 10. Use the proper case of pronoun.
-
+3
 
 
 ---
