@@ -24,8 +24,13 @@
             "id": "c2890f54c57de2d4",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-08-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -111,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO/2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO/2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO/2024-08-19.md"
+              }
             }
           }
         ]
@@ -183,12 +192,12 @@
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open this month": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "c2890f54c57de2d4",
   "lastOpenFiles": [
+    "TODO/2024-08-19.md",
     "Papers/@WMO, 2012.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/Northern and Southern Annular Mode.md",
@@ -216,7 +225,6 @@
     "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "TODO/Monthly/2024-08.md",
     "Templete/Monthly Note.md",
-    "Templete/paper.md",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "File/Pasted image 20240805095841.png",
