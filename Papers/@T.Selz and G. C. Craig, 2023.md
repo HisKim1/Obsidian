@@ -49,7 +49,29 @@ ICON이라는 PDE 기반 모델과 비교하겠다
 error growth를 잘 하는지 보겠다
 
 ---
-# Conclusion
+# Discussion
+1. MLWP의 장점: low computing cost $\rightarrow$ ensemble members 증가 가능
+2. large ensemble: reduce sampling uncertainty $\rightarrow$ reliable extreme event probability forecast
+그래서 가능할 것 같지만 <font color="#00e676">MLWP는 error growth가 realistic하지 않다</font>
+$\because$ intrinsic predictability limit = earth's atm physical property라서 measure or observe되지 않는다
+
+```ad-question
+"Reanalyzes like ERA5 however never come close enough to the true state to enable an observation of the butterfly effect, since our current observational and assmilation system still has very significant errors."
+
+$\rightarrow$ 논리상 필요한 문장인 건 이해하겠다만, 이러면 ERA5를 기준으로 비교하고 예측하는 모든 게 무의미하다는 뜻이 되지는 않나
+```
+
+1. Reanalysis 자체에 error가 있다
+2. NN은 그 만큼의 approximated development만 배울 수 있다
+   pf) 100% perturbation에서 error growth
+다른 MLWP도 비슷할 거 같은데, autoregressive model은 어떨 지 궁금하긴 하다
+
+> the essence of the butterfly effect is upscale<font color="#00e676"> propagation </font>of fast-growing <font color="#00e676">uncertainties</font> on small scales, mainly related to <font color="#00e676">convection and precipitation.</font>
+
+low-resolution model을 해결하기 위해 stochastic convection scheme을 소개했었는데, 이걸 적용할 수도 있을 듯하다
+e.g. random seed로 stochastic parameterization / stochastic infer via super-resolution method
+
+$\therefore$ MLWP가 butterfly effect를 모사하지는 못 하지만, reliable prediction을 못 한다는 것은 아니며, reliable ensemble을 만들 수 없다는 뜻도 아니다. 다만 현재의 initial uncertainty에서 이 정도가 유의미한지 아직 모르는 것일 뿐.
 
 ---
 # Experiments
@@ -135,8 +157,25 @@ $\Rightarrow$ init cond.와 무관한 structure
  amplitude가 바뀌면 structure도 바뀌어야 함. 하지만 판구는 0.1%에서 scale만 바뀌었을 뿐. 
 
 ### Spectra of DKE
+global 300hPa KE & DKE의 spectra를 보았다
 
-
+1. background spectrum
+   perturbation amplitude에 영향 거의 X 
+   $\because$ background spectrum = atm or model의 climatological feature
+2. Pangu-100%
+   0~24h: 500km 이하 looeses energy 
+   $\Rightarrow$ lower level error가 not saturated 
+   $\Rightarrow$ stagnation of error growth, even at large scales
+   24h~: remains stable; no further decay
+   1000km 쯤 되면 ICON이랑 비슷하다
+3. ICON-LR-100%
+   200km 이하 saturated $\Rightarrow$ $\not\exists$ info 4 prediction
+   24h~74h: error growth $\Rightarrow$ error가 이어서 synoptic scale에서 growth 
+4. ICON-LR-0.1% vs Pangu-LR-0.1%
+   판구에서는 butterfly effect의 signature인 instantaneous downscale propagation of the energy peak to smaller scales가 나타나지 않음
+   $\Rightarrow$ decorrelation; 
+   small difference $\leftrightarrow$ large-scale advection
+   원래같으면 !linear error growth in regions of moist convections때문에 error가 smaller scale로 propagate되었어야? 납득 불가
 ---
 # References
  

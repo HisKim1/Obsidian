@@ -14,7 +14,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	2. GC_operational
 	   
 3. [ ] input 시간대 설정 & 데이터 다운로드
-	1. [[@T.Selz and G. C. Craig, 2023]]는 2021.06.26을 사용함
+	1. [[@T.Selz and G. C. Craig, 2023#Initial Conditions]]는 2021.06.26을 사용함
 	   $\because$ NA에 strong continental summertime convection
 	2. Criteria
 		1. strong continental convection period
