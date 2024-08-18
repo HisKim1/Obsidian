@@ -2,7 +2,7 @@
 author: William Strunk Jr. and E.B. White
 datetime: 2024-08-17
 ---
-# 1. Elementary Rules of Usage
+# 1 Elementary Rules of Usage
 ##### 1. Form the possessive singular of nouns by adding 's.
 *-es, -is*로 끝나는 경우가 아니라면 (       )'s  (  )라고 써라
 
@@ -59,10 +59,32 @@ dash는 comma보다 강력한 separation, colon보다 informal, parentheses보�
 8) 기타 등등... learn the idioms 해라...
 
 ##### 10. Use the proper case of pronoun.
-3
+comparison할 때 pronoun은 nominative; "understood" verb는 지양. supply해라
+"Sandy writes better than **I write**"
+
+gerund + possessive
+present participle + objective
+$\rightarrow$ 겉보기엔 똑같아보이지만 의미차이가 있다. 
+
+"Do you mind me asking a question?"
+"Do you mind my asking a question?"
+
+##### 11. A participial phrase at the beginning of a sentence must refer to the grammatical subject.
+분사구문은 주절의 주어를 받는다. 무조건.
+
+---
+# 2 Elementary Principles of Composition
+##### 12. Choose a suitable design and hold to it.
+
+##### 13. Make a paragraph the unit of composition.
+
+##### 14. Use the active voice.
+
 
 
 ---
+ludicrous 터무니 없는
+preposition 전치사
 parentheses 소괄호()
 dedicated 헌신적인, ~전용의
 appositive 동격
