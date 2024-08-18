@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-19.md",
-                "mode": "source",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -73,26 +73,30 @@
             }
           },
           {
-            "id": "c391e666e89cf8c8",
+            "id": "976d3b8b6875bd2e",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "6c554d77c749ad57",
+            "id": "217b0e74a797c1a1",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Test/GraphCast Butterfly Effect Test.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -103,40 +107,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "976d3b8b6875bd2e",
+            "id": "6c554d77c749ad57",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "recent-files",
               "state": {}
-            }
-          },
-          {
-            "id": "19f009935a9d2653",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TODO/2024-08-19.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cdaf57593c157ff0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "TODO/2024-08-19.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -161,22 +136,13 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "217b0e74a797c1a1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "TODO/2024-08-19.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 301.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,31 +157,30 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c2890f54c57de2d4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TODO/2024-08-19.md",
-    "TODO/2024-08-18.md",
-    "TODO/2024-08-17.md",
+    "Templete/TODO.md",
+    "TODO/2024-08-14.md",
+    "TODO/2024-08-15.md",
     "TODO/2024-08-16.md",
+    "TODO/2024-08-17.md",
+    "TODO/2024-08-18.md",
+    "conflict-files-obsidian-git.md",
     "Books/The Elements of Style.md",
     "Papers/@WMO, 2012.md",
     "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Papers/Northern and Southern Annular Mode.md",
     "Papers/Quasi-Biennial Oscillation.md",
-    "TODO/2024-08-14.md",
     "Papers/Overview.md",
     "How to apply Multiprocessing in my tasks.md",
     "TODO/WMO model 500hPa 평가 기준.md",
     "Test/GraphCast input 차이로 output이 달라지는지 Test.md",
     "Test/GraphCast Butterfly Effect Test.md",
-    "TODO/2024-08-15.md",
     "TODO/2024-08-23.md",
-    "Templete/TODO.md",
     "Papers/@Lam. et al., 2023.md",
     "GraphCast/paper/General Forecasting Problem Statement.md",
     "Test/Untitled.canvas",
