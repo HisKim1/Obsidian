@@ -167,6 +167,9 @@ first
 forecasters
 friction
 frictional
+five
+forcible
+foul
 name
 nYYYFF
 nOq
@@ -293,6 +296,9 @@ noisiness
 nondivergence
 nouns
 nonrestrictive
+nearly
+neither
+nobody
 site
 status
 stratosphere에서
@@ -560,6 +566,19 @@ subject
 statements
 several
 subordinate
+semicolon
+semicolons
+sentence
+sentences
+st를
+stopover
+spray
+support하거나
+squalor
+streets
+stars
+separation
+someone
 topic
 tags
 templete
@@ -727,6 +746,9 @@ training에
 three
 two
 thoroughly
+town
+tone
+together
 aliases
 against
 and
@@ -914,6 +936,14 @@ amplitude에
 advection
 after
 argument
+appositive
+amplification
+amplifies할
+animal
+abrupt
+announce
+addition
+attempt
 cssclasses
 considered
 cell
@@ -1154,6 +1184,16 @@ clauses
 connectrive
 close
 competent
+cluases를
+clauses가
+conversational일
+colon
+clause가
+clause를
+contribute하는
+comma보다
+colon보다
+common
 Tool
 Troposphere에서
 Thermal
@@ -1420,6 +1460,7 @@ Barbara
 Boston
 Butterfly
 BMA
+But
 description
 driving
 dAJ
@@ -1593,6 +1634,13 @@ developments
 decay
 downscale
 decorrelation
+dark
+dedicated
+directness
+dispatch
+dash
+dash는
+determines
 of
 ojjjii
 oJg
@@ -1724,6 +1772,7 @@ optimizing하면
 obs
 once
 omitted
+off
 Reasoning
 Resources
 Residual
@@ -2327,6 +2376,10 @@ relative
 remains
 red
 relation
+reach
+relationship을
+reminded
+relaxed
 blog
 break
 breaking에
@@ -2478,6 +2531,9 @@ balances
 butterfly
 better
 blue
+briefer
+burial
+blunder
 posts
 pf
 pss
@@ -2733,6 +2789,19 @@ parenthetic
 parenthetic하다
 perilous
 punctuation
+past
+periods
+particulars
+props
+piece
+porch
+parlor
+preceding
+parentheses보다
+plural
+proper
+pronoun
+parentheses
 here
 host
 haa
@@ -2859,6 +2928,8 @@ hr를
 hydrostatic
 hemispheric
 heard
+half
+her
 작업
 작동
 작업해보았는데
@@ -2888,6 +2959,7 @@ heard
 문제를
 문제점으로
 문장을
+문장
 상황
 상위버전들이
 상승한
@@ -2919,6 +2991,7 @@ heard
 실행해야
 실행한다
 실험
+실수
 library
 lbb
 lM
@@ -3071,6 +3144,8 @@ lying
 levels
 lower
 looeses
+learn
+lest
 버전
 버전으로
 이상이
@@ -3117,6 +3192,8 @@ looeses
 이상
 이하
 이어서
+이으려면
+이용
 필요함
 필요한
 필요
@@ -3138,6 +3215,7 @@ looeses
 해서
 해도
 해야
+해라
 에서
 에도
 에르되시
@@ -3225,6 +3303,7 @@ looeses
 기초교양
 기반
 기준으로
+기타
 으로
 롤백
 혹은
@@ -3342,6 +3421,7 @@ jzW
 j뚴
 jpd
 just
+join
 설치
 설치되었고
 설명하는
@@ -3515,6 +3595,7 @@ general하게
 growth를
 give
 gold
+gutter
 GraphCast
 GPU
 Geostrophic
@@ -3867,6 +3948,7 @@ OUVw
 Overload
 Ordinary
 Objective
+Oscar
 Error
 Eddy
 EEE
@@ -4323,6 +4405,12 @@ instance
 instantaneous
 introducing
 immediate
+introduce
+illustrative
+interpret
+interruption
+informal
+idioms
 지난
 지표
 지속
@@ -4351,6 +4439,7 @@ immediate
 보면
 보겠다
 보았다
+보여주고
 대로
 대기
 대신에
@@ -4443,6 +4532,7 @@ immediate
 않습니다
 않는다
 않은
+않도록
 싶습니다
 싶은
 핵심
@@ -4680,6 +4770,7 @@ Strunk
 방식
 방법이
 방향성
+방식을
 강제력이
 강화
 강화된
@@ -4692,6 +4783,7 @@ Strunk
 강제력
 강의에서는
 강의의
+강력한
 zonal
 zh
 zz
@@ -4993,6 +5085,7 @@ method
 전컴
 전달하는
 전반적으로
+전용의
 속도
 유발
 유도된
@@ -5101,6 +5194,7 @@ WP의
 William
 White
 When
+Wilde
 의해
 의한
 의미로
@@ -5125,6 +5219,7 @@ When
 단축할
 단순한
 단수형
+단복수
 냉각
 야기
 야기한
@@ -5737,6 +5832,10 @@ weaker
 wavenumber
 wintertime도
 white
+whittler
+wood
+was
+wreath
 높이
 높은
 활성화
@@ -6384,6 +6483,7 @@ km이고
 kXbccfos
 known
 kinetic
+knife
 xxxnn
 xh
 xU
@@ -7116,6 +7216,9 @@ expressions
 expression인지
 expressed
 econnective
+either
+everyone
+everybody
 VAA
 VWWc
 VUU
@@ -7317,6 +7420,7 @@ uncertainty를
 unlimited
 usually
 unconvinced
+undertaker
 DEEE
 DPP
 Dt
@@ -7592,6 +7696,7 @@ valid
 vectors
 vertically
 verification
+verb
 qbRRRrr
 qZ
 ql
@@ -7706,6 +7811,7 @@ quq
 qbB
 qN
 quantities
+quotation
 ZZ
 Zi
 ZQQ
@@ -7968,6 +8074,7 @@ NA에
 때문입니다
 때문
 때까지
+때는
 만큼
 만들어
 만드는
@@ -8172,6 +8279,7 @@ NA에
 것이라
 앞으로
 앞으로의
+앞에
 있을까
 있다
 있어
@@ -8228,6 +8336,7 @@ NA에
 자기를
 자존심입니다
 자음
+자리에
 화려한
 수식
 수송을
@@ -8379,6 +8488,7 @@ NA에
 시대
 시간대를
 시간대
+시도하다
 온도
 온위의
 온도가
@@ -8440,6 +8550,7 @@ NA에
 두께
 두기
 두어야
+두지
 소멸
 소용돌이
 소망도
@@ -8449,6 +8560,7 @@ NA에
 소개하겠습니다
 소개합니다
 소유격
+소괄호
 과정
 과정을
 과정이
@@ -8541,6 +8653,7 @@ NA에
 맞는지
 맞나
 맞음
+맞춰라
 업그레이드
 업데이트
 업신여긴
@@ -8572,6 +8685,7 @@ NA에
 완고한
 완료
 완료된
+완전한
 걸로
 걸어온
 걸쳐서
@@ -8671,6 +8785,7 @@ NA에
 동일하게
 동일한
 동시에
+동격
 반경
 반영하려면
 반복했을
@@ -8696,6 +8811,7 @@ NA에
 마저
 마주치게
 마음대로
+마라
 흔들림
 약해지면
 약해지거나
@@ -8929,6 +9045,7 @@ NA에
 비교하기
 비교하겠다
 비교할
+비교해보면
 피어슨
 피드백
 피할
@@ -9069,6 +9186,7 @@ NA에
 힘입어
 너희
 너희들
+너무
 옆사람
 견지에서
 잠시
@@ -9141,6 +9259,7 @@ NA에
 랩세미나
 랩세미나를
 리마인드
+리스트
 퇴근하고
 터질
 넘어가기
@@ -9190,3 +9309,8 @@ NA에
 납득
 써라
 삽입된
+짧거나
+별로다
+붙이고
+명사들
+헌신적인
