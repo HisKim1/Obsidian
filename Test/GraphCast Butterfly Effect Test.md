@@ -13,7 +13,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	1. GC_original: 0.25$^\circ$ / 37 level / train: 1979~2017
 	2. GC_operational:  0.25$^\circ$ / 37 level / train: 1979~2017 + fine-tuned: 2016~2021
 	   
-3. [ ] input 시간대 설정 & 데이터 다운로드
+3. [x] input 시간대 설정 & 데이터 다운로드 ✅ 2024-08-19
 	1. [[@T.Selz and G. C. Craig, 2023#Initial Conditions]]는 2021.06.26T00h을 사용함 $\rightarrow$ operational에 포함된 듯. **original 사용해야 함**.
 	   $\because$ NA에 strong continental summertime convection
 	2. Criteria
