@@ -1081,6 +1081,8 @@ tqS
 tVG
 tZU
 training에
+train
+tuned
 aliases
 against
 and
@@ -2624,6 +2626,7 @@ oaeY
 oxH
 omv
 oFP
+operational에
 Reasoning
 Resources
 Residual
@@ -4856,6 +4859,7 @@ lUsr
 사용하려
 사용함
 사용되지
+사용해야
 기존
 기후에
 기후
@@ -13373,6 +13377,7 @@ NA에
 포착하고
 포장하기
 포함될
+포함된
 동서
 동일
 동화
