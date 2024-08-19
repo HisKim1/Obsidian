@@ -15,6 +15,22 @@ $$\displaystyle\begin{cases}
 \dfrac{z}{t}=xy-bz
 \end{cases}$$
 - Characteristics
-	dissipative^[소멸하는] system $\leftrightarrow$ Hamiltonian^[conserve total energy or some other similar property of the flow]
+	[[Lorenz's three variable model is a dissipative system|dissipative system]]^[소멸하는] $\leftrightarrow$ Hamiltonian^[conserve total energy or some other similar property of the flow]
 	nonlinear & autonomous system
-
+	init cond ($\sigma, b, r$) sensitively dep $\rightarrow$ chaotic solution
+- Phase space
+	solution space
+	dimension = # of indep variables
+	dim of the attractor; init transient period 이후 방문한 subspace의 dim은 더 작다
+- Trajectory or Orbit
+	init cond가 주어졌을 때의 solution in Phase space
+- Transient
+	initial portion of the trajectory
+- Attractor
+	transient가 끝나고 trajectories가 계속 접근하는 set of points
+	각 comonents는 basins of attraction을 갖음
+	- stationary points^[equilibrium or steady state solutions of the dynamical squations]
+	- periodic orbits
+	- strange attractors^[can include periodic orbits]
+- Bifurcation point
+	flow가 abruptly change하는 지점
