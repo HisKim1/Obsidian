@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "TODO/2024-08-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +72,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+                "file": "TODO/2024-08-20.md"
               }
+            }
+          },
+          {
+            "id": "1ad680a320638007",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -120,6 +128,35 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "090887ded56f82e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO/2024-08-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac7afb754bb9a9fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO/2024-08-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -146,13 +183,14 @@
   },
   "active": "86d51cebe00eae64",
   "lastOpenFiles": [
-    "Books/Lorenz's three variable model is a dissipative system.md",
+    "TODO/2024-08-06.md",
+    "GraphCast/Task/Task.md",
+    "TODO/2024-08-19.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "Books/Lorenz's three variable model is a dissipative system.md",
     "Books/The Elements of Style.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "GraphCast/Task/Input Data 다운.md",
-    "GraphCast/Task/Task.md",
-    "TODO/2024-08-19.md",
     "TODO/2024-08-14.md",
     "TODO/2024-09-06.md",
     "TODO/2024-08-20.md",
@@ -171,7 +209,6 @@
     "TODO/WMO model 500hPa 평가 기준.md",
     "Test/GraphCast input 차이로 output이 달라지는지 Test.md",
     "TODO/2024-08-23.md",
-    "Papers/@Lam. et al., 2023.md",
     "Test/Untitled.canvas",
     "Test",
     "File/Pasted image 20240731110643.png",
