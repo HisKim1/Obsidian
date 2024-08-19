@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-20.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6e84d825045aa074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2024-08-20.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-20.md"
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
               }
             }
           },
@@ -102,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-20.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-20.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e84d825045aa074",
+  "active": "86d51cebe00eae64",
   "lastOpenFiles": [
-    "TODO/2024-08-19.md",
-    "conflict-files-obsidian-git.md",
     "TODO/2024-08-20.md",
+    "TODO/2024-08-19.md",
+    "TODO/2024-09-06.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-08-06.md",
     "GraphCast/Task/Task.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
@@ -208,7 +196,6 @@
     "Test/GraphCast Butterfly Effect Test.md",
     "GraphCast/Task/Input Data 다운.md",
     "TODO/2024-08-14.md",
-    "TODO/2024-09-06.md",
     "Papers/@WMO, 2012.md",
     "Templete/TODO.md",
     "TODO/2024-08-15.md",
