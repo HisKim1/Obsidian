@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8b488226acf38e8",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Elements of Style.md"
+                "file": "TODO/2024-08-19.md"
               }
             }
           }
@@ -177,19 +178,18 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "71aab821350de672",
   "lastOpenFiles": [
+    "Books/The Elements of Style.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-08-19.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-09-06.md",
     "TODO/2024-08-20.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
-    "Books/The Elements of Style.md",
     "TODO/2024-08-18.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "TODO/2024-08-17.md",
