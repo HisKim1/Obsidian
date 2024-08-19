@@ -76,6 +76,7 @@ $\rightarrow$ 겉보기엔 똑같아보이지만 의미차이가 있다.
 # 2 Elementary Principles of Composition
 ##### 12. Choose a suitable design and hold to it.
 
+
 ##### 13. Make a paragraph the unit of composition.
 
 ##### 14. Use the active voice.

@@ -299,6 +299,7 @@ nonrestrictive
 nearly
 neither
 nobody
+nominative
 site
 status
 stratosphere에서
@@ -579,6 +580,8 @@ streets
 stars
 separation
 someone
+supply해라
+suitable
 topic
 tags
 templete
@@ -1194,6 +1197,8 @@ contribute하는
 comma보다
 colon보다
 common
+comparison할
+composition
 Tool
 Troposphere에서
 Thermal
@@ -1641,6 +1646,7 @@ dispatch
 dash
 dash는
 determines
+design
 of
 ojjjii
 oJg
@@ -1773,6 +1779,7 @@ obs
 once
 omitted
 off
+objective
 Reasoning
 Resources
 Residual
@@ -2380,6 +2387,7 @@ reach
 relationship을
 reminded
 relaxed
+refer
 blog
 break
 breaking에
@@ -2534,6 +2542,7 @@ blue
 briefer
 burial
 blunder
+beginning
 posts
 pf
 pss
@@ -2802,6 +2811,12 @@ plural
 proper
 pronoun
 parentheses
+pronoun은
+participle
+participial
+phrase
+paragraph
+preposition
 here
 host
 haa
@@ -2930,6 +2945,7 @@ hemispheric
 heard
 half
 her
+hold
 작업
 작동
 작업해보았는데
@@ -3146,6 +3162,7 @@ lower
 looeses
 learn
 lest
+ludicrous
 버전
 버전으로
 이상이
@@ -3596,6 +3613,8 @@ growth를
 give
 gold
 gutter
+gerund
+grammatical
 GraphCast
 GPU
 Geostrophic
@@ -3848,6 +3867,8 @@ Conditions
 Compared
 Correlation
 Criteria
+Composition
+Choose
 Output
 OD
 OLL
@@ -4259,6 +4280,7 @@ MIT
 Madison
 Michigan
 ML도
+Make
 in
 iii
 iYp
@@ -4429,6 +4451,7 @@ idioms
 지속적
 지속적이지
 지정
+지양
 보내주신
 보통
 보임
@@ -4708,6 +4731,7 @@ Scale
 Stable
 Smooth
 Strunk
+Sandy
 순환
 순환을
 순환의
@@ -4761,6 +4785,8 @@ Strunk
 주자주에서는
 주는
 주기
+주절의
+주어를
 방정식
 방안
 방법
@@ -5064,6 +5090,7 @@ minimal
 making
 mimic하는
 method
+mind
 서풍에
 서로
 서버의
@@ -5086,6 +5113,7 @@ method
 전달하는
 전반적으로
 전용의
+전치사
 속도
 유발
 유도된
@@ -5203,6 +5231,7 @@ Wilde
 의미
 의외의
 의미없다는
+의미차이가
 극지방
 극향
 공기
@@ -5514,6 +5543,7 @@ PDE
 Procedure
 Perturbed
 Place
+Principles
 질량
 질서도
 질문하고
@@ -5836,6 +5866,8 @@ whittler
 wood
 was
 wreath
+writes
+write
 높이
 높은
 활성화
@@ -7421,6 +7453,7 @@ unlimited
 usually
 unconvinced
 undertaker
+unit
 DEEE
 DPP
 Dt
@@ -7697,6 +7730,8 @@ vectors
 vertically
 verification
 verb
+verb는
+voice
 qbRRRrr
 qZ
 ql
@@ -8547,6 +8582,7 @@ NA에
 분산
 분포된
 분할하여
+분사구문은
 두께
 두기
 두어야
@@ -8958,6 +8994,7 @@ NA에
 무엇인지
 무리가
 무관한
+무조건
 언어를
 언어의
 언어는
@@ -9262,6 +9299,7 @@ NA에
 리스트
 퇴근하고
 터질
+터무니
 넘어가기
 넘어가는
 깃허브
@@ -9314,3 +9352,5 @@ NA에
 붙이고
 명사들
 헌신적인
+겉보기엔
+똑같아보이지만
