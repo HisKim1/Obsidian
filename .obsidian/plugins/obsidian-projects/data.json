@@ -162,7 +162,13 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "author",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
           },
           "colors": {
             "conditions": []

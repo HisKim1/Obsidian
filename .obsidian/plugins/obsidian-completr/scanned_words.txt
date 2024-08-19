@@ -171,6 +171,9 @@ five
 forcible
 foul
 flow가
+function를
+formidable
+form
 name
 nYYYFF
 nOq
@@ -301,6 +304,9 @@ nearly
 neither
 nobody
 nominative
+new
+narration이나
+needless
 site
 status
 stratosphere에서
@@ -589,6 +595,19 @@ solution
 subspace의
 stationary
 strange
+shape
+success
+signal
+suggests
+simply
+statement
+show
+substituting
+she
+sorry
+said
+soon
+succession
 topic
 tags
 templete
@@ -764,6 +783,11 @@ transient
 trajectory
 transient가
 trajectories가
+transition
+take
+transition으로
+tame
+transitive
 aliases
 against
 and
@@ -964,6 +988,7 @@ attractor
 attraction을
 attractors
 abruptly
+advertising
 cssclasses
 considered
 cell
@@ -1219,6 +1244,22 @@ composition
 cond가
 comonents는
 change하는
+clearly
+chances
+commonly
+composition을
+concise
+comprehensive한
+commerce
+coverd
+crowing
+cock
+crow
+came
+college
+compelled
+concrete
+comprehensive
 Tool
 Troposphere에서
 Thermal
@@ -1365,6 +1406,7 @@ These
 Tiny
 Time
 Trajectory
+There
 Brief
 Bfloat
 Balance
@@ -1671,6 +1713,15 @@ determines
 design
 dimension
 dim은
+development
+direction
+description에서는
+details로
+display
+distracting
+dead
+dawn
+definite
 of
 ojjjii
 oJg
@@ -1806,6 +1857,7 @@ off
 objective
 origin
 orbits
+opening
 Reasoning
 Resources
 Residual
@@ -2099,6 +2151,7 @@ Austin
 Artificial
 Atmosepheric
 Attractor
+Avoid
 Link
 LOO
 LQWW
@@ -2419,6 +2472,13 @@ relationship을
 reminded
 relaxed
 refer
+relationship
+reached
+read
+rooster
+reason
+repented
+repent
 blog
 break
 breaking에
@@ -2575,6 +2635,9 @@ burial
 blunder
 beginning
 basins
+breaks
+bold
+became
 posts
 pf
 pss
@@ -2852,6 +2915,10 @@ preposition
 portion
 points
 periodic
+perceives
+paragraph가
+paragraph의
+perfunctory
 here
 host
 haa
@@ -2981,6 +3048,10 @@ heard
 half
 her
 hold
+helps
+his
+health
+him
 작업
 작동
 작업해보았는데
@@ -3012,6 +3083,8 @@ hold
 문제점으로
 문장을
 문장
+문장은
+문장이
 상황
 상위버전들이
 상승한
@@ -3199,6 +3272,11 @@ looeses
 learn
 lest
 ludicrous
+lively
+leaves
+leave
+language
+loose
 버전
 버전으로
 이상이
@@ -3290,6 +3368,7 @@ ludicrous
 구한
 구현
 구두점
+구성한다면
 가능한
 가능하다면
 가열
@@ -3306,6 +3385,7 @@ ludicrous
 가능할
 가지를
 가지
+가공할
 요청
 요소
 요지를
@@ -3651,6 +3731,7 @@ gold
 gutter
 gerund
 grammatical
+great
 GraphCast
 GPU
 Geostrophic
@@ -4008,6 +4089,7 @@ Ordinary
 Objective
 Oscar
 Orbit
+Omit
 Error
 Eddy
 EEE
@@ -4320,6 +4402,8 @@ Madison
 Michigan
 ML도
 Make
+More
+Many
 in
 iii
 iYp
@@ -4473,6 +4557,7 @@ interruption
 informal
 idioms
 indep
+impaired
 지난
 지표
 지속
@@ -4775,6 +4860,7 @@ Smooth
 Strunk
 Sandy
 Systems
+She
 순환
 순환을
 순환의
@@ -5136,6 +5222,7 @@ making
 mimic하는
 method
 mind
+made
 서풍에
 서로
 서버의
@@ -5592,6 +5679,8 @@ Perturbed
 Place
 Principles
 Predictability
+Paragraph
+Put
 질량
 질서도
 질문하고
@@ -5747,6 +5836,7 @@ Froecast
 Few
 Form
 Fundamental
+Failing
 초기
 초기화
 위치
@@ -5918,6 +6008,8 @@ was
 wreath
 writes
 write
+writer
+were
 높이
 높은
 활성화
@@ -7304,6 +7396,9 @@ either
 everyone
 everybody
 effect를
+exposition
+emphatic
+expression
 VAA
 VWWc
 VUU
@@ -7649,6 +7744,7 @@ DKE
 DKE의
 DKE도
 Difference
+Dead
 vm
 vLL
 vX
@@ -7786,6 +7882,7 @@ verb
 verb는
 voice
 variable
+vigorous
 qbRRRrr
 qZ
 ql
@@ -8181,6 +8278,7 @@ NA에
 만들어서
 만남이
 만일
+만한
 돌리면
 돌려
 돌아가게만
@@ -8210,6 +8308,8 @@ NA에
 말하면
 말할것도
 말하기
+말하지
+말고
 페이퍼
 산악학
 산출
@@ -8281,6 +8381,7 @@ NA에
 적어
 적어서
 적어도
+적당히
 바꾸면
 바꾸셈
 바꿔서
@@ -8597,6 +8698,7 @@ NA에
 진행해야
 진실이
 진행상황
+진행하기도
 저기압
 저장
 저장해둔
@@ -8859,6 +8961,7 @@ NA에
 나만
 나타남
 나타나지
+나누면
 운동량
 운동을
 운명이
@@ -8882,6 +8985,7 @@ NA에
 동일한
 동시에
 동격
+동명사
 반경
 반영하려면
 반복했을
@@ -8969,6 +9073,7 @@ NA에
 낮다
 표현하기
 표현
+표현해라
 찾을
 찾기
 찾아가기
@@ -9039,6 +9144,8 @@ NA에
 겪은
 간접
 간략한
+간결해진다
+간결한
 점들을
 점의
 점유하고
@@ -9306,6 +9413,7 @@ NA에
 종합한것과같이
 종관기상학
 종속된
+종합적인
 총적으로
 탕탕
 쾅쾅
@@ -9413,6 +9521,8 @@ NA에
 별로다
 붙이고
 명사들
+명시해야
 헌신적인
 겉보기엔
 똑같아보이지만
+뉘우치다
