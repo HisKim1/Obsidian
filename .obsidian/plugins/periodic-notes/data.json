@@ -1,12 +1,12 @@
 {
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
     "folder": "TODO",
     "template": "Templete/TODO",
-    "enabled": true
+    "enabled": false
   },
   "weekly": {
     "format": "",
@@ -17,7 +17,7 @@
     "format": "",
     "template": "Templete/Monthly Note.md",
     "folder": "TODO/Monthly",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "",
