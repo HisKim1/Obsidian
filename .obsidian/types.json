@@ -6,7 +6,6 @@
     "status": "multitext",
     "datetime": "date",
     "keyword": "multitext",
-    "when published": "date",
     "when_published": "date",
     "clock_in": "datetime",
     "clock_out": "datetime",

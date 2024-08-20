@@ -5,6 +5,18 @@
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
+      "basename": "The Elements of Style",
+      "path": "Books/The Elements of Style.md"
+    },
+    {
+      "basename": "Lorenz's three variable model is a dissipative system",
+      "path": "Books/Lorenz's three variable model is a dissipative system.md"
+    },
+    {
+      "basename": "담론, 신영복의 마지막 강의",
+      "path": "Books/담론, 신영복의 마지막 강의.md"
+    },
+    {
       "basename": "2024-08-20",
       "path": "TODO/2024-08-20.md"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "Lorenz's three variable model is a dissipative system",
-      "path": "Books/Lorenz's three variable model is a dissipative system.md"
-    },
-    {
-      "basename": "The Elements of Style",
-      "path": "Books/The Elements of Style.md"
     },
     {
       "basename": "GraphCast Butterfly Effect Test",

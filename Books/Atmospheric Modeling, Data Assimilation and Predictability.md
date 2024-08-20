@@ -19,29 +19,39 @@ $$\displaystyle\begin{cases}
 	nonlinear & autonomous system
 	init cond ($\sigma, b, r$) sensitively dep $\rightarrow$ chaotic solution
 
-- Phase space
-	solution space
-	dimension = # of indep variables
-	dim of the attractor; init transient period 이후 방문한 subspace의 dim은 더 작다
+##### Phase space
+solution space
+dimension = # of indep variables
+dim of the attractor; init transient period 이후 방문한 subspace의 dim은 더 작다
+##### Trajectory or Orbit
+init cond가 주어졌을 때의 solution in Phase space
+##### Transient
+initial portion of the trajectory
+##### Attractor
+transient가 끝나고 trajectories가 계속 접근하는 set of points
+각 components는 basins of attraction을 갖음
+- stationary points^[equilibrium or steady state solutions of the dynamical squations]
+- periodic orbits
+- strange attractors^[can include periodic orbits]
+##### Bifurcation point
+flow가 abruptly change하는 지점
 
-- Trajectory or Orbit
-	init cond가 주어졌을 때의 solution in Phase space
+$$\displaystyle\begin{cases}
+\text{stable sol.: bounded, }\forall t, \forall \text{sol. stay close to it}\\
+\qquad \Rightarrow \text{periodic or at least almost periodic}\\
+\\
+\text{unstable sol.: very close two trajectories } \rightarrow \text{completely diverge}\\
+\qquad \Rightarrow \text{not periodic or almost periodic}
+\end{cases}$$
 
-- Transient
-	initial portion of the trajectory
-
-- Attractor
-	transient가 끝나고 trajectories가 계속 접근하는 set of points
-	각 components는 basins of attraction을 갖음
-	- stationary points^[equilibrium or steady state solutions of the dynamical squations]
-	- periodic orbits
-	- strange attractors^[can include periodic orbits]
-
-- Bifurcation point
-	flow가 abruptly change하는 지점
-
-
-
+##### Lyapunove exponent 
+Measures sensitivity to initial conditions in dynamical systems
+$\rightarrow$ dynamical system of $n$-variables의 long-term stability
+	$\exists \lambda_i >0$ : chaotic behavior
+	$\forall i, \lambda_i \leq 0$ : stable system
+$$\displaystyle\Rightarrow \quad \begin{cases}
+\sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
+\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$
 
 
 ### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors

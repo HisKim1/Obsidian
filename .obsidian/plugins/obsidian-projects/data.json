@@ -158,11 +158,23 @@
               "path": {
                 "hide": true
               }
-            }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "author",
+              "datetime"
+            ]
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "author",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -173,6 +185,28 @@
           "id": "0a3e150e-5afc-47a0-84c2-2747ba62595f",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "author",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2556bd77-4211-4026-9340-d58c1c728527",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "43e50515-6298-46c8-b93e-4a3ccdd9428e",
