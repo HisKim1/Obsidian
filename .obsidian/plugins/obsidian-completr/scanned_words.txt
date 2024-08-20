@@ -253,6 +253,7 @@ five
 forcible
 foul
 flow가
+finite
 name
 nYYYFF
 nOq
@@ -5523,6 +5524,7 @@ gold
 gutter
 gerund
 grammatical
+growth는
 GraphCast
 GPU
 Geostrophic
@@ -6901,6 +6903,8 @@ interruption
 informal
 idioms
 indep
+instability로
+ineveitably
 지난
 지표
 지속
@@ -11470,6 +11474,7 @@ effect를
 exponent
 evolving
 early
+estimated
 VAA
 VWWc
 VUU
