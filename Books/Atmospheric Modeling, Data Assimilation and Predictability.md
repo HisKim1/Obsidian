@@ -53,5 +53,6 @@ $$\displaystyle\Rightarrow \quad \begin{cases}
 \sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
 \sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$
 
-
 ### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
+이런 저런 방법으로 여러 모델들을 만들었다.
+> He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.

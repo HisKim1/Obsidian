@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "Books/Lorenz's three variable model is a dissipative system.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+                "file": "Books/Lorenz's three variable model is a dissipative system.md"
               }
             }
           },
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "Books/Lorenz's three variable model is a dissipative system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "Books/Lorenz's three variable model is a dissipative system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +199,12 @@
   },
   "active": "95426c1dc378aab2",
   "lastOpenFiles": [
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Books/The Elements of Style.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "TODO/2024-08-20.md",
     "TODO/2024-08-19.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-09-06.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-08-06.md",
