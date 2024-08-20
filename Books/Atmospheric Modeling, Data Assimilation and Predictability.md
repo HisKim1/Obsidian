@@ -43,6 +43,8 @@ $$\displaystyle\begin{cases}
 \text{unstable sol.: very close two trajectories } \rightarrow \text{completely diverge}\\
 \qquad \Rightarrow \text{not periodic or almost periodic}
 \end{cases}$$
+periodic motion bifurcation $\rightarrow$ periodic doubling $\rightarrow$ sequence of period doubling bifurcation $\rightarrow$ chaotic behavior
+
 
 ##### Lyapunov exponent 
 Measures sensitivity to initial conditions in dynamical systems
