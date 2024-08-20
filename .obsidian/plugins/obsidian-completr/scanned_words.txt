@@ -859,6 +859,7 @@ stationary
 strange
 sensitivity
 stable
+sequence
 topic
 tags
 templete
@@ -2529,6 +2530,7 @@ dimension
 dim은
 divergence와
 depends
+doubling
 of
 ojjjii
 oJg
@@ -3979,6 +3981,7 @@ blunder
 beginning
 basins
 behavior
+bifurcation
 posts
 pf
 pss
@@ -11466,6 +11469,7 @@ everybody
 effect를
 exponent
 evolving
+early
 VAA
 VWWc
 VUU

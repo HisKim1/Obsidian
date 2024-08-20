@@ -60,3 +60,6 @@ $$\displaystyle\Rightarrow \quad \begin{cases}
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
 
 ### 6.4 | Ensemble forecasting: early studies
+instability로 인한 error growth는 ineveitably lead to a total loss of skill in the weather forecasts after a finite forecast length.
+> Lorenz estimated this limit of weather predictability as about two weeks.
+

@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -199,11 +199,11 @@
   },
   "active": "95426c1dc378aab2",
   "lastOpenFiles": [
-    "Books/Lorenz's three variable model is a dissipative system.md",
+    "TODO/2024-08-20.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "Books/Lorenz's three variable model is a dissipative system.md",
     "Books/The Elements of Style.md",
     "Books/담론, 신영복의 마지막 강의.md",
-    "TODO/2024-08-20.md",
     "TODO/2024-08-19.md",
     "TODO/2024-09-06.md",
     "conflict-files-obsidian-git.md",
