@@ -7,7 +7,7 @@ datetime: 2024-08-19
 ### 6.1 | Introduction to atmospheric predictability
 어쩌다 Lorenz가 butterfly effect를 발견하게 되었는가에 대한 간략한 story-telling
 
-### 6.2 | Brief Review of Fundamental Concepts about Chaotic Systems
+### 6.2 | Brief review of fundamental concepts about chaotic systems
 ##### Lorenz's three-variable model
 $$\displaystyle\begin{cases}
 \dfrac{x}{t}=\sigma(y-x)\\
@@ -32,10 +32,16 @@ $$\displaystyle\begin{cases}
 
 - Attractor
 	transient가 끝나고 trajectories가 계속 접근하는 set of points
-	각 comonents는 basins of attraction을 갖음
+	각 components는 basins of attraction을 갖음
 	- stationary points^[equilibrium or steady state solutions of the dynamical squations]
 	- periodic orbits
 	- strange attractors^[can include periodic orbits]
 
 - Bifurcation point
 	flow가 abruptly change하는 지점
+
+
+
+
+
+### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
