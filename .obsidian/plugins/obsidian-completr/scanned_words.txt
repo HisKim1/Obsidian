@@ -1784,6 +1784,7 @@ comonents는
 change하는
 concepts
 components는
+constant
 Tool
 Troposphere에서
 Thermal
@@ -2527,6 +2528,7 @@ design
 dimension
 dim은
 divergence와
+depends
 of
 ojjjii
 oJg
@@ -4361,6 +4363,7 @@ proof
 portion
 points
 periodic
+pointed
 here
 host
 haa
@@ -4953,6 +4956,7 @@ lest
 이용
 이를
 이해하기
+이런
 필요함
 필요한
 필요
@@ -7001,6 +7005,7 @@ indep
 모델과
 모델명
 모음
+모델들을
 최신
 최소한으로만
 최소한
@@ -7349,6 +7354,7 @@ Systems
 방식을
 방문한
 방정식에
+방법으로
 강제력이
 강화
 강화된
@@ -11459,6 +11465,7 @@ everyone
 everybody
 effect를
 exponent
+evolving
 VAA
 VWWc
 VUU
@@ -12986,6 +12993,7 @@ NA에
 만들어서
 만남이
 만일
+만들었다
 돌리면
 돌려
 돌아가게만
@@ -13418,6 +13426,7 @@ NA에
 저장되어
 저건
 저장하는
+저런
 경로
 경계층
 경험의

@@ -44,7 +44,7 @@ $$\displaystyle\begin{cases}
 \qquad \Rightarrow \text{not periodic or almost periodic}
 \end{cases}$$
 
-##### Lyapunove exponent 
+##### Lyapunov exponent 
 Measures sensitivity to initial conditions in dynamical systems
 $\rightarrow$ dynamical system of $n$-variables의 long-term stability
 	$\exists \lambda_i >0$ : chaotic behavior
@@ -56,3 +56,5 @@ $$\displaystyle\Rightarrow \quad \begin{cases}
 ### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
 이런 저런 방법으로 여러 모델들을 만들었다.
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
+
+### 6.4 | Ensemble forecasting: early studies
