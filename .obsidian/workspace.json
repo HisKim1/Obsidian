@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-19.md",
+                "file": "TODO/2024-08-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-19.md",
+                "file": "TODO/2024-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-19.md",
+                "file": "TODO/2024-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-19.md"
+                "file": "TODO/2024-08-21.md"
               }
             }
           }
@@ -197,8 +197,10 @@
   },
   "active": "55be52925ec904c2",
   "lastOpenFiles": [
-    "Books/The Elements of Style.md",
     "TODO/2024-08-19.md",
+    "TODO/2024-08-21.md",
+    "Test/GraphCast Butterfly Effect Test.md",
+    "Books/The Elements of Style.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-09-06.md",
@@ -212,7 +214,6 @@
     "TODO/2024-08-16.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "TODO/2024-08-14.md",
-    "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-08-07.md",
     "GraphCast/Task/Task.md",
     "Test/Untitled.canvas",
@@ -223,7 +224,6 @@
     "Papers/@WMO, 2012.md",
     "Papers/@ECMWF, 2021.md",
     "Papers/@M. Bonavita, 2024.md",
-    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
-    "Papers/@J. Kidston, et al., 2015.md"
+    "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
   ]
 }

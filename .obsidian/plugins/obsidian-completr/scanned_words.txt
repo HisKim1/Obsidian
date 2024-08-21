@@ -788,6 +788,8 @@ take
 transition으로
 tame
 transitive
+train
+tuned
 aliases
 against
 and
@@ -1858,6 +1860,7 @@ objective
 origin
 orbits
 opening
+operational에
 Reasoning
 Resources
 Residual
@@ -3052,6 +3055,7 @@ helps
 his
 health
 him
+h을
 작업
 작동
 작업해보았는데
@@ -3386,6 +3390,7 @@ loose
 가지를
 가지
 가공할
+가기
 요청
 요소
 요지를
@@ -3420,6 +3425,7 @@ loose
 사용하려
 사용함
 사용되지
+사용해야
 기존
 기후에
 기후
@@ -8349,6 +8355,7 @@ NA에
 받은
 받는다
 받음
+받으러
 더해서
 더이상
 생산
@@ -8883,6 +8890,7 @@ NA에
 완료
 완료된
 완전한
+완료하기
 걸로
 걸어온
 걸쳐서
@@ -8893,6 +8901,7 @@ NA에
 합성
 합니다
 합치기
+합성까지
 선택해서
 선이
 선행
@@ -8974,6 +8983,7 @@ NA에
 포착하고
 포장하기
 포함될
+포함된
 동서
 동일
 동화
@@ -9525,4 +9535,5 @@ NA에
 헌신적인
 겉보기엔
 똑같아보이지만
+똑같은
 뉘우치다
