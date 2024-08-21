@@ -175,6 +175,8 @@ function를
 formidable
 form
 finite
+form으로
+forgot
 name
 nYYYFF
 nOq
@@ -308,6 +310,9 @@ nominative
 new
 narration이나
 needless
+negative라도
+never
+noncommittal
 site
 status
 stratosphere에서
@@ -611,6 +616,7 @@ soon
 succession
 sequence
 sensitivity
+strong하다
 topic
 tags
 templete
@@ -793,6 +799,8 @@ tame
 transitive
 train
 tuned
+trifling
+tell하게
 aliases
 against
 and
@@ -995,6 +1003,12 @@ attractors
 abruptly
 advertising
 adjoint
+antithesis로만
+attention
+auxiliaries들은
+authority
+arouse
+auxiliary
 cssclasses
 considered
 cell
@@ -1269,6 +1283,7 @@ comprehensive
 concepts
 components는
 constant
+concise한
 Tool
 Troposphere에서
 Thermal
@@ -1736,6 +1751,13 @@ divergence와
 doubling
 depends
 dynamic
+denial
+dishonest
+did
+distruste
+doubt
+doubtless
+debilitate
 of
 ojjjii
 oJg
@@ -2942,6 +2964,8 @@ paragraph의
 perfunctory
 proof
 pointed
+pay
+prose
 here
 host
 haa
@@ -3076,6 +3100,8 @@ his
 health
 him
 h을
+honest
+hastily
 작업
 작동
 작업해보았는데
@@ -3302,6 +3328,7 @@ leaves
 leave
 language
 loose
+loveliness
 버전
 버전으로
 이상이
@@ -3763,6 +3790,7 @@ gerund
 grammatical
 great
 growth는
+grin
 GraphCast
 GPU
 Geostrophic
@@ -4594,6 +4622,8 @@ indep
 impaired
 instability로
 ineveitably
+ignored
+irresolute
 지난
 지표
 지속
@@ -4614,6 +4644,7 @@ ineveitably
 지정
 지양
 지점
+지우고
 보내주신
 보통
 보임
@@ -4625,6 +4656,7 @@ ineveitably
 보겠다
 보았다
 보여주고
+보조의
 대로
 대기
 대신에
@@ -4672,6 +4704,7 @@ ineveitably
 쓰기
 쓰임
 쓰이더라
+쓰지
 되는지
 되더라
 되었는지
@@ -4981,6 +5014,7 @@ Stochastic
 강의에서는
 강의의
 강력한
+강제적인
 zonal
 zh
 zz
@@ -5264,6 +5298,9 @@ method
 mind
 made
 members에
+much
+might
+man
 서풍에
 서로
 서버의
@@ -5422,6 +5459,7 @@ Wilde
 단순한
 단수형
 단복수
+단어
 냉각
 야기
 야기한
@@ -5578,6 +5616,7 @@ HjZDmFSZ
 HR이
 HEAD
 Hamiltonian
+Her
 즉시
 Pressure
 PNG
@@ -6051,12 +6090,17 @@ writes
 write
 writer
 were
+words는
+words를
+writing을
+word
 높이
 높은
 활성화
 활동
 활용
 활용할
+활짝
 장기
 장소에
 장이
@@ -6700,6 +6744,7 @@ kXbccfos
 known
 kinetic
 knife
+knew
 xxxnn
 xh
 xU
@@ -7444,6 +7489,7 @@ exponent
 evolving
 early
 estimated
+evation으로
 VAA
 VWWc
 VUU
@@ -7931,6 +7977,7 @@ vigorous
 volume
 variables의
 vecotrs
+vague
 qbRRRrr
 qZ
 ql
@@ -8348,6 +8395,8 @@ NA에
 불러오거나
 불러들인
 불가
+불필요한
+불러일으키다
 처음
 처리
 말한
@@ -8362,6 +8411,7 @@ NA에
 페이퍼
 산악학
 산출
+산문
 얘를
 얘만
 추가했을까
@@ -8505,6 +8555,7 @@ NA에
 하여
 하나의
 하나가
+하려면
 것보다
 것인가
 것이
@@ -8579,6 +8630,7 @@ NA에
 자존심입니다
 자음
 자리에
+자극하다
 화려한
 수식
 수송을
@@ -8646,6 +8698,7 @@ NA에
 아닙니다
 아님
 아닌지
+아닌
 거야
 거니와
 거바
@@ -8682,6 +8735,7 @@ NA에
 성능
 성능이
 성현이형
+성급하게
 형성돼
 형성된
 형식이
@@ -8793,6 +8847,7 @@ NA에
 분포된
 분할하여
 분사구문은
+분발하게
 두께
 두기
 두어야
@@ -8886,6 +8941,7 @@ NA에
 조금이나마
 조정할
 조항
+조동사
 우리가
 우선
 우리의
@@ -9341,6 +9397,7 @@ NA에
 줄은
 줄인다
 줄면
+줄이자
 키워드
 했습니다
 했어요
@@ -9444,6 +9501,7 @@ NA에
 즈음하여
 힘이
 힘입어
+힘찬
 너희
 너희들
 너무
@@ -9537,6 +9595,7 @@ NA에
 꾸미는
 띠고
 뜻입니다
+뜻이
 법이다
 법이라고
 먼저
@@ -9582,3 +9641,7 @@ NA에
 똑같아보이지만
 똑같은
 뉘우치다
+쇠약하게
+웃다
+웃음
+애매한

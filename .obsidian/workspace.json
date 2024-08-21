@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b35da7b5d9d6fe67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -182,8 +190,8 @@
   },
   "active": "67086563a77f3078",
   "lastOpenFiles": [
-    "TODO/2024-08-21.md",
     "Books/The Elements of Style.md",
+    "TODO/2024-08-21.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "Books/Lorenz's three variable model is a dissipative system.md",

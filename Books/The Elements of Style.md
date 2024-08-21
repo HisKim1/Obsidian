@@ -114,14 +114,51 @@ $\Rightarrow$ She soon repented her words.
 돌려 말하지 말고 직접 표현해라
 
 ##### 15. Put statements in positive form.
+*not*을 evation으로 쓰지 마라
+denial or antithesis로만 써라
+
+negative라도 positive form으로 쓰는 게 더 낫다
+**e.g.**
+not honest $\rightarrow$ dishonest
+not important $\rightarrow$ trifling
+did not remember $\rightarrow$ forgot
+did not pay any attention to $\rightarrow$ ignored
+did not have much confidence in $\rightarrow$ distruste
+
+*not*이 아닌 다른 negative words는 strong하다
+**e.g.** Her **loveliness** I never knew
+
+auxiliaries들은 irresolute, lack of authority, uncertainty. 줄이자.
+**e.g.** *would, should, could, may, might, can*
 
 ##### 16. Use definite, specific, concrete language.
+specific > general, definite > vague, concrete > abstract
+$\Rightarrow$ definite details, concrete words를 써라
 
 ##### 17. Omit needless words.
+concise한 vigorous writing을 하려면 불필요한 단어, 문장 다 지우고 every word tell하게 해야 한다.
+**e.g.**
+there is no doubt but that $\rightarrow$ no doubt (doubtless)
+he is a man who $\rightarrow$ he
+this is a subject that $\rightarrow$ this subject
+the reason why is that $\rightarrow$ because
+
+*the fact that*은 debilitating expression $\rightarrow$ 다 바꿔야 함
+예시 참조
 
 ##### 18. Avoid a succession of loose sentences.
+clause 2개, 22nd는 conjunctiond이나 relative로 시작하는 loose sentences에서
 
 ---
+superfluous 더 이상 필요하지 않은
+debilitate 쇠약하게 하다
+hastily 성급하게
+prose 산문
+arouse 불러일으키다, 자극하다, 분발하게 하다
+grin 활짝 웃다, 활짝 웃음
+forcible 강제적인, 힘찬
+noncommittal 뜻이 애매한
+auxiliary 조동사, 보조의
 repent 뉘우치다
 comprehensive 종합적인
 concise 간결한
