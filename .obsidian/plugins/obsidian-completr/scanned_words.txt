@@ -1787,6 +1787,7 @@ change하는
 concepts
 components는
 constant
+covariance
 Tool
 Troposphere에서
 Thermal
@@ -2532,6 +2533,8 @@ dim은
 divergence와
 depends
 doubling
+dynamic
+dbVp
 of
 ojjjii
 oJg
@@ -3983,6 +3986,7 @@ beginning
 basins
 behavior
 bifurcation
+bet
 posts
 pf
 pss
@@ -5525,6 +5529,7 @@ gutter
 gerund
 grammatical
 growth는
+gxMwp
 GraphCast
 GPU
 Geostrophic
@@ -5946,6 +5951,7 @@ Composition
 Choose
 Chaotic
 C는
+Carlo
 Output
 OD
 OLL
@@ -6654,6 +6660,7 @@ Msc
 MozS
 Make
 Measures
+Monte
 in
 iii
 iYp
@@ -7292,6 +7299,7 @@ SJQ
 Strunk
 Sandy
 Systems
+Stochastic
 순환
 순환을
 순환의
@@ -7820,6 +7828,7 @@ mdd
 mimic하는
 method
 mind
+members에
 서풍에
 서로
 서버의
@@ -12118,6 +12127,7 @@ DCBb
 Doo
 DMb
 Difference
+DACtk
 vm
 vLL
 vX
@@ -12535,6 +12545,7 @@ qyW
 qmC
 qQxj
 quotation
+qMJR
 ZZ
 Zi
 ZQQ
