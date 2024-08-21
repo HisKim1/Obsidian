@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a836ba7c192ace2f",
+        "id": "79c84fa4b8aaf15e",
         "type": "tabs",
         "children": [
           {
-            "id": "71aab821350de672",
+            "id": "67086563a77f3078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-19.md",
+                "file": "TODO/2024-08-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "55be52925ec904c2",
+            "id": "dd6c4aa12ac1590d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-21.md",
-                "mode": "source",
+                "file": "TODO/2024-08-19.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e8b488226acf38e8",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-21.md",
+                "file": "TODO/2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-21.md",
+                "file": "TODO/2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-21.md"
+                "file": "TODO/2024-08-19.md"
               }
             }
           }
@@ -195,14 +194,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "55be52925ec904c2",
+  "active": "dd6c4aa12ac1590d",
   "lastOpenFiles": [
-    "TODO/2024-08-19.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-08-21.md",
+    "How to apply Multiprocessing in my tasks.md",
+    "TODO/2024-08-19.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "Books/The Elements of Style.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-    "conflict-files-obsidian-git.md",
     "TODO/2024-09-06.md",
     "TODO/2024-08-20.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
@@ -222,8 +223,6 @@
     "GraphCast/Task/GraphCast GFS by NOAA.md",
     "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
     "Papers/@WMO, 2012.md",
-    "Papers/@ECMWF, 2021.md",
-    "Papers/@M. Bonavita, 2024.md",
-    "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
+    "Papers/@ECMWF, 2021.md"
   ]
 }

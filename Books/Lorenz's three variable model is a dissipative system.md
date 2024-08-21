@@ -1,3 +1,7 @@
+---
+{}
+---
+
 # proof
 ### Divergence of the flow
 $$\dfrac{\partial \dot{x}}{\partial x} + \dfrac{\partial \dot{y}}{\partial y} + \dfrac{\partial \dot{z}}{\partial z} = -(\sigma + b + 1)$$

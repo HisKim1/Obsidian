@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-19",
+      "path": "TODO/2024-08-19.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2024-08-21",
       "path": "TODO/2024-08-21.md"
     },
     {
-      "basename": "2024-08-19",
-      "path": "TODO/2024-08-19.md"
+      "basename": "How to apply Multiprocessing in my tasks",
+      "path": "How to apply Multiprocessing in my tasks.md"
     },
     {
       "basename": "GraphCast Butterfly Effect Test",
@@ -79,10 +87,6 @@
     {
       "basename": "@J. Kidston, et al., 2015",
       "path": "Papers/@J. Kidston, et al., 2015.md"
-    },
-    {
-      "basename": "How to apply Multiprocessing in my tasks",
-      "path": "How to apply Multiprocessing in my tasks.md"
     }
   ],
   "omittedPaths": []
