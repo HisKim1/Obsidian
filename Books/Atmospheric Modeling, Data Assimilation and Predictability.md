@@ -66,3 +66,8 @@ instability로 인한 error growth는 ineveitably lead to a total loss of skill 
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw]]
 
 ###### 6.4.1 | Stochastic-dynamic forecasting
+
+###### 6.4.2 | Monte Carlo forecasting
+$m$-members에 initial bet estimate $\hat{\mathbf{u}} + \mathbf{r}_i$ 
+
+$\langle \mathbf{r}\mathbf{r}^T \rangle = \mathbf{P}_a$ 
