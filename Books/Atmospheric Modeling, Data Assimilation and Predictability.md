@@ -63,7 +63,7 @@ $$\displaystyle\Rightarrow \quad \begin{cases}
 instability로 인한 error growth는 ineveitably lead to a total loss of skill in the weather forecasts after a finite forecast length.
 > Lorenz estimated this limit of weather predictability as about two weeks.
 
-![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw]]
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw|700]]
 
 ###### 6.4.1 | Stochastic-dynamic forecasting
 
