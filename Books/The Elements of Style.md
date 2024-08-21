@@ -114,6 +114,7 @@ $\Rightarrow$ She soon repented her words.
 돌려 말하지 말고 직접 표현해라
 
 ##### 15. Put statements in positive form.
+
 ##### 16. Use definite, specific, concrete language.
 
 ##### 17. Omit needless words.
