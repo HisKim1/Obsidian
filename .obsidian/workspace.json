@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Elements of Style.md"
+                "file": "TODO/2024-08-22.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   "active": "67086563a77f3078",
   "lastOpenFiles": [
     "Books/The Elements of Style.md",
+    "TODO/2024-08-22.md",
     "TODO/2024-08-21.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Books/담론, 신영복의 마지막 강의.md",
@@ -216,7 +217,6 @@
     "Test",
     "GraphCast/Task/GraphCast GFS by NOAA.md",
     "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
-    "Papers/@WMO, 2012.md",
-    "Papers/@ECMWF, 2021.md"
+    "Papers/@WMO, 2012.md"
   ]
 }

@@ -177,6 +177,7 @@ form
 finite
 form으로
 forgot
+fact
 name
 nYYYFF
 nOq
@@ -313,6 +314,7 @@ needless
 negative라도
 never
 noncommittal
+nd는
 site
 status
 stratosphere에서
@@ -617,6 +619,8 @@ succession
 sequence
 sensitivity
 strong하다
+sentences에서
+superfluous
 topic
 tags
 templete
@@ -1284,6 +1288,7 @@ concepts
 components는
 constant
 concise한
+conjunctiond이나
 Tool
 Troposphere에서
 Thermal
@@ -1758,6 +1763,7 @@ distruste
 doubt
 doubtless
 debilitate
+debilitating
 of
 ojjjii
 oJg
@@ -2519,6 +2525,7 @@ repented
 repent
 rate의
 review
+relative로
 blog
 break
 breaking에
@@ -3382,6 +3389,7 @@ loveliness
 필요함
 필요한
 필요
+필요하지
 해당
 해두는
 해면기압
@@ -8497,6 +8505,7 @@ NA에
 바뀌면
 바뀌어야
 바뀌었을
+바꿔야
 학습하는
 학술
 학자들이
@@ -8785,6 +8794,7 @@ NA에
 시간대를
 시간대
 시도하다
+시작하는
 온도
 온위의
 온도가
