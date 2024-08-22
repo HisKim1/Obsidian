@@ -158,4 +158,6 @@ scaled lagged average forecasting
 	*control* $\pm$ perturbation
 3) *ensemble average*, $\mathbf{A}$
 4) *true evolution* of the atmosphere, $\mathbf{T}$
-![[Pasted image 20240822165849.png|400]]
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw|600]]
+(a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}랑 가까워
+(b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$  ststematic error

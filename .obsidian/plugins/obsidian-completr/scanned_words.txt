@@ -1182,6 +1182,7 @@ thatn
 tempering
 tau
 tainted
+truth에
 aliases
 against
 and
@@ -1484,6 +1485,7 @@ auxiliaries들은
 authority
 arouse
 auxiliary
+adc
 cssclasses
 considered
 cell
@@ -4110,6 +4112,8 @@ bet
 breaks
 bold
 became
+bad
+bcbeb
 posts
 pf
 pss
@@ -5684,6 +5688,7 @@ growth는
 gxMwp
 great
 grin
+gNSpaFpU
 GraphCast
 GPU
 Geostrophic
@@ -6593,6 +6598,7 @@ Effect를
 Elementary
 Enclose
 Eugenia
+Embedded
 Message
 Mean
 MJJ
@@ -8973,6 +8979,7 @@ FKk
 Form
 Fundamental
 Failing
+Files
 초기
 초기화
 위치
@@ -10579,6 +10586,7 @@ xST
 xdLxn
 xbQ
 xrightarrow
+xASD
 JKjj
 JJJP
 JL
@@ -10976,6 +10984,7 @@ YOm
 YdT
 YSZh
 Ycg
+YRK
 Kx
 KAA
 KMM

@@ -20,6 +20,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a808f97c8e87762",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md"
+              }
+            }
           }
         ]
       },
@@ -205,11 +215,16 @@
   },
   "active": "ee30505f98da6a18",
   "lastOpenFiles": [
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "File/Pasted Image 20240822170027_223.png",
+    "File/Pasted Image 20240822170027_218.png",
+    "File/Pasted Image 20240822170007_201.png",
+    "File/Pasted Image 20240822165952_191.png",
     "File/Pasted image 20240822165849.png",
     "File/Pasted image 20240822165733.png",
     "File/Pasted image 20240822165643.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-08-22.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "TODO/2024-08-23.md",
@@ -232,14 +247,11 @@
     "TODO/2024-08-16.md",
     "TODO/2024-08-17.md",
     "TODO/2024-08-18.md",
-    "Papers/Hierarchical Temporal Aggregation, HTA.md",
     "Test/Untitled.canvas",
     "Test",
     "File/Pasted image 20240731110643.png",
     "File/Pasted image 20240731110640.png",
     "File/Pasted image 20240805095841.png",
-    "File/Pasted image 20240814153603.png",
-    "File/Pasted image 20240802130028.png",
     "TODO/Monthly"
   ]
 }
