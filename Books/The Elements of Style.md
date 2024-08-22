@@ -155,7 +155,14 @@ loose sentences가 too compact, periodic, formal해지지 않게 예방해주지
 ##### 19. Express coordinate ideas in similar form.
 > When repeating a statement to emphasize it, the writer may need to vary its form. Otherwise, the writer should follow the principle of parallel construction.
 
+형태 똑같이 적을 때 article (관사), preposition 놓치지 말고 다 챙겨야 함
+형태가 잘 안 맞춰진다면 문장 순서를 바꾸면 됨
+**e.g.** 
+It was both a long ceremony and very tedious. 
+$\rightarrow$ The ceremony was both long and tedious.
+
 ##### 20. Keep related words together.
+
 
 ##### 21. In summaries, keep to one tense.
 
