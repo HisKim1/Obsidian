@@ -72,10 +72,12 @@ instability로 인한 error growth는 ineveitably lead to a total loss of skill 
 $\mathbf{u}_0$ : true state of the atmosphere
 $\hat{\mathbf{u}}$ : unbiased estimate of $\mathbf{u}_0 \rightarrow \langle\hat{u}\rangle = 0$ 
 
-**Background)** climatological forecast error covariance
+**Background)** 
+climatological forecast error covariance
 $$\begin{align*}
 \langle (0-\mathbf{u}_0)(0-\mathbf{u}_0)^T\rangle &= \langle\mathbf{u}_0\mathbf{u}_0^T\rangle\\ &=\mathbf{U}\end{align*}$$
-**Case 1)** single forecast error covariance
+**Case 1)** 
+single forecast error covariance
 $$\begin{align}
 \langle (\hat{\mathbf{u}}-\mathbf{u}_0)(\hat{\mathbf{u}}-\mathbf{u}_0)^T \rangle &= \langle (\hat{\mathbf{u}}\hat{\mathbf{u}}^T + \mathbf{u}_0\mathbf{u}_0^T - \hat{\mathbf{u}}\mathbf{u}_0^T - \mathbf{u}_0\hat{\mathbf{u}}^T) \rangle \\
 &= \langle \hat{\mathbf{u}}\hat{\mathbf{u}}^T \rangle + \langle \mathbf{u}_0\mathbf{u}_0^T \rangle - \langle \hat{\mathbf{u}}\mathbf{u}_0^T \rangle - \langle \mathbf{u}_0\hat{\mathbf{u}}^T \rangle \\
@@ -83,7 +85,8 @@ $$\begin{align}
 &= \mathbf{U} + \mathbf{U}\quad (\because\text{unbiased model }\rightarrow \mathbb{E}[\hat{\mathbf{u}}\hat{\mathbf{u}}^T ]\simeq \mathbb{E}[\mathbf{u}_0\mathbf{u}_0^T])\\
 &= 2\mathbf{U}
 \end{align}$$
-**Case 2)** regression forecast
+**Case 2)** 
+regression forecast
 $$ \begin{align}
 \hat{u}_0 &= \hat{u}A \\
 \text{s.t.} \quad \min \varepsilon^T\varepsilon &= \min \langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle \end{align}$$ where $A$: const. reg. coeff. matrix 
@@ -93,7 +96,8 @@ $$ \varepsilon^T\varepsilon = (y-XA)^T(y-XA) $$ $$\begin{align}
 &= -2X^T(y-XA)\\ &= 0 \\ 
 \Rightarrow 2X^Ty &= 2X^TXA \end{align}$$ $$ \therefore A = (X^TX)^{-1}X^Ty = X^\dagger y $$$$\Rightarrow A = \langle \hat{u}^T\hat{u} \rangle^{-1} \langle \hat{u}^Tu_0 \rangle \quad (\because u_0 \sim y, \hat{u} \sim X)$$but matrix size $\uparrow$ $\Rightarrow$ computational cost $\uparrow$
 
-**Case 3)** ensemble forecast error covariance
+**Case 3)** 
+ensemble forecast error covariance
 $\mathbf{r_i}$: perturbation
 $\hat{\mathbf{u}}$: init best estimate
 $\displaystyle\overline{u} := \frac{1}{m} \sum u_i$: avg of ensemble $m$ forecasts
