@@ -76,6 +76,10 @@ $\hat{\mathbf{u}}$ : unbiased estimate of $\mathbf{u}_0 \rightarrow \langle\hat{
 climatological forecast error covariance
 $$\begin{align*}
 \langle (0-\mathbf{u}_0)(0-\mathbf{u}_0)^T\rangle &= \langle\mathbf{u}_0\mathbf{u}_0^T\rangle\\ &=\mathbf{U}\end{align*}$$
+> Since forecasts lose their skill at longer lead times, and individual forecasts eventually are further away from the verification thatn the climatology, <font color="#00e676">optimal estimation of the verification is equivalent to tempering</font> (i.e., hedging the forecast towards climatology).
+
+$\Rightarrow$ forecast error covariance를 최대한 $\mathbf{U}$에 가깝게 만들어보자
+
 **Case 1)** 
 single forecast error covariance
 $$\begin{align}
@@ -101,24 +105,21 @@ ensemble forecast error covariance
 $\mathbf{r_i}$: perturbation
 $\hat{\mathbf{u}}$: init best estimate
 $\displaystyle\overline{u} := \frac{1}{m} \sum u_i$: avg of ensemble $m$ forecasts
+$m$: # of ensemble
 
 initial error cov: $P_0 = \langle rr^T \rangle$ (in practice !measurable $\rightarrow$ approx.)
 $$\displaylines{\begin{align}
-\langle (\overline{u} - u_0)(\overline{u} - u_0)^T \rangle 
-&= \langle \overline{u}\overline{u}^T + u_0u_0^T - \overline{u}u_0^T - u_0\overline{u}^T \rangle \\
+\langle (\overline{u} - u_0)(\overline{u} - u_0)^T \rangle &= \langle \overline{u}\overline{u}^T + u_0u_0^T - \overline{u}u_0^T - u_0\overline{u}^T \rangle \\
 &= \langle \overline{u}\overline{u}^T \rangle + \langle u_0u_0^T \rangle - \langle \overline{u}u_0^T \rangle - \langle u_0\overline{u}^T \rangle \\
-&\xrightarrow{t \to \infty} \frac{m}{m^2}U + U + 0 + 0 \quad(\because \text{same reason with Case 1})
-\\ &= (1+\frac{1}{m})U
+&\xrightarrow{t \to \infty} \frac{m}{m^2}U + U + 0 + 0 \quad(\because \text{same reason with Case 1})\\ 
+&= (1+\frac{1}{m})U
 \end{align}}$$
-$$\begin{align} \because 
-\langle \overline{u}\overline{u}^T \rangle 
-&= \langle\frac{1}{m} \sum u_i \frac{1}{m} \sum u_j \rangle \\
+$$\begin{align} 
+\because \langle \overline{u}\overline{u}^T \rangle &= \langle\frac{1}{m} \sum u_i \frac{1}{m} \sum u_j \rangle \\
 &= \frac{1}{m^2} \langle \sum u_i \sum u_j \rangle \\
 &= \frac{1}{m^2} \times m U \\
 &= \frac{1}{m} U
 \end{align}$$
-
-
-$m$-members에 initial bet estimate $\hat{\mathbf{u}} + \mathbf{r}_i$ 
-
-$\langle \mathbf{r}\mathbf{r}^T \rangle = \mathbf{P}_a$ 
+$\Rightarrow$ ensemble 개수가 적어도 tempering 잘 됨 / stochastic보다 practical, computable /
+$\quad$ ensemble mean은 8개만 있어도 되지만 forecast error는 많이 필요하다
+$\Rightarrow$ init perturbation을 어케 줄건지, # of ensemble이 중요
