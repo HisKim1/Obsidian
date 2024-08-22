@@ -127,4 +127,17 @@ $\Rightarrow$ init perturbation을 어케 줄건지, # of ensemble이 중요
 ###### 6.4.3 | lagged average forecasting
 $t = -\tau, -2\tau, \cdots, -(N-1)\tau$ 로 init time을 잡아서 ensemble 생성
 $\rightarrow$ automatically generated forecast error를 perturbation으로 사용
-$\rightarrow$ 
+$\quad$ !randomly chosen error, but contains "errors of the day"
+	$\rightarrow$ apparent predicting forecast skills (? 이게 뭐노)
+$\rightarrow$ forecast에 weight w.r.t. age
+
+lagged avg forecasting이 Monte Carlo보다 조금 더 낫더라.
+
+**adventages)**
+- simple to perform
+- no need to generate perturbations
+- errors of the day (Lyapunov vectors) $\subset$ perturbations
+**disadventages)**
+- large하게 쓰면 excessively old forecasts도 사용해야 함
+- weight 조절 제대로 못하면 result가 older forecasts한테 tainted 수 있음
+- 
