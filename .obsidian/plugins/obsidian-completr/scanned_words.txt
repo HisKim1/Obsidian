@@ -261,6 +261,8 @@ form
 form으로
 forgot
 fact
+forecasts도
+forecasts한테
 name
 nYYYFF
 nOq
@@ -893,6 +895,7 @@ strong하다
 succession
 sentences에서
 superfluous
+subset
 topic
 tags
 templete
@@ -1175,6 +1178,10 @@ tame
 transitive
 trifling
 tell하게
+thatn
+tempering
+tau
+tainted
 aliases
 against
 and
@@ -1855,6 +1862,10 @@ concrete
 concise한
 conjunctiond이나
 comprehensive
+climatology
+covariance를
+cdots
+condition을
 Tool
 Troposphere에서
 Thermal
@@ -2622,6 +2633,7 @@ doubt
 doubtless
 debilitating
 debilitate
+disadventages
 of
 ojjjii
 oJg
@@ -2838,6 +2850,9 @@ objective
 orbits
 overline
 opening
+optimal
+old
+older
 Reasoning
 Resources
 Residual
@@ -3836,6 +3851,7 @@ rooster
 repented
 relative로
 repent
+result가
 blog
 break
 breaking에
@@ -4729,6 +4745,7 @@ health
 him
 honest
 hastily
+hedging
 작업
 작동
 작업해보았는데
@@ -5042,6 +5059,8 @@ leave
 loveliness
 language
 loose
+lose
+large하게
 버전
 버전으로
 이상이
@@ -5159,6 +5178,7 @@ loose
 가기
 가능한지
 가공할
+가깝게
 요청
 요소
 요지를
@@ -6289,6 +6309,7 @@ Objective
 Oscar
 Orbit
 Omit
+Operational
 Error
 Eddy
 EEE
@@ -7053,6 +7074,7 @@ infty
 impaired
 ignored
 irresolute
+individual
 지난
 지표
 지속
@@ -7135,6 +7157,7 @@ irresolute
 쓰임
 쓰이더라
 쓰지
+쓰면
 되는지
 되더라
 되었는지
@@ -7171,6 +7194,7 @@ irresolute
 최소한의
 최소
 최종
+최대한
 좋지
 좋을
 좋고
@@ -7446,6 +7470,7 @@ Systems
 Stochastic
 Symbols
 She
+Since
 순환
 순환을
 순환의
@@ -11653,6 +11678,10 @@ exposition
 emphatic
 expression
 evation으로
+eventually
+estimation
+equivalent
+excessively
 VAA
 VWWc
 VUU
@@ -13190,6 +13219,7 @@ NA에
 만일
 만들었다
 만한
+만들어보자
 돌리면
 돌려
 돌아가게만
@@ -13951,6 +13981,7 @@ NA에
 마일스톤
 마음대로
 마라
+마무리하기
 흔들림
 약해지면
 약해지거나
@@ -14133,6 +14164,7 @@ NA에
 못하더라
 못한다는
 못하는
+못하면
 담겨
 담을
 담긴

@@ -43,8 +43,10 @@ $$\displaystyle\begin{cases}
 \text{unstable sol.: very close two trajectories } \rightarrow \text{completely diverge}\\
 \qquad \Rightarrow \text{not periodic or almost periodic}
 \end{cases}$$
-periodic motion bifurcation $\rightarrow$ periodic doubling $\rightarrow$ sequence of period doubling bifurcation $\rightarrow$ chaotic behavior
-
+periodic motion bifurcation 
+$\rightarrow$ periodic doubling 
+$\rightarrow$ sequence of period doubling bifurcation 
+$\rightarrow$ chaotic behavior
 
 ##### Lyapunov exponent 
 Measures sensitivity to initial conditions in dynamical systems
@@ -54,7 +56,7 @@ $\rightarrow$ dynamical system of $n$-variables의 long-term stability
 $$\displaystyle\Rightarrow \quad \begin{cases}
 \sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
 \sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$
-
+![[Pasted image 20240822165643.png]]
 ### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
 이런 저런 방법으로 여러 모델들을 만들었다.
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
@@ -130,7 +132,7 @@ $\rightarrow$ automatically generated forecast error를 perturbation으로 사�
 $\quad$ !randomly chosen error, but contains "errors of the day"
 	$\rightarrow$ apparent predicting forecast skills (? 이게 뭐노)
 $\rightarrow$ forecast에 weight w.r.t. age
-
+![[Pasted image 20240822165733.png]]
 lagged avg forecasting이 Monte Carlo보다 조금 더 낫더라.
 
 **adventages)**
@@ -140,4 +142,20 @@ lagged avg forecasting이 Monte Carlo보다 조금 더 낫더라.
 **disadventages)**
 - large하게 쓰면 excessively old forecasts도 사용해야 함
 - weight 조절 제대로 못하면 result가 older forecasts한테 tainted 수 있음
-- 
+
+scaled lagged average forecasting
+:= 같은 init time에서 error에 $\displaystyle\pm\frac{1}{j}$ 곱해
+**adventages)**
+- 다른 init time에 perturbation scale이 거의 비슷
+- ??? $\rightarrow$ Laypunov exponent에 sign 부여해서 better
+- regional scale에서 easy implement $\because$ boundary condition을 generate
+### 6.5 | Operational ensemble forecasting Methods
+##### Elements
+1) *control* forecast, $\mathbf{C}$
+	analysis에서 시작
+	= best estimate of the true initial state of the atmosphere에서 시작
+1) two *perturbed* ensemble forecasts, $\mathbf{P}^+, \mathbf{P}^-$
+	*control* $\pm$ perturbation
+3) *ensemble average*, $\mathbf{A}$
+4) *true evolution* of the atmosphere, $\mathbf{T}$
+![[Pasted image 20240822165849.png|400]]
