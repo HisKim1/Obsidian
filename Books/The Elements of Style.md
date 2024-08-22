@@ -150,7 +150,7 @@ the reason why is that $\rightarrow$ because
 clause 2개, 2nd는 conjunction이나 relative로 시작하는 loose sentences일 때
 
 loose sentences가 too compact, periodic, formal해지지 않게 예방해주지만 너무 많으면 문제가 됨
-
+*and, but & who, which, when, where, while*을 너무 남발하지는 않는지 확인하기
 
 ##### 19. Express coordinate ideas in similar form.
 
