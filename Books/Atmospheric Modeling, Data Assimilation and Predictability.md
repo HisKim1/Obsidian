@@ -55,8 +55,7 @@ $\rightarrow$ dynamical system of $n$-variables의 long-term stability
 	$\forall i, \lambda_i \leq 0$ : stable system
 $$\displaystyle\Rightarrow \quad \begin{cases}
 \sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
-\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$
-![[Pasted image 20240822165643.png]]
+\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw|700]]
 ### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
 이런 저런 방법으로 여러 모델들을 만들었다.
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
@@ -158,6 +157,6 @@ scaled lagged average forecasting
 	*control* $\pm$ perturbation
 3) *ensemble average*, $\mathbf{A}$
 4) *true evolution* of the atmosphere, $\mathbf{T}$
-![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw|600]]
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw|700]]
 (a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}랑 가까워
 (b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$  ststematic error
