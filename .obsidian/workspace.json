@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee30505f98da6a18",
+  "active": "54abeabfc44f063b",
   "lastOpenFiles": [
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-08-22.md",
