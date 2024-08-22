@@ -162,7 +162,18 @@ It was both a long ceremony and very tedious.
 $\rightarrow$ The ceremony was both long and tedious.
 
 ##### 20. Keep related words together.
+누가 누굴 수식하는지 명확히 할 것
+He noticed a large stain in the rug that was right in the center.
+$\rightarrow$ He noticed a large stain right in the center of the rug.
 
+> The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning.
+
+주어, 동사 사이에 옮길 수 있는 수식어구 달지 마라.
+
+relative pronoun은 antecedent 바로 뒤에 붙어야 함
+긴 antecedent라서 애매하게 보인다면 antecedent를 재구성하거나 relative를 바로 뒤로 옮겨
+
+modifier도 단어 바로 옆에 붙여야 함
 
 ##### 21. In summaries, keep to one tense.
 
