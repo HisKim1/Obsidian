@@ -22,14 +22,14 @@ nonrestrictive clause이면 문장을 두 개로 쪼갤 수 있고 parenthetic�
 
 ##### 5. Do not join independent clauses with a comma.
 cluases를 하나로 이으려면
-1) semicolon 이용
+1) <font color="#00e676">semicolon 이용</font>
    "It is nearly half past five; we cannot reach town before dark."
 2) replace the semicolons with periods
    "It is nearly half past five. We cannot reach town before dark."
 3) comma 이용
    "It is nearly half past five, and we cannot reach town before dark."
 
-세 방식을 비교해보면 ;이 더 close relationship을 보여주고, briefer and therefore more forcible. 단, clauses가 너무 짧거나 tone of sentence is easy and conversational일 때는 별로다
+세 방식을 비교해보면 ;이 더 <font color="#00e676">close relationship</font>을 보여주고, <font color="#00e676">briefer</font> and therefore <font color="#00e676">more forcible</font>. 단, clauses가 너무 짧거나 tone of sentence is easy and conversational일 때는 별로다
 
 ##### 6. Do not break sentences in two.
 comma 자리에 period 두지 마라. 
@@ -37,7 +37,7 @@ comma 자리에 period 두지 마라.
 ##### 7. Use a colon after an independent clause to introduce a list of particulars, an appositive, an amplification, or an illustrative quotation.
 1) list of particulars
    완전한 문장 뒤에 colon 붙이고 리스트 업
-   "Your dedicated whittler requires three props: a knife, a piece of wood, and a back porch."
+   "Your dedicated whittler requires **three props:** a knife, a piece of wood, and a back porch."
 2) 2nd clause가 1st를 interpret or amplifies할 때
    "But even so, there was a directness and dispatch about animal burial: there was no stopover in the undertaker's foul parlor, no wreath or spray."
 3) preceding clause를 support하거나 contribute하는 quotation 앞에
@@ -75,15 +75,95 @@ $\rightarrow$ 겉보기엔 똑같아보이지만 의미차이가 있다.
 ---
 # 2 Elementary Principles of Composition
 ##### 12. Choose a suitable design and hold to it.
-
+> The more clearly the writer perceives the shape, the better are the chances of success.
 
 ##### 13. Make a paragraph the unit of composition.
+> <font color="#00e676">The beginning</font> of each paragraph is a signal that <font color="#00e676">a new step in the development of the subject</font> has been reached.
+
+> As a rule, begin each paragraph either with a sentence that <font color="#00e676">suggests the topic</font> or with a sentence that <font color="#00e676">helps the transition.</font>
+
+> More commonly, <font color="#00e676">the opening sentence</font> simply indicates by its subject <font color="#00e676">the direction the paragraph is to take.</font>
+
+$\Rightarrow$ 첫 문장은 topic or transition으로. 
+만일 paragraph가 큰 composition을 구성한다면 그 paragraph의 relation, function를 명시해야
+
+narration이나 description에서는 concise & comprehensive한 statement $\rightarrow$ details로 진행하기도.
+
+> Paragraph breaks used only for show read like the writing of commerce or of display advertising.
+
+$\Rightarrow$ 너무 많이 나누면 distracting & formidable. 적당히 해야 좋다.
 
 ##### 14. Use the active voice.
+active voice: direct, vigorous, bold, concise, forcible
+\+ 문장이 간결해진다
 
+> Many a tame sentence of description or exposition can be made lively and emphatic by substituting a transitive in the active voice for some such perfunctory expression as *there is* or *could be heard*.
 
+**There were** a great number of dead leaves lying on the ground.
+$\Rightarrow$ Dead leaves coverd the ground.
+
+At dawn the crowing of a rooster **could be heard**
+$\Rightarrow$ The cock's crow came with dawn.
+
+**The reason** he left college was that his health became impaired.
+$\Rightarrow$ Failing health compelled him to leave college.
+
+It was not long before she was very sorry that she had said what she had.
+$\Rightarrow$ She soon repented her words.
+
+돌려 말하지 말고 직접 표현해라
+
+##### 15. Put statements in positive form.
+*not*을 evation으로 쓰지 마라
+denial or antithesis로만 써라
+
+negative라도 positive form으로 쓰는 게 더 낫다
+**e.g.**
+not honest $\rightarrow$ dishonest
+not important $\rightarrow$ trifling
+did not remember $\rightarrow$ forgot
+did not pay any attention to $\rightarrow$ ignored
+did not have much confidence in $\rightarrow$ distruste
+
+*not*이 아닌 다른 negative words는 strong하다
+**e.g.** Her **loveliness** I never knew
+
+auxiliaries들은 irresolute, lack of authority, uncertainty. 줄이자.
+**e.g.** *would, should, could, may, might, can*
+
+##### 16. Use definite, specific, concrete language.
+specific > general, definite > vague, concrete > abstract
+$\Rightarrow$ definite details, concrete words를 써라
+
+##### 17. Omit needless words.
+concise한 vigorous writing을 하려면 불필요한 단어, 문장 다 지우고 every word tell하게 해야 한다.
+**e.g.**
+there is no doubt but that $\rightarrow$ no doubt (doubtless)
+he is a man who $\rightarrow$ he
+this is a subject that $\rightarrow$ this subject
+the reason why is that $\rightarrow$ because
+
+*the fact that*은 debilitating expression $\rightarrow$ 다 바꿔야 함
+예시 참조
+
+##### 18. Avoid a succession of loose sentences.
+clause 2개, 22nd는 conjunctiond이나 relative로 시작하는 loose sentences에서
 
 ---
+superfluous 더 이상 필요하지 않은
+debilitate 쇠약하게 하다
+hastily 성급하게
+prose 산문
+arouse 불러일으키다, 자극하다, 분발하게 하다
+grin 활짝 웃다, 활짝 웃음
+forcible 강제적인, 힘찬
+noncommittal 뜻이 애매한
+auxiliary 조동사, 보조의
+repent 뉘우치다
+comprehensive 종합적인
+concise 간결한
+formidable 가공할 만한
+gerund  동명사
 ludicrous 터무니 없는
 preposition 전치사
 parentheses 소괄호()
