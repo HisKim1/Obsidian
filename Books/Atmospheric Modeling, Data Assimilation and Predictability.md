@@ -124,3 +124,5 @@ $\Rightarrow$ ensemble 개수가 적어도 tempering 잘 됨 / stochastic보다 
 $\quad$ ensemble mean은 8개만 있어도 되지만 forecast error는 많이 필요하다
 $\Rightarrow$ init perturbation을 어케 줄건지, # of ensemble이 중요
 
+###### 6.4.3 | lagged average forecasting
+$t = -\tau, -2\tau, \cdots -(N-1)\tau$ 
