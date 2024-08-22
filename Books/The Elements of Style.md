@@ -149,6 +149,8 @@ the reason why is that $\rightarrow$ because
 ##### 18. Avoid a succession of loose sentences.
 clause 2개, 2nd는 conjunction이나 relative로 시작하는 loose sentences일 때
 
+loose sentences가 too compact, periodic, formal해지지 않게 예방해주지만 너무 많으면 문제가 됨
+
 
 ##### 19. Express coordinate ideas in similar form.
 
@@ -159,6 +161,7 @@ clause 2개, 2nd는 conjunction이나 relative로 시작하는 loose sentences�
 ##### 22. Place the emphatic words of a sentence at the end.
 
 ---
+triteness 진부함
 superfluous 더 이상 필요하지 않은
 debilitate 쇠약하게 하다
 hastily 성급하게
