@@ -68,6 +68,86 @@ instability로 인한 error growth는 ineveitably lead to a total loss of skill 
 ###### 6.4.1 | Stochastic-dynamic forecasting
 
 ###### 6.4.2 | Monte Carlo forecasting
+**Symbols)**
+$\mathbf{u}_0$ : true state of the atmosphere
+$\hat{\mathbf{u}}$ : unbiased estimate of $\mathbf{u}_0 \rightarrow \langle\hat{u}\rangle = 0$ 
+
+**Background)** climatological forecast error covariance
+$$\begin{align*}
+\langle (0-\mathbf{u}_0)(0-\mathbf{u}_0)^T\rangle &= \langle\mathbf{u}_0\mathbf{u}_0^T\rangle\\ &=\mathbf{U}\end{align*}$$
+**Case 1)** single forecast error covariance
+$$\begin{align}
+\langle (\hat{\mathbf{u}}-\mathbf{u}_0)(\hat{\mathbf{u}}-\mathbf{u}_0)^T \rangle &= \langle (\hat{\mathbf{u}}\hat{\mathbf{u}}^T + \mathbf{u}_0\mathbf{u}_0^T - \hat{\mathbf{u}}\mathbf{u}_0^T - \mathbf{u}_0\hat{\mathbf{u}}^T) \rangle \\
+&= \langle \hat{\mathbf{u}}\hat{\mathbf{u}}^T \rangle + \langle \mathbf{u}_0\mathbf{u}_0^T \rangle - \langle \hat{\mathbf{u}}\mathbf{u}_0^T \rangle - \langle \mathbf{u}_0\hat{\mathbf{u}}^T \rangle \\
+&\xrightarrow{t \to \infty} \langle \hat{\mathbf{u}}\hat{\mathbf{u}}^T \rangle + \langle \mathbf{u}_0\mathbf{u}_0^T \rangle - 0 - 0 \quad (\because\text{decorrelation between }\hat{\mathbf{u}} \text{ \& }\mathbf{u}_0)\\
+&= \mathbf{U} + \mathbf{U}\quad (\because\text{unbiased model }\rightarrow \mathbb{E}[\hat{\mathbf{u}}\hat{\mathbf{u}}^T ]\simeq \mathbb{E}[\mathbf{u}_0\mathbf{u}_0^T])\\
+&= 2\mathbf{U}
+\end{align}$$
+**Case 2)** regression forecast
+$$ \begin{align}
+\hat{u}_0 &= \hat{u}A \\
+\text{s.t.} \quad \min \varepsilon^T\varepsilon &= \min \langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle \end{align}$$ where $A$: const. reg. coeff. matrix 
+Let $y = XA \Rightarrow \varepsilon = y - XA$.
+$$ \varepsilon^T\varepsilon = (y-XA)^T(y-XA) $$ $$\begin{align}
+\frac{\partial \varepsilon^T\varepsilon}{\partial A} &= \frac{\partial}{\partial A} (y-XA)^T(y-XA)\\
+&= -2X^T(y-XA)\\ &= 0 \\ 
+\Rightarrow 2X^Ty &= 2X^TXA \end{align}$$ $$ \therefore A = (X^TX)^{-1}X^Ty = X^\dagger y $$$$\Rightarrow A = \langle \hat{u}^T\hat{u} \rangle^{-1} \langle \hat{u}^Tu_0 \rangle \quad (\because u_0 \sim y, \hat{u} \sim X)$$but matrix size $\uparrow$ $\Rightarrow$ computational cost $\uparrow$
+
+**Case 3)** ensemble forecast error covariance
+$\mathbf{r_i}$: perturbation
+$\hat{\mathbf{u}}$: init best estimate
+$\displaystyle\overline{u} := \frac{1}{m} \sum u_i$: avg of ensemble $m$ forecasts
+
+initial error cov: $P_0 = \langle rr^T \rangle$ (in practice !measurable $\rightarrow$ approx.)
+$$\displaylines{\begin{align}
+\langle (\overline{u} - u_0)(\overline{u} - u_0)^T \rangle 
+&= \langle \overline{u}\overline{u}^T + u_0u_0^T - \overline{u}u_0^T - u_0\overline{u}^T \rangle \\
+&= \langle \overline{u}\overline{u}^T \rangle + \langle u_0u_0^T \rangle - \langle \overline{u}u_0^T \rangle - \langle u_0\overline{u}^T \rangle \\
+&\xrightarrow{t \to \infty} \frac{m}{m^2}U + U + 0 + 0 \quad(\because \text{same reason with Case 1})
+\\ &= (1+\frac{1}{m})U
+\end{align}}$$
+$$\begin{align} \because 
+\langle \overline{u}\overline{u}^T \rangle 
+&= \langle\frac{1}{m} \sum u_i \frac{1}{m} \sum u_j \rangle \\
+&= \frac{1}{m^2} \langle \sum u_i \sum u_j \rangle \\
+&= \frac{1}{m^2} \times m U \\
+&= \frac{1}{m} U
+\end{align}$$
+
+---
+title: 
+site: 
+summary: 
+keyword: 
+status: 
+aliases:
+  - templete
+tags: 
+when_published: 2024-07-01
+where_published:
+---
+```ad-summary
+3줄 요약
+```
+
+```ad-abstract
+
+```
+
+# Introduction
+
+---
+# Conclusion
+
+---
+# Method
+
+---
+# Result
+
+---
+# References
+
 $m$-members에 initial bet estimate $\hat{\mathbf{u}} + \mathbf{r}_i$ 
 
 $\langle \mathbf{r}\mathbf{r}^T \rangle = \mathbf{P}_a$ 
