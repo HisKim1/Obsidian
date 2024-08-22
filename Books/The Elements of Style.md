@@ -147,7 +147,16 @@ the reason why is that $\rightarrow$ because
 예시 참조
 
 ##### 18. Avoid a succession of loose sentences.
-clause 2개, 22nd는 conjunctiond이나 relative로 시작하는 loose sentences에서
+clause 2개, 2nd는 conjunction이나 relative로 시작하는 loose sentences일 때
+
+
+##### 19. Express coordinate ideas in similar form.
+
+##### 20. Keep related words together.
+
+##### 21. In summaries, keep to one tense.
+
+##### 22. Place the emphatic words of a sentence at the end.
 
 ---
 superfluous 더 이상 필요하지 않은
