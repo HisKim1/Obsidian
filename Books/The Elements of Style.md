@@ -153,6 +153,7 @@ loose sentences가 too compact, periodic, formal해지지 않게 예방해주지
 *and, but & who, which, when, where, while*을 너무 남발하지는 않는지 확인하기
 
 ##### 19. Express coordinate ideas in similar form.
+> When repeating a statement to emphasize it, the writer may need to vary its form. Otherwise, the writer should follow the principle of parallel construction.
 
 ##### 20. Keep related words together.
 
@@ -161,6 +162,8 @@ loose sentences가 too compact, periodic, formal해지지 않게 예방해주지
 ##### 22. Place the emphatic words of a sentence at the end.
 
 ---
+abide 참다, 머무르다
+timid 소심한
 triteness 진부함
 superfluous 더 이상 필요하지 않은
 debilitate 쇠약하게 하다
