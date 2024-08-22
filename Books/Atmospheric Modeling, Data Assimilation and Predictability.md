@@ -43,8 +43,10 @@ $$\displaystyle\begin{cases}
 \text{unstable sol.: very close two trajectories } \rightarrow \text{completely diverge}\\
 \qquad \Rightarrow \text{not periodic or almost periodic}
 \end{cases}$$
-periodic motion bifurcation $\rightarrow$ periodic doubling $\rightarrow$ sequence of period doubling bifurcation $\rightarrow$ chaotic behavior
-
+periodic motion bifurcation 
+$\rightarrow$ periodic doubling 
+$\rightarrow$ sequence of period doubling bifurcation 
+$\rightarrow$ chaotic behavior
 
 ##### Lyapunov exponent 
 Measures sensitivity to initial conditions in dynamical systems
@@ -53,8 +55,7 @@ $\rightarrow$ dynamical system of $n$-variables의 long-term stability
 	$\forall i, \lambda_i \leq 0$ : stable system
 $$\displaystyle\Rightarrow \quad \begin{cases}
 \sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
-\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$
-
+\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw|700]]
 ### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
 이런 저런 방법으로 여러 모델들을 만들었다.
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
@@ -68,6 +69,94 @@ instability로 인한 error growth는 ineveitably lead to a total loss of skill 
 ###### 6.4.1 | Stochastic-dynamic forecasting
 
 ###### 6.4.2 | Monte Carlo forecasting
-$m$-members에 initial bet estimate $\hat{\mathbf{u}} + \mathbf{r}_i$ 
+**Symbols)**
+$\mathbf{u}_0$ : true state of the atmosphere
+$\hat{\mathbf{u}}$ : unbiased estimate of $\mathbf{u}_0 \rightarrow \langle\hat{u}\rangle = 0$ 
 
-$\langle \mathbf{r}\mathbf{r}^T \rangle = \mathbf{P}_a$ 
+**Background)** 
+climatological forecast error covariance
+$$\begin{align*}
+\langle (0-\mathbf{u}_0)(0-\mathbf{u}_0)^T\rangle &= \langle\mathbf{u}_0\mathbf{u}_0^T\rangle\\ &=\mathbf{U}\end{align*}$$
+> Since forecasts lose their skill at longer lead times, and individual forecasts eventually are further away from the verification thatn the climatology, <font color="#00e676">optimal estimation of the verification is equivalent to tempering</font> (i.e., hedging the forecast towards climatology).
+
+$\Rightarrow$ forecast error covariance를 최대한 $\mathbf{U}$에 가깝게 만들어보자
+
+**Case 1)** 
+single forecast error covariance
+$$\begin{align}
+\langle (\hat{\mathbf{u}}-\mathbf{u}_0)(\hat{\mathbf{u}}-\mathbf{u}_0)^T \rangle &= \langle (\hat{\mathbf{u}}\hat{\mathbf{u}}^T + \mathbf{u}_0\mathbf{u}_0^T - \hat{\mathbf{u}}\mathbf{u}_0^T - \mathbf{u}_0\hat{\mathbf{u}}^T) \rangle \\
+&= \langle \hat{\mathbf{u}}\hat{\mathbf{u}}^T \rangle + \langle \mathbf{u}_0\mathbf{u}_0^T \rangle - \langle \hat{\mathbf{u}}\mathbf{u}_0^T \rangle - \langle \mathbf{u}_0\hat{\mathbf{u}}^T \rangle \\
+&\xrightarrow{t \to \infty} \langle \hat{\mathbf{u}}\hat{\mathbf{u}}^T \rangle + \langle \mathbf{u}_0\mathbf{u}_0^T \rangle - 0 - 0 \quad (\because\text{decorrelation between }\hat{\mathbf{u}} \text{ \& }\mathbf{u}_0)\\
+&= \mathbf{U} + \mathbf{U}\quad (\because\text{unbiased model }\rightarrow \mathbb{E}[\hat{\mathbf{u}}\hat{\mathbf{u}}^T ]\simeq \mathbb{E}[\mathbf{u}_0\mathbf{u}_0^T])\\
+&= 2\mathbf{U}
+\end{align}$$
+**Case 2)** 
+regression forecast
+$$ \begin{align}
+\hat{u}_0 &= \hat{u}A \\
+\text{s.t.} \quad \min \varepsilon^T\varepsilon &= \min \langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle \end{align}$$ where $A$: const. reg. coeff. matrix 
+Let $y = XA \Rightarrow \varepsilon = y - XA$.
+$$ \varepsilon^T\varepsilon = (y-XA)^T(y-XA) $$ $$\begin{align}
+\frac{\partial \varepsilon^T\varepsilon}{\partial A} &= \frac{\partial}{\partial A} (y-XA)^T(y-XA)\\
+&= -2X^T(y-XA)\\ &= 0 \\ 
+\Rightarrow 2X^Ty &= 2X^TXA \end{align}$$ $$ \therefore A = (X^TX)^{-1}X^Ty = X^\dagger y $$$$\Rightarrow A = \langle \hat{u}^T\hat{u} \rangle^{-1} \langle \hat{u}^Tu_0 \rangle \quad (\because u_0 \sim y, \hat{u} \sim X)$$but matrix size $\uparrow$ $\Rightarrow$ computational cost $\uparrow$
+
+**Case 3)** 
+ensemble forecast error covariance
+$\mathbf{r_i}$: perturbation
+$\hat{\mathbf{u}}$: init best estimate
+$\displaystyle\overline{u} := \frac{1}{m} \sum u_i$: avg of ensemble $m$ forecasts
+$m$: # of ensemble
+
+initial error cov: $P_0 = \langle rr^T \rangle$ (in practice !measurable $\rightarrow$ approx.)
+$$\displaylines{\begin{align}
+\langle (\overline{u} - u_0)(\overline{u} - u_0)^T \rangle &= \langle \overline{u}\overline{u}^T + u_0u_0^T - \overline{u}u_0^T - u_0\overline{u}^T \rangle \\
+&= \langle \overline{u}\overline{u}^T \rangle + \langle u_0u_0^T \rangle - \langle \overline{u}u_0^T \rangle - \langle u_0\overline{u}^T \rangle \\
+&\xrightarrow{t \to \infty} \frac{m}{m^2}U + U + 0 + 0 \quad(\because \text{same reason with Case 1})\\ 
+&= (1+\frac{1}{m})U
+\end{align}}$$
+$$\begin{align} 
+\because \langle \overline{u}\overline{u}^T \rangle &= \langle\frac{1}{m} \sum u_i \frac{1}{m} \sum u_j \rangle \\
+&= \frac{1}{m^2} \langle \sum u_i \sum u_j \rangle \\
+&= \frac{1}{m^2} \times m U \\
+&= \frac{1}{m} U
+\end{align}$$
+$\Rightarrow$ ensemble 개수가 적어도 tempering 잘 됨 / stochastic보다 practical, computable /
+$\quad$ ensemble mean은 8개만 있어도 되지만 forecast error는 많이 필요하다
+$\Rightarrow$ init perturbation을 어케 줄건지, # of ensemble이 중요
+
+###### 6.4.3 | lagged average forecasting
+$t = -\tau, -2\tau, \cdots, -(N-1)\tau$ 로 init time을 잡아서 ensemble 생성
+$\rightarrow$ automatically generated forecast error를 perturbation으로 사용
+$\quad$ !randomly chosen error, but contains "errors of the day"
+	$\rightarrow$ apparent predicting forecast skills (? 이게 뭐노)
+$\rightarrow$ forecast에 weight w.r.t. age
+![[Pasted image 20240822165733.png]]
+lagged avg forecasting이 Monte Carlo보다 조금 더 낫더라.
+
+**adventages)**
+- simple to perform
+- no need to generate perturbations
+- errors of the day (Lyapunov vectors) $\subset$ perturbations
+**disadventages)**
+- large하게 쓰면 excessively old forecasts도 사용해야 함
+- weight 조절 제대로 못하면 result가 older forecasts한테 tainted 수 있음
+
+scaled lagged average forecasting
+:= 같은 init time에서 error에 $\displaystyle\pm\frac{1}{j}$ 곱해
+**adventages)**
+- 다른 init time에 perturbation scale이 거의 비슷
+- ??? $\rightarrow$ Laypunov exponent에 sign 부여해서 better
+- regional scale에서 easy implement $\because$ boundary condition을 generate
+### 6.5 | Operational ensemble forecasting Methods
+##### Elements
+1) *control* forecast, $\mathbf{C}$
+	analysis에서 시작
+	= best estimate of the true initial state of the atmosphere에서 시작
+1) two *perturbed* ensemble forecasts, $\mathbf{P}^+, \mathbf{P}^-$
+	*control* $\pm$ perturbation
+3) *ensemble average*, $\mathbf{A}$
+4) *true evolution* of the atmosphere, $\mathbf{T}$
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw|700]]
+(a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}랑 가까워
+(b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$  ststematic error

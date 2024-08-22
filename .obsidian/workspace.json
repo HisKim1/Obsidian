@@ -21,14 +21,20 @@
             }
           },
           {
-            "id": "b35da7b5d9d6fe67",
+            "id": "348c3d11bb7ab229",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-22.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -188,16 +194,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "67086563a77f3078",
+  "active": "348c3d11bb7ab229",
   "lastOpenFiles": [
-    "Books/The Elements of Style.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-08-22.md",
+    "File/Pasted image 20240822165849.png",
+    "File/Pasted image 20240822165733.png",
+    "File/Pasted image 20240822165643.png",
+    "File/Pasted image 20240822165643 1.png",
+    "File/Pasted Image 20240822170027_223.png",
+    "File/Pasted Image 20240822170027_218.png",
+    "File/Pasted Image 20240822170007_201.png",
+    "File/Pasted Image 20240822165952_191.png",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
+    "Books/The Elements of Style.md",
     "TODO/2024-08-21.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "TODO/2024-08-19.md",
-    "conflict-files-obsidian-git.md",
     "How to apply Multiprocessing in my tasks.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw.md",
     "Test/GraphCast Butterfly Effect Test.md",
@@ -213,10 +230,6 @@
     "TODO/2024-08-07.md",
     "GraphCast/Task/Task.md",
     "Test/Untitled.canvas",
-    "Test/GraphCast input 차이로 output이 달라지는지 Test.md",
-    "Test",
-    "GraphCast/Task/GraphCast GFS by NOAA.md",
-    "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md",
-    "Papers/@WMO, 2012.md"
+    "Test"
   ]
 }
