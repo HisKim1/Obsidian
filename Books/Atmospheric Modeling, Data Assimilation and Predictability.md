@@ -125,4 +125,6 @@ $\quad$ ensemble mean은 8개만 있어도 되지만 forecast error는 많이 �
 $\Rightarrow$ init perturbation을 어케 줄건지, # of ensemble이 중요
 
 ###### 6.4.3 | lagged average forecasting
-$t = -\tau, -2\tau, \cdots -(N-1)\tau$ 
+$t = -\tau, -2\tau, \cdots, -(N-1)\tau$ 로 init time을 잡아서 ensemble 생성
+$\rightarrow$ automatically generated forecast error를 perturbation으로 사용
+$\rightarrow$ 
