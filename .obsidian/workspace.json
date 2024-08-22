@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-23.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +220,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee30505f98da6a18",
+  "active": "54abeabfc44f063b",
   "lastOpenFiles": [
+    "TODO/2024-08-23.md",
+    "conflict-files-obsidian-git.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
@@ -239,7 +238,6 @@
     "File/Pasted Image 20240822170027_223.png",
     "File/Pasted Image 20240822165952_191.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
-    "TODO/2024-08-23.md",
     "TODO/2024-08-21.md",
     "TODO/2024-08-19.md",
     "Books/The Elements of Style.md",
@@ -247,7 +245,6 @@
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "TODO/2024-09-06.md",
-    "conflict-files-obsidian-git.md",
     "TODO/2024-08-06.md",
     "GraphCast/Task/Task.md",
     "Test/GraphCast Butterfly Effect Test.md",

@@ -195,10 +195,6 @@
     {
       "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
       "path": "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
-    },
-    {
-      "basename": "paper",
-      "path": "Templete/paper.md"
     }
   ],
   "omittedPaths": []

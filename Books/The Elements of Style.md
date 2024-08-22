@@ -147,9 +147,42 @@ the reason why is that $\rightarrow$ because
 예시 참조
 
 ##### 18. Avoid a succession of loose sentences.
-clause 2개, 22nd는 conjunctiond이나 relative로 시작하는 loose sentences에서
+clause 2개, 2nd는 conjunction이나 relative로 시작하는 loose sentences일 때
+
+loose sentences가 too compact, periodic, formal해지지 않게 예방해주지만 너무 많으면 문제가 됨
+*and, but & who, which, when, where, while*을 너무 남발하지는 않는지 확인하기
+
+##### 19. Express coordinate ideas in similar form.
+> When repeating a statement to emphasize it, the writer may need to vary its form. Otherwise, the writer should follow the principle of parallel construction.
+
+형태 똑같이 적을 때 article (관사), preposition 놓치지 말고 다 챙겨야 함
+형태가 잘 안 맞춰진다면 문장 순서를 바꾸면 됨
+**e.g.** 
+It was both a long ceremony and very tedious. 
+$\rightarrow$ The ceremony was both long and tedious.
+
+##### 20. Keep related words together.
+누가 누굴 수식하는지 명확히 할 것
+He noticed a large stain in the rug that was right in the center.
+$\rightarrow$ He noticed a large stain right in the center of the rug.
+
+> The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning.
+
+주어, 동사 사이에 옮길 수 있는 수식어구 달지 마라.
+
+relative pronoun은 antecedent 바로 뒤에 붙어야 함
+긴 antecedent라서 애매하게 보인다면 antecedent를 재구성하거나 relative를 바로 뒤로 옮겨
+
+modifier도 단어 바로 옆에 붙여야 함
+
+##### 21. In summaries, keep to one tense.
+
+##### 22. Place the emphatic words of a sentence at the end.
 
 ---
+abide 참다, 머무르다
+timid 소심한
+triteness 진부함
 superfluous 더 이상 필요하지 않은
 debilitate 쇠약하게 하다
 hastily 성급하게
