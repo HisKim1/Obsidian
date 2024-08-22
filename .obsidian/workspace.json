@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "TODO/2024-08-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+                "file": "TODO/2024-08-23.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "TODO/2024-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "TODO/2024-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +225,8 @@
   },
   "active": "ee30505f98da6a18",
   "lastOpenFiles": [
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "File/Pasted image 20240822165643 1.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
