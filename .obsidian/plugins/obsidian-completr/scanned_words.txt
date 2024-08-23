@@ -1543,6 +1543,7 @@ antecedent
 antecedent라서
 antecedent를
 abide
+amplitude를
 cssclasses
 considered
 cell
@@ -3996,6 +3997,7 @@ repeating
 related
 rug
 relative를
+random
 blog
 break
 breaking에
@@ -4265,6 +4267,7 @@ bvMQ
 bSe
 bpC
 bbe
+basis
 posts
 pf
 pss
@@ -5254,6 +5257,7 @@ liVB
 lKe
 lIr
 lVAH
+leftrightarrow
 버전
 버전으로
 이상이
@@ -5907,6 +5911,7 @@ gZX
 gAH
 gdF
 g퓄s
+generate해서
 GraphCast
 GPU
 Geostrophic
@@ -9088,6 +9093,7 @@ PDs
 Pgcw
 PiZ
 PHQ
+Perturbations
 질량
 질서도
 질문하고
@@ -9667,6 +9673,7 @@ wUU
 제자를
 제외
 제작
+제공해
 IHDR
 IDATx
 IB
@@ -12173,6 +12180,7 @@ eFQF
 eZS
 eOU
 emphasize
+exists
 VAA
 VWWc
 VUU
@@ -13302,6 +13310,7 @@ qAq
 qcw
 qVDU
 qCO
+quantitative
 ZZ
 Zi
 ZQQ
@@ -14202,6 +14211,7 @@ NTc
 정해
 정의가
 정리
+정도로
 시기
 시간
 시간을
@@ -14340,6 +14350,7 @@ NTc
 준비하기
 준비하며
 준비
+준다
 내가
 내용은
 내용도
@@ -14415,6 +14426,7 @@ NTc
 확인하기
 확인한다
 확인해보자
+확률
 새로운
 새로
 새롭게
@@ -14777,6 +14789,7 @@ NTc
 범위는
 값을
 잡으면
+잡을
 될까
 뭐지
 뭐하는
@@ -14891,6 +14904,7 @@ NTc
 근거로
 근거
 근대사회
+근거를
 막론하고
 막B
 든간에

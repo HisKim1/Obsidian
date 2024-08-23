@@ -165,6 +165,20 @@ scaled lagged average forecasting
 ##### Goals of ensemble forecasting
 1. improve the forecast by ensemble averaging
 	uncertain한 members를 filter out해서 $\mathbf{A}$을 $\mathbf{T}$에 가깝게
-2. 
-3. provide an indication of the reliability of the forecast
-4. provide a quantitative basis for probabilistic forecasting
+	perturbation이 nonlinear하게 증가해야 filtering 가능
+	
+2. provide an indication of the reliability of the forecast
+	ensemble spread $\leftrightarrow$ forecast error 
+	forecast agreement $\leftrightarrow$ forecast skill
+	예측의 근거를 만들어 준다
+3. provide a quantitative basis for probabilistic forecasting
+   확률 제공해 줌
+
+##### Perturbations
+어떻게 generate해서 amplitude를 어느 정도로 잡을 것인가
+1. Monte Carlo forecasting
+	value: random
+	amplitude: realistic, estimated analysis uncertainty랑 compatible하게
+	> random initial perturbations do not grow as fast as the real analysis errors, even if they are in quasi-geostrophic balance.
+2. breeding & singular vector
+	underlying perturbation
