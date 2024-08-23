@@ -272,6 +272,7 @@ fGl
 fyd
 formal해지지
 follow
+flow를
 name
 nYYYFF
 nOq
@@ -1937,6 +1938,7 @@ coordinate
 construction
 ceremony
 center
+compatible하게
 Tool
 Troposphere에서
 Thermal
@@ -3998,6 +4000,7 @@ related
 rug
 relative를
 random
+real
 blog
 break
 breaking에
@@ -4268,6 +4271,7 @@ bSe
 bpC
 bbe
 basis
+breeding
 posts
 pf
 pss
@@ -5912,6 +5916,7 @@ gAH
 gdF
 g퓄s
 generate해서
+grow
 GraphCast
 GPU
 Geostrophic
@@ -12181,6 +12186,7 @@ eZS
 eOU
 emphasize
 exists
+error를
 VAA
 VWWc
 VUU
@@ -12596,6 +12602,8 @@ usU
 uxN
 uJp
 uGACA
+uncertainty랑
+underlying
 DEEE
 DPP
 Dt
@@ -13104,6 +13112,7 @@ vmDx
 vPb
 vft
 vary
+vector
 qbRRRrr
 qZ
 ql
@@ -13311,6 +13320,7 @@ qcw
 qVDU
 qCO
 quantitative
+quasi
 ZZ
 Zi
 ZQQ
