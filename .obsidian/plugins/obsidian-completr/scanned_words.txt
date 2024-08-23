@@ -270,6 +270,8 @@ fCe
 fVMc
 fGl
 fyd
+formal해지지
+follow
 name
 nYYYFF
 nOq
@@ -504,6 +506,7 @@ nTR
 nsm
 nR
 nUW
+noticed
 site
 status
 stratosphere에서
@@ -921,6 +924,11 @@ sLEK
 sqzX
 saG
 slow
+sentences일
+sentences가
+stain
+separated
+summaries
 topic
 tags
 templete
@@ -1216,6 +1224,12 @@ tZH
 tlL
 tpq
 tFR
+too
+tedious
+transferred
+tense
+timid
+triteness
 aliases
 against
 and
@@ -1524,6 +1538,11 @@ aqD
 aPO
 aCB
 aKG
+article
+antecedent
+antecedent라서
+antecedent를
+abide
 cssclasses
 considered
 cell
@@ -1911,6 +1930,12 @@ cBD
 cxY
 cwc
 cLt
+conjunction이나
+compact
+coordinate
+construction
+ceremony
+center
 Tool
 Troposphere에서
 Thermal
@@ -3967,6 +3992,10 @@ rja
 rPd
 rICR
 rplNV
+repeating
+related
+rug
+relative를
 blog
 break
 breaking에
@@ -4641,6 +4670,9 @@ pgc
 pbEb
 pCn
 ppqGl
+principle
+parallel
+principal
 here
 host
 haa
@@ -4932,6 +4964,7 @@ hgg
 문의하기
 문장은
 문장이
+문제가
 상황
 상위버전들이
 상승한
@@ -6523,6 +6556,7 @@ OLK
 OqS
 O댩
 OXd
+Otherwise
 Error
 Eddy
 EEE
@@ -6814,6 +6848,7 @@ EyJ
 EFXR
 ERY
 EMN
+Express
 Message
 Mean
 MJJ
@@ -7321,6 +7356,7 @@ iBrY
 ijkF
 iSt
 iSz
+ideas
 지난
 지표
 지속
@@ -7354,6 +7390,7 @@ iSz
 보겠다
 보여주고
 보조의
+보인다면
 대로
 대기
 대신에
@@ -7455,6 +7492,8 @@ iSz
 않는다
 않은
 않도록
+않게
+않는지
 싶습니다
 싶은
 핵심
@@ -7731,6 +7770,7 @@ SkP
 순서도
 순환과
 순차적
+순서를
 변화가
 변화
 변화의
@@ -7781,6 +7821,7 @@ SkP
 주절의
 주어를
 주어졌을
+주어
 방정식
 방안
 방법
@@ -8277,6 +8318,7 @@ mJU
 mry
 mmI
 mYj
+modifier도
 서풍에
 서로
 서버의
@@ -9055,6 +9097,7 @@ PHQ
 재분배
 재현
 재앙은
+재구성하거나
 발생
 발생하는
 발달에
@@ -9592,6 +9635,7 @@ wUU
 예측으로
 예화
 예상
+예방해주지만
 연구에
 연관돼
 연직
@@ -10777,6 +10821,7 @@ kVd
 kus
 kKv
 kWR
+keep
 xxxnn
 xh
 xU
@@ -11586,6 +11631,7 @@ Kaz
 Kti
 KGS
 KmOXxW
+Keep
 UQQ
 UWW
 UVV
@@ -12126,6 +12172,7 @@ eaItÜ
 eFQF
 eZS
 eOU
+emphasize
 VAA
 VWWc
 VUU
@@ -13048,6 +13095,7 @@ vJA
 vmDx
 vPb
 vft
+vary
 qbRRRrr
 qZ
 ql
@@ -14034,6 +14082,8 @@ NTc
 수행할
 수리하기
 수행하면
+수식하는지
+수식어구
 따른
 따라
 따로
@@ -14109,9 +14159,11 @@ NTc
 관련이
 관해서는
 관점에서
+관사
 많이
 많은
 많지만
+많으면
 성질
 성층권
 성분을
@@ -14126,6 +14178,8 @@ NTc
 형성된
 형식이
 형태를
+형태
+형태가
 다를
 다운
 다른
@@ -14191,6 +14245,7 @@ NTc
 진실이
 진행상황
 진행하기도
+진부함
 저기압
 저장
 저장해둔
@@ -14250,6 +14305,7 @@ NTc
 소개합니다
 소괄호
 소유격
+소심한
 과정
 과정을
 과정이
@@ -14348,6 +14404,7 @@ NTc
 맞음
 맞을지도
 맞춰라
+맞춰진다면
 업그레이드
 업데이트
 업신여긴
@@ -14444,6 +14501,7 @@ NTc
 남북반구
 남반구도
 남들이
+남발하지는
 나타냅니다
 나라가
 나타내는
@@ -14486,6 +14544,7 @@ NTc
 동시에
 동격
 동명사
+동사
 반경
 반영하려면
 반복했을
@@ -14631,6 +14690,7 @@ NTc
 펌H
 뢿s
 챙길
+챙겨야
 신영복
 신상
 신청하는
@@ -14729,6 +14789,7 @@ NTc
 달라지더라
 달의
 달에
+달지
 용도
 용량
 용량이
@@ -14753,6 +14814,7 @@ NTc
 뒤에
 뒤따라
 뒤이어
+뒤로
 비교
 비율은
 비례
@@ -14920,6 +14982,7 @@ NTc
 너희들
 너무
 옆사람
+옆에
 견지에서
 잠시
 잠깐
@@ -14928,6 +14991,7 @@ NTc
 누구
 누가
 누적으로
+누굴
 겸사겸사
 붕붕
 윙윙
@@ -14949,6 +15013,7 @@ NTc
 참나
 참여
 참조
+참다
 맹자가
 맹자
 헝가리
@@ -15098,14 +15163,19 @@ NTc
 건드렸다
 건강검진
 머리자리러
+머무르다
 똑같은
 똑같아보이지만
+똑같이
 써라
 짧거나
 별로다
 붙이고
+붙어야
+붙여야
 명사들
 명시해야
+명확히
 겉보기엔
 헌신적인
 삽입된
@@ -15117,6 +15187,7 @@ NTc
 웃다
 웃음
 애매한
+애매하게
 뉘우치다
 릛n
 켔r
@@ -15128,3 +15199,6 @@ NTc
 뢎Ä
 쳏U
 묳XG
+놓치지
+옮길
+옮겨

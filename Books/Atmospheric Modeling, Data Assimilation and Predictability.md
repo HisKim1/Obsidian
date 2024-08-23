@@ -158,5 +158,12 @@ scaled lagged average forecasting
 3) *ensemble average*, $\mathbf{A}$
 4) *true evolution* of the atmosphere, $\mathbf{T}$
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw|700]]
-(a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}랑 가까워
-(b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$  ststematic error
+
+(a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}$랑 가까워
+(b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$ ststematic error,  $\exists$ deficiency in the forecasting system
+
+##### Goals of ensemble forecasting
+1. improve the forecast by ensemble averaging
+	
+1. provide an indication of the reliability of the forecast
+2. provide a quantitative basis for probabilistic forecasting
