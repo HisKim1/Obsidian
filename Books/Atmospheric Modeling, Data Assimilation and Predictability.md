@@ -52,9 +52,7 @@ Measures sensitivity to initial conditions in dynamical systems
 $\rightarrow$ dynamical system of $n$-variables의 long-term stability
 	$\exists \lambda_i >0$ : chaotic behavior
 	$\forall i, \lambda_i \leq 0$ : stable system
-$$\displaystyle\Rightarrow \quad \begin{cases}
-\sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
-\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw|700]]
+$$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian (volume-conserving) system} \\ &\sum \lambda_i \neq 0 &: \textrm{dissipative system} \end{aligned}$$![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw|700]]
 
 ## 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
 이런 저런 방법으로 여러 모델들을 만들었다.
@@ -90,9 +88,11 @@ $$\begin{align}
 &= 2\mathbf{U}
 \end{align}$$
 ##### Case 2) regression forecast
-$$ \begin{align}
-\hat{u}_0 &= \hat{u}A \\
-\text{s.t.} \quad \min \varepsilon^T\varepsilon &= \min \langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle \end{align}$$ where $A$: const. reg. coeff. matrix 
+$$\begin{gathered}
+\hat{u}_0 = \hat{u}A \\
+\textrm{s.t.} \quad \min \varepsilon^T\varepsilon = \min (\langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle)
+\end{gathered}$$
+where $A$: const. reg. coeff. matrix 
 Let $y = XA \Rightarrow \varepsilon = y - XA$.
 $$ \varepsilon^T\varepsilon = (y-XA)^T(y-XA) $$ $$\begin{align}
 \frac{\partial \varepsilon^T\varepsilon}{\partial A} &= \frac{\partial}{\partial A} (y-XA)^T(y-XA)\\
@@ -184,3 +184,4 @@ scaled lagged average forecasting
 
 ### 6.5.1 | breeding
 
+### 6.5.2 | singular vectors
