@@ -164,6 +164,7 @@ scaled lagged average forecasting
 
 ##### Goals of ensemble forecasting
 1. improve the forecast by ensemble averaging
-	
-1. provide an indication of the reliability of the forecast
-2. provide a quantitative basis for probabilistic forecasting
+	uncertain한 members를 filter out해서 $\mathbf{A}$을 $\mathbf{T}$에 가깝게
+2. 
+3. provide an indication of the reliability of the forecast
+4. provide a quantitative basis for probabilistic forecasting
