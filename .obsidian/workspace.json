@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,8 +73,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "83bc2b92306454b6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -90,20 +99,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bc2b92306454b6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "d641a1865b18d4fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-25.md"
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
               }
             }
           }
@@ -183,12 +184,16 @@
   },
   "active": "67086563a77f3078",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TODO/2024-08-25.md",
+    "TODO/2024-08-23.md",
+    "TODO/2024-08-22.md",
+    "TODO/2024-08-21.md",
+    "TODO/2024-08-20.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "conflict-files-obsidian-git.md",
     "File/Pasted image 20240823092950.png",
     "Books/The Elements of Style.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
-    "TODO/2024-08-22.md",
     "File/Pasted image 20240822165849.png",
     "File/Pasted image 20240822165733.png",
     "File/Pasted image 20240822165643.png",
@@ -200,18 +205,14 @@
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
-    "TODO/2024-08-21.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Books/담론, 신영복의 마지막 강의.md",
     "TODO/2024-08-19.md",
     "How to apply Multiprocessing in my tasks.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-09-06.md",
-    "TODO/2024-08-20.md",
     "TODO/2024-08-18.md",
     "TODO/2024-08-17.md",
-    "TODO/2024-08-23.md",
     "TODO/2024-08-15.md",
     "TODO/2024-08-16.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
