@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-26",
-      "path": "TODO/2024-08-26.md"
-    },
-    {
-      "basename": "2024-08-25",
-      "path": "TODO/2024-08-25.md"
-    },
-    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
+      "basename": "2024-08-26",
+      "path": "TODO/2024-08-26.md"
+    },
+    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw.md"
+    },
+    {
+      "basename": "2024-08-25",
+      "path": "TODO/2024-08-25.md"
     },
     {
       "basename": "local bred vector dimension",
@@ -195,10 +195,6 @@
     {
       "basename": "WMO model 500hPa 평가 기준",
       "path": "TODO/WMO model 500hPa 평가 기준.md"
-    },
-    {
-      "basename": "GraphCast input 차이로 output이 달라지는지 Test",
-      "path": "Test/GraphCast input 차이로 output이 달라지는지 Test.md"
     }
   ],
   "omittedPaths": []

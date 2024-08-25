@@ -279,6 +279,7 @@ fkp
 fewer
 flow의
 fastest
+fOv
 name
 nYYYFF
 nOq
@@ -946,6 +947,7 @@ subspace로
 suggested
 saturated됨
 slower
+saturated
 topic
 tags
 templete
@@ -13923,6 +13925,7 @@ NXt
 NTc
 Notion
 Nonlinear
+NfWm
 쉄f
 믿vuum
 믿J
