@@ -4,11 +4,11 @@ datetime: 2024-08-19
 ---
 # 6. Atmosepheric Predictability and Ensemble Forecasting
 
-### 6.1 | Introduction to atmospheric predictability
+## 6.1 | Introduction to atmospheric predictability
 어쩌다 Lorenz가 butterfly effect를 발견하게 되었는가에 대한 간략한 story-telling
 
-### 6.2 | Brief review of fundamental concepts about chaotic systems
-##### Lorenz's three-variable model
+## 6.2 | Brief review of fundamental concepts about chaotic systems
+#### Lorenz's three-variable model
 $$\displaystyle\begin{cases}
 \dfrac{x}{t}=\sigma(y-x)\\
 \dfrac{y}{t}=rx-y-xz\\
@@ -19,21 +19,21 @@ $$\displaystyle\begin{cases}
 	nonlinear & autonomous system
 	init cond ($\sigma, b, r$) sensitively dep $\rightarrow$ chaotic solution
 
-##### Phase space
+#### Phase space
 solution space
 dimension = # of indep variables
 dim of the attractor; init transient period 이후 방문한 subspace의 dim은 더 작다
-##### Trajectory or Orbit
+#### Trajectory or Orbit
 init cond가 주어졌을 때의 solution in Phase space
-##### Transient
+#### Transient
 initial portion of the trajectory
-##### Attractor
+#### Attractor
 transient가 끝나고 trajectories가 계속 접근하는 set of points
 각 components는 basins of attraction을 갖음
 - stationary points^[equilibrium or steady state solutions of the dynamical squations]
 - periodic orbits
 - strange attractors^[can include periodic orbits]
-##### Bifurcation point
+#### Bifurcation point
 flow가 abruptly change하는 지점
 
 $$\displaystyle\begin{cases}
@@ -47,28 +47,26 @@ periodic motion bifurcation
 $\rightarrow$ periodic doubling 
 $\rightarrow$ sequence of period doubling bifurcation 
 $\rightarrow$ chaotic behavior
-
-##### Lyapunov exponent 
+#### Lyapunov exponent 
 Measures sensitivity to initial conditions in dynamical systems
 $\rightarrow$ dynamical system of $n$-variables의 long-term stability
 	$\exists \lambda_i >0$ : chaotic behavior
 	$\forall i, \lambda_i \leq 0$ : stable system
-$$\displaystyle\Rightarrow \quad \begin{cases}
-\sum \lambda_i = 0 \text{: Hamiltonian (volume-conserving) system}\\
-\sum \lambda_i \neq 0\text{: dissipative system}\end{cases}$$![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw|700]]
-### 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
+$$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian (volume-conserving) system} \\ &\sum \lambda_i \neq 0 &: \textrm{dissipative system} \end{aligned}$$![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw|700]]
+
+## 6.3 | Tangent linear model, adjoint model, singular vecotrs, and Lyapunov vectors
 이런 저런 방법으로 여러 모델들을 만들었다.
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
 
-### 6.4 | Ensemble forecasting: early studies
+## 6.4 | Ensemble forecasting: early studies
 instability로 인한 error growth는 ineveitably lead to a total loss of skill in the weather forecasts after a finite forecast length.
 > Lorenz estimated this limit of weather predictability as about two weeks.
 
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw|700]]
 
-###### 6.4.1 | Stochastic-dynamic forecasting
+### 6.4.1 | Stochastic-dynamic forecasting
 
-###### 6.4.2 | Monte Carlo forecasting
+### 6.4.2 | Monte Carlo forecasting
 **Symbols)**
 $\mathbf{u}_0$ : true state of the atmosphere
 $\hat{\mathbf{u}}$ : unbiased estimate of $\mathbf{u}_0 \rightarrow \langle\hat{u}\rangle = 0$ 
@@ -81,8 +79,7 @@ $$\begin{align*}
 
 $\Rightarrow$ forecast error covariance를 최대한 $\mathbf{U}$에 가깝게 만들어보자
 
-**Case 1)** 
-single forecast error covariance
+##### Case 1) single forecast error covariance
 $$\begin{align}
 \langle (\hat{\mathbf{u}}-\mathbf{u}_0)(\hat{\mathbf{u}}-\mathbf{u}_0)^T \rangle &= \langle (\hat{\mathbf{u}}\hat{\mathbf{u}}^T + \mathbf{u}_0\mathbf{u}_0^T - \hat{\mathbf{u}}\mathbf{u}_0^T - \mathbf{u}_0\hat{\mathbf{u}}^T) \rangle \\
 &= \langle \hat{\mathbf{u}}\hat{\mathbf{u}}^T \rangle + \langle \mathbf{u}_0\mathbf{u}_0^T \rangle - \langle \hat{\mathbf{u}}\mathbf{u}_0^T \rangle - \langle \mathbf{u}_0\hat{\mathbf{u}}^T \rangle \\
@@ -90,19 +87,19 @@ $$\begin{align}
 &= \mathbf{U} + \mathbf{U}\quad (\because\text{unbiased model }\rightarrow \mathbb{E}[\hat{\mathbf{u}}\hat{\mathbf{u}}^T ]\simeq \mathbb{E}[\mathbf{u}_0\mathbf{u}_0^T])\\
 &= 2\mathbf{U}
 \end{align}$$
-**Case 2)** 
-regression forecast
-$$ \begin{align}
-\hat{u}_0 &= \hat{u}A \\
-\text{s.t.} \quad \min \varepsilon^T\varepsilon &= \min \langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle \end{align}$$ where $A$: const. reg. coeff. matrix 
+##### Case 2) regression forecast
+$$\begin{gathered}
+\hat{u}_0 = \hat{u}A \\
+\textrm{s.t.} \quad \min \varepsilon^T\varepsilon = \min (\langle (u_0-\hat{u}A)^T(u_0-\hat{u}A) \rangle)
+\end{gathered}$$
+where $A$: const. reg. coeff. matrix 
 Let $y = XA \Rightarrow \varepsilon = y - XA$.
 $$ \varepsilon^T\varepsilon = (y-XA)^T(y-XA) $$ $$\begin{align}
 \frac{\partial \varepsilon^T\varepsilon}{\partial A} &= \frac{\partial}{\partial A} (y-XA)^T(y-XA)\\
 &= -2X^T(y-XA)\\ &= 0 \\ 
 \Rightarrow 2X^Ty &= 2X^TXA \end{align}$$ $$ \therefore A = (X^TX)^{-1}X^Ty = X^\dagger y $$$$\Rightarrow A = \langle \hat{u}^T\hat{u} \rangle^{-1} \langle \hat{u}^Tu_0 \rangle \quad (\because u_0 \sim y, \hat{u} \sim X)$$but matrix size $\uparrow$ $\Rightarrow$ computational cost $\uparrow$
 
-**Case 3)** 
-ensemble forecast error covariance
+##### Case 3) ensemble forecast error covariance
 $\mathbf{r_i}$: perturbation
 $\hat{\mathbf{u}}$: init best estimate
 $\displaystyle\overline{u} := \frac{1}{m} \sum u_i$: avg of ensemble $m$ forecasts
@@ -125,7 +122,7 @@ $\Rightarrow$ ensemble 개수가 적어도 tempering 잘 됨 / stochastic보다 
 $\quad$ ensemble mean은 8개만 있어도 되지만 forecast error는 많이 필요하다
 $\Rightarrow$ init perturbation을 어케 줄건지, # of ensemble이 중요
 
-###### 6.4.3 | lagged average forecasting
+### 6.4.3 | lagged average forecasting
 $t = -\tau, -2\tau, \cdots, -(N-1)\tau$ 로 init time을 잡아서 ensemble 생성
 $\rightarrow$ automatically generated forecast error를 perturbation으로 사용
 $\quad$ !randomly chosen error, but contains "errors of the day"
@@ -148,8 +145,10 @@ scaled lagged average forecasting
 - 다른 init time에 perturbation scale이 거의 비슷
 - ??? $\rightarrow$ Laypunov exponent에 sign 부여해서 better
 - regional scale에서 easy implement $\because$ boundary condition을 generate
-### 6.5 | Operational ensemble forecasting Methods
-##### Elements
+
+## 6.5 | Operational ensemble forecasting Methods
+
+#### Elements
 1) *control* forecast, $\mathbf{C}$
 	analysis에서 시작
 	= best estimate of the true initial state of the atmosphere에서 시작
@@ -158,5 +157,32 @@ scaled lagged average forecasting
 3) *ensemble average*, $\mathbf{A}$
 4) *true evolution* of the atmosphere, $\mathbf{T}$
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw|700]]
-(a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}랑 가까워
-(b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$  ststematic error
+
+(a) $\mathbf{T}$랑 멀면 slow error growth, 가까우면 fast $\rightarrow$ $\mathbf{A}$랑 $\mathbf{T}$랑 가까워
+(b) $\mathbf{T}$랑 model 결과랑 서로 다른 방향으로 나아감 $\rightarrow \exists$ ststematic error,  $\exists$ deficiency in the forecasting system
+
+#### Goals of ensemble forecasting
+1. improve the forecast by ensemble averaging
+	uncertain한 members를 filter out해서 $\mathbf{A}$을 $\mathbf{T}$에 가깝게
+	perturbation이 nonlinear하게 증가해야 filtering 가능
+	
+2. provide an indication of the reliability of the forecast
+	ensemble spread $\leftrightarrow$ forecast error 
+	forecast agreement $\leftrightarrow$ forecast skill
+	예측의 근거를 만들어 준다
+3. provide a quantitative basis for probabilistic forecasting
+   확률 제공해 줌
+
+#### Perturbations
+어떻게 generate해서 amplitude를 어느 정도로 잡을 것인가
+1. Monte Carlo forecasting
+	value: random
+	amplitude: realistic, estimated analysis uncertainty랑 compatible하게
+	> random initial perturbations do not grow as fast as the real analysis errors, even if they are in quasi-geostrophic balance.
+2. breeding & singular vector
+	underlying atm flow를 반영한 perturbation grow error를 사용
+
+### 6.5.1 | breeding
+
+
+### 6.5.2 | singular vectors
