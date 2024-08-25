@@ -22,12 +22,22 @@
             }
           },
           {
-            "id": "ce98a703ebe87968",
+            "id": "9d1c42178461c00e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md"
+                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a815604ccc9ffa98",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.58.49.excalidraw.md"
               }
             }
           }
@@ -216,8 +226,13 @@
   },
   "active": "14d470140efa97ad",
   "lastOpenFiles": [
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md",
+    "Books/local bred vector dimension.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw.md",
+    "File/Pasted Image 20240825171659_615.png",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.58.49.excalidraw.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md",
+    "File/Pasted Image 20240825165904_919.png",
     "File/Pasted Image 20240825162605_290.png",
     "Papers/C. Bodnar, et. al., 2024.md",
     "TODO/2024-09-06.md",
@@ -239,8 +254,6 @@
     "File/Pasted image 20240822165849.png",
     "File/Pasted Image 20240822170007_201.png",
     "File/Pasted Image 20240822170027_218.png",
-    "File/Pasted Image 20240822170027_223.png",
-    "File/Pasted Image 20240822165952_191.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
     "TODO/2024-08-21.md",
     "TODO/2024-08-19.md",
@@ -249,8 +262,6 @@
     "Books/담론, 신영복의 마지막 강의.md",
     "TODO/2024-08-06.md",
     "GraphCast/Task/Task.md",
-    "Test/GraphCast Butterfly Effect Test.md",
-    "GraphCast/Task/Input Data 다운.md",
     "Test/Untitled.canvas",
     "Test",
     "TODO/Monthly"

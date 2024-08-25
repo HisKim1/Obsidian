@@ -5,6 +5,18 @@
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
+      "basename": "local bred vector dimension",
+      "path": "Books/local bred vector dimension.md"
+    },
+    {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw",
+      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw.md"
+    },
+    {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.58.49.excalidraw",
+      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.58.49.excalidraw.md"
+    },
+    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "General Forecasting Problem Statement",
       "path": "GraphCast/paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Test/Untitled.canvas"
-    },
-    {
-      "basename": "@M. Bonavita, 2024",
-      "path": "Papers/@M. Bonavita, 2024.md"
-    },
-    {
-      "basename": "@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw",
-      "path": "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md"
     }
   ],
   "omittedPaths": []
