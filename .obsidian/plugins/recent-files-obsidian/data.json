@@ -5,12 +5,12 @@
       "path": "TODO/2024-08-25.md"
     },
     {
-      "basename": "2024-08-23",
-      "path": "TODO/2024-08-23.md"
-    },
-    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "2024-08-23",
+      "path": "TODO/2024-08-23.md"
     },
     {
       "basename": "2024-08-22",
@@ -195,10 +195,6 @@
     {
       "basename": "GraphCast GFS by NOAA",
       "path": "GraphCast/Task/GraphCast GFS by NOAA.md"
-    },
-    {
-      "basename": "GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교",
-      "path": "GraphCast/Task/GC data에서 chunk로 파일 오픈 vs 그냥 오픈한 거 plot해서 차이 비교.md"
     }
   ],
   "omittedPaths": []

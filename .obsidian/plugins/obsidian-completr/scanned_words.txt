@@ -2961,6 +2961,7 @@ ovg
 ooN
 oXn
 ojz
+origin
 Reasoning
 Resources
 Residual
@@ -3451,6 +3452,7 @@ ANv
 AoO
 AwS
 AHF
+Aurora
 Link
 LOO
 LQWW
@@ -8826,6 +8828,7 @@ Hsy
 HbO
 Hsvx
 HwO
+HEAD
 즉시
 Pressure
 PNG
