@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
+      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw",
+      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md"
+    },
+    {
+      "basename": "Pasted Image 20240825162605_290",
+      "path": "File/Pasted Image 20240825162605_290.png"
+    },
+    {
+      "basename": "C. Bodnar, et. al., 2024",
+      "path": "Papers/C. Bodnar, et. al., 2024.md"
+    },
+    {
+      "basename": "2024-09-06",
+      "path": "TODO/2024-09-06.md"
+    },
+    {
       "basename": "2024-08-25",
       "path": "TODO/2024-08-25.md"
     },
     {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+      "basename": "paper",
+      "path": "Templete/paper.md"
+    },
+    {
+      "basename": "@D. Kochkov, et al., 2024",
+      "path": "Papers/@D. Kochkov, et al., 2024.md"
     },
     {
       "basename": "2024-08-23",
@@ -87,10 +111,6 @@
     {
       "basename": "담론, 신영복의 마지막 강의",
       "path": "Books/담론, 신영복의 마지막 강의.md"
-    },
-    {
-      "basename": "2024-09-06",
-      "path": "TODO/2024-09-06.md"
     },
     {
       "basename": "2024-08-06",
@@ -179,22 +199,6 @@
     {
       "basename": "@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw",
       "path": "File/@T.Selz and G. C. Craig, 2023 2024-08-14 09.32.39.excalidraw.md"
-    },
-    {
-      "basename": "@T.Selz and G. C. Craig, 2023",
-      "path": "Papers/@T.Selz and G. C. Craig, 2023.md"
-    },
-    {
-      "basename": "Dataset",
-      "path": "GraphCast/Dataset.md"
-    },
-    {
-      "basename": "ERA5",
-      "path": "GraphCast/ERA5.md"
-    },
-    {
-      "basename": "GraphCast GFS by NOAA",
-      "path": "GraphCast/Task/GraphCast GFS by NOAA.md"
     }
   ],
   "omittedPaths": []

@@ -273,6 +273,9 @@ fyd
 formal해지지
 follow
 flow를
+faster
+fUj
+fkp
 name
 nYYYFF
 nOq
@@ -930,6 +933,8 @@ sentences가
 stain
 separated
 summaries
+sefN
+sNR
 topic
 tags
 templete
@@ -1545,6 +1550,7 @@ antecedent라서
 antecedent를
 abide
 amplitude를
+afJB
 cssclasses
 considered
 cell
@@ -1939,6 +1945,8 @@ construction
 ceremony
 center
 compatible하게
+control
+cycle에
 Tool
 Troposphere에서
 Thermal
@@ -2428,6 +2436,7 @@ Brf
 BiF
 BjWD
 Bjh
+Breeding
 description
 driving
 dAJ
@@ -2735,6 +2744,9 @@ dum
 dDc
 daBJF
 dxN
+dynamics를
+dqY
+dfrac
 of
 ojjjii
 oJg
@@ -2962,6 +2974,8 @@ ooN
 oXn
 ojz
 origin
+oCE
+obtain
 Reasoning
 Resources
 Residual
@@ -3453,6 +3467,7 @@ AoO
 AwS
 AHF
 Aurora
+ApI
 Link
 LOO
 LQWW
@@ -3679,6 +3694,9 @@ LSQ
 LgT
 LRWZ
 LVHqL
+LhZ
+LUz
+LLVs
 relevant
 residual
 rK
@@ -4003,6 +4021,7 @@ rug
 relative를
 random
 real
+rGlT
 blog
 break
 breaking에
@@ -4274,6 +4293,9 @@ bpC
 bbe
 basis
 breeding
+bYu
+blT
+bred
 posts
 pf
 pss
@@ -4682,6 +4704,7 @@ ppqGl
 principle
 parallel
 principal
+pVMe
 here
 host
 haa
@@ -5383,6 +5406,7 @@ leftrightarrow
 가공할
 가깝게
 가까워
+가진
 요청
 요소
 요지를
@@ -5919,6 +5943,8 @@ gdF
 g퓄s
 generate해서
 grow
+github
+generalization
 GraphCast
 GPU
 Geostrophic
@@ -6133,6 +6159,7 @@ Gix
 GOp
 GLQ
 GdrV
+GlV
 Cast
 Circulation
 Changes
@@ -6359,6 +6386,8 @@ Ciy
 CGI
 CZS
 CiY
+CRQw
+Cycle
 Output
 OD
 OLL
@@ -6569,6 +6598,8 @@ OqS
 O댩
 OXd
 Otherwise
+OwVV
+OhK
 Error
 Eddy
 EEE
@@ -6861,6 +6892,7 @@ EFXR
 ERY
 EMN
 Express
+EbU
 Message
 Mean
 MJJ
@@ -7094,6 +7126,8 @@ MdY
 Myt
 MRa
 Muh
+MS의
+MrS
 in
 iii
 iYp
@@ -7369,6 +7403,8 @@ ijkF
 iSt
 iSz
 ideas
+iQM
+iRa
 지난
 지표
 지속
@@ -7391,6 +7427,7 @@ ideas
 지수함수를
 지점
 지우고
+지나면
 보내주신
 보통
 보임
@@ -7775,6 +7812,7 @@ SOy
 SdfN
 SlPx
 SkP
+SOM
 순환
 순환을
 순환의
@@ -7834,6 +7872,7 @@ SkP
 주어를
 주어졌을
 주어
+주면
 방정식
 방안
 방법
@@ -8039,6 +8078,7 @@ zYz
 zZd
 zUMi
 zRX
+zelV
 mean
 mx
 mboy
@@ -8331,6 +8371,7 @@ mry
 mmI
 mYj
 modifier도
+mxugF
 서풍에
 서로
 서버의
@@ -8573,6 +8614,7 @@ WWWg
 공유하며
 공부하기
 공유하기
+공개됨
 단열
 단기에
 단위
@@ -8829,6 +8871,8 @@ HbO
 Hsvx
 HwO
 HEAD
+HPu
+Hzc
 즉시
 Pressure
 PNG
@@ -9354,6 +9398,8 @@ Fcc
 FjcU
 FHGq
 FADs
+Foundation
+FDz
 초기
 초기화
 위치
@@ -9626,6 +9672,7 @@ wYy
 wDs
 woU
 wUU
+wZa
 높이
 높은
 활성화
@@ -9970,6 +10017,7 @@ IDATL
 IRR
 ITg
 IUX
+IDATS
 yb
 yyyvvv
 yzz
@@ -10837,6 +10885,8 @@ kus
 kKv
 kWR
 keep
+kFF
+kmq
 xxxnn
 xh
 xU
@@ -11030,6 +11080,7 @@ xKn
 xEy
 xgi
 xCBB
+xdD
 JKjj
 JJJP
 JL
@@ -11267,6 +11318,8 @@ JRh
 Jdx
 JpO
 JiU
+JNC
+JkE
 YY
 YlzK
 YRRR
@@ -11446,6 +11499,8 @@ Ysh
 YgY
 YeN
 YIt
+Yuu
+YzAgGp
 Kx
 KAA
 KMM
@@ -11885,6 +11940,7 @@ UuG
 UUUf
 UbM
 UTGud
+UWM
 eG
 ell
 edd
@@ -12390,6 +12446,9 @@ VPE
 Vxq
 VIw
 VoCWMAAP
+VhJ
+VeNf
+VRGNVCHe
 uuu
 uJMM
 ukii
@@ -12607,6 +12666,10 @@ uJp
 uGACA
 uncertainty랑
 underlying
+uXkwX
+uHw
+uSs
+ucLBztXw
 DEEE
 DPP
 Dt
@@ -12874,6 +12937,7 @@ Dsbys
 DXZG
 DXPT
 Ddu
+D쥗
 vm
 vLL
 vX
@@ -13116,6 +13180,7 @@ vPb
 vft
 vary
 vector
+vectors가
 qbRRRrr
 qZ
 ql
@@ -13522,6 +13587,7 @@ ZNDD
 ZYU
 ZuT
 Zax
+ZzU
 NMMm
 NN
 NdAa
@@ -13916,6 +13982,7 @@ Notion
 생각하는
 생성해
 생각합니다
+생긴다
 적당했다
 적용
 적절한
@@ -14385,6 +14452,7 @@ Notion
 부분적으로
 알아서
 알려진
+알고
 뜬다
 라이브러리
 라고
@@ -15233,3 +15301,4 @@ Notion
 놓치지
 옮길
 옮겨
+뼎DQ

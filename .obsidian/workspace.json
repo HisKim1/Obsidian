@@ -20,6 +20,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce98a703ebe87968",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md"
+              }
+            }
           }
         ]
       },
@@ -34,8 +44,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-25.md",
-                "mode": "source",
+                "file": "TODO/2024-09-06.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"author\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-25.md"
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
               }
             }
           },
@@ -106,11 +116,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +214,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cbccb82a229df87",
+  "active": "14d470140efa97ad",
   "lastOpenFiles": [
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-    "conflict-files-obsidian-git.md",
+    "File/Pasted Image 20240825162605_290.png",
+    "Papers/C. Bodnar, et. al., 2024.md",
+    "TODO/2024-09-06.md",
     "TODO/2024-08-25.md",
+    "Templete/paper.md",
+    "Papers/C. Bondar, et. al., 2024.md",
+    "Papers/@D. Kochkov, et al., 2024.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-08-23.md",
     "File/Pasted image 20240823092950.png",
     "TODO/2024-08-22.md",
@@ -229,20 +247,12 @@
     "TODO/2024-08-20.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw.md",
     "Books/담론, 신영복의 마지막 강의.md",
-    "TODO/2024-09-06.md",
     "TODO/2024-08-06.md",
     "GraphCast/Task/Task.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "GraphCast/Task/Input Data 다운.md",
-    "TODO/2024-08-14.md",
-    "Papers/@WMO, 2012.md",
-    "Templete/TODO.md",
-    "TODO/2024-08-15.md",
-    "TODO/2024-08-16.md",
-    "TODO/2024-08-17.md",
     "Test/Untitled.canvas",
     "Test",
-    "File/Pasted image 20240731110643.png",
     "TODO/Monthly"
   ]
 }

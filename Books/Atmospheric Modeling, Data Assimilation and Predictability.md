@@ -183,6 +183,14 @@ scaled lagged average forecasting
 	underlying atm flow를 반영한 perturbation grow error를 사용
 
 ### 6.5.1 | breeding
+evolving underlying dynamics를 알고 있는 perturbation을 주면 error grow faster
+$\rightarrow$ breeding := nonlinear integration 2개 돌려 나온 차이로부터 approx. linear perturbation을 obtain하는 방법
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.26.01.excalidraw|700]]
+1) introduce a random initial perturbation (a.k.a. random seed) w/ a given init size. 1번만
+2) control & perturbed init cond + the same nonlinear model
+3) fixed time interval마다 $$\displaylines{\dfrac{(\text{perturbed forecast}) - (\text{control forecast})}{2}} + \text{new analysis | model state}$$
+4) transient 3~4일 지나면 fast growth rate 가진 bred vectors가 breeding cycle에 생긴다 
 
+breeding ~ analysis cycle
 
 ### 6.5.2 | singular vectors
