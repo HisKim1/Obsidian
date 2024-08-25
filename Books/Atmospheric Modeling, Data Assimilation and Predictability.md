@@ -58,6 +58,14 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 이런 저런 방법으로 여러 모델들을 만들었다.
 > He also pointed out that the predictability of the model is not constant with time: it depends on the stability of the evolving atmospheric flow.
 
+### 6.3.1 | Tangent linear model and adjoint model
+
+### 6.3.2 | Singular vectors
+
+### 6.3.3 | Lyapunov vectors
+
+### 6.3.4 | Simple examples of singular vectors and eignenvectors
+
 ## 6.4 | Ensemble forecasting: early studies
 instability로 인한 error growth는 ineveitably lead to a total loss of skill in the weather forecasts after a finite forecast length.
 > Lorenz estimated this limit of weather predictability as about two weeks.
@@ -202,6 +210,10 @@ empirically, finite amplitude bred vectors $\not\to$ single leading bred vector
 사례)
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw|700]]
 
-[[local bred vector dimension]]
+collapse of the perturbations into fewer dimensions
+$\simeq$ [[local bred vector dimension]]이 smaller subspace로 align
+$\Rightarrow$ underlying atm flow의 regional dominant instability를 표현하는 dominant Lyapunov vectors가 locally grow한다
+
+
 
 ### 6.5.2 | singular vectors

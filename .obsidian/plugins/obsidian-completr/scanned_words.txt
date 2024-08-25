@@ -937,6 +937,7 @@ sefN
 sNR
 signs
 seeds
+second
 topic
 tags
 templete
@@ -1954,6 +1955,7 @@ construct
 cycle
 cycly
 competing
+calculation이
 Tool
 Troposphere에서
 Thermal
@@ -2754,6 +2756,11 @@ dxN
 dynamics를
 dqY
 dfrac
+dimensionality를
+define
+direction으로
+direction이
+dominant하기
 of
 ojjjii
 oJg
@@ -4031,6 +4038,7 @@ relative를
 random
 real
 rGlT
+represent하는
 blog
 break
 breaking에
@@ -5299,6 +5307,8 @@ lKe
 lIr
 lVAH
 leftrightarrow
+lie하고
+lie한다면
 버전
 버전으로
 이상이
@@ -6908,6 +6918,7 @@ ERY
 EMN
 Express
 EbU
+Example
 Message
 Mean
 MJJ
@@ -7455,6 +7466,7 @@ iRa
 보여주고
 보조의
 보인다면
+보다
 대로
 대기
 대신에
@@ -7575,6 +7587,7 @@ iRa
 개만
 개요
 개선할
+개가
 Stratospheric
 Surface
 SU
@@ -9162,6 +9175,7 @@ Pgcw
 PiZ
 PHQ
 Perturbations
+Patil
 질량
 질서도
 질문하고
@@ -13887,6 +13901,7 @@ Notion
 때문
 때까지
 때는
+때문임
 만큼
 만들어
 만드는
@@ -14193,6 +14208,7 @@ Notion
 수행하면
 수식하는지
 수식어구
+수리과학
 따른
 따라
 따로
@@ -14249,6 +14265,7 @@ Notion
 거의
 거칠더라도
 거기서
+거임
 관련
 관측을
 관측
@@ -14393,6 +14410,7 @@ Notion
 오차
 오래
 오후
+오룡관
 분포
 분열
 분류하는

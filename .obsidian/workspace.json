@@ -20,26 +20,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d1c42178461c00e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a815604ccc9ffa98",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.58.49.excalidraw.md"
-              }
-            }
           }
         ]
       },
@@ -54,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-06.md",
-                "mode": "preview",
+                "file": "TODO/2024-08-25.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -126,12 +106,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -228,6 +207,8 @@
   "lastOpenFiles": [
     "Books/local bred vector dimension.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "TODO/2024-08-25.md",
+    "TODO/2024-09-06.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw.md",
     "File/Pasted Image 20240825171659_615.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 16.58.49.excalidraw.md",
@@ -235,8 +216,6 @@
     "File/Pasted Image 20240825165904_919.png",
     "File/Pasted Image 20240825162605_290.png",
     "Papers/C. Bodnar, et. al., 2024.md",
-    "TODO/2024-09-06.md",
-    "TODO/2024-08-25.md",
     "Templete/paper.md",
     "Papers/C. Bondar, et. al., 2024.md",
     "Papers/@D. Kochkov, et al., 2024.md",
