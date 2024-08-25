@@ -241,14 +241,16 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
     - finite amplitudes → Lyapunov vectors of slow-growing modes
     - very small amplitudes → Lyapunov vectors of fast system
 
-##### Implications for Complex Systems (e.g., Atmosphere)
-
+##### Implications for complex systems (e.g., Atmosphere)
 - Breeding may be more appropriate than Lyapunov vectors
 - Lyapunov vectors in full atmospheric models → associated with Brownian motion (fastest but irrelevant instabilities)
 
-##### Potential Applications
+##### Potential applications
 - Seasonal and interannual forecasting (coupled ocean-atmosphere systems):
     - Could capture slower-growing, high-energy ENSO instabilities
     - Eliminates irrelevant weather perturbation details through nonlinear saturation
+
+##### Targeted observations
+
 
 ### 6.5.2 | singular vectors
