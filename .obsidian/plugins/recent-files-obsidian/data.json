@@ -5,12 +5,16 @@
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
-      "basename": "local bred vector dimension",
-      "path": "Books/local bred vector dimension.md"
-    },
-    {
       "basename": "2024-08-25",
       "path": "TODO/2024-08-25.md"
+    },
+    {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw",
+      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw.md"
+    },
+    {
+      "basename": "local bred vector dimension",
+      "path": "Books/local bred vector dimension.md"
     },
     {
       "basename": "2024-09-06",
@@ -195,10 +199,6 @@
     {
       "basename": "@Lam. et al., 2023",
       "path": "Papers/@Lam. et al., 2023.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "GraphCast/paper/General Forecasting Problem Statement.md"
     }
   ],
   "omittedPaths": []

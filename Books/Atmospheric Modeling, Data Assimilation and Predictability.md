@@ -214,6 +214,41 @@ collapse of the perturbations into fewer dimensions
 $\simeq$ [[local bred vector dimension]]이 smaller subspace로 align
 $\Rightarrow$ underlying atm flow의 regional dominant instability를 표현하는 dominant Lyapunov vectors가 locally grow한다
 
+#### @Toth and Kalnay, 1993
+>suggested that the use of nonlinear perturbations in breeding filter out Lyapunov vectors related to fast-growing but energetically irrelevant instabilities. like convection.
 
+case 1) baroclinic modes
+initial amplitude $\leq$ estimated analysis error
+	(i.e., 1-15m for 500 hPa geopotential height)
+Bred vectors가 strong baroclinic areas에서 developed faster 
+$\to$ horizontal scale $\simeq$ short baroclinic waves
+& hemispherical growth rate = ~1.5/day $\simeq$ estimated analysis errors
+
+case 2) convective modes
+smaller initial amplitude $<<$ estimated analysis error
+	(≤10cm)
+bred vector $\mapsto$ convective instabilities
+growth rate > 5/day; faster than baroclinic instabilities
+$\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
+
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw|700]]
+
+#### @Lorenz, 1996
+- Low-order models
+    - large amplitude, slow-growing modes
+    - small amplitudes, fast-growing modes
+- Results
+    - finite amplitudes → Lyapunov vectors of slow-growing modes
+    - very small amplitudes → Lyapunov vectors of fast system
+
+##### Implications for Complex Systems (e.g., Atmosphere)
+
+- Breeding may be more appropriate than Lyapunov vectors
+- Lyapunov vectors in full atmospheric models → associated with Brownian motion (fastest but irrelevant instabilities)
+
+##### Potential Applications
+- Seasonal and interannual forecasting (coupled ocean-atmosphere systems):
+    - Could capture slower-growing, high-energy ENSO instabilities
+    - Eliminates irrelevant weather perturbation details through nonlinear saturation
 
 ### 6.5.2 | singular vectors

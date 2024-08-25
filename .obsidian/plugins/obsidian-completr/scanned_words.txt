@@ -276,6 +276,9 @@ flow를
 faster
 fUj
 fkp
+fewer
+flow의
+fastest
 name
 nYYYFF
 nOq
@@ -511,6 +514,7 @@ nsm
 nR
 nUW
 noticed
+nFKSZe
 site
 status
 stratosphere에서
@@ -938,6 +942,10 @@ sNR
 signs
 seeds
 second
+subspace로
+suggested
+saturated됨
+slower
 topic
 tags
 templete
@@ -1555,6 +1563,10 @@ abide
 amplitude를
 afJB
 anaylsis
+areas에서
+amplitude에서
+amplitudes
+appropriate
 cssclasses
 considered
 cell
@@ -1956,6 +1968,8 @@ cycle
 cycly
 competing
 calculation이
+collapse
+capture
 Tool
 Troposphere에서
 Thermal
@@ -2217,6 +2231,7 @@ TOU
 TgR
 TAvTe
 TfC
+Toth
 Brief
 Bfloat
 Balance
@@ -2446,6 +2461,8 @@ BiF
 BjWD
 Bjh
 Breeding
+Bred
+Brownian
 description
 driving
 dAJ
@@ -2761,6 +2778,9 @@ define
 direction으로
 direction이
 dominant하기
+dimensions
+dominant
+developed
 of
 ojjjii
 oJg
@@ -2991,6 +3011,8 @@ origin
 oCE
 obtain
 originated
+order
+ocean
 Reasoning
 Resources
 Residual
@@ -3484,6 +3506,8 @@ AHF
 Aurora
 ApI
 Analysis
+Advantages
+Applications
 Link
 LOO
 LQWW
@@ -4039,6 +4063,7 @@ random
 real
 rGlT
 represent하는
+range보다
 blog
 break
 breaking에
@@ -4314,6 +4339,7 @@ bYu
 blT
 bred
 breed
+baroclinic
 posts
 pf
 pss
@@ -4982,6 +5008,9 @@ hJum
 hzAV
 hgg
 htDM
+horizontal
+hemispherical
+high
 작업
 작동
 작업해보았는데
@@ -5309,6 +5338,7 @@ lVAH
 leftrightarrow
 lie하고
 lie한다면
+locally
 버전
 버전으로
 이상이
@@ -5969,6 +5999,8 @@ generate해서
 grow
 github
 generalization
+grow한다
+growing
 GraphCast
 GPU
 Geostrophic
@@ -6413,6 +6445,7 @@ CZS
 CiY
 CRQw
 Cycle
+Could
 Output
 OD
 OLL
@@ -6919,6 +6952,7 @@ EMN
 Express
 EbU
 Example
+Eliminates
 Message
 Mean
 MJJ
@@ -7431,6 +7465,9 @@ iSz
 ideas
 iQM
 iRa
+instability를
+irrelevant
+instabilities
 지난
 지표
 지속
@@ -7841,6 +7878,8 @@ SdfN
 SlPx
 SkP
 SOM
+Singular
+Simple
 순환
 순환을
 순환의
@@ -8401,6 +8440,7 @@ mYj
 modifier도
 mxugF
 mkc
+modes
 서풍에
 서로
 서버의
@@ -9176,6 +9216,7 @@ PiZ
 PHQ
 Perturbations
 Patil
+Potential
 질량
 질서도
 질문하고
@@ -9430,6 +9471,7 @@ FHGq
 FADs
 Foundation
 FDz
+Finite
 초기
 초기화
 위치
@@ -10048,6 +10090,7 @@ IRR
 ITg
 IUX
 IDATS
+Implications
 yb
 yyyvvv
 yzz
@@ -12279,6 +12322,9 @@ exists
 error를
 erxoNDZG
 empirically
+examples
+eignenvectors
+energetically
 VAA
 VWWc
 VUU
@@ -12482,6 +12528,7 @@ VoCWMAAP
 VhJ
 VeNf
 VRGNVCHe
+Very
 uuu
 uJMM
 ukii
@@ -13214,6 +13261,7 @@ vft
 vary
 vector
 vectors가
+vLG
 qbRRRrr
 qZ
 ql
@@ -13874,6 +13922,7 @@ Ntz
 NXt
 NTc
 Notion
+Nonlinear
 쉄f
 믿vuum
 믿J
@@ -14772,6 +14821,7 @@ Notion
 표현하기
 표현
 표현해라
+표현하는
 찾을
 찾기
 찾아가기
