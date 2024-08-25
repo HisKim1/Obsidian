@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "TODO/2024-08-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-08-25.md"
+                "file": "TODO/2024-08-26.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "TODO/2024-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-08-25.md",
+                "file": "TODO/2024-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +215,9 @@
   },
   "active": "14d470140efa97ad",
   "lastOpenFiles": [
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-08-25.md",
+    "TODO/2024-08-26.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw.md",
     "File/Pasted Image 20240825190749_064.png",
     "Books/local bred vector dimension.md",
