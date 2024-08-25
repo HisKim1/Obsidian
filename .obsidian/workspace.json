@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Elements of Style.md"
+                "file": "TODO/2024-08-25.md"
               }
             }
           }
@@ -183,6 +183,8 @@
   },
   "active": "67086563a77f3078",
   "lastOpenFiles": [
+    "Books/The Elements of Style.md",
+    "TODO/2024-08-25.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "TODO/2024-08-22.md",
     "conflict-files-obsidian-git.md",
@@ -197,7 +199,6 @@
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
-    "Books/The Elements of Style.md",
     "TODO/2024-08-21.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Books/담론, 신영복의 마지막 강의.md",

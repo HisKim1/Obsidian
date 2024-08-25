@@ -178,6 +178,8 @@ finite
 form으로
 forgot
 fact
+formal해지지
+follow
 name
 nYYYFF
 nOq
@@ -315,6 +317,7 @@ negative라도
 never
 noncommittal
 nd는
+noticed
 site
 status
 stratosphere에서
@@ -621,6 +624,11 @@ sensitivity
 strong하다
 sentences에서
 superfluous
+sentences일
+sentences가
+stain
+separated
+summaries
 topic
 tags
 templete
@@ -805,6 +813,12 @@ train
 tuned
 trifling
 tell하게
+too
+tedious
+transferred
+tense
+timid
+triteness
 aliases
 against
 and
@@ -1013,6 +1027,11 @@ auxiliaries들은
 authority
 arouse
 auxiliary
+article
+antecedent
+antecedent라서
+antecedent를
+abide
 cssclasses
 considered
 cell
@@ -1289,6 +1308,12 @@ components는
 constant
 concise한
 conjunctiond이나
+conjunction이나
+compact
+coordinate
+construction
+ceremony
+center
 Tool
 Troposphere에서
 Thermal
@@ -2526,6 +2551,10 @@ repent
 rate의
 review
 relative로
+repeating
+related
+rug
+relative를
 blog
 break
 breaking에
@@ -2973,6 +3002,9 @@ proof
 pointed
 pay
 prose
+principle
+parallel
+principal
 here
 host
 haa
@@ -3143,6 +3175,7 @@ hastily
 문장은
 문장이
 문의하기
+문제가
 상황
 상위버전들이
 상승한
@@ -4158,6 +4191,7 @@ Objective
 Oscar
 Orbit
 Omit
+Otherwise
 Error
 Eddy
 EEE
@@ -4326,6 +4360,7 @@ Effect를
 Elementary
 Enclose
 Eugenia
+Express
 Message
 Mean
 MJJ
@@ -4632,6 +4667,7 @@ instability로
 ineveitably
 ignored
 irresolute
+ideas
 지난
 지표
 지속
@@ -4665,6 +4701,7 @@ irresolute
 보았다
 보여주고
 보조의
+보인다면
 대로
 대기
 대신에
@@ -4762,6 +4799,8 @@ irresolute
 않는다
 않은
 않도록
+않게
+않는지
 싶습니다
 싶은
 핵심
@@ -4948,6 +4987,7 @@ Stochastic
 순서도
 순환과
 순차적
+순서를
 변화가
 변화
 변화의
@@ -4997,6 +5037,7 @@ Stochastic
 주절의
 주어를
 주어졌을
+주어
 방정식
 방안
 방법
@@ -5309,6 +5350,7 @@ members에
 much
 might
 man
+modifier도
 서풍에
 서로
 서버의
@@ -5778,6 +5820,7 @@ Put
 재분배
 재현
 재앙은
+재구성하거나
 발생
 발생하는
 발달에
@@ -6125,6 +6168,7 @@ word
 예측으로
 예화
 예상
+예방해주지만
 연구에
 연관돼
 연직
@@ -6753,6 +6797,7 @@ known
 kinetic
 knife
 knew
+keep
 xxxnn
 xh
 xU
@@ -7192,6 +7237,7 @@ KSvR
 KE가
 Kinetic
 Kalnay
+Keep
 UQQ
 UWW
 UVV
@@ -7498,6 +7544,7 @@ evolving
 early
 estimated
 evation으로
+emphasize
 VAA
 VWWc
 VUU
@@ -7986,6 +8033,7 @@ volume
 variables의
 vecotrs
 vague
+vary
 qbRRRrr
 qZ
 ql
@@ -8659,6 +8707,8 @@ NA에
 수강신청
 수를
 수리하기
+수식하는지
+수식어구
 따른
 따라
 따로
@@ -8733,9 +8783,11 @@ NA에
 관련이
 관해서는
 관점에서
+관사
 많이
 많은
 많지만
+많으면
 성질
 성층권
 성분을
@@ -8749,6 +8801,8 @@ NA에
 형성된
 형식이
 형태를
+형태
+형태가
 다를
 다운
 다른
@@ -8813,6 +8867,7 @@ NA에
 진실이
 진행상황
 진행하기도
+진부함
 저기압
 저장
 저장해둔
@@ -8872,6 +8927,7 @@ NA에
 소개합니다
 소유격
 소괄호
+소심한
 과정
 과정을
 과정이
@@ -8968,6 +9024,7 @@ NA에
 맞나
 맞음
 맞춰라
+맞춰진다면
 업그레이드
 업데이트
 업신여긴
@@ -9064,6 +9121,7 @@ NA에
 남북반구
 남반구도
 남들이
+남발하지는
 나타냅니다
 나라가
 나타내는
@@ -9106,6 +9164,7 @@ NA에
 동시에
 동격
 동명사
+동사
 반경
 반영하려면
 반복했을
@@ -9243,6 +9302,7 @@ NA에
 펌H
 뢿s
 챙길
+챙겨야
 신영복
 신상
 신청하는
@@ -9331,6 +9391,7 @@ NA에
 달라
 달라지는지
 달라지더라
+달지
 용도
 용량
 용량이
@@ -9354,6 +9415,7 @@ NA에
 뒤에
 뒤따라
 뒤이어
+뒤로
 비교
 비율은
 비례
@@ -9517,6 +9579,7 @@ NA에
 너희들
 너무
 옆사람
+옆에
 견지에서
 잠시
 잠깐
@@ -9525,6 +9588,7 @@ NA에
 누구
 누가
 누적으로
+누굴
 겸사겸사
 붕붕
 윙윙
@@ -9546,6 +9610,7 @@ NA에
 참나
 참여
 참조
+참다
 맹자가
 맹자
 헝가리
@@ -9645,14 +9710,23 @@ NA에
 짧거나
 별로다
 붙이고
+붙어야
+붙여야
 명사들
 명시해야
+명확히
 헌신적인
 겉보기엔
 똑같아보이지만
 똑같은
+똑같이
 뉘우치다
 쇠약하게
 웃다
 웃음
 애매한
+애매하게
+놓치지
+옮길
+옮겨
+머무르다
