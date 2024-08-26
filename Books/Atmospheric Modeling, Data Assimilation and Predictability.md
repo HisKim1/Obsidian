@@ -259,6 +259,4 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 	- quasiinverse of the tangent linear model
 	- ensemble-based singular value decomposition
 
-
-
 ### 6.5.2 | singular vectors

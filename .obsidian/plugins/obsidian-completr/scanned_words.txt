@@ -280,6 +280,7 @@ fewer
 flow의
 fastest
 fOv
+find
 name
 nYYYFF
 nOq
@@ -1249,6 +1250,7 @@ transferred
 tense
 timid
 triteness
+tangent
 aliases
 against
 and
@@ -1569,6 +1571,7 @@ areas에서
 amplitude에서
 amplitudes
 appropriate
+approach
 cssclasses
 considered
 cell
@@ -1972,6 +1975,7 @@ competing
 calculation이
 collapse
 capture
+complex
 Tool
 Troposphere에서
 Thermal
@@ -2234,6 +2238,7 @@ TgR
 TAvTe
 TfC
 Toth
+Targeted
 Brief
 Bfloat
 Balance
@@ -2783,6 +2788,8 @@ dominant하기
 dimensions
 dominant
 developed
+decrease
+decomposition
 of
 ojjjii
 oJg
@@ -4752,6 +4759,7 @@ parallel
 principal
 pVMe
 proj
+possible
 here
 host
 haa
@@ -5341,6 +5349,7 @@ leftrightarrow
 lie하고
 lie한다면
 locally
+launch
 버전
 버전으로
 이상이
@@ -7493,6 +7502,7 @@ instabilities
 지점
 지우고
 지나면
+지역을
 보내주신
 보통
 보임
@@ -13472,6 +13482,7 @@ qVDU
 qCO
 quantitative
 quasi
+quasiinverse
 ZZ
 Zi
 ZQQ
@@ -14830,6 +14841,7 @@ NfWm
 찾아가기
 찾아
 찾음
+찾는
 악화
 탐지
 세그먼테이션
