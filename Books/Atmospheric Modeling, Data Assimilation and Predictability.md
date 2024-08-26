@@ -74,6 +74,24 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 #### 고유값 문제
 - 초기 singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
 - 최종 singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
+
+$y(t_1) = L(t_0, t_1)y(t_0) = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i$
+
+## 전환 과정
+
+1. **내적 적용**
+    - 방정식 양쪽에 $u_j$와의 내적 취함 $$\langle y(t_1), u_j \rangle = \left\langle \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i, u_j \right\rangle$$
+2. **내적의 선형성 이용** $$\langle y(t_1), u_j \rangle = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i \langle u_i, u_j \rangle$$
+3. **직교 정규성 적용**
+    - $u_i$는 직교 정규 기저: $\langle u_i, u_j \rangle = \delta_{ij}$ (크로네커 델타)
+    - $\delta_{ij} = \begin{cases} 1 & \text{if } i = j \ 0 & \text{if } i \neq j \end{cases}$
+4. **합 단순화**
+    - $i = j$인 항만 남음 $\langle y(t_1), u_j \rangle = \langle y_0, v_j \rangle \sigma_j$
+
+## 최종 방정식 (6.3.24)
+
+$\langle y(t_1), u_i \rangle = \sigma_i \langle y(t_0), v_i \rangle$
+
 #### 성장 특성
 - 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
 #### 최적화 문제
