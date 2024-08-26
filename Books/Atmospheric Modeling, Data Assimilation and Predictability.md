@@ -60,7 +60,30 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 
 ### 6.3.1 | Tangent linear model and adjoint model
 
-### 6.3.2 | Singular vectors
+### 6.3.2 | Singular vectors 
+주어진 시간 간격 동안 가장 빠르게 성장하는 섭동
+
+- 초기 singular vectors: $\mathbf{v}_i$
+- 최종 singular vectors: $\mathbf{u}_i$
+- 탄젠트 선형 모델: $\mathbf{L}$
+
+#### 관계식
+1. $\mathbf{L}\mathbf{v}_i = \sigma_i \mathbf{u}_i$
+2. $\mathbf{L}^T\mathbf{u}_i = \sigma_i \mathbf{v}_i$
+
+여기서 $\sigma_i$는 singular value
+#### 고유값 문제
+- 초기 singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
+- 최종 singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
+#### 성장 특성
+- 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
+#### 최적화 문제
+- Leading singular vector는 다음 문제의 해: $\max J(\mathbf{y}(t_0)) = |\mathbf{y}(t_1)|^2 = \mathbf{y}(t_0)^T \mathbf{L}^T\mathbf{L}\mathbf{y}(t_0)$ 제약 조건: $|\mathbf{y}(t_0)|^2 = 1$
+#### Norm 의존성
+- Singular vectors는 사용하는 norm에 따라 달라짐
+- ECMWF: total energy norm 사용
+
+- 최적화 기간이 길어질수록 Lyapunov vectors에 수렴
 
 ### 6.3.3 | Lyapunov vectors
 
