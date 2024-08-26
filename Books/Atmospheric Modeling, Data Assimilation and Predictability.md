@@ -61,8 +61,7 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 ### 6.3.1 | Tangent linear model and adjoint model
 
 ### 6.3.2 | Singular vectors 
-주어진 시간 간격 동안 가장 빠르게 성장하는 섭동
-
+주어진 시간 간격 동안 가장 빠르게 성장하는 pertrubations
 - 초기 singular vectors: $\mathbf{v}_i$
 - 최종 singular vectors: $\mathbf{u}_i$
 - 탄젠트 선형 모델: $\mathbf{L}$
