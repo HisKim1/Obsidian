@@ -77,7 +77,7 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 
 $y(t_1) = L(t_0, t_1)y(t_0) = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i$
 
-## 전환 과정
+#### 전환 과정
 
 1. **내적 적용**
     - 방정식 양쪽에 $u_j$와의 내적 취함 $$\langle y(t_1), u_j \rangle = \left\langle \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i, u_j \right\rangle$$
