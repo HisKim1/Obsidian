@@ -251,6 +251,14 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
     - Eliminates irrelevant weather perturbation details through nonlinear saturation
 
 ##### Targeted observations
+> If the ensemble indicates a region of large uncertainty in the short-term forecasts, it should be possible to find the area that originated this region of uncertainty in time to launch new observations for the next analysis cycle, and thus decrease significantly the forecast error.
+
+- observations 필요한 지역을 찾는 방법
+	- adjoint sensitivity approach
+	- singular vectors
+	- quasiinverse of the tangent linear model
+	- ensemble-based singular value decomposition
+
 
 
 ### 6.5.2 | singular vectors
