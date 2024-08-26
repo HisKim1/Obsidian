@@ -88,10 +88,6 @@ $y(t_1) = L(t_0, t_1)y(t_0) = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i
 4. **합 단순화**
     - $i = j$인 항만 남음 $\langle y(t_1), u_j \rangle = \langle y_0, v_j \rangle \sigma_j$
 
-## 최종 방정식 (6.3.24)
-
-$\langle y(t_1), u_i \rangle = \sigma_i \langle y(t_0), v_i \rangle$
-
 #### 성장 특성
 - 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
 #### 최적화 문제
