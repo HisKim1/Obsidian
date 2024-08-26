@@ -4,8 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "a13feabf4d0b0ab8",
+        "type": "tabs",
+        "dimension": 65.26566217287866,
+        "children": [
+          {
+            "id": "ee30505f98da6a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "0be7cbc3c22b4d81",
         "type": "tabs",
+        "dimension": 34.73433782712133,
         "children": [
           {
             "id": "5cbccb82a229df87",
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"author\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,10 +205,10 @@
   },
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
-    "Books/The Elements of Style.md",
-    "TODO/2024-08-27.md",
     "TODO/2024-08-26.md",
+    "TODO/2024-08-27.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "Books/The Elements of Style.md",
     "Untitled.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw.md",
     "TODO/2024-08-25.md",
