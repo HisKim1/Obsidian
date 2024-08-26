@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Elements of Style.md"
+                "file": "TODO/2024-08-27.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,6 +183,8 @@
   },
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
+    "Books/The Elements of Style.md",
+    "TODO/2024-08-27.md",
     "TODO/2024-08-26.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Untitled.md",
@@ -206,7 +208,6 @@
     "File/Pasted image 20240823092950.png",
     "TODO/2024-08-22.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
-    "Books/The Elements of Style.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "File/Pasted image 20240822165643 1.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
@@ -218,7 +219,6 @@
     "TODO/2024-08-21.md",
     "TODO/2024-08-19.md",
     "TODO/2024-08-20.md",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-20 15.54.43.excalidraw.md",
     "Test/Untitled.canvas",
     "Test",
     "TODO/Monthly"
