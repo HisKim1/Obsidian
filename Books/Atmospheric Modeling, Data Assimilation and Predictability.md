@@ -83,6 +83,7 @@ $$
 - initial singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
 - final singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
 
+perterbation = linear combination of singular vectors
 $$\displaystyle\begin{align}
 \mathbf{y}(t_0) &= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
 \mathbf{y}(t_1) &= \sum_{i=1}^n \langle \mathbf{y}_1, \mathbf{u}_i \rangle \mathbf{u}_i
