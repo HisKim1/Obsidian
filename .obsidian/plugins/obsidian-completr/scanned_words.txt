@@ -950,6 +950,7 @@ suggested
 saturated됨
 slower
 saturated
+spin
 topic
 tags
 templete
@@ -3518,6 +3519,7 @@ ApI
 Analysis
 Advantages
 Applications
+AffGzxGA
 Link
 LOO
 LQWW

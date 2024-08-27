@@ -61,6 +61,10 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 ### 6.3.1 | Tangent linear model and adjoint model
 
 ### 6.3.2 | Singular vectors 
+$$\mathbf{y}(t_{1})=\mathbf{L}(t_{0},t_1)\mathbf{y}(t_{1})$$
+$\mathbf{y}(t)$: perturbation at $t$
+$L$: resolvent or propagator
+
 주어진 시간 간격 동안 가장 빠르게 성장하는 pertrubations
 - 초기 singular vectors: $\mathbf{v}_i$
 - 최종 singular vectors: $\mathbf{u}_i$
