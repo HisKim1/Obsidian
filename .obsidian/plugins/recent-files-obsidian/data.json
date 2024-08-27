@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-28",
+      "path": "TODO/2024-08-28.md"
+    },
+    {
+      "basename": "2024-08-27",
+      "path": "TODO/2024-08-27.md"
+    },
+    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md"
-    },
-    {
-      "basename": "2024-08-27",
-      "path": "TODO/2024-08-27.md"
     },
     {
       "basename": "2024-08-26",
@@ -195,10 +199,6 @@
     {
       "basename": "Northern and Southern Annular Mode",
       "path": "Papers/Northern and Southern Annular Mode.md"
-    },
-    {
-      "basename": "Quasi-Biennial Oscillation",
-      "path": "Papers/Quasi-Biennial Oscillation.md"
     }
   ],
   "omittedPaths": []

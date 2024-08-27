@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-08-27.md",
+                "file": "TODO/2024-08-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+                "file": "TODO/2024-08-28.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "TODO/2024-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "TODO/2024-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,16 +213,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee30505f98da6a18",
+  "active": "5cbccb82a229df87",
   "lastOpenFiles": [
+    "TODO/2024-08-27.md",
+    "TODO/2024-08-28.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Pasted Image 20240827124822_553.png",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
-    "TODO/2024-08-27.md",
     "TODO/2024-08-26.md",
     "Books/The Elements of Style.md",
     "Untitled.md",
