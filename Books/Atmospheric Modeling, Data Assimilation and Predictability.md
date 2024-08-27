@@ -98,10 +98,13 @@ $$\displaystyle\begin{align}
 \langle \mathbf{y}(t_1), \mathbf{u}_j \rangle &= \left\langle \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i\mathbf{u}_{i}, \mathbf{u}_j \right\rangle \\
 &=\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \langle \mathbf{u}_{i}, \mathbf{u}_j \rangle \quad (\because  \text{linearity of inner product})\\
 &= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \delta_{ij}\\
+&=\langle \mathbf{y}_0, \mathbf{v}_j \rangle \sigma_j
 \end{align}$$
 since $\langle \mathbf{u}_i, \mathbf{u}_j \rangle = \delta_{ij}$; Kronecher delta 
 $$\delta_{ij} = \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$$
-$i = j$인 항만 남음 $\langle y(t_1), u_j \rangle = \langle y_0, v_j \rangle \sigma_j$
+$\Rightarrow i = j$인 항만 남음
+
+Similarly, $\langle \mathbf{y}(t_0), \mathbf{u}_j \rangle = \sigma_j\langle \mathbf{y}_1, \mathbf{v}_j \rangle$
 
 #### 성장 특성
 - 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
