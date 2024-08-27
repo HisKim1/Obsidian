@@ -61,36 +61,47 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 ### 6.3.1 | Tangent linear model and adjoint model
 
 ### 6.3.2 | Singular vectors 
-$$\mathbf{y}(t_{1})=\mathbf{L}(t_{0},t_1)\mathbf{y}(t_{1})$$
-$\mathbf{y}(t)$: perturbation at $t$
-$L$: resolvent or propagator
+$$\mathbf{y}(t_{1})=\mathbf{L}(t_{0},t_1)\mathbf{y}(t_0)$$
+- $\mathbf{y}(t)$: perturbation at $t$
+- $\mathbf{L}$: resolvent or propagator
 
-주어진 시간 간격 동안 가장 빠르게 성장하는 pertrubations
-- 초기 singular vectors: $\mathbf{v}_i$
-- 최종 singular vectors: $\mathbf{u}_i$
-- 탄젠트 선형 모델: $\mathbf{L}$
+Take Singular Value Decomposition on $\mathbf{L}$. Then
+$$\mathbf{U^{T}LV=S}$$
+where $\mathbf{S}$ is a diagonal matrix consists of singular values of $\mathbf{L}$, $\sigma_i$
+and $\mathbf{UU^{T}=I}, \mathbf{VV^{T}=I}$.
 
-#### 관계식
-1. $\mathbf{L}\mathbf{v}_i = \sigma_i \mathbf{u}_i$
-2. $\mathbf{L}^T\mathbf{u}_i = \sigma_i \mathbf{v}_i$
+- $\mathbf{v}_i$: right singular column vector $\to$ initial singular vector
+- $\mathbf{u}_i$: left singular column vector $\to$ final / evolved singular vector
 
-여기서 $\sigma_i$는 singular value
-#### 고유값 문제
-- 초기 singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
-- 최종 singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
+From $\mathbf{U^{T}LV=S}$,
+$$\begin{cases} 
+\mathbf{LV=US} \quad \Rightarrow \quad \mathbf{Lv}_{i}= \sigma_i\mathbf{u}_i\\
+\mathbf{U^{T}L=SV^T} \quad \Rightarrow \quad \mathbf{L^{T}u}_{i}= \sigma_i\mathbf{v}_i
+\end{cases}
+$$
 
-$y(t_1) = L(t_0, t_1)y(t_0) = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i$
+- initial singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
+- final singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
 
-#### 전환 과정
-
-1. **내적 적용**
-    - 방정식 양쪽에 $u_j$와의 내적 취함 $$\langle y(t_1), u_j \rangle = \left\langle \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i, u_j \right\rangle$$
-2. **내적의 선형성 이용** $$\langle y(t_1), u_j \rangle = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i \langle u_i, u_j \rangle$$
-3. **직교 정규성 적용**
-    - $u_i$는 직교 정규 기저: $\langle u_i, u_j \rangle = \delta_{ij}$ (크로네커 델타)
-    - $\delta_{ij} = \begin{cases} 1 & \text{if } i = j \ 0 & \text{if } i \neq j \end{cases}$
-4. **합 단순화**
-    - $i = j$인 항만 남음 $\langle y(t_1), u_j \rangle = \langle y_0, v_j \rangle \sigma_j$
+$$\displaystyle\begin{align}
+\mathbf{y}(t_0) &= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
+\mathbf{y}(t_1) &= \sum_{i=1}^n \langle \mathbf{y}_1, \mathbf{u}_i \rangle \mathbf{u}_i
+\end{align}$$
+$$\displaystyle\begin{align}
+\Rightarrow \mathbf{y}(t_1) &= \mathbf{L}(t_0, t_1)\mathbf{y}(t_0) \\
+&= \mathbf{L}(t_0, t_1)\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
+&= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{L}\mathbf{v}_i\\
+&= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i\mathbf{u}_{i} \quad (\because \mathbf{Lv}_{i}= \sigma_i\mathbf{u}_i)\\
+\end{align}$$
+Take inner product of above equation with $\mathbf{u}_i$
+$$\displaystyle\begin{align}
+\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle &= \left\langle \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i\mathbf{u}_{i}, \mathbf{u}_j \right\rangle \\
+&=\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \langle \mathbf{u}_{i}, \mathbf{u}_j \rangle \quad (\because  \text{linearity of inner product})\\
+&= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \delta_{ij}\\
+\end{align}$$
+since $\langle \mathbf{u}_i, \mathbf{u}_j \rangle = \delta_{ij}$; Kronecher delta 
+$$\delta_{ij} = \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$$
+$i = j$인 항만 남음 $\langle y(t_1), u_j \rangle = \langle y_0, v_j \rangle \sigma_j$
 
 #### 성장 특성
 - 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
