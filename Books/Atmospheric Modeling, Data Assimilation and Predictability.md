@@ -61,6 +61,7 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 ### 6.3.1 | Tangent linear model and adjoint model
 
 ### 6.3.2 | Singular vectors 
+#### step 1. Perturbation can be rewritten by linear combination of singular vectors.
 $$\mathbf{y}(t_{1})=\mathbf{L}(t_{0},t_1)\mathbf{y}(t_0)$$
 - $\mathbf{y}(t)$: perturbation at $t$
 - $\mathbf{L}$: resolvent or propagator
@@ -88,6 +89,8 @@ $$\displaystyle\begin{align}
 \mathbf{y}(t_0) &= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
 \mathbf{y}(t_1) &= \sum_{i=1}^n \langle \mathbf{y}_1, \mathbf{u}_i \rangle \mathbf{u}_i
 \end{align}$$
+
+#### step 2. $\sigma_i$ are singular values representing growth factors.
 $$\displaystyle\begin{align}
 \Rightarrow \mathbf{y}(t_1) &= \mathbf{L}(t_0, t_1)\mathbf{y}(t_0) \\
 &= \mathbf{L}(t_0, t_1)\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
@@ -99,18 +102,36 @@ $$\displaystyle\begin{align}
 \langle \mathbf{y}(t_1), \mathbf{u}_j \rangle &= \left\langle \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i\mathbf{u}_{i}, \mathbf{u}_j \right\rangle \\
 &=\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \langle \mathbf{u}_{i}, \mathbf{u}_j \rangle \quad (\because  \text{linearity of inner product})\\
 &= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \delta_{ij}\\
-&=\langle \mathbf{y}_0, \mathbf{v}_j \rangle \sigma_j
+&=\langle \mathbf{y}(t_0), \mathbf{v}_j \rangle \sigma_j
 \end{align}$$
 since $\langle \mathbf{u}_i, \mathbf{u}_j \rangle = \delta_{ij}$; Kronecher delta 
 $$\delta_{ij} = \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$$
 $\Rightarrow i = j$인 항만 남음
 
-Similarly, $\langle \mathbf{y}(t_0), \mathbf{u}_j \rangle = \sigma_j\langle \mathbf{y}_1, \mathbf{v}_j \rangle$
+Similarly, $\langle \mathbf{y}(t_0), \mathbf{v}_j \rangle = \sigma_j\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle$
 
-#### 성장 특성
-- 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
-#### 최적화 문제
-- Leading singular vector는 다음 문제의 해: $\max J(\mathbf{y}(t_0)) = |\mathbf{y}(t_1)|^2 = \mathbf{y}(t_0)^T \mathbf{L}^T\mathbf{L}\mathbf{y}(t_0)$ 제약 조건: $|\mathbf{y}(t_0)|^2 = 1$
+$$\therefore \begin{cases}
+\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle = \langle \mathbf{y}(t_0), \mathbf{v}_j \rangle \sigma_j\\
+\\
+\langle \mathbf{y}(t_0), \mathbf{v}_j \rangle = \sigma_j\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle
+\end{cases}$$
+
+#### Step 3. Spherical perturbations grow into ellipses.
+def. Euclidean norm$$||\mathbf{y}||^2 = \mathbf{y}^T\mathbf{y} = \langle \mathbf{y}, \mathbf{y} \rangle$$
+
+Consider pertrubations $\mathbf{y}(t_0)$ of size 1. Then 
+$$\sum_{i=1}^n \frac{\langle \mathbf{y}(t), \mathbf{u}_i \rangle}{\sigma_i} = \sum_{i=1}^n \langle \mathbf{y}(t_0), \mathbf{v}_i \rangle = ||\mathbf{y}(t_0)||^2 = 1$$
+Initial sphere of radius 1 $\to$ hyperellipsoid of semiaxes $\sigma_i$
+
+- $\mathbf{v}_1$: first initial singular vector = optimal vector
+  $\to$ direction in phase spaced of the perturbation that will attain max. growth $\sigma_1$ in the interval ($t_0, t_1$)
+
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw|700]]
+#### Step 4. How to find $\mathbf{y}(t_0)$ that maximize $\mathbf{y}(t_1)$; Optimization
+---
+# 여기부터 다시 시작
+---
+$\max J(\mathbf{y}(t_0)) = |\mathbf{y}(t_1)|^2 = \mathbf{y}(t_0)^T \mathbf{L}^T\mathbf{L}\mathbf{y}(t_0)$ 제약 조건: $|\mathbf{y}(t_0)|^2 = 1$
 #### Norm 의존성
 - Singular vectors는 사용하는 norm에 따라 달라짐
 - ECMWF: total energy norm 사용
