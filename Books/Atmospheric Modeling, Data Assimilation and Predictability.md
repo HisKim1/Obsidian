@@ -172,13 +172,7 @@ $$\hat{\mathbf{y}}^T(t_0)\hat{\mathbf{y}}(t_0) = 1$$
 ##### Result
 $\hat{\mathbf{y}}(t_0)$: eigenvectors of the matrix $(\mathbf{W}^{-1})^T\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}$ 
 $\lambda_i$: Lagrange multipliers / eigenvalues of $\hat{\mathbf{y}}(t_0)$ / $\lambda_i = \sigma_i^2$
-
-
-#### Norm 의존성
-- Singular vectors는 사용하는 norm에 따라 달라짐
-- ECMWF: total energy norm 사용
-
-- 최적화 기간이 길어질수록 Lyapunov vectors에 수렴
+weight matrix of initial norm, $W$,과 a projection operator, $\mathbf{P}$,를 general & arbitrary하게 골라도 된다.
 
 ### 6.3.3 | Lyapunov vectors
 
