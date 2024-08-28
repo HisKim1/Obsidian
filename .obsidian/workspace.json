@@ -6,7 +6,7 @@
       {
         "id": "a13feabf4d0b0ab8",
         "type": "tabs",
-        "dimension": 65.26566217287866,
+        "dimension": 69.68085106382979,
         "children": [
           {
             "id": "ee30505f98da6a18",
@@ -15,28 +15,32 @@
               "type": "markdown",
               "state": {
                 "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "0868fab1bf7bdba1",
+            "id": "0043c69176e40425",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md"
+                "file": "ReadMe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0be7cbc3c22b4d81",
         "type": "tabs",
-        "dimension": 34.73433782712133,
+        "dimension": 30.319148936170212,
         "children": [
           {
             "id": "5cbccb82a229df87",
@@ -103,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+                "file": "ReadMe.md"
               }
             }
           },
@@ -115,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,13 +216,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee30505f98da6a18",
+  "active": "54abeabfc44f063b",
   "lastOpenFiles": [
-    "Books/eq 6.3.27.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-08-28.md",
-    "TODO/2024-08-27.md",
+    "ReadMe.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md",
+    "Books/eq 6.3.27.md",
+    "TODO/2024-08-27.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",
@@ -250,7 +254,6 @@
     "Books/Lorenz's three variable model is a dissipative system.md",
     "File/Pasted image 20240822165643 1.png",
     "File/Pasted image 20240822165643.png",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md",
     "Test/Untitled.canvas",
     "Test",
     "TODO/Monthly"

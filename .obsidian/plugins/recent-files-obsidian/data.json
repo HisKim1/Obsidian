@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
-    },
-    {
-      "basename": "eq 6.3.27",
-      "path": "Books/eq 6.3.27.md"
+      "basename": "ReadMe",
+      "path": "ReadMe.md"
     },
     {
       "basename": "2024-08-28",
       "path": "TODO/2024-08-28.md"
     },
     {
-      "basename": "2024-08-27",
-      "path": "TODO/2024-08-27.md"
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
+      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md"
+    },
+    {
+      "basename": "eq 6.3.27",
+      "path": "Books/eq 6.3.27.md"
+    },
+    {
+      "basename": "2024-08-27",
+      "path": "TODO/2024-08-27.md"
     },
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-18",
       "path": "TODO/2024-08-18.md"
-    },
-    {
-      "basename": "Hierarchical Temporal Aggregation, HTA",
-      "path": "Papers/Hierarchical Temporal Aggregation, HTA.md"
     }
   ],
   "omittedPaths": []
