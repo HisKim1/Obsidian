@@ -127,11 +127,53 @@ Initial sphere of radius 1 $\to$ hyperellipsoid of semiaxes $\sigma_i$
   $\to$ direction in phase spaced of the perturbation that will attain max. growth $\sigma_1$ in the interval ($t_0, t_1$)
 
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw|700]]
-#### Step 4. How to find $\mathbf{y}(t_0)$ that maximize $\mathbf{y}(t_1)$; Optimization
----
-# 여기부터 다시 시작
----
-$\max J(\mathbf{y}(t_0)) = |\mathbf{y}(t_1)|^2 = \mathbf{y}(t_0)^T \mathbf{L}^T\mathbf{L}\mathbf{y}(t_0)$ 제약 조건: $|\mathbf{y}(t_0)|^2 = 1$
+#### Step 4. How to find the initial vectors $\mathbf{y}(t_0)$ that maximize the norm of $\mathbf{y}(t_1)$ at the final time; Optimization problem
+##### constraint maximization
+$$\begin{align} 
+\max_{\mathbf{y}(t_0)} &\quad J(\mathbf{y}(t_0)) \\
+\text{subject to} &\quad |\mathbf{y}(t_0)|^2 = 1 
+\end{align}
+$$
+where $J(\mathbf{y}(t_0)) \equiv \|\mathbf{y}(t_1)\|^2 = [\mathbf{Ly}(t_0)]^T\mathbf{Ly}(t_0) = \langle\mathbf{L}^T\mathbf{Ly}(t_0), \mathbf{y}(t_0)\rangle$ [[eq 6.3.27|why?]]
+$J$: objective function
+
+##### Unconstrained maximization by Lagrange multiplier
+Define a norm using other weight matrix $\mathbf{W}$ applied to $\mathbf{y}$.
+$$\|\mathbf{y}(t_0)\|^2 = (\mathbf{Wy}(t_0))^T \mathbf{Wy}(t_0) = \mathbf{y}(t_0)^T \mathbf{W}^T \mathbf{Wy}(t_0) = 1$$
+Then the size of the perturbation at the final time , $J(\mathbf{y}(t_0))$, is, by a projection operator at the end of the interval $\mathbf{P}$,
+$$J(\mathbf{y}(t_0)) = [\mathbf{PLy}(t_0)]^T \mathbf{PLy}(t_0) = \mathbf{y}(t_0)^T\mathbf{L}^T\mathbf{P}^T \mathbf{PLy}(t_0)$$
+
+##### gradient to minimize
+Convert strong constraint maximization to unconstrained one with Lagrange multipliers.
+$$\begin{align} 
+\max_{\mathbf{y}(t_0)} &\quad K(\mathbf{y}(t_0))\\
+&=J(\mathbf{y}(t_0))+\lambda[1-\mathbf{y}(t_0)^T \mathbf{W}^T \mathbf{Wy}(t_0)]\\
+&=\mathbf{y}(t_0)^T\mathbf{L}^T\mathbf{P}^T \mathbf{PLy}(t_0)+\lambda[1-\mathbf{y}(t_0)^T \mathbf{W}^T \mathbf{Wy}(t_0)]
+\end{align}$$
+Compute gradient of $K$ w.r.t. the control variable $\mathbf{y}(t_0)$ and make it equal to zero.
+$$\nabla_{\mathbf{y}(t_0)} K = \mathbf{L}^T\mathbf{P}^T\mathbf{PLy}(t_0) - \lambda\mathbf{W}^T\mathbf{Wy}(t_0) = 0$$
+It is convenient, given the constraint, to change variables:
+$$
+\mathbf{Wy}(t_0) = \hat{\mathbf{y}}(t_0) \quad \text{or} \quad \mathbf{y}(t_0) = \mathbf{W}^{-1}\hat{\mathbf{y}}(t_0)
+$$$$\begin{align}
+\|\mathbf{y}(t_0)\|^2 &= (\mathbf{Wy}(t_0))^T \mathbf{Wy}(t_0) \\
+&= \hat{\mathbf{y}}^T(t_0)\hat{\mathbf{y}}(t_0)\\
+&= 1\\
+\end{align}$$
+Then, the gradient condition becomes
+$$\begin{align}
+\mathbf{L}^T\mathbf{P}^T\mathbf{PLy}(t_0) &= \lambda\mathbf{W}^T\mathbf{Wy}(t_0)\\
+\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}\hat{\mathbf{y}}(t_0) &= \lambda\mathbf{W}^T\hat{\mathbf{y}}(t_0)\\
+(\mathbf{W}^{-1})^T\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}\hat{\mathbf{y}}(t_0) &= \lambda\hat{\mathbf{y}}(t_0)
+\end{align}
+$$
+subject to the constraint
+$$\hat{\mathbf{y}}^T(t_0)\hat{\mathbf{y}}(t_0) = 1$$
+##### Result
+$\hat{\mathbf{y}}(t_0)$: eigenvectors of the matrix $(\mathbf{W}^{-1})^T\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}$ 
+$\lambda_i$: Lagrange multipliers / eigenvalues of $\hat{\mathbf{y}}(t_0)$ / $\lambda_i = \sigma_i^2$
+
+
 #### Norm 의존성
 - Singular vectors는 사용하는 norm에 따라 달라짐
 - ECMWF: total energy norm 사용

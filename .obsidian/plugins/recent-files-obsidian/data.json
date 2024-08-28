@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
+      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "eq 6.3.27",
+      "path": "Books/eq 6.3.27.md"
+    },
+    {
       "basename": "2024-08-28",
       "path": "TODO/2024-08-28.md"
     },
     {
       "basename": "2024-08-27",
       "path": "TODO/2024-08-27.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "Hierarchical Temporal Aggregation, HTA",
       "path": "Papers/Hierarchical Temporal Aggregation, HTA.md"
-    },
-    {
-      "basename": "Northern and Southern Annular Mode",
-      "path": "Papers/Northern and Southern Annular Mode.md"
     }
   ],
   "omittedPaths": []

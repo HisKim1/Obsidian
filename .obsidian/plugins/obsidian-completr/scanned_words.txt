@@ -4801,6 +4801,7 @@ propagator
 perterbation
 product
 pdwww
+problem
 here
 host
 haa
@@ -6722,6 +6723,7 @@ OXd
 Otherwise
 OwVV
 OhK
+Optimization
 Error
 Eddy
 EEE
@@ -8523,6 +8525,7 @@ modes
 mmme
 moo
 mnn
+maximize
 서풍에
 서로
 서버의
@@ -9028,6 +9031,7 @@ HEAD
 HPu
 Hzc
 H똃
+How
 즉시
 Pressure
 PNG
@@ -14345,6 +14349,7 @@ NdRM
 여기서
 여기서는
 여러
+여기부터
 자세한
 자연스럽게
 자동
@@ -14540,6 +14545,7 @@ NdRM
 시에
 시도하다
 시작하는
+시작
 온도
 온위의
 온도가
