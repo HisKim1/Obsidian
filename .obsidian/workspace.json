@@ -6,7 +6,6 @@
       {
         "id": "a13feabf4d0b0ab8",
         "type": "tabs",
-        "dimension": 69.68085106382979,
         "children": [
           {
             "id": "ee30505f98da6a18",
@@ -15,26 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "TODO/2024-08-30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0be7cbc3c22b4d81",
-        "type": "tabs",
-        "dimension": 30.319148936170212,
-        "children": [
-          {
-            "id": "5cbccb82a229df87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2024-08-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -205,11 +184,11 @@
   },
   "active": "ee30505f98da6a18",
   "lastOpenFiles": [
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-    "TODO/2024-08-30.md",
-    "TODO/2024-08-29.md",
-    "ReadMe.md",
     "TODO/2024-08-28.md",
+    "TODO/2024-08-29.md",
+    "TODO/2024-08-30.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "ReadMe.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md",
     "Books/eq 6.3.27.md",
     "TODO/2024-08-27.md",
