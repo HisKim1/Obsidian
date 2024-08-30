@@ -409,15 +409,24 @@ $\Rightarrow$ poor person's approach
 비용 효율적
 
 ## 6.6 | Growth rate of errors and the limit of predictability in mid-latitudes and in the tropics
+$$\displaystyle \frac{d\varepsilon}{dt} = a\varepsilon(1 - \varepsilon)$$
+$\varepsilon$: rms avg forecast error; $\epsilon \to 1$
+$a$: growth rate
+$\varepsilon_0$: init error
+$$\displaystyle  \begin{align} \frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= adt \\
+\int \frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= \int adt \\
+\int (\frac{1}{\varepsilon} + \frac{1}{1-\varepsilon}) d\varepsilon &= at + C\\ 
+\ln|\frac{\varepsilon}{1-\varepsilon}| &= at + C \\\frac{\varepsilon}{1-\varepsilon} &= Ke^{at}, \quad K = e^C \end{align} $$$$\displaystyle  \begin{align} \varepsilon &= Ke^{at}(1-\varepsilon) \\ 
+\varepsilon(1 + Ke^{at}) &= Ke^{at} \\ 
+\varepsilon &= \frac{Ke^{at}}{1 + Ke^{at}} 
+\end{align} $$initial condition:  $\varepsilon(0) = \varepsilon_0$
+$$\displaystyle  \begin{align}
+\varepsilon_0 &= \frac{K}{1 + K} \\
+K &= \frac{\varepsilon_0}{1-\varepsilon_0} \end{align} $$$$\displaystyle \begin{align} 
+\therefore \varepsilon(t) &= \frac{\frac{\varepsilon_0}{1-\varepsilon_0}e^{at}}{1 + \frac{\varepsilon_0}{1-\varepsilon_0}e^{at}} \\ 
+&= \frac{\varepsilon_0e^{at}}{1 + \varepsilon_0(e^{at} - 1)} 
+\end{align} $$
 
-- $\frac{\varepsilon}{1-\varepsilon} = Ke^{at}$ 에서 $\varepsilon$에 대해 풀어봅시다: $\varepsilon = Ke^{at}(1-\varepsilon)$
--  $\varepsilon = Ke^{at} - Ke^{at}\varepsilon$
--  $\varepsilon + Ke^{at}\varepsilon = Ke^{at}$
--  $\varepsilon(1 + Ke^{at}) = Ke^{at}$ $\varepsilon = \frac{Ke^{at}}{1 + Ke^{at}}$
-- 초기 조건 $\varepsilon(0) = \varepsilon_0$를 적용하기 위해 $t=0$을 대입합니다: $\varepsilon_0 = \frac{K}{1 + K}$
-- $K$에 대해 풀어봅시다: $\varepsilon_0(1 + K) = K$ $\varepsilon_0 + \varepsilon_0K = K$ $\varepsilon_0 = K - \varepsilon_0K$ $\varepsilon_0 = K(1 - \varepsilon_0)$ $K = \frac{\varepsilon_0}{1-\varepsilon_0}$
-- 이 $K$ 값을 $\varepsilon$의 식에 대입합니다: $\varepsilon(t) = \frac{\frac{\varepsilon_0}{1-\varepsilon_0}e^{at}}{1 + \frac{\varepsilon_0}{1-\varepsilon_0}e^{at}}$
-- 분자와 분모를 $(1-\varepsilon_0)$로 곱하여 간단히 합니다: $\varepsilon(t) = \frac{\varepsilon_0e^{at}}{(1-\varepsilon_0) + \varepsilon_0e^{at}}$ $= \frac{\varepsilon_0e^{at}}{1 + \varepsilon_0(e^{at} - 1)}$
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
 
 
