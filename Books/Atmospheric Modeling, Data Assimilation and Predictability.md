@@ -386,3 +386,5 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 1997에 ensemble 수를 50개로 늘렸는데,
 > This increase in resolution had a major positive effect on the quality of the ECMWFensemble forecasting system.
 
+### 6.5.3 | Ensembles based on multiple data assimilation
+init cond 만들기 위한 data assimilation system ensemble
