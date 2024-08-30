@@ -410,6 +410,9 @@ $\Rightarrow$ poor person's approach
 
 ## 6.6 | Growth rate of errors and the limit of predictability in mid-latitudes and in the tropics
 
+
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
 
+
 ## 6.8 | Decadal variability and climate change
+
