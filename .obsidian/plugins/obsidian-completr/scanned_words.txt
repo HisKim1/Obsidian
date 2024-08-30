@@ -1276,6 +1276,7 @@ textrm
 time을
 time에서
 time에
+tropics
 aliases
 against
 and
@@ -4854,6 +4855,8 @@ practical
 perturbation으로
 perturbation이
 pool
+poor
+person
 here
 host
 haa
@@ -5454,6 +5457,7 @@ lambda
 lagged
 leftarrow
 leq
+latitudes
 버전
 버전으로
 이상이
@@ -6347,6 +6351,7 @@ GYgMvt
 GEI
 Goni
 Goals
+Growth
 Cast
 Circulation
 Changes
@@ -15261,6 +15266,7 @@ NdRM
 응용
 효과
 효율적으로
+효율적
 며칠
 급격히
 올라가는
@@ -15298,6 +15304,7 @@ NdRM
 비교할
 비교해보면
 비슷
+비용
 피어슨
 피드백
 피할

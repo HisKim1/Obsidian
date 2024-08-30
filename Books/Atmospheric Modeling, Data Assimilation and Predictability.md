@@ -400,5 +400,16 @@ init perturbation
 = leading eigenvectors of the analysis error covariance
 $\hookleftarrow$  model imperfections / uncertainty abt model deficiencies
 
+여러 센터의 operational global forecasts' ensemble mean이 more skillful하다 
+shorter-range, regional model ensemble도 마찬가지
+거기에 systematic error correction by regression by regression하면 더 좋아지더라; a.k.a superensemble
 
+init analysis에 perturbation을 더하지 않고 best init cond + best models 해서 뽑아냄 
+$\Rightarrow$ poor person's approach
+비용 효율적
 
+## 6.6 | Growth rate of errors and the limit of predictability in mid-latitudes and in the tropics
+
+## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
+
+## 6.8 | Decadal variability and climate change
