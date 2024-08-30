@@ -524,6 +524,7 @@ noticed
 nFKSZe
 norm에
 nonlinear하게
+nkBUlHt
 site
 status
 stratosphere에서
@@ -969,6 +970,8 @@ scale이
 sign
 seed
 substracted
+saturated되어서
+seasonal
 topic
 tags
 templete
@@ -1277,6 +1280,8 @@ time을
 time에서
 time에
 tropics
+time은
+trough
 aliases
 against
 and
@@ -1610,6 +1615,8 @@ atmosphere에서
 agreement
 added
 abt
+adt
+achievable
 cssclasses
 considered
 cell
@@ -2291,6 +2298,7 @@ Take
 Then
 TVm
 TXA
+Tppu
 Brief
 Bfloat
 Balance
@@ -3090,6 +3098,7 @@ oomm
 operator
 out해서
 obtain하는
+observing
 Reasoning
 Resources
 Residual
@@ -4153,6 +4162,7 @@ resolvent
 radius
 rPU
 randomly
+reasonably
 blog
 break
 breaking에
@@ -5458,6 +5468,7 @@ lagged
 leftarrow
 leq
 latitudes
+lost
 버전
 버전으로
 이상이
@@ -7622,6 +7633,9 @@ improve
 indication
 integration
 interval마다
+int
+improved
+inproving
 지난
 지표
 지속
@@ -8042,6 +8056,7 @@ Singular
 Simple
 Step
 Spherical
+SYZOfQbr
 순환
 순환을
 순환의
@@ -8621,6 +8636,7 @@ members를
 model로
 mapsto
 multiple
+monthly
 서풍에
 서로
 서버의
@@ -12545,6 +12561,8 @@ equal
 ensemble이
 error에
 exponent에
+epsilon
+essentially
 VAA
 VWWc
 VUU
@@ -12975,6 +12993,7 @@ uSs
 ucLBztXw
 unconstrained
 uncertain한
+upper
 DEEE
 DPP
 Dt
@@ -13708,6 +13727,7 @@ qCO
 quantitative
 quasi
 quasiinverse
+quickly
 ZZ
 Zi
 ZQQ

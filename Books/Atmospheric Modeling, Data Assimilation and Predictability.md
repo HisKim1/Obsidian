@@ -428,6 +428,16 @@ K &= \frac{\varepsilon_0}{1-\varepsilon_0} \end{align} $$$$\displaystyle \begin{
 \end{align} $$
 init error, $\varepsilon$ = 0.1, 0.01, $a$ = 0.35/day일 때 $\varepsilon$ doubling time은 about 2 days
 
+> The upper limit for the best initial error achievable from data assimilation can be reasonably estimated to be no less than 1%. This is because, as pointed out by Lorenz, even if the observing system was essentially perfect at synoptic scales, errors in much smaller, unresolved scales would grow very fast and trough nonlinear interactions quickly introduce finite errors in the initial synoptic scales of the model.
+
+2주면 small error가 saturated되어서 mid-latitude 예측 lost
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw|700]]
+
+하지만 atmospheric instabilities of the day에 따라 skillful period가 달라지더라
+그래서 ensemble 돌려서 variability를 줘야 하는거야
+
+
+
 
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
 
