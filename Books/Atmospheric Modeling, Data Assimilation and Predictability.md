@@ -436,6 +436,11 @@ init error, $\varepsilon$ = 0.1, 0.01, $a$ = 0.35/day일 때 $\varepsilon$ doubl
 하지만 atmospheric instabilities of the day에 따라 skillful period가 달라지더라
 그래서 ensemble 돌려서 variability를 줘야 하는거야
 
+instabilities time scale $\propto$ spatial scale
+$\Rightarrow$ small-scale instability grow faster than larger scale
+$\Rightarrow$ mesoscale phenomena, mesoscale convective systems, tornadoes는 예측하기 어렵다. 하지만 larger scale에서 forced or organized된 activity라면 예측성 향상 가능
+
+
 
 
 
