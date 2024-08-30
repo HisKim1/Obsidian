@@ -1608,6 +1608,7 @@ analysis에서
 atmosphere에서
 agreement
 added
+abt
 cssclasses
 considered
 cell
@@ -2850,6 +2851,7 @@ dbd
 decorrelation
 dagger
 deficiency
+deficiencies
 of
 ojjjii
 oJg
@@ -5114,6 +5116,7 @@ horizontal
 hemispherical
 high
 hyperellipsoid
+hookleftarrow
 작업
 작동
 작업해보았는데

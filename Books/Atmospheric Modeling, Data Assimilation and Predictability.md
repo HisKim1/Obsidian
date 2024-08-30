@@ -299,7 +299,7 @@ scaled lagged average forecasting
 	value: random
 	amplitude: realistic, estimated analysis uncertainty랑 compatible하게
 	> random initial perturbations do not grow as fast as the real analysis errors, even if they are in quasi-geostrophic balance.
-2. breeding & singular vector
+2. breeding & singular vector 등 
 	underlying atm flow를 반영한 perturbation grow error를 사용
 
 ### 6.5.1 | breeding
@@ -388,8 +388,17 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 
 ### 6.5.3 | Ensembles based on multiple data assimilation
 init cond 만들기 위한 data assimilation system ensemble
+observation + random errors & physical parameterization에 diffrent param.
 
 cost: breeding = 0 < singular vectors $\simeq$ ensemble
 performance: singular vectors || breeding < ensemble
 
 ### 6.5.4 | Multisystem ensemble approach
+ideally, 
+init perturbation 
+= statistical uncertainty in the init cond 
+= leading eigenvectors of the analysis error covariance
+$\hookleftarrow$  model imperfections / uncertainty abt model deficiencies
+
+
+
