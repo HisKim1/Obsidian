@@ -388,3 +388,8 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 
 ### 6.5.3 | Ensembles based on multiple data assimilation
 init cond 만들기 위한 data assimilation system ensemble
+
+cost: breeding = 0 < singular vectors $\simeq$ ensemble
+performance: singular vectors || breeding < ensemble
+
+### 6.5.4 | Multisystem ensemble approach
