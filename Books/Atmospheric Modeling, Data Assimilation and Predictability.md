@@ -426,6 +426,8 @@ K &= \frac{\varepsilon_0}{1-\varepsilon_0} \end{align} $$$$\displaystyle \begin{
 \therefore \varepsilon(t) &= \frac{\frac{\varepsilon_0}{1-\varepsilon_0}e^{at}}{1 + \frac{\varepsilon_0}{1-\varepsilon_0}e^{at}} \\ 
 &= \frac{\varepsilon_0e^{at}}{1 + \varepsilon_0(e^{at} - 1)} 
 \end{align} $$
+init error, $\varepsilon$ = 0.1, 0.01, $a$ = 0.35/day일 때 $\varepsilon$ doubling time은 about 2 days
+
 
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
 
