@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "068c75f17eecf200",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,9 +192,9 @@
   },
   "active": "ee30505f98da6a18",
   "lastOpenFiles": [
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-09-05.md",
     "TODO/2024-08-30.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "TODO/2024-08-28.md",
     "TODO/2024-08-29.md",
     "ReadMe.md",

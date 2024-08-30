@@ -372,3 +372,17 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 	- ensemble-based singular value decomposition
 
 ### 6.5.2 | singular vectors
+1. singular vector를 16개 선택해야 함
+	앞 4개는 고정
+	그 다음부터는 energy의 50%가 기선택된 vectors의 영역 밖에 있는 애들로
+2. orthogonal rotation in phase space & final rescaling
+	to generate perturbations that have the same globally averaged energy as the singular vectors but smaller local maxima and more uniform spatial distribution.
+1. create 33 initial conditions
+	$$\begin{align}
+33 &= 16 \times 2 + 1\\
+&= \text{16 singular vectors} \times \text{added or substracted} + \text{control}
+\end{align}$$
+
+1997에 ensemble 수를 50개로 늘렸는데,
+> This increase in resolution had a major positive effect on the quality of the ECMWFensemble forecasting system.
+
