@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+      "basename": "@N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
     },
     {
       "basename": "@S. Rasp, et. al., 2024",
       "path": "Papers/@S. Rasp, et. al., 2024.md"
+    },
+    {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
+      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "@T.Selz and G. C. Craig, 2023",
+      "path": "Papers/@T.Selz and G. C. Craig, 2023.md"
     },
     {
       "basename": "@D. Kochkov, et al., 2024",
@@ -191,14 +199,6 @@
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.53.01.excalidraw.md"
-    },
-    {
-      "basename": "2024-08-21",
-      "path": "TODO/2024-08-21.md"
-    },
-    {
-      "basename": "2024-08-19",
-      "path": "TODO/2024-08-19.md"
     }
   ],
   "omittedPaths": []
