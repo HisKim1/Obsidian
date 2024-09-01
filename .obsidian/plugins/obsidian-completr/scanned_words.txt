@@ -286,6 +286,7 @@ fKovww
 forecast에
 forecasting이
 filtering
+forced
 name
 nYYYFF
 nOq
@@ -1282,6 +1283,7 @@ time에
 tropics
 time은
 trough
+tornadoes는
 aliases
 against
 and
@@ -1617,6 +1619,7 @@ added
 abt
 adt
 achievable
+activity라면
 cssclasses
 considered
 cell
@@ -3099,6 +3102,7 @@ operator
 out해서
 obtain하는
 observing
+organized된
 Reasoning
 Resources
 Residual
@@ -4867,6 +4871,8 @@ perturbation이
 pool
 poor
 person
+propto
+phenomena
 here
 host
 haa
@@ -8637,6 +8643,7 @@ model로
 mapsto
 multiple
 monthly
+mesoscale
 서풍에
 서로
 서버의
@@ -9978,6 +9985,8 @@ wDb
 예상
 예방해주지만
 예약
+예측하기
+예측성
 연구에
 연관돼
 연직
