@@ -455,6 +455,7 @@ convective precip이 mid-lat에서는 synoptic wave에 영향 없지만 tropic�
 
 > Moreover, global atmospheric models are less accurate in the tropics, because their ability to parameterize realistically the subgrid scale processes such as convection, which are dominant in tropics, is not as good as the numerical representation of the resolved baroclinic dynamics, which is dominant in the extratropics.
 
+$$\frac{dv}{dt} = (bv+s)(1-v)$$
 
 
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
