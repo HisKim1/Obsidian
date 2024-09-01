@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-01",
+      "path": "TODO/2024-09-01.md"
+    },
+    {
+      "basename": "2024-08-30",
+      "path": "TODO/2024-08-30.md"
+    },
+    {
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
+      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "@L. Olivetti, G.Messori, 2024",
+      "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
+    },
+    {
       "basename": "@N. Brenowiz, C. Bretherton, 2019",
       "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
     },
     {
       "basename": "@S. Rasp, et. al., 2024",
       "path": "Papers/@S. Rasp, et. al., 2024.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     },
     {
       "basename": "@T.Selz and G. C. Craig, 2023",
@@ -21,20 +33,8 @@
       "path": "Papers/@D. Kochkov, et al., 2024.md"
     },
     {
-      "basename": "@L. Olivetti, G.Messori, 2024",
-      "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
-    },
-    {
-      "basename": "2024-09-01",
-      "path": "TODO/2024-09-01.md"
-    },
-    {
       "basename": "GraphCast Butterfly Effect Test",
       "path": "Test/GraphCast Butterfly Effect Test.md"
-    },
-    {
-      "basename": "2024-08-30",
-      "path": "TODO/2024-08-30.md"
     },
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw",

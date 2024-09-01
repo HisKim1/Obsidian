@@ -440,7 +440,7 @@ instabilities time scale $\propto$ spatial scale
 $\Rightarrow$ small-scale instability grow faster than larger scale
 $\Rightarrow$ mesoscale phenomena, mesoscale convective systems, tornadoes는 예측하기 어렵다. 하지만 larger scale에서 forced or organized된 activity라면 예측성 향상 가능
 
-+
++`
 
 
 
