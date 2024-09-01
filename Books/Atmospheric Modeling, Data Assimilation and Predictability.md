@@ -413,16 +413,23 @@ $$\displaystyle \frac{d\varepsilon}{dt} = a\varepsilon(1 - \varepsilon)$$
 $\varepsilon$: rms avg forecast error; $\epsilon \to 1$
 $a$: growth rate
 $\varepsilon_0$: init error
-$$\displaystyle  \begin{align} \frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= adt \\
+$$\begin{align}
+\frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= adt \\
 \int \frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= \int adt \\
 \int (\frac{1}{\varepsilon} + \frac{1}{1-\varepsilon}) d\varepsilon &= at + C\\ 
-\ln|\frac{\varepsilon}{1-\varepsilon}| &= at + C \\\frac{\varepsilon}{1-\varepsilon} &= Ke^{at}, \quad K = e^C \end{align} $$$$\displaystyle  \begin{align} \varepsilon &= Ke^{at}(1-\varepsilon) \\ 
+\ln\lvert\frac{\varepsilon}{1-\varepsilon}\rvert &= at + C \\
+\frac{\varepsilon}{1-\varepsilon} &= Ke^{at}, \quad K = e^C
+\end{align}$$
+$$\begin{align} 
+\varepsilon &= Ke^{at}(1-\varepsilon) \\ 
 \varepsilon(1 + Ke^{at}) &= Ke^{at} \\ 
 \varepsilon &= \frac{Ke^{at}}{1 + Ke^{at}} 
-\end{align} $$initial condition:  $\varepsilon(0) = \varepsilon_0$
+\end{align}$$
+initial condition:  $\varepsilon(0) = \varepsilon_0$
 $$\displaystyle  \begin{align}
 \varepsilon_0 &= \frac{K}{1 + K} \\
-K &= \frac{\varepsilon_0}{1-\varepsilon_0} \end{align} $$$$\displaystyle \begin{align} 
+K &= \frac{\varepsilon_0}{1-\varepsilon_0} \end{align} $$
+$$\displaystyle \begin{align} 
 \therefore \varepsilon(t) &= \frac{\frac{\varepsilon_0}{1-\varepsilon_0}e^{at}}{1 + \frac{\varepsilon_0}{1-\varepsilon_0}e^{at}} \\ 
 &= \frac{\varepsilon_0e^{at}}{1 + \varepsilon_0(e^{at} - 1)} 
 \end{align} $$
@@ -439,8 +446,14 @@ init error, $\varepsilon$ = 0.1, 0.01, $a$ = 0.35/day일 때 $\varepsilon$ doubl
 instabilities time scale $\propto$ spatial scale
 $\Rightarrow$ small-scale instability grow faster than larger scale
 $\Rightarrow$ mesoscale phenomena, mesoscale convective systems, tornadoes는 예측하기 어렵다. 하지만 larger scale에서 forced or organized된 activity라면 예측성 향상 가능
+\+ unforced convective activity여도 하루 이틀 정도는 예측 가능하다
 
-+`
+> The dynamics of mid-latitudes is dominated by synoptic-scale baroclinic instabilities, and the limit of deterministic weather predictability is a reflection of their baroclinic instability rates of growth.
+
+반면 tropics는 barotropic & convective instability가 더 dominant
+convective precip이 mid-lat에서는 synoptic wave에 영향 없지만 tropic에서는 easterly에 영향 많이 줘.
+
+> Moreover, global atmospheric models are less accurate in the tropics, because their ability to parameterize realistically the subgrid scale processes such as convection, which are dominant in tropics, is not as good as the numerical representation of the resolved baroclinic dynamics, which is dominant in the extratropics.
 
 
 

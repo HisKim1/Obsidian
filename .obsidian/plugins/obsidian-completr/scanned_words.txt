@@ -4191,6 +4191,7 @@ reduce
 reliable
 realistic하지
 remains
+rvert
 blog
 break
 breaking에
@@ -5506,6 +5507,7 @@ leq
 latitudes
 lost
 looeses
+lvert
 버전
 버전으로
 이상이
@@ -14597,6 +14599,8 @@ NN은
 수식어구
 수리과학
 수렴
+수업
+수학
 따른
 따라
 따로
@@ -14893,6 +14897,7 @@ NN은
 부터
 부분적으로
 부여해서
+부전공
 알아서
 알려진
 알고
@@ -15590,6 +15595,8 @@ NN은
 참여
 참조
 참다
+참관
+참석
 맹자가
 맹자
 헝가리

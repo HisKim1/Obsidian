@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-01.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-01.md",
-                "mode": "source",
+                "file": "TODO/2024-09-02.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-09-01.md"
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-09-01.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-09-01.md",
+                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,14 +205,17 @@
   },
   "active": "ee30505f98da6a18",
   "lastOpenFiles": [
-    "TODO/2024-08-30.md",
+    "TODO/2024-09-02.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "Untitled 1.md",
+    "TODO/2024-09-01.md",
+    "TODO/2024-08-20.md",
+    "TODO/2024-08-30.md",
     "Papers/@L. Olivetti, G.Messori, 2024.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Papers/@D. Kochkov, et al., 2024.md",
-    "TODO/2024-09-01.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw.md",
     "TODO/2024-08-28.md",
@@ -229,12 +232,9 @@
     "ReadMe.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md",
     "Books/eq 6.3.27.md",
-    "TODO/2024-08-27.md",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 17.10.53.excalidraw.md",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",
     "File/Pasted Image 20240827124822_553.png",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-22 16.59.37.excalidraw.md",
     "File/Pasted Image 20240825190749_064.png",
     "File/Pasted Image 20240825171659_615.png",
     "File/Pasted Image 20240825165904_919.png",
