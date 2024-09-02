@@ -490,6 +490,15 @@ surface easteries $\xrightarrow{\text{Ekman Pumping}}$ cold equatorial tongue
 := Coriolis force acting on westward currentscreates a poleward acceleration in both hemispheres
 $\rightarrow$ horizontal divergence & strong upwelling of cold water
 
+### Delayed oscillator mechanism
+why ENSO episodes alternate between warm and cold events
+
+unstable coupling
+$\to$ westerly / warm anomaly in the equatorial central Pacipic deepens 
+$\to$ anomaly generates Rossby waves moving westward in the process of adjustment
+$\to$ Rossby waves elevate the thermocline in the western region
+$\to$ 
+
 
 
 ## 6.8 | Decadal variability and climate change

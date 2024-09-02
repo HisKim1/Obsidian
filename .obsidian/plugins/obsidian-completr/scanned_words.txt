@@ -7152,6 +7152,7 @@ Eliminates
 Euclidean
 EON
 ECMWFensemble
+Ekman
 Message
 Mean
 MJJ
@@ -9479,6 +9480,7 @@ Perturbation
 Pscc
 PCp
 PLy
+Pumping
 질량
 질서도
 질문하고
