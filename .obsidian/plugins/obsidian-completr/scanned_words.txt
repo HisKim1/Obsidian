@@ -1294,6 +1294,7 @@ tropics
 time은
 trough
 tornadoes는
+tropic
 aliases
 against
 and
