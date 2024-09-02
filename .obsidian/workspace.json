@@ -6,7 +6,6 @@
       {
         "id": "a13feabf4d0b0ab8",
         "type": "tabs",
-        "dimension": 69.68085106382979,
         "children": [
           {
             "id": "ee30505f98da6a18",
@@ -15,33 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0be7cbc3c22b4d81",
-        "type": "tabs",
-        "dimension": 30.319148936170212,
-        "children": [
+          },
           {
             "id": "5cbccb82a229df87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-03.md",
-                "mode": "preview",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+                "file": "Test/GraphCast Butterfly Effect Test.md"
               }
             }
           },
@@ -157,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +196,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "217b0e74a797c1a1",
+  "active": "5cbccb82a229df87",
   "lastOpenFiles": [
     "TODO/2024-09-03.md",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md",
     "TODO/2024-09-02.md",
     "TODO/2024-09-01.md",
     "File/Pasted Image 20240902160406_658.png",

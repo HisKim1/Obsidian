@@ -28,6 +28,9 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	1. prof.'s advice
 	   $$\textsf{value} \leftarrow \textsf{value} + \sigma \cdot \lambda \textsf{ Gaussian Noise} $$
 	   "자세한 건 책 참조"
+	2. t2m climatology STD 값을 조절하자
+	3. perturbation size를 잘 조절
+	4. 3-variable model을 구현해서 그거랑 비슷하게 되는지 아닌지?
 	   
 5. [ ] Perturbed Output 뽑기
 	1. 변수 1개 지정
