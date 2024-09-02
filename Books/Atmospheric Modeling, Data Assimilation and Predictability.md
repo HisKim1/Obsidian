@@ -477,5 +477,6 @@ if an imperfect model follows the equation above, 아래 error growth를 따르�
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
 
 
+
 ## 6.8 | Decadal variability and climate change
 
