@@ -384,7 +384,7 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 \end{align}$$
 
 1997에 ensemble 수를 50개로 늘렸는데,
-> This increase in resolution had a major positive effect on the quality of the ECMWFensemble forecasting system.
+> This increase in resolution had a major positive effect on the quality of the ECMWF ensemble forecasting system.
 
 ### 6.5.3 | Ensembles based on multiple data assimilation
 init cond 만들기 위한 data assimilation system ensemble
@@ -458,9 +458,12 @@ convective precip이 mid-lat에서는 synoptic wave에 영향 없지만 tropic�
 random error growth rate in an imperfect model
 : operational forecast error + logistic equation
 $$\frac{dv}{dt} = (bv+s)(1-v)$$
-$v$: systematic random error variancez
+$v$: systematic random error variance
 $b$: growth rate for small error variance $\because$ instability
 $s$: external random error variance $\because$ model deficiency
+
+the solution is
+$$\Rightarrow v(t) = 1-\frac{1+s}{1+\mu}\quad \text{where }\mu = \frac{v(0)+\frac{s}{b}}{1-v(0)}e^{(b+s)t}$$
 
 
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
