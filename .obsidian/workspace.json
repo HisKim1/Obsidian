@@ -15,19 +15,9 @@
               "type": "markdown",
               "state": {
                 "file": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e7bc3e273b366a9e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md"
               }
             }
           }
@@ -44,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-02.md",
+                "file": "TODO/2024-09-03.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -213,12 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee30505f98da6a18",
+  "active": "217b0e74a797c1a1",
   "lastOpenFiles": [
-    "TODO/2024-09-02.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-    "TODO/2024-09-01.md",
+    "TODO/2024-09-03.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "TODO/2024-09-02.md",
+    "TODO/2024-09-01.md",
     "File/Pasted Image 20240902160406_658.png",
     "Untitled 1.md",
     "TODO/2024-08-20.md",

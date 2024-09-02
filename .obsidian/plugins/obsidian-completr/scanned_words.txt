@@ -287,6 +287,7 @@ forecast에
 forecasting이
 filtering
 forced
+feedback
 name
 nYYYFF
 nOq
@@ -984,6 +985,8 @@ signature인
 scales가
 scale로
 slowly
+sufficiently
+starts
 topic
 tags
 templete
@@ -1637,6 +1640,7 @@ approximated
 amplitude에
 advection
 anomalies
+anomaly
 cssclasses
 considered
 cell
@@ -2053,6 +2057,7 @@ chosen
 contains
 computing
 convections때문에
+cfb
 Tool
 Troposphere에서
 Thermal
@@ -2886,6 +2891,7 @@ deficiencies
 development만
 decay
 downscale
+delayed
 of
 ojjjii
 oJg
@@ -4196,6 +4202,7 @@ reliable
 realistic하지
 remains
 rvert
+reverses
 blog
 break
 breaking에
@@ -4474,6 +4481,7 @@ breed
 baroclinic
 bcdb
 bdfe
+becomes
 posts
 pf
 pss
@@ -4908,6 +4916,7 @@ parameterization
 prediction을
 peak
 propagate되었어야
+pumping
 here
 host
 haa
@@ -5171,6 +5180,7 @@ hemispherical
 high
 hyperellipsoid
 hookleftarrow
+hgZnqdDT
 작업
 작동
 작업해보았는데
@@ -11681,6 +11691,7 @@ JNC
 JkE
 Jfgg
 Jku
+JijT
 YY
 YlzK
 YRRR
@@ -12634,6 +12645,8 @@ essence
 effect의
 eastward
 elevate
+ecbeba
+episode
 VAA
 VWWc
 VUU
@@ -14259,6 +14272,8 @@ NfWm
 Norm
 NdRM
 NN은
+Normal
+Nina
 쉄f
 믿vuum
 믿J
