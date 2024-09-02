@@ -983,6 +983,7 @@ stagnation
 signature인
 scales가
 scale로
+slowly
 topic
 tags
 templete
@@ -1634,6 +1635,7 @@ activity라면
 approximated
 amplitude에
 advection
+anomalies
 cssclasses
 considered
 cell
@@ -11240,6 +11242,7 @@ kqS
 kuIY
 kvww
 kYx
+kind
 xxxnn
 xh
 xU
@@ -13581,6 +13584,7 @@ vectors에
 vUW
 vZZZJ
 varepsilon
+variance
 qbRRRrr
 qZ
 ql

@@ -475,8 +475,15 @@ if an imperfect model follows the equation above, 아래 error growth를 따르�
 | tropic       | 0.1/day | 0.1~0.2/day |
 
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
+unpredictable weather noise / longer-lasting surface forcing
+$\to$ seasonal & interannual atmospheric variability 
 
+potential predictability = total anomalies variance - weather noise variance
 
+predictability of the 1st kind: pred + init cond
+predictability of the 2nd kind: pred + slowly evolving boundary cond
+
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw|700]]
 
 ## 6.8 | Decadal variability and climate change
 
