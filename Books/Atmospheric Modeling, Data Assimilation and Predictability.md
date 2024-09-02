@@ -494,13 +494,15 @@ $\rightarrow$ horizontal divergence & strong upwelling of cold water
 why ENSO episodes alternate between warm and cold events
 
 unstable coupling
-$\to$ westerly / warm anomaly in the equatorial central Pacipic deepens 
+$\to$ westerly / warm anomaly in the equatorial central Pacific deepens 
 $\to$ anomaly generates Rossby waves moving westward in the process of adjustment
 $\to$ Rossby waves elevate the thermocline in the western region
 $\to$ Rossby waves are reflected as eastward moving Kelvin waves, which also elevate the thermocline
+$\to$ when the Kelvin waves reach the central Pacific, 
+$\to$ they counteract the effect of the thermocline deepening by the unstable coupling.
+$\to$ this delayed negative feedback becomes sufficiently strong, it reverses the sign of the anomaly, and a cold (La Nina) episode starts.
 
-
-
+Kelvin wave? coupling? 
 
 ## 6.8 | Decadal variability and climate change
 

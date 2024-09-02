@@ -1296,6 +1296,7 @@ time은
 trough
 tornadoes는
 tropic
+thermocline
 aliases
 against
 and
@@ -12066,6 +12067,7 @@ Keep
 Kronecher
 Kfgg
 Kfff
+Kelvin
 UQQ
 UWW
 UVV
@@ -12630,6 +12632,8 @@ essentially
 earth
 essence
 effect의
+eastward
+elevate
 VAA
 VWWc
 VUU
