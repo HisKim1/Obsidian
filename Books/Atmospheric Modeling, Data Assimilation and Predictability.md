@@ -497,7 +497,8 @@ unstable coupling
 $\to$ westerly / warm anomaly in the equatorial central Pacipic deepens 
 $\to$ anomaly generates Rossby waves moving westward in the process of adjustment
 $\to$ Rossby waves elevate the thermocline in the western region
-$\to$ 
+$\to$ Rossby waves are reflected as eastward moving Kelvin waves, which also elevate the thermocline
+
 
 
 
