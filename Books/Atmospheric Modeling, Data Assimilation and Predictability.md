@@ -459,11 +459,12 @@ random error growth rate in an imperfect model
 : operational forecast error + logistic equation
 $$\frac{dv}{dt} = (bv+s)(1-v)$$
 $v$: systematic random error variance
-$b$: growth rate for small error variance $\because$ instability
+$b$: growth rate for small error variance $\because$ instability (internal)
 $s$: external random error variance $\because$ model deficiency
 
 the solution is
 $$\Rightarrow v(t) = 1-\frac{1+s}{1+\mu}\quad \text{where }\mu = \frac{v(0)+\frac{s}{b}}{1-v(0)}e^{(b+s)t}$$
+
 
 
 ## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
