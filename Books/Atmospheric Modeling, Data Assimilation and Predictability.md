@@ -484,6 +484,13 @@ predictability of the 1st kind: pred + init cond
 predictability of the 2nd kind: pred + slowly evolving boundary cond
 
 ![[Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw|700]]
+surface easteries $\xrightarrow{\text{Ekman Pumping}}$ cold equatorial tongue
+
+**Ekman pumping**
+:= Coriolis force acting on westward currentscreates a poleward acceleration in both hemispheres
+$\rightarrow$ horizontal divergence & strong upwelling of cold water
+
+
 
 ## 6.8 | Decadal variability and climate change
 
