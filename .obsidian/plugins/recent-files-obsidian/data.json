@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GraphCast Butterfly Effect Test",
-      "path": "Test/GraphCast Butterfly Effect Test.md"
-    },
-    {
       "basename": "2024-09-03",
       "path": "TODO/2024-09-03.md"
+    },
+    {
+      "basename": "2024-09-04",
+      "path": "TODO/2024-09-04.md"
+    },
+    {
+      "basename": "GraphCast Butterfly Effect Test",
+      "path": "Test/GraphCast Butterfly Effect Test.md"
     },
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240822165733",
       "path": "File/Pasted image 20240822165733.png"
-    },
-    {
-      "basename": "Pasted image 20240822165849",
-      "path": "File/Pasted image 20240822165849.png"
     }
   ],
   "omittedPaths": []
