@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,8 +184,16 @@
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
     "TODO/2024-09-03.md",
-    "TODO/2024-09-04.md",
+    "GraphCast/Coding/Property/gnn_msg_steps.md",
+    "GraphCast/Coding/Code.md",
+    "GraphCast/structure/GraphCast Model.md",
+    "GraphCast/Coding/graphcast.py.md",
+    "GraphCast/Coding/Server Info.md",
+    "GraphCast/paper/General Forecasting Problem Statement.md",
+    "GraphCast/ERA5.md",
+    "GraphCast/Dataset.md",
     "Test/GraphCast Butterfly Effect Test.md",
+    "TODO/2024-09-04.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md",
     "TODO/2024-09-02.md",
@@ -204,14 +211,6 @@
     "TODO/2024-08-28.md",
     "File/Pasted Image 20240830160313_905.png",
     "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 12.05.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md",
-    "Templete/TODO.md",
-    "TODO/2024-09-06.md",
-    "TODO/2024-08-29.md",
-    "Untitled.md",
-    "TODO/2024-09-05.md",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",
     "File/Pasted Image 20240827124822_553.png",

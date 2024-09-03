@@ -29,7 +29,10 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	   $$\textsf{value} \leftarrow \textsf{value} + \sigma \cdot \lambda \textsf{ Gaussian Noise} $$
 	   "자세한 건 책 참조"
 	2. t2m climatology STD 값을 조절하자
+		1. 어떤 std를 써야 하는가
+			1. 00 / 06 / 12 / 18h일 때 각 cell의 std를 해야 하지 않을까
 	3. perturbation size를 잘 조절
+		1. 일단 1로 뽑고 0.001로도 뽑아보자
 	4. 3-variable model을 구현해서 그거랑 비슷하게 되는지 아닌지?
 	   
 5. [ ] Perturbed Output 뽑기
