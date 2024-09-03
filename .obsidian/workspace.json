@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/2024-09-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md"
+                "file": "TODO/2024-09-04.md"
               }
             }
           },
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,6 +185,8 @@
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
     "TODO/2024-09-03.md",
+    "TODO/2024-09-04.md",
+    "Test/GraphCast Butterfly Effect Test.md",
     "GraphCast/Coding/Property/gnn_msg_steps.md",
     "GraphCast/Coding/Code.md",
     "GraphCast/structure/GraphCast Model.md",
@@ -192,8 +195,6 @@
     "GraphCast/paper/General Forecasting Problem Statement.md",
     "GraphCast/ERA5.md",
     "GraphCast/Dataset.md",
-    "Test/GraphCast Butterfly Effect Test.md",
-    "TODO/2024-09-04.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md",
     "TODO/2024-09-02.md",
