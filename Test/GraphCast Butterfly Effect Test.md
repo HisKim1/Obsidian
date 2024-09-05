@@ -31,7 +31,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	2. t2m climatology STD 값을 조절하자
 		1. 어떤 std를 써야 하는가
 			1. 00 / 06 / 12 / 18h일 때 각 cell의 std를 해야 하지 않을까
-			   $\to$ <font color="#00e676">진행 중</font>
+			
 	3. perturbation size를 잘 조절
 		1. 일단 1로 뽑고 0.001로도 뽑아보자
 	4. 3-variable model을 구현해서 그거랑 비슷하게 되는지 아닌지?
@@ -39,7 +39,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 5. [x] Perturbed Output 뽑기 ✅ 2024-09-05
 	1. 변수 1개 지정
 	2. 그 변수에만 다양하게 perturb 주기
-	3. output 저장 (let's say "ensemble")
+	3. output 저장 (let's say "ensemble")    $\leftarrow$ <font color="#00e676">진행 중</font>
 	   
 6. ensemble을 어떻게 비교할 것인가?
 	1. 3-variables 모델과 비교해본다?
