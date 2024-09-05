@@ -989,6 +989,7 @@ sufficiently
 starts
 steps
 std를
+spread를
 topic
 tags
 templete
@@ -7730,6 +7731,7 @@ instantaneous
 지나면
 지역을
 지훈이형과
+지훈에게
 보내주신
 보통
 보임
@@ -14969,6 +14971,7 @@ Nina
 계획
 계정
 계산
+계절만
 조절
 조정
 조교를
@@ -15463,6 +15466,8 @@ Nina
 비슷할
 비슷하게
 비용이
+비교해본다
+비교해봐라
 피어슨
 피드백
 피할
