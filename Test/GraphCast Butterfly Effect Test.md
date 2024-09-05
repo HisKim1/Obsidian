@@ -24,7 +24,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	   [[Input Data 다운]]
 	4. 데이터 합성까지 완료하기
 	   
-4. [ ] perturbation method 구현
+4. [x] perturbation method 구현 ✅ 2024-09-05
 	1. prof.'s advice
 	   $$\textsf{value} \leftarrow \textsf{value} + \sigma \cdot \lambda \textsf{ Gaussian Noise} $$
 	   "자세한 건 책 참조"
@@ -36,13 +36,14 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 		1. 일단 1로 뽑고 0.001로도 뽑아보자
 	4. 3-variable model을 구현해서 그거랑 비슷하게 되는지 아닌지?
 	   
-5. [ ] Perturbed Output 뽑기
+5. [x] Perturbed Output 뽑기 ✅ 2024-09-05
 	1. 변수 1개 지정
 	2. 그 변수에만 다양하게 perturb 주기
 	3. output 저장 (let's say "ensemble")
 	   
 6. ensemble을 어떻게 비교할 것인가?
-	1. 추후 논의 예정
+	1. 3-variables 모델과 비교해본다?
+	2. 
 
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
