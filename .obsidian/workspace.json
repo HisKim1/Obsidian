@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-06.md",
+                "file": "TODO/2024-09-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-09-06.md"
+                "file": "TODO/2024-09-07.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-09-06.md",
+                "file": "TODO/2024-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-09-06.md",
+                "file": "TODO/2024-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,6 +184,8 @@
   },
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
+    "TODO/2024-09-06.md",
+    "TODO/2024-09-07.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-09-05.md",
     "TODO/2024-09-04.md",
@@ -209,8 +211,6 @@
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Papers/@D. Kochkov, et al., 2024.md",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw.md",
-    "TODO/2024-08-28.md",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",
