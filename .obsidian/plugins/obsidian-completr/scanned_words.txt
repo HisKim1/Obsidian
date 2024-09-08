@@ -3868,6 +3868,7 @@ Leading
 LOOg
 Lagrange
 Laypunov
+LMS
 relevant
 residual
 rK
@@ -5713,6 +5714,7 @@ lvert
 기저
 기간이
 기도하기
+기사님
 으로
 롤백
 혹은
@@ -7747,6 +7749,7 @@ instantaneous
 보인다면
 보다
 보았다
+보일러
 대로
 대기
 대신에
@@ -10086,6 +10089,7 @@ wDb
 연락해서
 연기
 통찰
+통화
 제공
 제트기류
 제거
@@ -14646,6 +14650,7 @@ Nina
 수렴
 수업
 수학
+수강생
 따른
 따라
 따로

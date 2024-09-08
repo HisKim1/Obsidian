@@ -84,12 +84,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -184,8 +184,9 @@
   },
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
-    "TODO/2024-09-07.md",
+    "TODO/2024-09-10.md",
     "TODO/2024-09-09.md",
+    "TODO/2024-09-07.md",
     "TODO/2024-09-06.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-09-05.md",
@@ -210,7 +211,6 @@
     "Papers/@L. Olivetti, G.Messori, 2024.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Papers/@S. Rasp, et. al., 2024.md",
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",
