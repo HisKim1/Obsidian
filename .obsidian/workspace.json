@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0fd499c412f6335",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TODO/2024-09-09.md"
-              }
+              "state": {}
             }
           },
           {
@@ -88,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -136,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-09-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +186,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cbccb82a229df87",
+  "active": "d0fd499c412f6335",
   "lastOpenFiles": [
+    "Papers/@P. Watson, 2024.md",
+    "TODO/2024-09-09.md",
+    "Papers/@C. Bodnar, et. al., 2024.md",
+    "Papers/C. Bodnar, et al., 2024.md",
+    "Papers/@T. Nipen, et al., 2024.md",
+    "Papers/@D. Kochkov, et al., 2024.md",
+    "Papers/@M. Bonavita, 2024.md",
+    "Papers/@T.Selz and G. C. Craig, 2023.md",
+    "Papers/@S. Rasp, et. al., 2024.md",
+    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Templete/TODO.md",
     "TODO/2024-09-10.md",
-    "TODO/2024-09-09.md",
     "TODO/2024-09-07.md",
     "TODO/2024-09-06.md",
     "Test/GraphCast Butterfly Effect Test.md",
@@ -201,16 +214,7 @@
     "GraphCast/paper/General Forecasting Problem Statement.md",
     "GraphCast/ERA5.md",
     "GraphCast/Dataset.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
-    "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md",
-    "TODO/2024-09-02.md",
-    "TODO/2024-09-01.md",
     "File/Pasted Image 20240902160406_658.png",
-    "Untitled 1.md",
-    "TODO/2024-08-20.md",
-    "TODO/2024-08-30.md",
-    "Papers/@L. Olivetti, G.Messori, 2024.md",
-    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",
     "File/Pasted Image 20240827124906_666.png",

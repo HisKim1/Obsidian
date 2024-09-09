@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "@P. Watson, 2024",
+      "path": "Papers/@P. Watson, 2024.md"
+    },
+    {
       "basename": "2024-09-09",
       "path": "TODO/2024-09-09.md"
+    },
+    {
+      "basename": "@C. Bodnar, et. al., 2024",
+      "path": "Papers/@C. Bodnar, et. al., 2024.md"
+    },
+    {
+      "basename": "@T. Nipen, et al., 2024",
+      "path": "Papers/@T. Nipen, et al., 2024.md"
+    },
+    {
+      "basename": "@D. Kochkov, et al., 2024",
+      "path": "Papers/@D. Kochkov, et al., 2024.md"
+    },
+    {
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
+    },
+    {
+      "basename": "@T.Selz and G. C. Craig, 2023",
+      "path": "Papers/@T.Selz and G. C. Craig, 2023.md"
+    },
+    {
+      "basename": "@S. Rasp, et. al., 2024",
+      "path": "Papers/@S. Rasp, et. al., 2024.md"
+    },
+    {
+      "basename": "@N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
     },
     {
       "basename": "TODO",
@@ -101,22 +133,6 @@
       "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
     },
     {
-      "basename": "@N. Brenowiz, C. Bretherton, 2019",
-      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
-    },
-    {
-      "basename": "@S. Rasp, et. al., 2024",
-      "path": "Papers/@S. Rasp, et. al., 2024.md"
-    },
-    {
-      "basename": "@T.Selz and G. C. Craig, 2023",
-      "path": "Papers/@T.Selz and G. C. Craig, 2023.md"
-    },
-    {
-      "basename": "@D. Kochkov, et al., 2024",
-      "path": "Papers/@D. Kochkov, et al., 2024.md"
-    },
-    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "The Elements of Style",
       "path": "Books/The Elements of Style.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw",
-      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 19.07.26.excalidraw.md"
-    },
-    {
-      "basename": "2024-08-25",
-      "path": "TODO/2024-08-25.md"
-    },
-    {
-      "basename": "local bred vector dimension",
-      "path": "Books/local bred vector dimension.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw",
-      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-25 17.16.44.excalidraw.md"
     }
   ],
   "omittedPaths": []

@@ -13,7 +13,7 @@
       },
       "defaultName": "",
       "templates": [
-        "Papers/templete/논문 정리.md"
+        "Templete/paper.md"
       ],
       "excludedNotes": [
         "Papers/Overview.md"
