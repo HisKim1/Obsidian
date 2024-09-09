@@ -21,11 +21,16 @@
             }
           },
           {
-            "id": "d0fd499c412f6335",
+            "id": "93141af16453f5f9",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Papers/@S. Rasp, et. al., 2024.md"
+              }
             }
           },
           {
@@ -142,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Papers/@S. Rasp, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Papers/@S. Rasp, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0fd499c412f6335",
+  "active": "93141af16453f5f9",
   "lastOpenFiles": [
-    "Papers/@P. Watson, 2024.md",
     "TODO/2024-09-09.md",
+    "Papers/@P. Watson, 2024.md",
     "Papers/@C. Bodnar, et. al., 2024.md",
     "Papers/C. Bodnar, et al., 2024.md",
     "Papers/@T. Nipen, et al., 2024.md",

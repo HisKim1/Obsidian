@@ -288,6 +288,7 @@ forecasting이
 filtering
 forced
 feedback
+focus
 name
 nYYYFF
 nOq
@@ -6210,6 +6211,7 @@ gradient
 gathered
 generated
 growth가
+greater
 GraphCast
 GPU
 Geostrophic
@@ -12669,6 +12671,7 @@ eastward
 elevate
 ecbeba
 episode
+extreme에
 VAA
 VWWc
 VUU
@@ -14590,6 +14593,7 @@ Nina
 향상시키는
 향상에
 딥마인드가
+딥러닝
 같은데
 같은
 같은건가
@@ -15263,6 +15267,7 @@ Nina
 열고
 집중
 집중할
+집중해야
 낮다
 표현하기
 표현

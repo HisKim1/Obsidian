@@ -3,7 +3,8 @@ title: Machine learning applications for weather and climate need greater focus 
 site: https://arxiv.org/abs/2207.07390
 summary: 왜 딥러닝 모델들이 extreme에 더 집중해야 하는가
 keyword: 
-status: 
+status:
+  - NotYet
 aliases:
   - templete
 tags: 
