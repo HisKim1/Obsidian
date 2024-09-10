@@ -39,11 +39,11 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 5. [x] Perturbed Output 뽑기 ✅ 2024-09-05
 	1. 변수 1개 지정
 	2. 그 변수에만 다양하게 perturb 주기
-	3. output 저장 (let's say "ensemble")    $\leftarrow$ <font color="#00e676">진행 중</font>
+	3. output 저장 (let's say "ensemble")   
 	   
 6. ensemble을 어떻게 비교할 것인가?
 	1. 3-variables 모델과 비교해본다?
-	2. 지훈에게 ECMWF ensemble 50개를 받아서 계절만 비슷하게 해서 비교해봐라 spread를 - prof.
+	2. 지훈에게 ECMWF ensemble 50개를 받아서 계절만 비슷하게 해서 비교해봐라 spread를 - prof. $\leftarrow$ <font color="#00e676">진행 중</font>
 
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
