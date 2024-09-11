@@ -44,6 +44,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 6. ensemble을 어떻게 비교할 것인가?
 	1. 3-variables 모델과 비교해본다?
 	2. 지훈에게 ECMWF ensemble 50개를 받아서 계절만 비슷하게 해서 비교해봐라 spread를 - prof. $\leftarrow$ <font color="#00e676">진행 중</font>
+7. 0.5$\sigma$, 1$\sigma$, 1.5$\sigma$, 2$\sigma$까지 사용해서라도 벌어지게 해보자. 얼마나 해야 더 벌어질까
 
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]

@@ -7712,6 +7712,7 @@ improved
 inproving
 infer
 instantaneous
+instantaeousaccumulated인지
 지난
 지표
 지속
@@ -15247,6 +15248,7 @@ Nina
 물질
 물은
 물을
+물어보기
 육지
 균형
 토양
@@ -15888,3 +15890,4 @@ Nina
 납득
 횟수
 캡처
+훈햄에게
