@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-11",
+      "path": "TODO/2024-09-11.md"
+    },
+    {
       "basename": "GraphCast Butterfly Effect Test",
       "path": "Test/GraphCast Butterfly Effect Test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-26",
       "path": "TODO/2024-08-26.md"
-    },
-    {
-      "basename": "The Elements of Style",
-      "path": "Books/The Elements of Style.md"
     }
   ],
   "omittedPaths": []
