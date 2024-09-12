@@ -31,7 +31,6 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	2. t2m climatology STD 값을 조절하자
 		1. 어떤 std를 써야 하는가
 			1. 00 / 06 / 12 / 18h일 때 각 cell의 std를 해야 하지 않을까
-			
 	3. perturbation size를 잘 조절
 		1. 일단 1로 뽑고 0.001로도 뽑아보자
 	4. 3-variable model을 구현해서 그거랑 비슷하게 되는지 아닌지?
@@ -45,7 +44,9 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	1. 3-variables 모델과 비교해본다?
 	2. 지훈에게 ECMWF ensemble 50개를 받아서 계절만 비슷하게 해서 비교해봐라 spread를 - prof. 
 7. 0.5$\sigma$, 1$\sigma$, 1.5$\sigma$, 2$\sigma$까지 사용해서라도 벌어지게 해보자. 얼마나 해야 더 벌어질까 
-	5$\sigma$까지 해보자 $\leftarrow$ <font color="#00e676">진행 중</font>
+	5$\sigma$까지 해보자
+	잘 안 됨.
+8. 다른 변수들에도 줘야 하지 않을까 $\leftarrow$ <font color="#00e676">진행 중</font>
 
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
