@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -182,7 +183,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cbccb82a229df87",
+  "active": "976d3b8b6875bd2e",
   "lastOpenFiles": [
     "TODO/2024-09-12.md",
     "TODO/2024-09-13.md",
