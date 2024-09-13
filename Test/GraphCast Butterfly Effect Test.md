@@ -47,7 +47,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	5$\sigma$까지 해보자
 	잘 안 됨.
 8. 다른 변수들에도 줘야 하지 않을까 $\leftarrow$ <font color="#00e676">진행 중</font>
-
+	1. 변수 11개 std 구하기.....
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
 [2] [[@M. Bonavita, 2024]]
