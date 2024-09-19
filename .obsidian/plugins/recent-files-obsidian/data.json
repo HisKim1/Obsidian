@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-19",
+      "path": "TODO/2024-09-19.md"
+    },
+    {
       "basename": "GraphCast Butterfly Effect Test",
       "path": "Test/GraphCast Butterfly Effect Test.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
     },
     {
       "basename": "2024-09-13",
@@ -11,10 +19,6 @@
     {
       "basename": "Task",
       "path": "GraphCast/Task/Task.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
     },
     {
       "basename": "Code",
@@ -195,10 +199,6 @@
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md"
-    },
-    {
-      "basename": "eq 6.3.27",
-      "path": "Books/eq 6.3.27.md"
     }
   ],
   "omittedPaths": []

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/2024-09-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md"
+                "file": "TODO/2024-09-19.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/2024-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/2024-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +196,13 @@
   },
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
+    "Test/GraphCast Butterfly Effect Test.md",
+    "TODO/2024-09-19.md",
+    "GraphCast/Task/Input Data 다운.md",
     "TODO/2024-09-13.md",
     "GraphCast/Task/Task.md",
-    "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Coding/Code.md",
     "TODO/2024-09-12.md",
-    "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-09-10.md",
     "TODO/2024-09-11.md",
     "TODO/2024-09-24.md",
@@ -221,7 +222,6 @@
     "TODO/2024-09-05.md",
     "TODO/2024-09-04.md",
     "TODO/2024-09-03.md",
-    "GraphCast/Coding/Property/gnn_msg_steps.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",
