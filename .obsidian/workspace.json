@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-19.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df99f81f7bd4fddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -85,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-09-19.md"
+                "file": "Test/GraphCast Butterfly Effect Test.md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-09-19.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-09-19.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +183,9 @@
   },
   "active": "5cbccb82a229df87",
   "lastOpenFiles": [
+    "GraphCast/Task/Input Data 다운.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-09-19.md",
-    "GraphCast/Task/Input Data 다운.md",
     "TODO/2024-09-13.md",
     "GraphCast/Task/Task.md",
     "GraphCast/Coding/Code.md",
