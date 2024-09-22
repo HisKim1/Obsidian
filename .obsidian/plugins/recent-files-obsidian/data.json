@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-23",
+      "path": "TODO/2024-09-23.md"
+    },
+    {
       "basename": "@L. Olivetti, G.Messori, 2024",
       "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
     },
     {
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
+    },
+    {
       "basename": "2024-09-22",
       "path": "TODO/2024-09-22.md"
+    },
+    {
+      "basename": "@P. Watson, 2024",
+      "path": "Papers/@P. Watson, 2024.md"
     },
     {
       "basename": "GraphCast Butterfly Effect Test",
@@ -61,10 +73,6 @@
       "path": "Papers/@S. Rasp, et. al., 2024.md"
     },
     {
-      "basename": "@P. Watson, 2024",
-      "path": "Papers/@P. Watson, 2024.md"
-    },
-    {
       "basename": "@C. Bodnar, et. al., 2024",
       "path": "Papers/@C. Bodnar, et. al., 2024.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "@D. Kochkov, et al., 2024",
       "path": "Papers/@D. Kochkov, et al., 2024.md"
-    },
-    {
-      "basename": "@M. Bonavita, 2024",
-      "path": "Papers/@M. Bonavita, 2024.md"
     },
     {
       "basename": "@T.Selz and G. C. Craig, 2023",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "ReadMe",
-      "path": "ReadMe.md"
     }
   ],
   "omittedPaths": []

@@ -26,15 +26,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@L. Olivetti, G.Messori, 2024.md",
-                "mode": "preview",
+                "file": "TODO/2024-09-23.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "40badbcdd93e72b8",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Papers/@L. Olivetti, G.Messori, 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@L. Olivetti, G.Messori, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@L. Olivetti, G.Messori, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +199,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "560e24b61e8c1c01",
+  "active": "40badbcdd93e72b8",
   "lastOpenFiles": [
+    "TODO/2024-09-23.md",
+    "Papers/@L. Olivetti, G.Messori, 2024.md",
+    "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-09-22.md",
+    "Papers/@P. Watson, 2024.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "GraphCast/Task/Input Data 다운.md",
     "TODO/2024-09-19.md",
@@ -211,18 +219,14 @@
     "TODO/2024-09-09.md",
     "TODO/2024-09-07.md",
     "Papers/@S. Rasp, et. al., 2024.md",
-    "Papers/@P. Watson, 2024.md",
     "Papers/@C. Bodnar, et. al., 2024.md",
     "Papers/C. Bodnar, et al., 2024.md",
     "Papers/@T. Nipen, et al., 2024.md",
     "Papers/@D. Kochkov, et al., 2024.md",
-    "Papers/@M. Bonavita, 2024.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
     "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "Templete/TODO.md",
     "TODO/2024-09-06.md",
-    "TODO/2024-09-05.md",
-    "TODO/2024-09-04.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",
