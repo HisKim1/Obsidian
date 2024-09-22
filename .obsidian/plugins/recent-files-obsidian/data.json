@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-22",
+      "path": "TODO/2024-09-22.md"
+    },
+    {
       "basename": "GraphCast Butterfly Effect Test",
       "path": "Test/GraphCast Butterfly Effect Test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ReadMe",
       "path": "ReadMe.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw",
-      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw.md"
     }
   ],
   "omittedPaths": []
