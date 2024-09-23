@@ -37,8 +37,13 @@
             "id": "40badbcdd93e72b8",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@M. Bonavita, 2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -93,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Papers/@M. Bonavita, 2024.md"
+              }
             }
           },
           {
@@ -155,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Papers/@M. Bonavita, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
