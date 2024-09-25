@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -184,9 +183,10 @@
   },
   "active": "40badbcdd93e72b8",
   "lastOpenFiles": [
-    "Test/GraphCast Butterfly Effect Test.md",
+    "TODO/2024-09-27.md",
     "TODO/2024-09-26.md",
     "TODO/2024-09-25.md",
+    "Test/GraphCast Butterfly Effect Test.md",
     "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-09-23.md",
     "Papers/@L. Olivetti, G.Messori, 2024.md",
@@ -209,7 +209,6 @@
     "Papers/@T. Nipen, et al., 2024.md",
     "Papers/@D. Kochkov, et al., 2024.md",
     "Papers/@T.Selz and G. C. Craig, 2023.md",
-    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",

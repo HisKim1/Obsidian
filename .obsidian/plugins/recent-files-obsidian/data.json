@@ -5,12 +5,12 @@
       "path": "TODO/2024-09-26.md"
     },
     {
-      "basename": "GraphCast Butterfly Effect Test",
-      "path": "Test/GraphCast Butterfly Effect Test.md"
-    },
-    {
       "basename": "2024-09-25",
       "path": "TODO/2024-09-25.md"
+    },
+    {
+      "basename": "GraphCast Butterfly Effect Test",
+      "path": "Test/GraphCast Butterfly Effect Test.md"
     },
     {
       "basename": "@M. Bonavita, 2024",
@@ -195,10 +195,6 @@
     {
       "basename": "Drawing 2024-08-09 10.20.33.excalidraw",
       "path": "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-08-09 11.24.45.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-09 11.24.45.excalidraw.md"
     }
   ],
   "omittedPaths": []
