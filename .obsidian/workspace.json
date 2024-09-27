@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-09-26.md",
+                "file": "TODO/2024-09-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-09-26.md"
+                "file": "TODO/2024-09-27.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-09-26.md",
+                "file": "TODO/2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-09-26.md",
+                "file": "TODO/2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +183,8 @@
   },
   "active": "40badbcdd93e72b8",
   "lastOpenFiles": [
-    "TODO/2024-09-27.md",
     "TODO/2024-09-26.md",
+    "TODO/2024-09-27.md",
     "TODO/2024-09-25.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "Papers/@M. Bonavita, 2024.md",
