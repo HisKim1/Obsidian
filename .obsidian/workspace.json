@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,9 @@
   "active": "40badbcdd93e72b8",
   "lastOpenFiles": [
     "TODO/2024-09-26.md",
+    "TODO/2024-09-30.md",
     "TODO/2024-09-27.md",
+    "Papers/@R. Parthipan, et. al., 2024.md",
     "TODO/2024-09-25.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "Papers/@M. Bonavita, 2024.md",
@@ -207,8 +210,6 @@
     "Papers/@C. Bodnar, et. al., 2024.md",
     "Papers/C. Bodnar, et al., 2024.md",
     "Papers/@T. Nipen, et al., 2024.md",
-    "Papers/@D. Kochkov, et al., 2024.md",
-    "Papers/@T.Selz and G. C. Craig, 2023.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",

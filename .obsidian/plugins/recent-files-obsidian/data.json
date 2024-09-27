@@ -9,6 +9,14 @@
       "path": "TODO/2024-09-26.md"
     },
     {
+      "basename": "2024-09-30",
+      "path": "TODO/2024-09-30.md"
+    },
+    {
+      "basename": "@R. Parthipan, et. al., 2024",
+      "path": "Papers/@R. Parthipan, et. al., 2024.md"
+    },
+    {
       "basename": "2024-09-25",
       "path": "TODO/2024-09-25.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
       "path": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 12.05.01.excalidraw",
-      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 12.05.01.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-08-09 10.20.33.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-09 10.20.33.excalidraw.md"
     }
   ],
   "omittedPaths": []
