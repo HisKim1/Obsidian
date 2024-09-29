@@ -5,12 +5,16 @@
       "path": "TODO/2024-09-30.md"
     },
     {
-      "basename": "GraphCast Butterfly Effect Test",
-      "path": "Test/GraphCast Butterfly Effect Test.md"
+      "basename": "TODO",
+      "path": "Templete/TODO.md"
     },
     {
       "basename": "2024-09-27",
       "path": "TODO/2024-09-27.md"
+    },
+    {
+      "basename": "GraphCast Butterfly Effect Test",
+      "path": "Test/GraphCast Butterfly Effect Test.md"
     },
     {
       "basename": "2024-09-26",
@@ -111,10 +115,6 @@
     {
       "basename": "@N. Brenowiz, C. Bretherton, 2019",
       "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "Templete/TODO.md"
     },
     {
       "basename": "2024-09-06",

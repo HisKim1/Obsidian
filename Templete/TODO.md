@@ -14,10 +14,30 @@ sort by due, scheduled
 ```
 
 #### 🤦‍♂️ 개쩌는 인턴 생활
-- [ ] [[GraphCast Butterfly Effect Test#Procedure]] 진행상황 업데이트
+- [x] [[GraphCast Butterfly Effect Test#Procedure]] 진행상황 업데이트 ✅ 2024-09-30
 
 #### 👨‍🏫 개쩌는 조교 생활
-`ctrl + L`
+<%*
+let date = moment(tp.file.title, "YYYY-MM-DD");
+let dayOfWeek = date.day();
+
+// 평일
+if (dayOfWeek == 1) {
+  tR += "- [ ] 시인론 과제 체크\n";
+  tR += "- [ ] 시읽기 과제 체크\n";
+  tR += "- [ ] 이수정 교수님 메일 쏘기\n";
+}
+
+// 금요일
+if (dayOfWeek == 5) {
+  tR += "- [ ] 그래프 이론 오피스 아워 오픈옾는";
+}
+
+// 일요일
+if (dayOfWeek === 0) {
+  //tR += "- [ ] 힙합 죠져~🤸‍♂️ | 🆔 25\n";
+}
+%>
 
 #### 🏭 생산적으로 살기
 
