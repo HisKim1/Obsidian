@@ -994,6 +994,8 @@ steps
 std를
 spread를
 selection
+systems로
+simulation에서
 topic
 tags
 templete
@@ -1308,6 +1310,8 @@ tornadoes는
 tropic
 thermocline
 those
+techniques
+training은
 aliases
 against
 and
@@ -1651,6 +1655,9 @@ anomalies
 anomaly
 according
 accumulation은
+assess
+adapted
+augmentation이다
 cssclasses
 considered
 cell
@@ -2070,6 +2077,8 @@ convections때문에
 cfb
 cell의
 chaos
+criterion
+clear
 Tool
 Troposphere에서
 Thermal
@@ -2907,6 +2916,9 @@ delayed
 definition
 distinguishes
 due
+deficiencies로
+describing
+diffusion
 of
 ojjjii
 oJg
@@ -3647,6 +3659,7 @@ Analysis
 Advantages
 Applications
 AffGzxGA
+Addressing
 Link
 LOO
 LQWW
@@ -4222,6 +4235,9 @@ remains
 rvert
 reverses
 regularization
+remedy
+reference
+rollouts
 blog
 break
 breaking에
@@ -4501,6 +4517,7 @@ baroclinic
 bcdb
 bdfe
 becomes
+bias
 posts
 pf
 pss
@@ -4942,6 +4959,7 @@ properties
 proposing
 push합니다
 push된
+performance는
 here
 host
 haa
@@ -5555,6 +5573,7 @@ latitudes
 lost
 looeses
 lvert
+language하는
 버전
 버전으로
 이상이
@@ -5638,6 +5657,7 @@ lvert
 해는
 해보자
 해석학
+해결하려고
 에서
 에도
 에르되시
@@ -5688,6 +5708,7 @@ lvert
 가져와
 가져오는
 가져오기
+가지로
 요청
 요소
 요지를
@@ -5727,6 +5748,7 @@ lvert
 사례
 사용하는
 사용해서라도
+사람들이
 기존
 기후에
 기후
@@ -6246,6 +6268,7 @@ gathered
 generated
 growth가
 greater
+generalization이고
 GraphCast
 GPU
 Geostrophic
@@ -6468,6 +6491,7 @@ Goals
 Growth
 GNN에서
 Git
+Gaussian
 Cast
 Circulation
 Changes
@@ -7214,6 +7238,7 @@ Euclidean
 EON
 ECMWFensemble
 Ekman
+Error를
 Message
 Mean
 MJJ
@@ -7453,6 +7478,7 @@ MoJ
 Multisystem
 MLWP는
 MLWP도
+MLWP에
 in
 iii
 iYp
@@ -7752,6 +7778,10 @@ illustrate
 inspired
 improvements
 including
+immune
+iterative
+informally
+iteration
 지난
 지표
 지속
@@ -8188,6 +8218,8 @@ Spherical
 SYZOfQbr
 STD
 Strategy
+Scheduled
+Sampling
 순환
 순환을
 순환의
@@ -8272,6 +8304,7 @@ Strategy
 방정식에
 방법으로
 방향으로
+방식으로는
 강제력이
 강화
 강화된
@@ -8781,6 +8814,7 @@ mesoscale
 model은
 model을
 metric
+mention
 서풍에
 서로
 서버의
@@ -10465,6 +10499,7 @@ IDATS
 Implications
 Ivww
 ICON이랑
+Intrinsic
 yb
 yyyvvv
 yzz
@@ -12737,6 +12772,8 @@ ecbeba
 episode
 extreme에
 entails
+evaluating
+exposure
 VAA
 VWWc
 VUU
@@ -14500,6 +14537,7 @@ Nina
 받으러
 더해서
 더이상
+더한
 생산
 생겨
 생기는
@@ -14892,6 +14930,8 @@ Nina
 시로
 시읽기
 시인론
+시점과
+시점의
 온도
 온위의
 온도가
@@ -15094,6 +15134,7 @@ Nina
 우주
 우리들의
 우선순위
+우리는
 갖고
 갖기보다는
 갖음
@@ -15210,6 +15251,8 @@ Nina
 평일
 평가해야
 평가하겠다
+평가하더라
+평가한다
 남북
 남북반구
 남반구도
@@ -15236,6 +15279,7 @@ Nina
 나온
 나타나지
 나를
+나누어
 운동량
 운동을
 운명이
@@ -15324,6 +15368,7 @@ Nina
 도시
 도시에서
 도전과제
+도전
 레이더
 레베카
 또는

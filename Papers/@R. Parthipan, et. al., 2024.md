@@ -52,7 +52,7 @@ $\to$ MLWP에 adapted
 Note) "For models based on techniques such as diffusion, it is not clear how rollout training would be used."
 
 poor performance는 lack of model generalization이고, rollout training은 form of regularization through data augmentation이다. 
-e.g. Gaussian noise 더한 / 
+e.g. Gaussian noise 더한 / high-resolution을 truth로 잡고 ML을 돌려
 
 ---
 # 3. Problem Formulation: capturing error accumulation

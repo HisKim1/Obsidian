@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "ba4c33e9168af838",
+            "id": "238e13e88b2db304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "file": "Papers/@L. Chen, et. al., 2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md"
+                "file": "Papers/@R. Parthipan, et. al., 2024.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "file": "Papers/@R. Parthipan, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@S. Rasp, et. al., 2024.md",
+                "file": "Papers/@R. Parthipan, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,8 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba4c33e9168af838",
+  "active": "6b1706e0ab9b9941",
   "lastOpenFiles": [
+    "Papers/@S. Rasp, et. al., 2024.md",
+    "Papers/@L. Chen, et. al., 2024.md",
     "Papers/@P. Watson, 2024.md",
     "Papers/@R. Parthipan, et. al., 2024.md",
     "Papers/continuous ranked probability score, CRPS.md",
@@ -221,8 +222,6 @@
     "GraphCast/Task/Task.md",
     "GraphCast/Coding/Code.md",
     "TODO/2024-09-12.md",
-    "TODO/2024-09-10.md",
-    "TODO/2024-09-11.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",

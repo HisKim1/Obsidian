@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "@R. Parthipan, et. al., 2024",
+      "path": "Papers/@R. Parthipan, et. al., 2024.md"
+    },
+    {
       "basename": "@S. Rasp, et. al., 2024",
       "path": "Papers/@S. Rasp, et. al., 2024.md"
     },
     {
-      "basename": "@P. Watson, 2024",
-      "path": "Papers/@P. Watson, 2024.md"
+      "basename": "@L. Chen, et. al., 2024",
+      "path": "Papers/@L. Chen, et. al., 2024.md"
     },
     {
-      "basename": "@R. Parthipan, et. al., 2024",
-      "path": "Papers/@R. Parthipan, et. al., 2024.md"
+      "basename": "@P. Watson, 2024",
+      "path": "Papers/@P. Watson, 2024.md"
     },
     {
       "basename": "continuous ranked probability score, CRPS",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-30",
       "path": "TODO/2024-08-30.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw",
-      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw.md"
     }
   ],
   "omittedPaths": []
