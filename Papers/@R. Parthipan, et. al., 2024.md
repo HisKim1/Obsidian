@@ -57,8 +57,24 @@ e.g. Gaussian noise 더한 / high-resolution을 truth로 잡고 ML을 돌려 / e
 ---
 # 3. Problem Formulation: capturing error accumulation
 ## Capturing explosive forms
+= (ENS mean이 indefinitely grow할 때) + (ENS mean이 stable할 때)
+$$X_{k, t+1} = X_{k,t} + Z_{k,t} \quad (Z_{k,t} \sim N(0,1) )$$
+**Metric 1) RMSE**: bad
+$\because$ generative model의 mean은 truth에 붙어서 각각이 explode한 걸 잡아내지 못 함
+
+**Metric 2) spread/skill**: better
+시간에 따라 증가 $\to$ reflecting the diverging trajectories
+
+**Metric 3) own metric**: evident
 
 ## Capturing non-explosive forms
+**Metric 1) RMSE**: low
+
+
+**Metric 2) spread/skill**: better
+시간에 따라 증가 $\to$ reflecting the diverging trajectories
+
+**Metric 3) own metric**: evident
 
 ## Not capturing errors due to STIC
 
