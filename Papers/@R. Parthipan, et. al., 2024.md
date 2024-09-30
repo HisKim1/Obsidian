@@ -21,14 +21,31 @@ Machine learning (ML) has recently shown significant promise in modelling atmosp
 ```
 
 # 1. Introduction
+Error accumulation은 잘 알려진 modelling dynamical systems problem
+하지만 그게 정확히 뭔지 def.가 없어...
+$\to$ 일반적으로 RMSE, skill/spread, [[continuous ranked probability score, CRPS|CRPS]] 적당히 섞어 평가하더라.
 
-
+우리는 Error를 2가지로 나누어 평가한다
+1. ML model deficiencies로 인한 
+   $\to$ we hope to fix
+2. Intrinsic properties of atmospheric systems로 인한 (chaotic & unobserved variables)
+   $\to$ not hope to remedy
+   
+> Our metric assess this by <font color="#00e676">evaluating model performance</font> against <font color="#00e676">a reference model </font>that is immune to errors from iterative rollouts. 
 
 ---
 # 7. Discussion
 
 ---
-# 2. Background
+# 2. background
+## Defining error accumulation in dynamical systems
+> ~ all mention error accumulation, typically describing it informally as <font color="#00e676">a progressive increase in forecast errors with each iteration of an autoregressive forecast.</font>
+
+다른 방식으로는 'stability criterion'도 있다
+
+## Addressing error accumulation
+
+
 
 ---
 # 3. Problem Formulation: capturing error accumulation

@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40badbcdd93e72b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2024-09-30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555e031a85fde2cb",
+            "id": "6b1706e0ab9b9941",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -196,14 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "555e031a85fde2cb",
+  "active": "6b1706e0ab9b9941",
   "lastOpenFiles": [
-    "TODO/2024-09-30.md",
+    "Papers/continuous ranked probability score, CRPS.md",
+    "Papers/@R. Parthipan, et. al., 2024.md",
+    "TODO/2024-10-02.md",
+    "Templete/paper.md",
     "Templete/TODO.md",
+    "TODO/2024-09-30.md",
+    "TODO/2024-10-14.md",
+    "TODO/2024-10-07.md",
+    "ReadMe.md",
     "TODO/2024-09-27.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-09-26.md",
-    "Papers/@R. Parthipan, et. al., 2024.md",
     "TODO/2024-09-25.md",
     "Papers/@M. Bonavita, 2024.md",
     "TODO/2024-09-23.md",
@@ -218,12 +209,6 @@
     "TODO/2024-09-12.md",
     "TODO/2024-09-10.md",
     "TODO/2024-09-11.md",
-    "TODO/2024-09-24.md",
-    "TODO/2024-09-09.md",
-    "TODO/2024-09-07.md",
-    "Papers/@S. Rasp, et. al., 2024.md",
-    "Papers/@C. Bodnar, et. al., 2024.md",
-    "Papers/C. Bodnar, et al., 2024.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",

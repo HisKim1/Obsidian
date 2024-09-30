@@ -5,12 +5,24 @@
       "path": "Papers/@R. Parthipan, et. al., 2024.md"
     },
     {
-      "basename": "2024-09-30",
-      "path": "TODO/2024-09-30.md"
+      "basename": "continuous ranked probability score, CRPS",
+      "path": "Papers/continuous ranked probability score, CRPS.md"
+    },
+    {
+      "basename": "2024-10-02",
+      "path": "TODO/2024-10-02.md"
+    },
+    {
+      "basename": "paper",
+      "path": "Templete/paper.md"
     },
     {
       "basename": "TODO",
       "path": "Templete/TODO.md"
+    },
+    {
+      "basename": "2024-09-30",
+      "path": "TODO/2024-09-30.md"
     },
     {
       "basename": "2024-09-27",
@@ -177,10 +189,6 @@
       "path": "TODO/2024-09-01.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
       "basename": "2024-08-20",
       "path": "TODO/2024-08-20.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw",
       "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw.md"
-    },
-    {
-      "basename": "2024-08-28",
-      "path": "TODO/2024-08-28.md"
-    },
-    {
-      "basename": "Drawing 2024-08-04 18.23.59.excalidraw",
-      "path": "Excalidraw/Drawing 2024-08-04 18.23.59.excalidraw.md"
     }
   ],
   "omittedPaths": []

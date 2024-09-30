@@ -23,7 +23,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templete/paper.md",
-    "Templete/Monthly Note.md",
+    "Templete/TODO.md",
+    "",
     ""
   ],
   "startup_templates": [

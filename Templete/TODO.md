@@ -15,37 +15,24 @@ sort by due, scheduled
 
 #### 🤦‍♂️ 개쩌는 인턴 생활
 - [x] [[GraphCast Butterfly Effect Test#Procedure]] 진행상황 업데이트 ✅ 2024-09-30
-
-#### 👨‍🏫 개쩌는 조교 생활
 <%*
 let date = moment(tp.file.title, "YYYY-MM-DD");
 let dayOfWeek = date.day();
-
-// 평일
-if (dayOfWeek == 1) {
-  tR += "- [ ] 시인론 과제 체크\n";
-  tR += "- [ ] 시읽기 과제 체크\n";
-  tR += "- [ ] 이수정 교수님 메일 쏘기\n";
-}
-
-// 금요일
-if (dayOfWeek == 5) {
-  tR += "- [ ] 그래프 이론 오피스 아워 오픈옾는";
-}
-
-// 일요일
-if (dayOfWeek === 0) {
-  //tR += "- [ ] 힙합 죠져~🤸‍♂️ | 🆔 25\n";
-}
 %>
+#### 👨‍🏫 개쩌는 조교 생활
+<%* if (dayOfWeek == 1) { %>
+- [x] 현대시 읽기 채점하기 ✅ 2024-09-30
+- [x] 한국현대시인론 채점하기 ✅ 2024-09-30
+- [x] 이수정 교수님께 메일 쏘기 | <% date %> ✅ 2024-09-30
+<%* } %>
+<%* if (dayOfWeek == 5) {%>
+- [x] 그래프이론 오피스아워 오픈오픈👩‍💻👨‍💻 ✅ 2024-09-30
+<%*}%>
 
 #### 🏭 생산적으로 살기
 
 #### 🍻 Relax & Chill 
 <%*
-let date = moment(tp.file.title, "YYYY-MM-DD");
-let dayOfWeek = date.day();
-
 // 평일
 if (dayOfWeek >= 1 && dayOfWeek <= 5) {
   tR += "- [ ] CROSSFIT 죠지기🏋️‍♀️ | 🆔 25\n";
