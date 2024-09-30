@@ -44,8 +44,12 @@ $\to$ 일반적으로 RMSE, skill/spread, [[continuous ranked probability score,
 다른 방식으로는 'stability criterion'도 있다
 
 ## Addressing error accumulation
+exposure bias
+:= autoregressive model의 past state 사용 시점과 simulation에서 model-generated state 사용하는 시점의 mismatch
+$\to$ language하는 사람들이 해결하려고 도전; Scheduled Sampling
+$\to$ MLWP에 adapted
 
-
+Note) "For models based on techniques such as diffusion, it is not clear how rollout training would be used."
 
 ---
 # 3. Problem Formulation: capturing error accumulation
