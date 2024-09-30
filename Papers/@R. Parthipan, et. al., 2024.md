@@ -79,8 +79,11 @@ CTS는 했는데 generative model은 못 했다? $\to$ $\because$ model deficien
 
 ## Not capturing errors due to STIC
 STIC: Sensitivity To Initial Conditions
-
+STIC가 model state가 widely diverge할 수 있는 limit을 걸어 
+$\to$ "stabilize around climatological  distributions w/o accurately predicting the specific future evolution"
+$\to$ not correctable하니 metric에선 제외
 ## Not capturing errors due to unobserved variables
+
 
 ## Existing metrics lack a reference point for highlighting error accumulation
 
