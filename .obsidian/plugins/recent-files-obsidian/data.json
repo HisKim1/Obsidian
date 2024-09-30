@@ -5,12 +5,16 @@
       "path": "Papers/@R. Parthipan, et. al., 2024.md"
     },
     {
-      "basename": "@S. Rasp, et. al., 2024",
-      "path": "Papers/@S. Rasp, et. al., 2024.md"
+      "basename": "University",
+      "path": "Graduate/University.md"
     },
     {
       "basename": "@L. Chen, et. al., 2024",
       "path": "Papers/@L. Chen, et. al., 2024.md"
+    },
+    {
+      "basename": "@S. Rasp, et. al., 2024",
+      "path": "Papers/@S. Rasp, et. al., 2024.md"
     },
     {
       "basename": "@P. Watson, 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-20",
       "path": "TODO/2024-08-20.md"
-    },
-    {
-      "basename": "2024-08-30",
-      "path": "TODO/2024-08-30.md"
     }
   ],
   "omittedPaths": []

@@ -68,15 +68,17 @@ $\because$ generative model의 mean은 truth에 붙어서 각각이 explode한 �
 **Metric 3) own metric**: evident
 
 ## Capturing non-explosive forms
+CTS는 했는데 generative model은 못 했다? $\to$ $\because$ model deficiency
 **Metric 1) RMSE**: low
-
+값이 너무 작아서 못 잡았다? (왜 작다고 판단했는지는...)
 
 **Metric 2) spread/skill**: better
-시간에 따라 증가 $\to$ reflecting the diverging trajectories
+1보다 작은 값 $\to$ spread가 덜 되었거나 skill이 너무 잘 되었거나.
 
 **Metric 3) own metric**: evident
 
 ## Not capturing errors due to STIC
+STIC: Sensitivity To Initial Conditions
 
 ## Not capturing errors due to unobserved variables
 

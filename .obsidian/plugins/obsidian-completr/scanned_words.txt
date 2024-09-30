@@ -291,6 +291,7 @@ feedback
 focus
 fix
 fixable
+forms
 name
 nYYYFF
 nOq
@@ -996,6 +997,10 @@ spread를
 selection
 systems로
 simulation에서
+subseasonal
+stable할
+spread가
+skill이
 topic
 tags
 templete
@@ -1312,6 +1317,7 @@ thermocline
 those
 techniques
 training은
+truth로
 aliases
 against
 and
@@ -2079,6 +2085,7 @@ cell의
 chaos
 criterion
 clear
+communications
 Tool
 Troposphere에서
 Thermal
@@ -2919,6 +2926,7 @@ due
 deficiencies로
 describing
 diffusion
+diverging
 of
 ojjjii
 oJg
@@ -3159,6 +3167,8 @@ obtain하는
 observing
 organized된
 observe되지
+outperforms
+own
 Reasoning
 Resources
 Residual
@@ -4238,6 +4248,10 @@ regularization
 remedy
 reference
 rollouts
+rconventional
+rforecast
+resolution을
+reflecting
 blog
 break
 breaking에
@@ -5225,6 +5239,7 @@ hyperellipsoid
 hookleftarrow
 hgZnqdDT
 h일
+highlighting
 작업
 작동
 작업해보았는데
@@ -5234,6 +5249,8 @@ h일
 작다
 작용을
 작성합니다
+작아서
+작다고
 파일명
 파동
 파동이
@@ -6269,6 +6286,8 @@ generated
 growth가
 greater
 generalization이고
+grow할
+generative
 GraphCast
 GPU
 Geostrophic
@@ -6725,6 +6744,8 @@ Consider
 Convert
 Compute
 Carlo보다
+Computing
+Capturing
 Output
 OD
 OLL
@@ -7239,6 +7260,8 @@ EON
 ECMWFensemble
 Ekman
 Error를
+ENS
+Existing
 Message
 Mean
 MJJ
@@ -7479,6 +7502,8 @@ Multisystem
 MLWP는
 MLWP도
 MLWP에
+ML을
+Metric
 in
 iii
 iYp
@@ -7782,6 +7807,7 @@ immune
 iterative
 informally
 iteration
+indefinitely
 지난
 지표
 지속
@@ -7887,6 +7913,7 @@ iteration
 되지만
 되면
 되지
+되었거나
 모르겠습니다
 모르지만
 모르겟음
@@ -8220,6 +8247,9 @@ STD
 Strategy
 Scheduled
 Sampling
+State
+Scientific
+STIC
 순환
 순환을
 순환의
@@ -8815,6 +8845,8 @@ model은
 model을
 metric
 mention
+mean이
+metrics
 서풍에
 서로
 서버의
@@ -8825,6 +8857,7 @@ mention
 각색한
 각색된
 각각
+각각이
 전달로
 전파
 전역
@@ -9865,6 +9898,8 @@ Foundation
 FDz
 Finite
 Formulation
+Fuxi
+Florida
 초기
 초기화
 초타원체로
@@ -12774,6 +12809,9 @@ extreme에
 entails
 evaluating
 exposure
+explosive
+explode한
+evident
 VAA
 VWWc
 VUU
@@ -15558,9 +15596,13 @@ Nina
 범위
 범위는
 값을
+값이
 잡으면
 잡을
 잡아서
+잡고
+잡아내지
+잡았다
 될까
 뭐지
 뭐하는
@@ -15843,6 +15885,7 @@ Nina
 판구는
 판단을
 판구에서는
+판단했는지는
 벤치마크
 칬MNN
 폢R
@@ -15998,6 +16041,7 @@ Nina
 붙이고
 붙어야
 붙여야
+붙어서
 명사들
 명시해야
 명확히
