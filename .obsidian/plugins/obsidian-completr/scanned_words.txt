@@ -289,6 +289,8 @@ filtering
 forced
 feedback
 focus
+fix
+fixable
 name
 nYYYFF
 nOq
@@ -991,6 +993,7 @@ starts
 steps
 std를
 spread를
+selection
 topic
 tags
 templete
@@ -1304,6 +1307,7 @@ trough
 tornadoes는
 tropic
 thermocline
+those
 aliases
 against
 and
@@ -1645,6 +1649,7 @@ amplitude에
 advection
 anomalies
 anomaly
+according
 cssclasses
 considered
 cell
@@ -2063,6 +2068,7 @@ computing
 convections때문에
 cfb
 cell의
+chaos
 Tool
 Troposphere에서
 Thermal
@@ -2897,6 +2903,9 @@ development만
 decay
 downscale
 delayed
+definition
+distinguishes
+due
 of
 ojjjii
 oJg
@@ -4210,6 +4219,7 @@ realistic하지
 remains
 rvert
 reverses
+regularization
 blog
 break
 breaking에
@@ -4925,6 +4935,9 @@ peak
 propagate되었어야
 pumping
 plot하기
+propose
+properties
+proposing
 here
 host
 haa
@@ -6886,6 +6899,7 @@ Otherwise
 OwVV
 OhK
 Optimization
+Our
 Error
 Eddy
 EEE
@@ -7719,6 +7733,10 @@ inproving
 infer
 instantaneous
 instantaeousaccumulated인지
+illustrate
+inspired
+improvements
+including
 지난
 지표
 지속
@@ -8736,6 +8754,7 @@ monthly
 mesoscale
 model은
 model을
+metric
 서풍에
 서로
 서버의
@@ -12686,6 +12705,7 @@ elevate
 ecbeba
 episode
 extreme에
+entails
 VAA
 VWWc
 VUU
@@ -13118,6 +13138,8 @@ unconstrained
 uncertain한
 upper
 uncertainty에서
+unobserved
+usefulness
 DEEE
 DPP
 Dt
@@ -13392,6 +13414,7 @@ DEF
 Dfww
 DxbS
 Define
+Defining
 vm
 vLL
 vX
@@ -14723,6 +14746,7 @@ Nina
 아닌지
 아닌
 아니며
+아워
 거야
 거니와
 거바
@@ -14893,6 +14917,8 @@ Nina
 오룡관
 오후에
 오늘은
+오피스
+오픈옾는
 분포
 분열
 분류하는
@@ -15396,6 +15422,7 @@ Nina
 무리가
 무관한
 무조건
+무엇인가
 언어를
 언어의
 언어는
@@ -15882,6 +15909,7 @@ Nina
 취함
 체적을
 체적
+체크
 줬는지
 쇠약하게
 웃다
@@ -15922,3 +15950,4 @@ Nina
 퀴즈
 푸리에
 객관분석
+쏘기

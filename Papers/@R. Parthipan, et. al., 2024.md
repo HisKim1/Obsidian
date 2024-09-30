@@ -4,7 +4,7 @@ site: https://arxiv.org/abs/2405.14714
 summary: 딥러닝 대기 모델에서 에러는 무엇인가
 keyword: 
 status:
-  - NotYet
+  - WorkingOn
 aliases: 
 tags:
   - paper
