@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
-                "mode": "preview",
+                "file": "TODO/2024-10-02.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md"
+                "file": "TODO/2024-10-02.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "TODO/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "TODO/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,8 @@
   },
   "active": "238e13e88b2db304",
   "lastOpenFiles": [
-    "TODO/2024-10-01.md",
     "Papers/@L. Chen, et. al., 2024.md",
+    "TODO/2024-10-01.md",
     "Papers/@R. Parthipan, et. al., 2024.md",
     "Papers/Kullback-Leibler (KL) divergence.md",
     "Papers/continuous ranked probability score, CRPS.md",
