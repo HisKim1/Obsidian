@@ -25,7 +25,7 @@ where $P(i)$ and $Q(i)$ are the probabilities of event $i$ in distributions $P$ 
    : $D_{KL}(P||Q) \geq 0$, equals 0 only when the two distributions are identical
    
 3. **Triangle inequality does not hold**
-   : KL divergence does not satisfy the definition of a metric|
+   : KL divergence does not satisfy the definition of a metric
    
 4. **Scale invariance**
    : Invariant to the underlying measure

@@ -536,6 +536,7 @@ nonlinear하게
 nkBUlHt
 natural
 negligible한
+note
 site
 status
 stratosphere에서

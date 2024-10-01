@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Kullback-Leibler (KL) divergence.md",
+                "file": "Papers/@R. Parthipan, et. al., 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Kullback-Leibler (KL) divergence.md"
+                "file": "Papers/@R. Parthipan, et. al., 2024.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Kullback-Leibler (KL) divergence.md",
+                "file": "Papers/@R. Parthipan, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Kullback-Leibler (KL) divergence.md",
+                "file": "Papers/@R. Parthipan, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +197,8 @@
   },
   "active": "6b1706e0ab9b9941",
   "lastOpenFiles": [
-    "Papers/@R. Parthipan, et. al., 2024.md",
     "Papers/Kullback-Leibler (KL) divergence.md",
+    "Papers/@R. Parthipan, et. al., 2024.md",
     "Papers/continuous ranked probability score, CRPS.md",
     "File/Pasted image 20241001111116.png",
     "File/Pasted image 20241001110925.png",
