@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "@R. Parthipan, et. al., 2024",
+      "path": "Papers/@R. Parthipan, et. al., 2024.md"
+    },
+    {
+      "basename": "2024-10-01",
+      "path": "TODO/2024-10-01.md"
+    },
+    {
+      "basename": "@L. Chen, et. al., 2024",
+      "path": "Papers/@L. Chen, et. al., 2024.md"
+    },
+    {
       "basename": "2024-09-30",
       "path": "TODO/2024-09-30.md"
     },
@@ -9,16 +21,8 @@
       "path": "Test/GraphCast Butterfly Effect Test.md"
     },
     {
-      "basename": "@R. Parthipan, et. al., 2024",
-      "path": "Papers/@R. Parthipan, et. al., 2024.md"
-    },
-    {
       "basename": "University",
       "path": "Graduate/University.md"
-    },
-    {
-      "basename": "@L. Chen, et. al., 2024",
-      "path": "Papers/@L. Chen, et. al., 2024.md"
     },
     {
       "basename": "@S. Rasp, et. al., 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-09-01",
       "path": "TODO/2024-09-01.md"
-    },
-    {
-      "basename": "2024-08-20",
-      "path": "TODO/2024-08-20.md"
     }
   ],
   "omittedPaths": []

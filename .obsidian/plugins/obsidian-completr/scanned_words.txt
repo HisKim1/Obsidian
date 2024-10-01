@@ -292,6 +292,9 @@ focus
 fix
 fixable
 forms
+future
+finer
+forecats
 name
 nYYYFF
 nOq
@@ -531,6 +534,7 @@ nFKSZe
 norm에
 nonlinear하게
 nkBUlHt
+natural
 site
 status
 stratosphere에서
@@ -1001,6 +1005,8 @@ subseasonal
 stable할
 spread가
 skill이
+state가
+stabilize
 topic
 tags
 templete
@@ -1318,6 +1324,7 @@ those
 techniques
 training은
 truth로
+tield
 aliases
 against
 and
@@ -1664,6 +1671,8 @@ accumulation은
 assess
 adapted
 augmentation이다
+around
+accurately
 cssclasses
 considered
 cell
@@ -2086,6 +2095,8 @@ chaos
 criterion
 clear
 communications
+correctable하니
+coarser
 Tool
 Troposphere에서
 Thermal
@@ -2354,6 +2365,7 @@ Then
 TVm
 TXA
 Tppu
+Thus
 Brief
 Bfloat
 Balance
@@ -2927,6 +2939,8 @@ deficiencies로
 describing
 diffusion
 diverging
+diverge할
+distributions
 of
 ojjjii
 oJg
@@ -3169,6 +3183,8 @@ organized된
 observe되지
 outperforms
 own
+ones
+outcome
 Reasoning
 Resources
 Residual
@@ -4252,6 +4268,7 @@ rconventional
 rforecast
 resolution을
 reflecting
+rather
 blog
 break
 breaking에
@@ -5591,6 +5608,7 @@ lost
 looeses
 lvert
 language하는
+limit을
 버전
 버전으로
 이상이
@@ -6746,6 +6764,7 @@ Compute
 Carlo보다
 Computing
 Capturing
+CTS는
 Output
 OD
 OLL
@@ -7808,6 +7827,9 @@ iterative
 informally
 iteration
 indefinitely
+indicating
+imposed
+itself
 지난
 지표
 지속
@@ -8250,6 +8272,8 @@ Sampling
 State
 Scientific
 STIC
+Sensitivity
+STIC가
 순환
 순환을
 순환의
@@ -8847,6 +8871,7 @@ metric
 mention
 mean이
 metrics
+metric에선
 서풍에
 서로
 서버의
@@ -10176,6 +10201,7 @@ woU
 wUU
 wZa
 wDb
+widely
 높이
 높은
 활성화
@@ -12812,6 +12838,7 @@ exposure
 explosive
 explode한
 evident
+expected
 VAA
 VWWc
 VUU
@@ -14754,6 +14781,7 @@ Nina
 여기서는
 여러
 여기부터
+여기서부터
 자세한
 자연스럽게
 자동
@@ -15228,6 +15256,7 @@ Nina
 걸쳐서
 걸리는
 걸릴
+걸어
 합쳐
 합쳐야
 합성
@@ -15718,6 +15747,8 @@ Nina
 했습니다
 했어요
 했는지
+했는데
+했다
 왜곡하는
 왜냐하면
 왜소합니다

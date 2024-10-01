@@ -87,7 +87,7 @@ $\to$ not correctable하니 metric에선 제외
 
 ## Existing metrics lack a reference point for highlighting error accumulation
 
-# <span style="background:rgba(0, 230, 118, 0.55)">여기서부터</span>
+
 
 ---
 # 4. Defining Error accumulation
