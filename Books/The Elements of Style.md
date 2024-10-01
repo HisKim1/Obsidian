@@ -176,10 +176,24 @@ relative pronoun은 antecedent 바로 뒤에 붙어야 함
 modifier도 단어 바로 옆에 붙여야 함
 
 ##### 21. In summaries, keep to one tense.
+요약할 때에는 선호도 따라 완료형 쓸 수도 있지만 시제는 1개로 통일해야 한다.
+indirect discourse나 question는 past tense여도 됨.
+
+누구 말 인용할 때, 중간마다 "he said," "he stated,"  "the speaker added," "the author also thinks," 계속 쓰지 말고, 처음에 한 번, once for all, 선언하고 단어 낭비하지 마라...
+
+
 
 ##### 22. Place the emphatic words of a sentence at the end.
 
 ---
+antecedent 선행사건
+chronological 연대순
+singly 혼자, 개별적으로
+orderly 정돈된
+devote 헌신하다, 쏟다
+intercalate 사이에 끼어넣다
+discourse 담론, 담화
+unforeseen 예측하지 못한, 뜻밖의
 abide 참다, 머무르다
 timid 소심한
 triteness 진부함
