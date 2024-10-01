@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "@L. Chen, et. al., 2024",
-      "path": "Papers/@L. Chen, et. al., 2024.md"
+      "basename": "The Elements of Style",
+      "path": "Books/The Elements of Style.md"
+    },
+    {
+      "basename": "Lorenz's three variable model is a dissipative system",
+      "path": "Books/Lorenz's three variable model is a dissipative system.md"
+    },
+    {
+      "basename": "eq 6.3.27",
+      "path": "Books/eq 6.3.27.md"
+    },
+    {
+      "basename": "local bred vector dimension",
+      "path": "Books/local bred vector dimension.md"
     },
     {
       "basename": "2024-10-01",
       "path": "TODO/2024-10-01.md"
+    },
+    {
+      "basename": "@L. Chen, et. al., 2024",
+      "path": "Papers/@L. Chen, et. al., 2024.md"
     },
     {
       "basename": "@R. Parthipan, et. al., 2024",
@@ -183,22 +199,6 @@
     {
       "basename": "ERA5",
       "path": "GraphCast/ERA5.md"
-    },
-    {
-      "basename": "Dataset",
-      "path": "GraphCast/Dataset.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw",
-      "path": "File/Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw.md"
-    },
-    {
-      "basename": "2024-09-02",
-      "path": "TODO/2024-09-02.md"
     }
   ],
   "omittedPaths": []
