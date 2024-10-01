@@ -119,8 +119,24 @@ note) [[Kullback-Leibler (KL) divergence|KL divergence]]
 
 ---
 # 5. Regularization Strategy
+## Classic maximum likelihood objective
+$$\begin{align}
+\arg\max_{\theta} \bigg( & \mathbb{E}_{x_{1:n}\sim p_{\text{truth}}} \log p_{\text{gen},\theta}(x_{c+1}, ..., x_{c+n}|x_{1:c}) \\
+& - \frac{\lambda}{n}\sum_{t=1}^n \mathbb{E}_{x_{1:c}\sim p_{\text{truth}}} 
+\text{KL}\left(p_{\text{gen},\theta}(x_{t+c}|x_{1:c}) \| p_{\text{cts}}(x_{t+c}|x_{1:c})\right)\bigg)
+\end{align}$$
+## Practical implementation
+$$\begin{align}
+\arg\max_{\theta} \bigg( & \mathbb{E}_{x_{1:n}\sim p_{\text{truth}}} \log p_{\text{gen},\theta}(x_{c+1}, ..., x_{c+n}|x_{1:c}) \\
+& - \frac{\lambda}{n}\sum_{t=1}^n \mathbb{E}_{x_{1:c},x_{t+c-1}\sim p_{\text{truth}}} 
+\text{KL}\left(p_{\text{gen},\theta}(x_{t+c}|x_{t+c-1}) \| p_{\text{cts}}(x_{t+c}|x_{1:c})\right)\bigg)
+\end{align}$$
+에서 각 input data를 random-walk noise (Gaussian)을 더하고 
+$p_{\text{gen, } \theta}(x_{t+c} \vert x_{t+c-1})$ & $p_{\text{cts, } \theta}(x_{t+c} \vert x_{1:c})$ $\sim$ Normal
 
-
+## Future directions
+1. rollout + noise 대신에 replay buffer 사용
+2. KL 계산에 normal 사용 대신 adversarial training 사용
 ---
 # 6. Experiments
 

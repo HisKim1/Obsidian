@@ -97,12 +97,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b1706e0ab9b9941",
+  "active": "217b0e74a797c1a1",
   "lastOpenFiles": [
     "Papers/Kullback-Leibler (KL) divergence.md",
     "Papers/@R. Parthipan, et. al., 2024.md",
