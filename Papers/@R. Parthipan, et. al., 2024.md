@@ -1,10 +1,12 @@
 ---
 title: Defining error accumulation in ML atmospheric simulators
 site: https://arxiv.org/abs/2405.14714
-summary: 딥러닝 대기 모델에서 에러는 무엇인가
-keyword: 
+summary: 딥러닝 대기 모델에서 에러는 무엇인가 정의함. 학습에 쓰면 개선도 됨.
+keyword:
+  - KL divergence
+  - error accumulation
 status:
-  - WorkingOn
+  - ==Done==
 aliases: 
 tags:
   - paper
@@ -13,7 +15,7 @@ where_published:
   - arXiv
 ---
 ```ad-summary
-3줄 요약
+내가 만든 metric 쓰면 잘 된다! 이걸로 학습시켜도 잘 된다! 
 ```
 
 ```ad-abstract
@@ -101,7 +103,7 @@ $x$: possible sequences drawn from the data distribution
 $x_{1:c}$: context data / e.g. initial conditions
 $p_{\text{gen}}$: assessed generative model
 $p_{\text{truth}}$: truth model (but inaccessible) $\rightsquigarrow$ $p_{\text{cts}}$: continuous forecasting model로 교체하면
-$$\displaystyle \delta(t) \approx \mathbb{E}_{x_{1:c}\sim \text{data}}\text{KL}(p_{\text{gen}}(x_{t+c}\vert x_{1:c}\vert\vert p_{\text{cts}}(x_{t+c}\vert x_{1:c})))$$
+####  $$\displaystyle \delta(t) \approx \mathbb{E}_{x_{1:c}\sim \text{data}}\text{KL}(p_{\text{gen}}(x_{t+c}\vert x_{1:c}\vert\vert p_{\text{cts}}(x_{t+c}\vert x_{1:c})))$$
 
 note) [[Kullback-Leibler (KL) divergence|KL divergence]]
 
@@ -126,7 +128,7 @@ $$\begin{align}
 \text{KL}\left(p_{\text{gen},\theta}(x_{t+c}|x_{1:c}) \| p_{\text{cts}}(x_{t+c}|x_{1:c})\right)\bigg)
 \end{align}$$
 ## Practical implementation
-$$\begin{align}
+#### $$\begin{align}
 \arg\max_{\theta} \bigg( & \mathbb{E}_{x_{1:n}\sim p_{\text{truth}}} \log p_{\text{gen},\theta}(x_{c+1}, ..., x_{c+n}|x_{1:c}) \\
 & - \frac{\lambda}{n}\sum_{t=1}^n \mathbb{E}_{x_{1:c},x_{t+c-1}\sim p_{\text{truth}}} 
 \text{KL}\left(p_{\text{gen},\theta}(x_{t+c}|x_{t+c-1}) \| p_{\text{cts}}(x_{t+c}|x_{1:c})\right)\bigg)
@@ -139,6 +141,7 @@ $p_{\text{gen, } \theta}(x_{t+c} \vert x_{t+c-1})$ & $p_{\text{cts, } \theta}(x_
 2. KL 계산에 normal 사용 대신 adversarial training 사용
 ---
 # 6. Experiments
+뭘로 하던간에 Generative model + noise + penalty한 게 좋더라
 
 ---
 # 
