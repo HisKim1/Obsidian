@@ -95,6 +95,14 @@ highlight performance gap 못할 거다
 ---
 # 4. Defining Error accumulation
 
+*Definition*: error accumulation $\delta(t)$ over a period of time $T$
+$$\displaystyle \delta(t) = \mathbb{E}_{x_{1:c}\sim \text{data}}\text{KL}(p_{\text{gen}}(x_{t+c}\vert x_{1:c}\vert\vert p_{\text{truth}}(x_{t+c}\vert x_{1:c})))$$
+$x$: possible sequences drawn from the data distribution
+$x_{1:c}$: context data / e.g. initial conditions
+$p_{\text{gen}}$: assessed generative model
+$p_{\text{truth}}$: truth model (but inaccessible) $\rightsquigarrow$ $p_{\text{cts}}$: continuous forecasting model로 교체하면
+$$\displaystyle \delta(t) = \mathbb{E}_{x_{1:c}\sim \text{data}}\text{KL}(p_{\text{gen}}(x_{t+c}\vert x_{1:c}\vert\vert p_{\text{cts}}(x_{t+c}\vert x_{1:c})))$$
+
 ---
 # 5. Regularization Strategy
 
