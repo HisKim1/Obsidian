@@ -56,6 +56,7 @@ e.g. Gaussian noise 더한 / high-resolution을 truth로 잡고 ML을 돌려 / e
 
 ---
 # 3. Problem Formulation: capturing error accumulation
+CTS: continuous forecasting model
 ## Capturing explosive forms
 = (ENS mean이 indefinitely grow할 때) + (ENS mean이 stable할 때)
 $$X_{k, t+1} = X_{k,t} + Z_{k,t} \quad (Z_{k,t} \sim N(0,1) )$$
@@ -86,8 +87,10 @@ $\to$ not correctable하니 metric에선 제외
 > ~ finer resolution forecats typically yield better results compared to coarser ones. Thus, <font color="#00e676">error reduction is an expected outcome of higher-resolution data</font>, indicating a natural skill limit imposed by the data resolution rather than the ML model itself.
 
 ## Existing metrics lack a reference point for highlighting error accumulation
-
-
+여러 metrics를 합쳐서 fixable error accumulation을 assess하려고 하지만, 합친다고 잘 잡히지 않더라. 
+그래서 clear reference model이 필요하다. 
+근데 그 reference model, 주로 ECMWF's ENS & HRES는 ML한테 따잇 당했다. 
+highlight performance gap 못할 거다
 
 ---
 # 4. Defining Error accumulation
