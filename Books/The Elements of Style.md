@@ -181,11 +181,26 @@ indirect discourse나 question는 past tense여도 됨.
 
 누구 말 인용할 때, 중간마다 "he said," "he stated,"  "the speaker added," "the author also thinks," 계속 쓰지 말고, 처음에 한 번, once for all, 선언하고 단어 낭비하지 마라...
 
-
-
 ##### 22. Place the emphatic words of a sentence at the end.
+> <font color="#00e676">The proper place for </font>the word, or group of words, which the writer desires <font color="#00e676">to make most prominent </font>is usually <font color="#00e676">the end of the entence</font>.
+
+> <font color="#00e676">The other prominent position</font> in the sentence is <font color="#00e676">the beginning</font>.
+
+이게 단어든, 문장이든, 문단이든 다 똑같다. 
 
 ---
+# A Few Matters of Form
+
+
+---
+shrine 성지
+worship 예배하다, 예배
+treachery 배반
+deceit 속임수, 기만
+fret 조바심치다
+arise 생기다, 유발하다
+predicate 서술부, 근거를 두다, 단정하다
+fortitude 불굴의 용기
 antecedent 선행사건
 chronological 연대순
 singly 혼자, 개별적으로
