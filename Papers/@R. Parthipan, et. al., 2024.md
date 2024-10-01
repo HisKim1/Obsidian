@@ -115,10 +115,11 @@ note) [[Kullback-Leibler (KL) divergence|KL divergence]]
 3. apply the explicit form of KL divergence for normal distributions
 
 ## Illustrative examples
-### Capturing explosive forms
+[[#Capturing explosive forms]], [[#Capturing non-explosive forms]], [[#Not capturing errors due to STIC]] 각각 원하는 대로 잘 되었다.
 
 ---
 # 5. Regularization Strategy
+
 
 ---
 # 6. Experiments
