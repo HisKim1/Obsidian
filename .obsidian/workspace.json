@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-10-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8526ebe10be59c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Elements of Style.md"
+                "file": "Papers/@L. Chen, et. al., 2024.md"
               }
             }
           },
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "Papers/@L. Chen, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "Papers/@L. Chen, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +196,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d6b5d1bd140df5db",
+  "active": "8526ebe10be59c60",
   "lastOpenFiles": [
+    "TODO/2024-10-02.md",
+    "Books/The Elements of Style.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "Books/eq 6.3.27.md",
     "Books/local bred vector dimension.md",
