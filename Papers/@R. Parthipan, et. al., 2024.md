@@ -83,7 +83,7 @@ STIC가 model state가 widely diverge할 수 있는 limit을 걸어
 $\to$ "stabilize around climatological  distributions w/o accurately predicting the specific future evolution"
 $\to$ not correctable하니 metric에선 제외
 ## Not capturing errors due to unobserved variables
-> ~ finer resolution forecats typically tield better results compared to coarser ones. Thus, error reduction is an expected outcome of higher-resolution data, indicating a natural skill limit imposed by the data resolution rather than the ML model itself.
+> ~ finer resolution forecats typically yield better results compared to coarser ones. Thus, <font color="#00e676">error reduction is an expected outcome of higher-resolution data</font>, indicating a natural skill limit imposed by the data resolution rather than the ML model itself.
 
 ## Existing metrics lack a reference point for highlighting error accumulation
 
