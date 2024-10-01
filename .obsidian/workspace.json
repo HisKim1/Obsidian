@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@R. Parthipan, et. al., 2024.md",
+                "file": "Papers/Kullback-Leibler (KL) divergence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@R. Parthipan, et. al., 2024.md"
+                "file": "Papers/Kullback-Leibler (KL) divergence.md"
               }
             }
           },
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@R. Parthipan, et. al., 2024.md",
+                "file": "Papers/Kullback-Leibler (KL) divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@R. Parthipan, et. al., 2024.md",
+                "file": "Papers/Kullback-Leibler (KL) divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,15 +197,18 @@
   },
   "active": "6b1706e0ab9b9941",
   "lastOpenFiles": [
+    "Papers/@R. Parthipan, et. al., 2024.md",
+    "Papers/Kullback-Leibler (KL) divergence.md",
+    "Papers/continuous ranked probability score, CRPS.md",
+    "File/Pasted image 20241001111116.png",
+    "File/Pasted image 20241001110925.png",
     "TODO/2024-10-01.md",
     "Papers/@L. Chen, et. al., 2024.md",
-    "Papers/@R. Parthipan, et. al., 2024.md",
     "TODO/2024-09-30.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "Graduate/University.md",
     "Papers/@S. Rasp, et. al., 2024.md",
     "Papers/@P. Watson, 2024.md",
-    "Papers/continuous ranked probability score, CRPS.md",
     "TODO/2024-10-02.md",
     "Templete/paper.md",
     "Templete/TODO.md",
@@ -221,7 +225,6 @@
     "GraphCast/Task/Input Data 다운.md",
     "TODO/2024-09-19.md",
     "TODO/2024-09-13.md",
-    "GraphCast/Task/Task.md",
     "File/Pasted Image 20240902160406_658.png",
     "File/Pasted Image 20240830160313_905.png",
     "File/Pasted Image 20240827124906_782.png",
@@ -230,8 +233,6 @@
     "File/Pasted Image 20240825190749_064.png",
     "File/Pasted Image 20240825171659_615.png",
     "File/Pasted Image 20240825165904_919.png",
-    "File/Pasted Image 20240825162605_290.png",
-    "File/Pasted image 20240823092950.png",
     "Test/Untitled.canvas",
     "Test",
     "TODO/Monthly"

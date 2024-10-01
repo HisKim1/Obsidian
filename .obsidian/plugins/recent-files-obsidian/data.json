@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Kullback-Leibler (KL) divergence",
+      "path": "Papers/Kullback-Leibler (KL) divergence.md"
+    },
+    {
       "basename": "@R. Parthipan, et. al., 2024",
       "path": "Papers/@R. Parthipan, et. al., 2024.md"
+    },
+    {
+      "basename": "continuous ranked probability score, CRPS",
+      "path": "Papers/continuous ranked probability score, CRPS.md"
     },
     {
       "basename": "2024-10-01",
@@ -31,10 +39,6 @@
     {
       "basename": "@P. Watson, 2024",
       "path": "Papers/@P. Watson, 2024.md"
-    },
-    {
-      "basename": "continuous ranked probability score, CRPS",
-      "path": "Papers/continuous ranked probability score, CRPS.md"
     },
     {
       "basename": "2024-10-02",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-09-02",
       "path": "TODO/2024-09-02.md"
-    },
-    {
-      "basename": "2024-09-01",
-      "path": "TODO/2024-09-01.md"
     }
   ],
   "omittedPaths": []

@@ -101,7 +101,13 @@ $x$: possible sequences drawn from the data distribution
 $x_{1:c}$: context data / e.g. initial conditions
 $p_{\text{gen}}$: assessed generative model
 $p_{\text{truth}}$: truth model (but inaccessible) $\rightsquigarrow$ $p_{\text{cts}}$: continuous forecasting model로 교체하면
-$$\displaystyle \delta(t) = \mathbb{E}_{x_{1:c}\sim \text{data}}\text{KL}(p_{\text{gen}}(x_{t+c}\vert x_{1:c}\vert\vert p_{\text{cts}}(x_{t+c}\vert x_{1:c})))$$
+$$\displaystyle \delta(t) \approx \mathbb{E}_{x_{1:c}\sim \text{data}}\text{KL}(p_{\text{gen}}(x_{t+c}\vert x_{1:c}\vert\vert p_{\text{cts}}(x_{t+c}\vert x_{1:c})))$$
+
+note) [[Kullback-Leibler (KL) divergence]]
+
+![[Pasted image 20241001111116.png]]
+초반부에서 iterative rollout error에 의해 저하된 potential predictability를 끌어낼 수 있고, time-step 200 넘어가면 chaos에 의한 거라서 negligible한 impact이다.
+
 
 ---
 # 5. Regularization Strategy
