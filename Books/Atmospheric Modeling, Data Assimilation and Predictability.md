@@ -61,42 +61,118 @@ $$$$$$\implies \quad \begin{aligned} &\sum \lambda_i = 0 &: \textrm{Hamiltonian 
 ### 6.3.1 | Tangent linear model and adjoint model
 
 ### 6.3.2 | Singular vectors 
-주어진 시간 간격 동안 가장 빠르게 성장하는 pertrubations
-- 초기 singular vectors: $\mathbf{v}_i$
-- 최종 singular vectors: $\mathbf{u}_i$
-- 탄젠트 선형 모델: $\mathbf{L}$
+#### step 1. Perturbation can be rewritten by linear combination of singular vectors.
+$$\mathbf{y}(t_{1})=\mathbf{L}(t_{0},t_1)\mathbf{y}(t_0)$$
+- $\mathbf{y}(t)$: perturbation at $t$
+- $\mathbf{L}$: resolvent or propagator
 
-#### 관계식
-1. $\mathbf{L}\mathbf{v}_i = \sigma_i \mathbf{u}_i$
-2. $\mathbf{L}^T\mathbf{u}_i = \sigma_i \mathbf{v}_i$
+Take Singular Value Decomposition on $\mathbf{L}$. Then
+$$\mathbf{U^{T}LV=S}$$
+where $\mathbf{S}$ is a diagonal matrix consists of singular values of $\mathbf{L}$, $\sigma_i$
+and $\mathbf{UU^{T}=I}, \mathbf{VV^{T}=I}$.
 
-여기서 $\sigma_i$는 singular value
-#### 고유값 문제
-- 초기 singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
-- 최종 singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
+- $\mathbf{v}_i$: right singular column vector $\to$ initial singular vector
+- $\mathbf{u}_i$: left singular column vector $\to$ final / evolved singular vector
 
-$y(t_1) = L(t_0, t_1)y(t_0) = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i$
+From $\mathbf{U^{T}LV=S}$,
+$$\begin{cases} 
+\mathbf{LV=US} \quad \Rightarrow \quad \mathbf{Lv}_{i}= \sigma_i\mathbf{u}_i\\
+\mathbf{U^{T}L=SV^T} \quad \Rightarrow \quad \mathbf{L^{T}u}_{i}= \sigma_i\mathbf{v}_i
+\end{cases}
+$$
 
-## 전환 과정
+- initial singular vectors: $\mathbf{L}^T\mathbf{L}\mathbf{v}_i = \sigma_i^2 \mathbf{v}_i$
+- final singular vectors: $\mathbf{L}\mathbf{L}^T\mathbf{u}_i = \sigma_i^2 \mathbf{u}_i$
 
-1. **내적 적용**
-    - 방정식 양쪽에 $u_j$와의 내적 취함 $$\langle y(t_1), u_j \rangle = \left\langle \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i u_i, u_j \right\rangle$$
-2. **내적의 선형성 이용** $$\langle y(t_1), u_j \rangle = \sum_{i=1}^n \langle y_0, v_i \rangle \sigma_i \langle u_i, u_j \rangle$$
-3. **직교 정규성 적용**
-    - $u_i$는 직교 정규 기저: $\langle u_i, u_j \rangle = \delta_{ij}$ (크로네커 델타)
-    - $\delta_{ij} = \begin{cases} 1 & \text{if } i = j \ 0 & \text{if } i \neq j \end{cases}$
-4. **합 단순화**
-    - $i = j$인 항만 남음 $\langle y(t_1), u_j \rangle = \langle y_0, v_j \rangle \sigma_j$
+perterbation = linear combination of singular vectors
+$$\displaystyle\begin{align}
+\mathbf{y}(t_0) &= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
+\mathbf{y}(t_1) &= \sum_{i=1}^n \langle \mathbf{y}_1, \mathbf{u}_i \rangle \mathbf{u}_i
+\end{align}$$
 
-#### 성장 특성
-- 초기 단위 구 $|\mathbf{y}(t_0)|^2 = 1$는 최종적으로 반축이 $\sigma_i$인 초타원체로 변형
-#### 최적화 문제
-- Leading singular vector는 다음 문제의 해: $\max J(\mathbf{y}(t_0)) = |\mathbf{y}(t_1)|^2 = \mathbf{y}(t_0)^T \mathbf{L}^T\mathbf{L}\mathbf{y}(t_0)$ 제약 조건: $|\mathbf{y}(t_0)|^2 = 1$
-#### Norm 의존성
-- Singular vectors는 사용하는 norm에 따라 달라짐
-- ECMWF: total energy norm 사용
+#### step 2. $\sigma_i$ are singular values representing growth factors.
+$$\displaystyle\begin{align}
+\Rightarrow \mathbf{y}(t_1) &= \mathbf{L}(t_0, t_1)\mathbf{y}(t_0) \\
+&= \mathbf{L}(t_0, t_1)\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{v}_i \\
+&= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \mathbf{L}\mathbf{v}_i\\
+&= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i\mathbf{u}_{i} \quad (\because \mathbf{Lv}_{i}= \sigma_i\mathbf{u}_i)\\
+\end{align}$$
+Take inner product of above equation with $\mathbf{u}_i$
+$$\displaystyle\begin{align}
+\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle &= \left\langle \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i\mathbf{u}_{i}, \mathbf{u}_j \right\rangle \\
+&=\sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \langle \mathbf{u}_{i}, \mathbf{u}_j \rangle \quad (\because  \text{linearity of inner product})\\
+&= \sum_{i=1}^n \langle \mathbf{y}_0, \mathbf{v}_i \rangle \sigma_i \delta_{ij}\\
+&=\langle \mathbf{y}(t_0), \mathbf{v}_j \rangle \sigma_j
+\end{align}$$
+since $\langle \mathbf{u}_i, \mathbf{u}_j \rangle = \delta_{ij}$; Kronecher delta 
+$$\delta_{ij} = \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$$
+$\Rightarrow i = j$인 항만 남음
 
-- 최적화 기간이 길어질수록 Lyapunov vectors에 수렴
+Similarly, $\langle \mathbf{y}(t_0), \mathbf{v}_j \rangle = \sigma_j\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle$
+
+$$\therefore \begin{cases}
+\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle = \langle \mathbf{y}(t_0), \mathbf{v}_j \rangle \sigma_j\\
+\\
+\langle \mathbf{y}(t_0), \mathbf{v}_j \rangle = \sigma_j\langle \mathbf{y}(t_1), \mathbf{u}_j \rangle
+\end{cases}$$
+
+#### Step 3. Spherical perturbations grow into ellipses.
+def. Euclidean norm$$||\mathbf{y}||^2 = \mathbf{y}^T\mathbf{y} = \langle \mathbf{y}, \mathbf{y} \rangle$$
+
+Consider pertrubations $\mathbf{y}(t_0)$ of size 1. Then 
+$$\sum_{i=1}^n \frac{\langle \mathbf{y}(t), \mathbf{u}_i \rangle}{\sigma_i} = \sum_{i=1}^n \langle \mathbf{y}(t_0), \mathbf{v}_i \rangle = ||\mathbf{y}(t_0)||^2 = 1$$
+Initial sphere of radius 1 $\to$ hyperellipsoid of semiaxes $\sigma_i$
+
+- $\mathbf{v}_1$: first initial singular vector = optimal vector
+  $\to$ direction in phase spaced of the perturbation that will attain max. growth $\sigma_1$ in the interval ($t_0, t_1$)
+
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-27 12.48.11.excalidraw|700]]
+#### Step 4. How to find the initial vectors $\mathbf{y}(t_0)$ that maximize the norm of $\mathbf{y}(t_1)$ at the final time; Optimization problem
+##### constraint maximization
+$$\begin{align} 
+\max_{\mathbf{y}(t_0)} &\quad J(\mathbf{y}(t_0)) \\
+\text{subject to} &\quad |\mathbf{y}(t_0)|^2 = 1 
+\end{align}
+$$
+where $J(\mathbf{y}(t_0)) \equiv \|\mathbf{y}(t_1)\|^2 = [\mathbf{Ly}(t_0)]^T\mathbf{Ly}(t_0) = \langle\mathbf{L}^T\mathbf{Ly}(t_0), \mathbf{y}(t_0)\rangle$ [[eq 6.3.27|why?]]
+$J$: objective function
+
+##### Unconstrained maximization by Lagrange multiplier
+Define a norm using other weight matrix $\mathbf{W}$ applied to $\mathbf{y}$.
+$$\|\mathbf{y}(t_0)\|^2 = (\mathbf{Wy}(t_0))^T \mathbf{Wy}(t_0) = \mathbf{y}(t_0)^T \mathbf{W}^T \mathbf{Wy}(t_0) = 1$$
+Then the size of the perturbation at the final time , $J(\mathbf{y}(t_0))$, is, by a projection operator at the end of the interval $\mathbf{P}$,
+$$J(\mathbf{y}(t_0)) = [\mathbf{PLy}(t_0)]^T \mathbf{PLy}(t_0) = \mathbf{y}(t_0)^T\mathbf{L}^T\mathbf{P}^T \mathbf{PLy}(t_0)$$
+
+##### gradient to minimize
+Convert strong constraint maximization to unconstrained one with Lagrange multipliers.
+$$\begin{align} 
+\max_{\mathbf{y}(t_0)} &\quad K(\mathbf{y}(t_0))\\
+&=J(\mathbf{y}(t_0))+\lambda[1-\mathbf{y}(t_0)^T \mathbf{W}^T \mathbf{Wy}(t_0)]\\
+&=\mathbf{y}(t_0)^T\mathbf{L}^T\mathbf{P}^T \mathbf{PLy}(t_0)+\lambda[1-\mathbf{y}(t_0)^T \mathbf{W}^T \mathbf{Wy}(t_0)]
+\end{align}$$
+Compute gradient of $K$ w.r.t. the control variable $\mathbf{y}(t_0)$ and make it equal to zero.
+$$\nabla_{\mathbf{y}(t_0)} K = \mathbf{L}^T\mathbf{P}^T\mathbf{PLy}(t_0) - \lambda\mathbf{W}^T\mathbf{Wy}(t_0) = 0$$
+It is convenient, given the constraint, to change variables:
+$$
+\mathbf{Wy}(t_0) = \hat{\mathbf{y}}(t_0) \quad \text{or} \quad \mathbf{y}(t_0) = \mathbf{W}^{-1}\hat{\mathbf{y}}(t_0)
+$$$$\begin{align}
+\|\mathbf{y}(t_0)\|^2 &= (\mathbf{Wy}(t_0))^T \mathbf{Wy}(t_0) \\
+&= \hat{\mathbf{y}}^T(t_0)\hat{\mathbf{y}}(t_0)\\
+&= 1\\
+\end{align}$$
+Then, the gradient condition becomes
+$$\begin{align}
+\mathbf{L}^T\mathbf{P}^T\mathbf{PLy}(t_0) &= \lambda\mathbf{W}^T\mathbf{Wy}(t_0)\\
+\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}\hat{\mathbf{y}}(t_0) &= \lambda\mathbf{W}^T\hat{\mathbf{y}}(t_0)\\
+(\mathbf{W}^{-1})^T\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}\hat{\mathbf{y}}(t_0) &= \lambda\hat{\mathbf{y}}(t_0)
+\end{align}
+$$
+subject to the constraint
+$$\hat{\mathbf{y}}^T(t_0)\hat{\mathbf{y}}(t_0) = 1$$
+##### Result
+$\hat{\mathbf{y}}(t_0)$: eigenvectors of the matrix $(\mathbf{W}^{-1})^T\mathbf{L}^T\mathbf{P}^T\mathbf{PLW}^{-1}$ 
+$\lambda_i$: Lagrange multipliers / eigenvalues of $\hat{\mathbf{y}}(t_0)$ / $\lambda_i = \sigma_i^2$
+weight matrix of initial norm, $W$,과 a projection operator, $\mathbf{P}$,를 general & arbitrary하게 골라도 된다.
 
 ### 6.3.3 | Lyapunov vectors
 
@@ -223,7 +299,7 @@ scaled lagged average forecasting
 	value: random
 	amplitude: realistic, estimated analysis uncertainty랑 compatible하게
 	> random initial perturbations do not grow as fast as the real analysis errors, even if they are in quasi-geostrophic balance.
-2. breeding & singular vector
+2. breeding & singular vector 등 
 	underlying atm flow를 반영한 perturbation grow error를 사용
 
 ### 6.5.1 | breeding
@@ -296,3 +372,137 @@ $\rightarrow$ analysis error range보다 작은 amplitude에서 saturated됨
 	- ensemble-based singular value decomposition
 
 ### 6.5.2 | singular vectors
+1. singular vector를 16개 선택해야 함
+	앞 4개는 고정
+	그 다음부터는 energy의 50%가 기선택된 vectors의 영역 밖에 있는 애들로
+2. orthogonal rotation in phase space & final rescaling
+	to generate perturbations that have the same globally averaged energy as the singular vectors but smaller local maxima and more uniform spatial distribution.
+1. create 33 initial conditions
+	$$\begin{align}
+33 &= 16 \times 2 + 1\\
+&= \text{16 singular vectors} \times \text{added or substracted} + \text{control}
+\end{align}$$
+
+1997에 ensemble 수를 50개로 늘렸는데,
+> This increase in resolution had a major positive effect on the quality of the ECMWF ensemble forecasting system.
+
+### 6.5.3 | Ensembles based on multiple data assimilation
+init cond 만들기 위한 data assimilation system ensemble
+observation + random errors & physical parameterization에 diffrent param.
+
+cost: breeding = 0 < singular vectors $\simeq$ ensemble
+performance: singular vectors || breeding < ensemble
+
+### 6.5.4 | Multisystem ensemble approach
+ideally, 
+init perturbation 
+= statistical uncertainty in the init cond 
+= leading eigenvectors of the analysis error covariance
+$\hookleftarrow$  model imperfections / uncertainty abt model deficiencies
+
+여러 센터의 operational global forecasts' ensemble mean이 more skillful하다 
+shorter-range, regional model ensemble도 마찬가지
+거기에 systematic error correction by regression by regression하면 더 좋아지더라; a.k.a superensemble
+
+init analysis에 perturbation을 더하지 않고 best init cond + best models 해서 뽑아냄 
+$\Rightarrow$ poor person's approach
+비용 효율적
+
+## 6.6 | Growth rate of errors and the limit of predictability in mid-latitudes and in the tropics
+$$\displaystyle \frac{d\varepsilon}{dt} = a\varepsilon(1 - \varepsilon)$$
+$\varepsilon$: rms avg forecast error; $\epsilon \to 1$
+$a$: growth rate
+$\varepsilon_0$: init error
+$$\begin{align}
+\frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= adt \\
+\int \frac{d\varepsilon}{\varepsilon(1 - \varepsilon)} &= \int adt \\
+\int (\frac{1}{\varepsilon} + \frac{1}{1-\varepsilon}) d\varepsilon &= at + C\\ 
+\ln\lvert\frac{\varepsilon}{1-\varepsilon}\rvert &= at + C \\
+\frac{\varepsilon}{1-\varepsilon} &= Ke^{at}, \quad K = e^C
+\end{align}$$
+$$\begin{align} 
+\varepsilon &= Ke^{at}(1-\varepsilon) \\ 
+\varepsilon(1 + Ke^{at}) &= Ke^{at} \\ 
+\varepsilon &= \frac{Ke^{at}}{1 + Ke^{at}} 
+\end{align}$$
+initial condition:  $\varepsilon(0) = \varepsilon_0$
+$$\displaystyle  \begin{align}
+\varepsilon_0 &= \frac{K}{1 + K} \\
+K &= \frac{\varepsilon_0}{1-\varepsilon_0} \end{align} $$
+$$\displaystyle \begin{align} 
+\therefore \varepsilon(t) &= \frac{\frac{\varepsilon_0}{1-\varepsilon_0}e^{at}}{1 + \frac{\varepsilon_0}{1-\varepsilon_0}e^{at}} \\ 
+&= \frac{\varepsilon_0e^{at}}{1 + \varepsilon_0(e^{at} - 1)} 
+\end{align} $$
+init error, $\varepsilon$ = 0.1, 0.01, $a$ = 0.35/day일 때 $\varepsilon$ doubling time은 about 2 days
+
+> The upper limit for the best initial error achievable from data assimilation can be reasonably estimated to be no less than 1%. This is because, as pointed out by Lorenz, even if the observing system was essentially perfect at synoptic scales, errors in much smaller, unresolved scales would grow very fast and trough nonlinear interactions quickly introduce finite errors in the initial synoptic scales of the model.
+
+2주면 small error가 saturated되어서 mid-latitude 예측 lost
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-08-30 16.02.58.excalidraw|700]]
+
+하지만 atmospheric instabilities of the day에 따라 skillful period가 달라지더라
+그래서 ensemble 돌려서 variability를 줘야 하는거야
+
+instabilities time scale $\propto$ spatial scale
+$\Rightarrow$ small-scale instability grow faster than larger scale
+$\Rightarrow$ mesoscale phenomena, mesoscale convective systems, tornadoes는 예측하기 어렵다. 하지만 larger scale에서 forced or organized된 activity라면 예측성 향상 가능
+\+ unforced convective activity여도 하루 이틀 정도는 예측 가능하다
+
+> The dynamics of mid-latitudes is dominated by synoptic-scale baroclinic instabilities, and the limit of deterministic weather predictability is a reflection of their baroclinic instability rates of growth.
+
+반면 tropics는 barotropic & convective instability가 더 dominant
+convective precip이 mid-lat에서는 synoptic wave에 영향 없지만 tropic에서는 easterly에 영향 많이 줘.
+
+> Moreover, global atmospheric models are less accurate in the tropics, because their ability to parameterize realistically the subgrid scale processes such as convection, which are dominant in tropics, is not as good as the numerical representation of the resolved baroclinic dynamics, which is dominant in the extratropics.
+
+> At the same time, the tropics are much harder to model, because of the difficulties associated with parameterizations of cumulus convection, which is much more influential in the tropics than in the extratropics.
+
+random error growth rate in an imperfect model
+: operational forecast error + logistic equation
+$$\frac{dv}{dt} = (bv+s)(1-v)$$
+$v$: systematic random error variance
+$b$: growth rate for small error variance $\because$ instability (internal)
+$s$: external random error variance $\because$ model deficiency
+
+the solution is
+$$\Rightarrow v(t) = 1-\frac{1+s}{1+\mu}\quad \text{where }\mu = \frac{v(0)+\frac{s}{b}}{1-v(0)}e^{(b+s)t}$$
+
+if an imperfect model follows the equation above, 아래 error growth를 따르고, stabilities of each region을 맞춰주더라
+
+|              | $b$     | $s$         |
+| ------------ | ------- | ----------- |
+| mid-latitude | 0.4/day | 0.05/day    |
+| tropic       | 0.1/day | 0.1~0.2/day |
+
+## 6.7 | The role of the oceans and land in monthly, seasonal, and interannual predictability
+unpredictable weather noise / longer-lasting surface forcing
+$\to$ seasonal & interannual atmospheric variability 
+
+potential predictability = total anomalies variance - weather noise variance
+
+predictability of the 1st kind: pred + init cond
+predictability of the 2nd kind: pred + slowly evolving boundary cond
+
+![[Atmospheric Modeling, Data Assimilation and Predictability 2024-09-02 16.04.05.excalidraw|700]]
+surface easteries $\xrightarrow{\text{Ekman Pumping}}$ cold equatorial tongue
+
+**Ekman pumping**
+:= Coriolis force acting on westward currentscreates a poleward acceleration in both hemispheres
+$\rightarrow$ horizontal divergence & strong upwelling of cold water
+
+### Delayed oscillator mechanism
+why ENSO episodes alternate between warm and cold events
+
+unstable coupling
+$\to$ westerly / warm anomaly in the equatorial central Pacific deepens 
+$\to$ anomaly generates Rossby waves moving westward in the process of adjustment
+$\to$ Rossby waves elevate the thermocline in the western region
+$\to$ Rossby waves are reflected as eastward moving Kelvin waves, which also elevate the thermocline
+$\to$ when the Kelvin waves reach the central Pacific, 
+$\to$ they counteract the effect of the thermocline deepening by the unstable coupling.
+$\to$ this delayed negative feedback becomes sufficiently strong, it reverses the sign of the anomaly, and a cold (La Nina) episode starts.
+
+Kelvin wave? coupling? 
+
+## 6.8 | Decadal variability and climate change
+

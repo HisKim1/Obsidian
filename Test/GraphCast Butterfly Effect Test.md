@@ -24,19 +24,31 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	   [[Input Data 다운]]
 	4. 데이터 합성까지 완료하기
 	   
-4. [ ] perturbation method 구현
+4. [x] perturbation method 구현 ✅ 2024-09-05
 	1. prof.'s advice
 	   $$\textsf{value} \leftarrow \textsf{value} + \sigma \cdot \lambda \textsf{ Gaussian Noise} $$
 	   "자세한 건 책 참조"
+	2. t2m climatology STD 값을 조절하자
+		1. 어떤 std를 써야 하는가
+			1. 00 / 06 / 12 / 18h일 때 각 cell의 std를 해야 하지 않을까
+	3. perturbation size를 잘 조절
+		1. 일단 1로 뽑고 0.001로도 뽑아보자
+	4. 3-variable model을 구현해서 그거랑 비슷하게 되는지 아닌지?
 	   
-5. [ ] Perturbed Output 뽑기
+5. [x] Perturbed Output 뽑기 ✅ 2024-09-05
 	1. 변수 1개 지정
 	2. 그 변수에만 다양하게 perturb 주기
-	3. output 저장 (let's say "ensemble")
+	3. output 저장 (let's say "ensemble")   
 	   
 6. ensemble을 어떻게 비교할 것인가?
-	1. 추후 논의 예정
-
+	1. 3-variables 모델과 비교해본다?
+	2. 지훈에게 ECMWF ensemble 50개를 받아서 계절만 비슷하게 해서 비교해봐라 spread를 - prof. 
+7. 0.5$\sigma$, 1$\sigma$, 1.5$\sigma$, 2$\sigma$까지 사용해서라도 벌어지게 해보자. 얼마나 해야 더 벌어질까 
+	5$\sigma$까지 해보자
+	잘 안 됨.
+8. 다른 변수들에도 줘야 하지 않을까 $\leftarrow$ <font color="#00e676">진행 중</font>
+	1. 변수 11개 std 구하기.....
+9. 좀 더 지역을 낮춰서 보자
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
 [2] [[@M. Bonavita, 2024]]

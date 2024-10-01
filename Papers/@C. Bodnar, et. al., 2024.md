@@ -1,12 +1,11 @@
 ---
 title: "Aurora: A Foundation Model of the Atmosphere"
 site: https://arxiv.org/abs/2405.13063
-summary: MS의 신상 모델. github 공개됨!
+summary: MS의 신상 모델 Aurora. github 공개됨
 keyword: 
 status:
   - NotYet
-aliases:
-  - templete
+aliases: []
 tags: 
 when_published: 2024-05-28
 where_published:

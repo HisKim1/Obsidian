@@ -10,7 +10,6 @@
   "obsidian-admonition",
   "obsidian-completr",
   "keyboard-analyzer",
-  "templater-obsidian",
   "obsidian-icon-folder",
   "obsidian-git",
   "execute-code",
@@ -21,5 +20,5 @@
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
-  "quick-latex"
+  "templater-obsidian"
 ]
