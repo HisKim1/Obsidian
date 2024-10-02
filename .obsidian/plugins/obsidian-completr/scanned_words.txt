@@ -297,6 +297,7 @@ finer
 forecats
 fret
 fortitude
+fitting
 name
 nYYYFF
 nOq
@@ -539,6 +540,7 @@ nkBUlHt
 natural
 negligible한
 note
+negativity
 site
 status
 stratosphere에서
@@ -1016,6 +1018,7 @@ stated
 speaker
 shrine
 singly
+satisfy
 topic
 tags
 templete
@@ -1689,6 +1692,8 @@ accumulation을
 assess하려고
 assessed
 arise
+approximate
+assigns
 cssclasses
 considered
 cell
@@ -2114,6 +2119,8 @@ communications
 correctable하니
 coarser
 chronological
+conditional
+correctable
 Tool
 Troposphere에서
 Thermal
@@ -2383,6 +2390,7 @@ TVm
 TXA
 Tppu
 Thus
+Triangle
 Brief
 Bfloat
 Balance
@@ -2964,6 +2972,11 @@ desires
 deceit
 devote
 discourse
+density
+densities
+directions
+deviate
+distinguish
 of
 ojjjii
 oJg
@@ -3465,6 +3478,7 @@ RVq
 RuI
 Reanalysis
 Regularization
+Reflection
 Alternatives
 Anomalous
 AAA
@@ -3710,6 +3724,9 @@ Advantages
 Applications
 AffGzxGA
 Addressing
+Asymmetry
+Accumulation
+Asymmetric
 Link
 LOO
 LQWW
@@ -4293,6 +4310,7 @@ rforecast
 resolution을
 reflecting
 rather
+replay
 blog
 break
 breaking에
@@ -4573,6 +4591,7 @@ bcdb
 bdfe
 becomes
 bias
+buffer
 posts
 pf
 pss
@@ -5019,6 +5038,9 @@ predictability를
 place
 prominent
 predicate
+penalty한
+probabilities
+purely
 here
 host
 haa
@@ -5286,6 +5308,7 @@ hgZnqdDT
 h일
 highlighting
 highlight
+heavily
 작업
 작동
 작업해보았는데
@@ -5640,6 +5663,7 @@ looeses
 lvert
 language하는
 limit을
+likelihood
 버전
 버전으로
 이상이
@@ -6566,6 +6590,7 @@ Growth
 GNN에서
 Git
 Gaussian
+Generative
 Cast
 Circulation
 Changes
@@ -6805,6 +6830,8 @@ CTS는
 CRPS는
 CRPS
 CTS
+Calculating
+Classic
 Output
 OD
 OLL
@@ -7321,6 +7348,8 @@ Ekman
 Error를
 ENS
 Existing
+Expression
+Evaluation
 Message
 Mean
 MJJ
@@ -7566,6 +7595,7 @@ Metric
 Meaning
 ML한테
 Matters
+Mathematical
 in
 iii
 iYp
@@ -7876,6 +7906,10 @@ itself
 inaccessible
 impact이다
 intercalate
+implementation
+inequality
+invariance
+incorporates
 지난
 지표
 지속
@@ -7985,6 +8019,7 @@ intercalate
 되면
 되지
 되었거나
+되었다
 모르겠습니다
 모르지만
 모르겟음
@@ -8026,6 +8061,7 @@ intercalate
 좋을까
 좋아하는
 좋습니다
+좋더라
 않을까
 않음
 않는
@@ -8060,6 +8096,7 @@ intercalate
 개수가
 개선이
 개별적으로
+개선도
 Stratospheric
 Surface
 SU
@@ -8327,6 +8364,7 @@ Scientific
 STIC
 Sensitivity
 STIC가
+Significance
 순환
 순환을
 순환의
@@ -8930,6 +8968,9 @@ metrics
 metric에선
 metrics를
 model이
+marginal
+maximum
+measuring
 서풍에
 서로
 서버의
@@ -9734,6 +9775,11 @@ PCp
 PLy
 Pumping
 Problem
+Practical
+Properties
+Performance
+Penalty
+Penalizes
 질량
 질서도
 질문하고
@@ -9997,6 +10043,7 @@ Finite
 Formulation
 Fuxi
 Florida
+Future
 초기
 초기화
 초타원체로
@@ -10276,6 +10323,7 @@ wZa
 wDb
 widely
 worship
+walk
 높이
 높은
 활성화
@@ -10644,6 +10692,8 @@ Implications
 Ivww
 ICON이랑
 Intrinsic
+Illustrative
+Invariant
 yb
 yyyvvv
 yzz
@@ -12924,6 +12974,8 @@ explode한
 evident
 expected
 entence
+explicit
+equals
 VAA
 VWWc
 VUU
@@ -13359,6 +13411,7 @@ uncertainty에서
 unobserved
 usefulness
 unforeseen
+uncorrectable
 DEEE
 DPP
 Dt
@@ -13634,6 +13687,7 @@ Dfww
 DxbS
 Define
 Defining
+Detection
 vm
 vLL
 vX
@@ -14697,6 +14751,7 @@ Nina
 더해서
 더이상
 더한
+더하고
 생산
 생겨
 생기는
@@ -14763,6 +14818,7 @@ Nina
 학습
 학원
 학습할
+학습에
 로만
 로도
 로컬의
@@ -14817,6 +14873,7 @@ Nina
 하나가
 하려면
 하자
+하던간에
 것보다
 것인가
 것이
@@ -15075,6 +15132,7 @@ Nina
 정보를
 정정
 정돈된
+정의함
 시기
 시간
 시간을
@@ -15300,6 +15358,7 @@ Nina
 계산
 계절만
 계단
+계산에
 조절
 조정
 조교를
@@ -16101,6 +16160,7 @@ Nina
 리마인드
 리뷰
 리스트
+리스트업하기
 퇴근하고
 터질
 터무니
@@ -16131,6 +16191,7 @@ Nina
 원인
 원래같으면
 원격
+원하는
 충분히
 채워나가는
 채워

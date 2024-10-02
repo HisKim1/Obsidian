@@ -9,6 +9,26 @@
       "path": "TODO/2024-10-02.md"
     },
     {
+      "basename": "@R. Parthipan, et. al., 2024",
+      "path": "Papers/@R. Parthipan, et. al., 2024.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "@R. Keisler, 2022",
+      "path": "Papers/@R. Keisler, 2022.md"
+    },
+    {
+      "basename": "Kullback-Leibler (KL) divergence",
+      "path": "Papers/Kullback-Leibler (KL) divergence.md"
+    },
+    {
       "basename": "The Elements of Style",
       "path": "Books/The Elements of Style.md"
     },
@@ -27,14 +47,6 @@
     {
       "basename": "2024-10-01",
       "path": "TODO/2024-10-01.md"
-    },
-    {
-      "basename": "@R. Parthipan, et. al., 2024",
-      "path": "Papers/@R. Parthipan, et. al., 2024.md"
-    },
-    {
-      "basename": "Kullback-Leibler (KL) divergence",
-      "path": "Papers/Kullback-Leibler (KL) divergence.md"
     },
     {
       "basename": "continuous ranked probability score, CRPS",
@@ -97,20 +109,12 @@
       "path": "TODO/2024-09-22.md"
     },
     {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
       "basename": "2024-09-19",
       "path": "TODO/2024-09-19.md"
     },
     {
       "basename": "2024-09-13",
       "path": "TODO/2024-09-13.md"
-    },
-    {
-      "basename": "Task",
-      "path": "GraphCast/Task/Task.md"
     },
     {
       "basename": "Code",
@@ -195,10 +199,6 @@
     {
       "basename": "General Forecasting Problem Statement",
       "path": "GraphCast/paper/General Forecasting Problem Statement.md"
-    },
-    {
-      "basename": "ERA5",
-      "path": "GraphCast/ERA5.md"
     }
   ],
   "omittedPaths": []

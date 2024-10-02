@@ -1,7 +1,7 @@
 ---
 title: "A machine learning model that outperforms\rconventional global subseasonal\rforecast models"
 site: https://www.nature.com/articles/s41467-024-50714-1
-summary: Fuxi-S2S
+summary: Fuxi-S2S; perturbation을 줘서 ensemble로 S2S까지 따잇했다
 keyword: 
 status:
   - NotYet
