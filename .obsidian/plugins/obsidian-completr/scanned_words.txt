@@ -8365,6 +8365,7 @@ STIC
 Sensitivity
 STIC가
 Significance
+S까지
 순환
 순환을
 순환의
@@ -14993,6 +14994,7 @@ Nina
 따라서
 따옴표
 따잇
+따잇했다
 움직여
 움직이는
 없이
