@@ -233,6 +233,7 @@ g++: C++ 코드 컴파일
      $\Rightarrow$ `program.o` 생성
      
 4. linking
+     `ld program.o`
 
 - 주요 옵션:
   - `-c`: 링킹 없이 컴파일
@@ -242,11 +243,43 @@ g++: C++ 코드 컴파일
   - `-Werror`: 경고를 에러로 취급
   - `-O`: 최적화
 
-### 3.5.2 gdb(1) - 디버깅 도구
+```bash
+$ cc hello_world.c
+# 기본 컴파일: a.out 실행 파일 생성
 
-GDB를 사용하면 프로그램 실행 중 내부 상태를 검사하고 제어할 수 있습니다.
+$ cc -c hello_world.c
+# 컴파일만 수행: hello_world.o 오브젝트 파일 생성
 
-주요 명령어:
+$ cc -E hello_world.c
+# 전처리만 수행: 전처리된 코드를 화면에 출력
+
+$ cc -S hello_world.c
+# 어셈블리 코드 생성: hello_world.s 파일 생성
+
+$ cc hello_world.c -o hello_world
+# 출력 파일 이름 지정: hello_world 실행 파일 생성
+
+$ cc -g hello_world.c -o hello_world
+# 디버깅 정보 포함: 디버깅 가능한 hello_world 실행 파일 생성
+
+$ cc hello_world.c -o hello_world -I../include
+# 추가 헤더 파일 경로 지정: ../include 디렉토리의 헤더 사용
+
+$ cc hello_world.c -o hello_world -lmath
+# 수학 라이브러리 링크: math 라이브러리를 사용한 실행 파일 생성
+
+$ cc hello_world.c -o hello_world -Llib
+# 라이브러리 검색 경로 추가: lib 디렉토리에서 라이브러리 검색
+```
+
+### gdb; debugging tool
+**breakpoint**
+: stop on specified conditions
+**backtrace**
+: prog.이 stop했을 때 examine what has happened 
+**stepping**
+: inspect control flow
+
 - `break`: 브레이크포인트 설정
 - `run`: 프로그램 실행
 - `step`/`next`: 한 줄씩 실행
@@ -254,9 +287,8 @@ GDB를 사용하면 프로그램 실행 중 내부 상태를 검사하고 제어
 - `print`: 변수 값 출력
 - `backtrace`: 스택 추적
 
-### 3.5.3 make(1) - 프로젝트 빌드 관리
-
-Make는 여러 모듈로 구성된 프로그램의 빌드 프로세스를 자동화합니다.
+### make & Makefile; 
+Unix tool to simplify building prog. executables from many modules
 
 Makefile 기본 구조:
 ```makefile
