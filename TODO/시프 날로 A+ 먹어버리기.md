@@ -202,22 +202,17 @@ e.g.
   - `d`, `y`: 선택 영역 삭제/복사
   - `>`, `<`: 들여쓰기/내어쓰기
 
-## 3.5 소프트웨어 개발 도구
+### SW dev. tools
+1. Compiler Toolchain
+2. `gdb`: debugging
+3. `make`: project build management, maintain prog. dependencies
+4. `diff` & `patch`: report and apply differences btw files
+5. `screen`: terminal multiplexer
+6. `git`: distributed project management, version control
 
-### 3.5.1 컴파일러 툴체인
+### Compiler
+: high-level programming language로 되어 있는 source code를 machine code로 translate해주는
 
-컴파일러는 고급 프로그래밍 언어로 작성된 소스 코드를 기계어로 변환합니다. 주요 단계:
-
-1. 어휘 분석
-2. 전처리
-3. 구문 분석
-4. 의미 분석
-5. 코드 최적화
-6. 코드 생성
-7. 어셈블리
-8. 링킹
-
-[[이미지 첨부]]
 
 ### GCC (GNU Compiler Collection)
 
