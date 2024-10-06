@@ -295,6 +295,8 @@ forms
 future
 finer
 forecats
+fret
+fortitude
 name
 nYYYFF
 nOq
@@ -1010,6 +1012,10 @@ skill이
 state가
 stabilize
 sequences
+stated
+speaker
+shrine
+singly
 topic
 tags
 templete
@@ -1328,6 +1334,9 @@ techniques
 training은
 truth로
 tield
+tense여도
+thinks
+treachery
 aliases
 against
 and
@@ -1679,6 +1688,7 @@ accurately
 accumulation을
 assess하려고
 assessed
+arise
 cssclasses
 considered
 cell
@@ -2103,6 +2113,7 @@ clear
 communications
 correctable하니
 coarser
+chronological
 Tool
 Troposphere에서
 Thermal
@@ -2948,6 +2959,11 @@ diverging
 diverge할
 distributions
 drawn
+discourse나
+desires
+deceit
+devote
+discourse
 of
 ojjjii
 oJg
@@ -3192,6 +3208,7 @@ outperforms
 own
 ones
 outcome
+orderly
 Reasoning
 Resources
 Residual
@@ -4999,6 +5016,9 @@ push합니다
 push된
 performance는
 predictability를
+place
+prominent
+predicate
 here
 host
 haa
@@ -5308,6 +5328,8 @@ highlight
 문장이
 문제가
 문제의
+문장이든
+문단이든
 상황
 상위버전들이
 상승한
@@ -5819,6 +5841,7 @@ limit을
 기사님
 기록하기
 기본
+기만
 으로
 롤백
 혹은
@@ -6319,6 +6342,7 @@ generalization이고
 grow할
 generative
 gap
+group
 GraphCast
 GPU
 Geostrophic
@@ -7541,6 +7565,7 @@ ML을
 Metric
 Meaning
 ML한테
+Matters
 in
 iii
 iYp
@@ -7850,6 +7875,7 @@ imposed
 itself
 inaccessible
 impact이다
+intercalate
 지난
 지표
 지속
@@ -7936,6 +7962,7 @@ impact이다
 인간관계가
 인간적
 인쇄
+인용할
 됩니다
 쓰인
 쓰려고
@@ -8032,6 +8059,7 @@ impact이다
 개가
 개수가
 개선이
+개별적으로
 Stratospheric
 Surface
 SU
@@ -8907,6 +8935,7 @@ model이
 서버의
 서버로
 서버는
+서술부
 각운동량
 각색해서
 각색한
@@ -8932,12 +8961,14 @@ model이
 전체를
 전에
 속도
+속임수
 유발
 유도된
 유도
 유사
 유의미한지
 유지
+유발하다
 Wave
 Wind
 WVV
@@ -9168,6 +9199,8 @@ WWWg
 단순화
 단계의
 단일
+단어든
+단정하다
 냉각
 야기
 야기한
@@ -9748,6 +9781,7 @@ Problem
 중위도에
 중위도를
 중임
+중간마다
 증가
 증폭
 증상
@@ -10241,6 +10275,7 @@ wUU
 wZa
 wDb
 widely
+worship
 높이
 높은
 활성화
@@ -10271,6 +10306,9 @@ widely
 예측된
 예측이
 예측값
+예배하다
+예배
+예측하지
 연구에
 연관돼
 연직
@@ -10291,9 +10329,11 @@ widely
 연구가
 연락해서
 연기
+연대순
 통찰
 통화
 통해
+통일해야
 제공
 제트기류
 제거
@@ -12883,6 +12923,7 @@ explosive
 explode한
 evident
 expected
+entence
 VAA
 VWWc
 VUU
@@ -13317,6 +13358,7 @@ upper
 uncertainty에서
 unobserved
 usefulness
+unforeseen
 DEEE
 DPP
 Dt
@@ -14053,6 +14095,7 @@ quantitative
 quasi
 quasiinverse
 quickly
+question는
 ZZ
 Zi
 ZQQ
@@ -14542,6 +14585,7 @@ Nina
 때까지
 때는
 때문임
+때에는
 만큼
 만들어
 만드는
@@ -14589,8 +14633,10 @@ Nina
 불가
 불확실성
 불확실성을
+불굴의
 처음
 처리
+처음에
 말한
 말하는지
 말고는
@@ -14670,6 +14716,7 @@ Nina
 생성해
 생각합니다
 생긴다
+생기다
 적당했다
 적용
 적절한
@@ -14991,6 +15038,7 @@ Nina
 성장하는
 성장
 성능을
+성지
 형성돼
 형성된
 형식이
@@ -15026,6 +15074,7 @@ Nina
 정도가
 정보를
 정정
+정돈된
 시기
 시간
 시간을
@@ -15060,6 +15109,7 @@ Nina
 시스템에서
 시스템이
 시스템에
+시제는
 온도
 온위의
 온도가
@@ -15144,6 +15194,7 @@ Nina
 두기
 두어야
 두지
+두다
 소멸
 소용돌이
 소망도
@@ -15266,6 +15317,7 @@ Nina
 조편성하기
 조져버리기
 조정을
+조바심치다
 우리가
 우선
 우리의
@@ -15326,6 +15378,7 @@ Nina
 완료하기
 완전한
 완료하깅
+완료형
 걸로
 걸어온
 걸쳐서
@@ -15347,6 +15400,9 @@ Nina
 선형
 선형성
 선언서
+선호도
+선언하고
+선행사건
 함수가
 함수
 함께
@@ -15695,6 +15751,8 @@ Nina
 담겨
 담을
 담긴
+담론
+담화
 노인의
 노트
 노드
@@ -15737,6 +15795,7 @@ Nina
 용량
 용량이
 용이성
+용기
 입력
 입니다
 편차
@@ -15973,6 +16032,7 @@ Nina
 휘익
 놀라다
 끼익
+끼어넣다
 혼자
 종합한것과같이
 종관기상학
@@ -16062,6 +16122,7 @@ Nina
 뜻입니다
 뜻이
 뜻도
+뜻밖의
 법이다
 법이라고
 먼저
@@ -16099,6 +16160,7 @@ Nina
 테마
 배운
 배울
+배반
 퍨ZC
 땗W
 슕o
@@ -16160,6 +16222,7 @@ Nina
 똑같은
 똑같아보이지만
 똑같이
+똑같다
 써라
 써야
 짧거나
@@ -16174,6 +16237,7 @@ Nina
 명령어
 겉보기엔
 헌신적인
+헌신하다
 삽입된
 취하면
 취함
@@ -16237,3 +16301,5 @@ Nina
 행동
 끌어낼
 훑어보기
+낭비하지
+쏟다

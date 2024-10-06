@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-10-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Elements of Style.md"
+                "file": "TODO/2024-10-06.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Elements of Style.md",
+                "file": "TODO/2024-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d6b5d1bd140df5db",
+  "active": "b63297f4aeb36837",
   "lastOpenFiles": [
+    "Books/The Elements of Style.md",
+    "TODO/2024-10-06.md",
     "Books/Lorenz's three variable model is a dissipative system.md",
     "Books/eq 6.3.27.md",
     "Books/local bred vector dimension.md",
