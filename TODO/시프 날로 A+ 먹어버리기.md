@@ -218,15 +218,16 @@ gcc: C 코드 컴파일
 g++: C++ 코드 컴파일
 
 **Procedure**
+`program.c`로 출발
 1. preprocessing
      `cpp program.c program.i`
      =`cc -v -E program.c > program.i`
      
 2. compilation
-     `cc -v program.i`
+     `cc -v -S program.i`
      
 3. assembly
-     ``
+     `as -o program.o `
 4. linking
 
 - 주요 옵션:
