@@ -212,10 +212,8 @@ e.g.
 
 ### Compiler
 : high-level programming language로 되어 있는 source code를 machine code로 translate해주는
-
-
+![[시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw|300]]
 ### GCC (GNU Compiler Collection)
-
 - gcc: C 코드 컴파일
 - g++: C++ 코드 컴파일
 - 주요 옵션:

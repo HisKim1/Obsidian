@@ -307,6 +307,7 @@ fstat
 fstatat
 file을
 files나
+fbe
 <<<<<<< HEAD
 =======
 >>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
@@ -1404,6 +1405,8 @@ transparency
 then
 trap
 topics
+tools
+translate해주는
 aliases
 against
 and
@@ -1772,6 +1775,8 @@ applies
 automation
 awk
 a를
+app의
+app으로
 cssclasses
 considered
 cell
@@ -2226,6 +2231,7 @@ contain하는
 call로
 chown
 chmod
+code를
 Tool
 Troposphere에서
 Thermal
@@ -3118,6 +3124,9 @@ descriptor를
 dir
 dealt
 detach
+default로
+disk
+dev
 of
 ojjjii
 oJg
@@ -3374,6 +3383,7 @@ object
 operations
 oOKMqe
 ordinary
+owner
 Reasoning
 Resources
 Residual
@@ -4510,6 +4520,7 @@ rename
 redirect할
 redirect
 redirect되고
+report
 blog
 break
 breaking에
@@ -4802,6 +4813,7 @@ building
 branching
 bashrc
 bin
+bde
 posts
 pf
 pss
@@ -5650,6 +5662,7 @@ hardware
 실행한다
 실험
 실수
+실행되는
 library
 lbb
 lM
@@ -5936,6 +5949,7 @@ later
 lstat
 link
 list를
+language로
 버전
 버전으로
 이상이
@@ -7380,6 +7394,7 @@ Options
 Optimize
 Other
 Others
+Ownership
 Error
 Eddy
 EEE
@@ -8276,6 +8291,7 @@ interpretation
 identify하기
 input은
 inode
+int로
 지난
 지표
 지속
@@ -8391,6 +8407,7 @@ inode
 되지
 되었거나
 되었다
+되어
 모르겠습니다
 모르지만
 모르겟음
@@ -9390,6 +9407,8 @@ manage
 macros
 math
 materials
+management
+maintain
 서풍에
 서로
 서버의
@@ -10220,6 +10239,7 @@ Provides
 Programming
 Parameters
 PID의
+Permissions
 질량
 질서도
 질문하고
@@ -13977,6 +13997,7 @@ uJN
 unique
 unset
 usr
+utilization
 DEEE
 DPP
 Dt
@@ -15716,6 +15737,7 @@ NOC
 형태를
 형태
 형태가
+형식
 다를
 다운
 다른
@@ -15828,6 +15850,7 @@ NOC
 경우가
 경고
 경고를
+경로의
 교환
 교류에서도
 교재에서
@@ -16188,6 +16211,7 @@ NOC
 나타나지
 나를
 나누어
+나오는
 운동량
 운동을
 운명이
@@ -16609,6 +16633,7 @@ NOC
 본질입니다
 본질은
 본다면
+본인
 능력
 능력에
 능력도
@@ -17083,3 +17108,4 @@ NOC
 빌드
 콘솔에서
 협업을
+쳤을
