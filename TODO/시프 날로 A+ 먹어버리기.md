@@ -132,7 +132,7 @@ relative path: `usr/bin/xv`
 
 ---
 ## 3. Tools in Linux
-
+### Linux Commands
 - `date/cal`: 현재 날짜/시간 표시 / 이번 달 달력 표시
 - `clear`: 터미널 화면 지우기
 - `whoami`: 현재 로그인한 사용자 (본인) 확인
@@ -150,42 +150,35 @@ relative path: `usr/bin/xv`
 - `chmod/chown`: 파일 권한/소유자 변경
 - `ps`: 현재 실행 중인 프로세스 표시
 - `kill pid`: 특정 PID의 프로세스 종료
+- `file filename`: 파일 형식 확인
+- `which app`: default로 실행되는 app의 경로
+- `whereis app`: app으로 쓸 수 있는 모든 경로
+- `df`: disk utilization 표시
+- `du`: 특정 파일, 경로의 사용 용량 표시
 
-## 3.2 와일드카드
-
-파일명 패턴 매칭을 위한 특수 문자:
-
-- `*`: 0개 이상의 임의 문자
-- `?`: 임의의 단일 문자
-- `[ ]`: 범위 내의 문자 또는 숫자
-- `[!a]`: a를 제외한 단일 문자
-- `{ }`: 여러 매치 패턴 지정
-- `\`: 특수 문자를 일반 문자로 취급
-
-## 3.3 소유권과 권한
-
-리눅스의 파일 소유권과 권한 관리:
-
-### chown
-파일/디렉토리 소유권 변경:
+### Ownership & Permissions
+#### chown
+파일/디렉토리 소유권 변경
 ```
 chown <options> USER[:GROUP] <file>
 ```
-
-### chmod
-파일/디렉토리 권한 변경:
+e.g.
+`chown jeany:jeany integer.c`
+=`chown 1001:1003 integer.c`
+`id jeany` 쳤을 때 나오는 int로 owner 바꿀 수 있다
+#### chmod
+파일/디렉토리 권한 변경
 ```
 chmod <class><operator><mode> <file>
 ```
 - class: u(user), g(group), o(other), a(all)
 - operator: +, -, =
 - mode: r, w, x 또는 조합
+e.g.
+`chmod 755 integer.c`
+`chmod u=rwx, g-w+x, o+x integer.c`
 
-## 3.4 Vim 텍스트 에디터
-
-Vim은 빠르고 간단하지만 학습 곡선이 가파른 텍스트 에디터입니다.
-
-### Vim 모드
+### Vim
 1. 일반 모드 (Normal mode)
 2. 입력 모드 (Edit mode)
 3. 명령 모드 (Command mode)
