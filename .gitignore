@@ -1,8 +1,10 @@
 wordcloud_*
 
 학기말*
+
 .obsidian/plugins/*/*
 !.obsidian/plugins/*/data.json
+
 .Obsidian/plugins/remember-cursor-position/cursor-*
 
 .Obsidian/work*
