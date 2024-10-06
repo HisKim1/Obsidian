@@ -297,9 +297,9 @@ finer
 forecats
 fret
 fortitude
+fitting
 <<<<<<< HEAD
 =======
-fitting
 >>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 name
 nYYYFF
@@ -1021,10 +1021,7 @@ stated
 speaker
 shrine
 singly
-<<<<<<< HEAD
-=======
 satisfy
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 topic
 tags
 templete
@@ -1698,11 +1695,8 @@ accumulation을
 assess하려고
 assessed
 arise
-<<<<<<< HEAD
-=======
 approximate
 assigns
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 cssclasses
 considered
 cell
@@ -2128,11 +2122,8 @@ communications
 correctable하니
 coarser
 chronological
-<<<<<<< HEAD
-=======
 conditional
 correctable
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 Tool
 Troposphere에서
 Thermal
@@ -2984,14 +2975,11 @@ desires
 deceit
 devote
 discourse
-<<<<<<< HEAD
-=======
 density
 densities
 directions
 deviate
 distinguish
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 of
 ojjjii
 oJg
@@ -5053,12 +5041,9 @@ predictability를
 place
 prominent
 predicate
-<<<<<<< HEAD
-=======
 penalty한
 probabilities
 purely
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 here
 host
 haa
@@ -7613,10 +7598,7 @@ Metric
 Meaning
 ML한테
 Matters
-<<<<<<< HEAD
-=======
 Mathematical
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 in
 iii
 iYp
@@ -7927,13 +7909,10 @@ itself
 inaccessible
 impact이다
 intercalate
-<<<<<<< HEAD
-=======
 implementation
 inequality
 invariance
 incorporates
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 지난
 지표
 지속
@@ -8120,10 +8099,7 @@ incorporates
 개수가
 개선이
 개별적으로
-<<<<<<< HEAD
-=======
 개선도
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 Stratospheric
 Surface
 SU
@@ -10351,10 +10327,7 @@ wZa
 wDb
 widely
 worship
-<<<<<<< HEAD
-=======
 walk
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 높이
 높은
 활성화
@@ -13005,11 +12978,8 @@ explode한
 evident
 expected
 entence
-<<<<<<< HEAD
-=======
 explicit
 equals
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 VAA
 VWWc
 VUU
@@ -13445,10 +13415,7 @@ uncertainty에서
 unobserved
 usefulness
 unforeseen
-<<<<<<< HEAD
-=======
 uncorrectable
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 DEEE
 DPP
 Dt
@@ -15170,10 +15137,7 @@ Nina
 정보를
 정정
 정돈된
-<<<<<<< HEAD
-=======
 정의함
->>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
 시기
 시간
 시간을
