@@ -13,14 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-10-06.md",
+=======
+                "file": "TODO/2024-10-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da5d0c682300fbe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@L. Chen, et. al., 2024.md",
+>>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +67,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-10-06.md"
+=======
+                "file": "Papers/@L. Chen, et. al., 2024.md"
+>>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
               }
             }
           },
@@ -69,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +111,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-10-06.md",
+=======
+                "file": "Papers/@L. Chen, et. al., 2024.md",
+>>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +155,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "TODO/2024-10-06.md",
+=======
+                "file": "Papers/@L. Chen, et. al., 2024.md",
+>>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +211,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+<<<<<<< HEAD
   "active": "b63297f4aeb36837",
   "lastOpenFiles": [
     "Books/The Elements of Style.md",
     "TODO/2024-10-06.md",
+=======
+  "active": "da5d0c682300fbe0",
+  "lastOpenFiles": [
+    "TODO/2024-10-02.md",
+    "Papers/@L. Chen, et. al., 2024.md",
+    "Papers/@R. Parthipan, et. al., 2024.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "GraphCast/Task/Task.md",
+    "Papers/@R. Keisler, 2022.md",
+    "Papers/Kullback-Leibler (KL) divergence.md",
+    "Books/The Elements of Style.md",
+>>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
     "Books/Lorenz's three variable model is a dissipative system.md",
     "Books/eq 6.3.27.md",
     "Books/local bred vector dimension.md",
