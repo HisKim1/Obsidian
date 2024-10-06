@@ -26,155 +26,292 @@
 - runs / manages programs for the user
 - often supports limited programming
 $\to$ 대부분의 OS는 shell을 갖고 있음
+
 e.g. sh, csh, ksh, bash, tcsh, zsh (`echo $shell` 하면 어떤 쉘인지 확인 가능)
 
 ### Standard I/O
 : 모든 Unix/Linux는 <font color="#0d73ff">standard file streams</font> $\simeq$ <font color="#0d73ff">standard file descriptor</font>를 3개 갖고 있다
-1. standard<font color="#0d73ff"> input</font> / `stdin` file stream / file descriptor 0
-   : terminal에 printed된 info.를 읽기 위한 primary input stream
-2. standard <font color="#0d73ff">output</font> / `stdout` file stream / file descriptor 1
-   : terminal에 output할 info & prog.를 print하기 위한 primary output stream
-3. standard <font color="#0d73ff">error</font> / `stderr` file stream / file descriptor 2
-   : terminal에 print할 info.를 위한 primary error stream
-   error 1) resulted from an error in processing
-   error 2) should not be considered part of the prog. output
+1. **standard<font color="#0d73ff"> input</font>** / `stdin` file stream / file descriptor **0**
+    terminal에 printed된 info.를 읽기 위한 primary input stream
+   
+2. **standard <font color="#0d73ff">output</font>** / `stdout` file stream / file descriptor **1**
+    terminal에 output할 info & prog.를 print하기 위한 primary output stream
+   
+3. **standard <font color="#0d73ff">error</font>** / `stderr` file stream / file descriptor **2**
+    terminal에 print할 info.를 위한 primary error stream
+    error 1) resulted from an error in processing
+    error 2) should not be considered part of the prog. output
+
+### File Descriptors
+: kernel에서 file을 identify하기 위한 small, non-neg. int. 
+$\to$ shell은 any file descriptor를 redirect할 수 있다다
 
 ### Pipes, | 
 : <font color="#0d73ff">message passing</font> 이용한 <font color="#0d73ff">inter-process communication</font>;
   앞 prog. output을 pipe로 다음 prog.의 input으로
 $\to$ proc. seq.를 parallel하게 execute 
 $\to$ series complete될 수 있게 dependency 부여
+![[시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw|700]]  
 
+### Redirection
+: redirect the std file streams to a file on the filesystem
+- **Output Redirection (>):** <font color="#0d73ff">Sends the output</font> of a command to a file (<font color="#0d73ff">overwrites</font> the file).
+- **Input Redirection (<):** <font color="#0d73ff">Takes input </font>for a command from a file.
+- **Append Redirection (>>):** <font color="#0d73ff">Appends the output </font>of a command to a file.
+
+note. 
+**>** 랑 **<** 가 pipe보다 우선시 된다. redirect되고 남은 게 pipe 뒤로 넘어가.
+
+e.g.
+`$ cmd < input_file > output_file 2> error_file`
+: `cmd` 실행할 때 input은 `input_file`를 사용하고, 
+  출력 중에서 `stdout`은 `output_file`에, `stderr`는 `error_file`에 저장
   
+`$ cmd < input_file | cmd2 2> error_file | cmd3 > output_file`
+: 
 
+### Files
+1. ordinary files
+     text, data, prog. 담은 / within or under a dir. file
+     다른 files나 dir.를 contain할 수 없음
+2. directory files
+     other files & dir. list를 갖고 있는 file
+     filename, inode number $\in$ dir. file
+3. special files
+     *device is dealt with as a file.*
 
-- **Redirection:**
-    - **Output Redirection (>):** Sends the output of a command to a file (overwrites the file).
-    - **Input Redirection (<):** Takes input for a command from a file.
-    - **Append Redirection (>>):** Appends the output of a command to a file.
-- **Files and Directories:**
-    - The UNIX filesystem is a tree structure with '/' as the root directory.
-    - Directories map filenames to inodes.
-    - Absolute paths start with '/', while relative paths do not.
-    - **Types of Files:** Ordinary files, Directory files, Special files (for I/O devices).
-- **Listing Files:** The `ls` command lists files in a directory.
-    - You can use wildcards like '?', '*', '[ ]', '!', and '{ }' to specify file patterns.
-- **User Identification:** User IDs (UIDs) and Group IDs (GIDs) are used for identification and permissions.
-- **Unix Time:** Measured in seconds since the Unix epoch (Jan 1, 1970, 00:00:00 GMT).
-- **Process Time:** CPU time used by a process, measured in clock ticks.
+### Directories
+**directory entry**: mapping btw inode and filename
+**directory**: directory entries를 contain하는 special files
 
-#### 2.3 Processes and Signals
+`~`: home dir  / `.`: current working dir / `..`: 하나 상위 working dir
 
-- **Processes:** Programs executing in memory.
-    - Identified by a unique Process ID (PID).
-    - Created using the `fork()` system call.
-    - Loaded into memory using `exec()` functions.
-    - Controlled by `fork()`, `exec()`, and `wait()`.
-- **Signals:** Notify a process of an event.
+absolute path: `/home/ubuntu/a.txt` (`/`부터 시작할 때)
+relative path: `usr/bin/xv`
+
+### Wildcard
+- `?`: 단일 문자와 일치
+     `ls file?.txt   # file1.txt, fileA.txt 등과 일치`
+     
+- `*`: 0개 이상의 문자와 일치
+     `ls *.jpg       # 모든 .jpg 파일과 일치`
+	 `ls doc*        # doc로 시작하는 모든 파일과 일치`
+	 
+- `[]`: 대괄호 안의 문자 중 하나와 일치
+     `ls [abc]*.txt  # a, b, 또는 c로 시작하는 모든 .txt 파일과 일치`
+	 `ls file[0-9].txt  # file0.txt부터 file9.txt까지 일치`
+	 
+- `!`: 대괄호 내에서 사용 시 해당 문자 집합의 부정을 나타냄
+     `ls [!a]*.txt   # a로 시작하지 않는 모든 .txt 파일과 일치`
+  
+- `{}`: 쉼표로 구분된 패턴 목록과 일치
+     `ls {*.jpg,*.png}  # 모든 .jpg 및 .png 파일과 일치`
+	 `mv {file1.txt,file2.txt} /backup/  # file1.txt와 file2.txt를 /backup/ 디렉토리로 이동`
+
+### Processes and Signals
+- **Processes** 
+    Programs <font color="#0d73ff">executing in memory</font>
+    - Identified by a unique Process ID (PID)
+    - `fork()` system call로 생성
+    - Loaded into memory using `exec()` functions
+    - Controlled by `fork()`, `exec()`, and `wait()`
+- **Signals**
+     Notify a process that <font color="#0d73ff">a condition has occured</font>
     - Can have a default action, be ignored, or be caught and handled by a user-defined function.
 
+### Others
+- **User Identification**
+     User IDs (UIDs) and Group IDs (GIDs)를 자연수로 할당
+     GID에는 primary, secondary 있음
+  
+- **Unix Time** 
+    Measured in seconds since the Unix epoch (Jan 1, 1970, 00:00:00 GMT)
+
+- **Process Time** 
+    CPU time used by a process, measured in clock ticks.
+
+---
 ## 3. Tools in Linux
 
-#### 3.1 Important Commands (Beyond Basics)
+# 3. Tools in Linux
 
-- `chown`: Changes file/directory ownership.
-- `chmod`: Changes file/directory permissions.
-- `vim`: A powerful text editor.
-- `gcc`: The GNU C/C++ compiler.
-- `gdb`: A debugger for analyzing program execution.
-- `make`: A build tool for managing projects with multiple source files.
-- `screen`: A terminal multiplexer for managing multiple terminal sessions.
-- `diff`: Compares files line by line and generates a patch file.
-- `patch`: Applies a patch file to a source file.
-- `git`: A distributed version control system.
 
-#### 3.2 Vim Text Editor
 
-- **Modes:**
-    - **Command Mode:** For entering commands.
-    - **Visual Mode:** For selecting text.
-    - **Edit Mode:** For inserting text.
-- **Basic Commands:** See the source for a list of useful Vim commands.
+- `date/cal`: 현재 날짜/시간 표시 / 이번 달 달력 표시
+- `clear`: 터미널 화면 지우기
+- `whoami`: 현재 로그인한 사용자 확인
+- `exit`: 현재 세션에서 로그아웃
+- `pwd`: 현재 작업 디렉토리 경로 출력
+- `ls [-la]`: 디렉토리 목록 표시 [숨김 파일 포함 상세 목록]
+- `cd dir`: 디렉토리 변경
+- `mkdir/rmdir dir`: 디렉토리 생성/삭제
+- `man command`: 명령어 매뉴얼 표시
+- `cp/mv/rm [-r] file`: 파일 복사/이동/삭제 [디렉토리]
+- `grep [-r] pattern files`: 파일에서 패턴 검색
+- `cat`: 파일 내용 출력 및 연결
+- `vi/vim`: 프로그래머용 텍스트 에디터
+- `chmod/chown`: 파일 권한/소유자 변경
+- `ps`: 현재 실행 중인 프로세스 표시
+- `kill pid`: 특정 PID의 프로세스 종료
 
-#### 3.3 Compiler Toolchain
+## 3.2 와일드카드
 
-- A compiler translates high-level code to machine code in several steps (lexical analysis, preprocessing, parsing, etc.).
-- **GCC (GNU Compiler Collection):**
-    - `gcc` compiles C code.
-    - `g++` compiles C++ code.
-- **GCC Options:**
-    - `-c`: Compile without linking.
-    - `-o <filename>`: Specify output filename.
-    - `-g`: Include debugging information.
-    - `-Wall`: Show all warnings.
-    - `-Werror`: Treat warnings as errors.
-    - `-O`: Optimize the code.
-    - `-E`: Stop after preprocessing.
-    - `-S`: Stop after generating assembly code.
-    - `-l<library name>`: Link with a specific library.
-    - `-I<path>`: Specify the path for header files.
-    - `-L<path>`: Specify the path for library files.
+파일명 패턴 매칭을 위한 특수 문자:
 
-#### 3.4 gdb Debugger
+- `*`: 0개 이상의 임의 문자
+- `?`: 임의의 단일 문자
+- `[ ]`: 범위 내의 문자 또는 숫자
+- `[!a]`: a를 제외한 단일 문자
+- `{ }`: 여러 매치 패턴 지정
+- `\`: 특수 문자를 일반 문자로 취급
 
-- **Usage:**
-    - Compile with `-g` to include debugging info.
-    - Run `gdb [program]` to start the debugger.
-- **Commands:**
-    - `break <line number>` or `b <line number>`: Set a breakpoint.
-    - `info b`: List breakpoints.
-    - `delete <breakpoint number>`: Delete a breakpoint.
-    - `run` or `r`: Run the program.
-    - `step` or `s`: Step into a function call.
-    - `next` or `n`: Step over a function call.
-    - `continue` or `c`: Continue to the next breakpoint.
-    - `bt`: View the stack backtrace.
-    - `print <variable>` or `p <variable>`: Print the value of a variable.
-    - `quit` or `q`: Quit the debugger.
+## 3.3 소유권과 권한
 
-#### 3.5 make and Makefiles
+리눅스의 파일 소유권과 권한 관리:
 
-- `make` is used to manage project builds by following rules in a Makefile.
-- **Makefiles:**
-    - Define dependencies between files.
-    - Specify rules for building targets (usually object files or executables).
-    - Use macros to simplify rules.
-- **Makefile Format:**
-    
-    ```
-    target: dependencies
-        command1
-        command2
-        ...
-    ```
-    
-- **Macros:**
-    - Similar to #define in C, used to store reusable values.
-    - Defined as `MACRO_NAME = value`
-    - Referenced as `${MACRO_NAME}` or `$(MACRO_NAME)`
-- **Inference Rules:**
-    - Generalize the build process using patterns.
-    - `%`: Represents a wildcard.
-- **Special Macros:**
-    - `$*`: Basename of the current target.
-    - `$<`: Name of the first dependency file.
-    - `$^`: Names of all dependencies.
-    - `$@`: Name of the current target.
-    - `$?`: Names of dependencies newer than the target.
+### chown
+파일/디렉토리 소유권 변경:
+```
+chown <options> USER[:GROUP] <file>
+```
 
-#### 3.6 Other Tools
+### chmod
+파일/디렉토리 권한 변경:
+```
+chmod <class><operator><mode> <file>
+```
+- class: u(user), g(group), o(other), a(all)
+- operator: +, -, =
+- mode: r, w, x 또는 조합
 
-- **screen:**
-    - A terminal multiplexer for managing multiple terminal sessions.
-    - Useful for keeping processes running even if disconnected.
-    - Provides commands for creating, detaching, reattaching, and managing windows within a screen session.
-- **diff and patch:**
-    - `diff` compares files and produces a patch file.
-    - `patch` applies a patch file to a source file.
-- **git:**
-    - A distributed version control system.
-    - Allows multiple developers to work on the same codebase.
-    - Provides commands for cloning repositories, committing changes, branching, pushing and pulling changes, and more.
+[[이미지 첨부]]
+
+## 3.4 Vim 텍스트 에디터
+
+Vim은 빠르고 간단하지만 학습 곡선이 가파른 텍스트 에디터입니다.
+
+### Vim 모드
+1. 일반 모드 (Normal mode)
+2. 입력 모드 (Edit mode)
+3. 명령 모드 (Command mode)
+4. 비주얼 모드 (Visual mode)
+
+[[이미지 첨부]]
+
+### 주요 Vim 명령어
+- 일반 모드:
+  - `i`, `a`, `o`, `r`: 입력 모드로 전환
+  - `w`, `b`, `e`: 단어 단위 이동
+  - `/`, `?`: 검색
+  - `d`, `y`, `p`: 삭제(잘라내기), 복사, 붙여넣기
+  - `u`, `Ctrl+r`: 실행 취소, 재실행
+
+- 명령 모드:
+  - `:w`, `:q`, `:wq`: 저장, 종료, 저장 후 종료
+  - `:set nu`: 줄 번호 표시
+  - `:%s/old/new/g`: 전체 파일에서 문자열 치환
+
+- 비주얼 모드:
+  - `u`, `U`: 소문자/대문자 변환
+  - `d`, `y`: 선택 영역 삭제/복사
+  - `>`, `<`: 들여쓰기/내어쓰기
+
+## 3.5 소프트웨어 개발 도구
+
+### 3.5.1 컴파일러 툴체인
+
+컴파일러는 고급 프로그래밍 언어로 작성된 소스 코드를 기계어로 변환합니다. 주요 단계:
+
+1. 어휘 분석
+2. 전처리
+3. 구문 분석
+4. 의미 분석
+5. 코드 최적화
+6. 코드 생성
+7. 어셈블리
+8. 링킹
+
+[[이미지 첨부]]
+
+### GCC (GNU Compiler Collection)
+
+- gcc: C 코드 컴파일
+- g++: C++ 코드 컴파일
+- 주요 옵션:
+  - `-c`: 링킹 없이 컴파일
+  - `-o <filename>`: 출력 파일 이름 지정
+  - `-g`: 디버깅 정보 포함
+  - `-Wall`: 모든 경고 표시
+  - `-Werror`: 경고를 에러로 취급
+  - `-O`: 최적화
+
+### 3.5.2 gdb(1) - 디버깅 도구
+
+GDB를 사용하면 프로그램 실행 중 내부 상태를 검사하고 제어할 수 있습니다.
+
+주요 명령어:
+- `break`: 브레이크포인트 설정
+- `run`: 프로그램 실행
+- `step`/`next`: 한 줄씩 실행
+- `continue`: 다음 브레이크포인트까지 실행
+- `print`: 변수 값 출력
+- `backtrace`: 스택 추적
+
+### 3.5.3 make(1) - 프로젝트 빌드 관리
+
+Make는 여러 모듈로 구성된 프로그램의 빌드 프로세스를 자동화합니다.
+
+Makefile 기본 구조:
+```makefile
+target: dependencies
+    commands
+```
+
+주요 개념:
+- 타겟: 생성할 파일
+- 의존성: 타겟 생성에 필요한 파일들
+- 명령: 타겟을 생성하는 쉘 명령어
+
+매크로 사용 예:
+```makefile
+CC = gcc
+CFLAGS = -g -Wall
+OBJ = main.o print.o hello.o
+
+hello: $(OBJ)
+    $(CC) $(OBJ) -o hello
+```
+
+### 3.5.4 diff(1)와 patch(1) - 파일 비교 및 패치
+
+- `diff`: 파일 간 차이점을 라인 단위로 비교
+- `patch`: diff 파일을 이용해 원본 파일에 변경 사항 적용
+
+[[이미지 첨부]]
+
+### 3.5.5 screen(1) - 터미널 멀티플렉서
+
+여러 터미널 세션을 하나의 콘솔에서 관리할 수 있게 해주는 도구입니다.
+
+주요 명령어:
+- `screen`: 새 screen 세션 시작
+- `Ctrl+a c`: 새 창 생성
+- `Ctrl+a n`: 다음 창으로 이동
+- `Ctrl+a d`: 현재 세션 분리 (detach)
+
+### 3.5.6 git(1) - 분산 버전 관리 시스템
+
+Git은 프로젝트의 변경 이력을 관리하고 여러 개발자의 협업을 지원합니다.
+
+주요 명령어:
+- `git init`: 새 저장소 초기화
+- `git clone [URL]`: 원격 저장소 복제
+- `git add [file]`: 파일을 스테이징 영역에 추가
+- `git commit -m "[message]"`: 변경 사항 커밋
+- `git push`: 로컬 변경 사항을 원격 저장소에 업로드
+- `git pull`: 원격 저장소의 변경 사항을 로컬로 가져오기
+
+UNIX/LINUX는 텍스트 기반의 다중 사용자 운영 체제로, 수천 개의 명령어를 동시에 실행할 수 있지만 초기 학습 곡선이 매우 가파릅니다.
 
 ## 4. Shell Programming
 #### 4.1 Introduction
