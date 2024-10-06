@@ -222,12 +222,16 @@ g++: C++ 코드 컴파일
 1. preprocessing
      `cpp program.c program.i`
      =`cc -v -E program.c > program.i`
+     $\Rightarrow$ `program.i` 생성
      
 2. compilation
      `cc -v -S program.i`
+     $\Rightarrow$ `program.s` 생성
      
 3. assembly
-     `as -o program.o `
+     `as -o program.o program.s`
+     $\Rightarrow$ `program.o` 생성
+     
 4. linking
 
 - 주요 옵션:
