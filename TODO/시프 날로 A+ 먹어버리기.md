@@ -217,10 +217,16 @@ e.g.
 gcc: C 코드 컴파일
 g++: C++ 코드 컴파일
 
-Procedure
+**Procedure**
 1. preprocessing
+     `cpp program.c program.i`
+     =`cc -v -E program.c > program.i`
+     
 2. compilation
+     `cc -v program.i`
+     
 3. assembly
+     ``
 4. linking
 
 - 주요 옵션:
