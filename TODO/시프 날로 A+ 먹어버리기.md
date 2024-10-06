@@ -214,8 +214,15 @@ e.g.
 : high-level programming language로 되어 있는 source code를 machine code로 translate해주는
 ![[시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw|300]]
 ### GCC (GNU Compiler Collection)
-- gcc: C 코드 컴파일
-- g++: C++ 코드 컴파일
+gcc: C 코드 컴파일
+g++: C++ 코드 컴파일
+
+Procedure
+1. preprocessing
+2. compilation
+3. assembly
+4. linking
+
 - 주요 옵션:
   - `-c`: 링킹 없이 컴파일
   - `-o <filename>`: 출력 파일 이름 지정
