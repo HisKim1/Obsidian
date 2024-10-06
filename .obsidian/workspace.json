@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "TODO/2024-10-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md"
+                "file": "TODO/2024-10-07.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "TODO/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "TODO/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +197,9 @@
   },
   "active": "da5d0c682300fbe0",
   "lastOpenFiles": [
-    "TODO/2024-10-02.md",
     "Papers/@L. Chen, et. al., 2024.md",
+    "TODO/2024-10-07.md",
+    "TODO/2024-10-02.md",
     "Papers/@R. Parthipan, et. al., 2024.md",
     "GraphCast/Task/Input Data 다운.md",
     "GraphCast/Task/Task.md",

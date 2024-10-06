@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-07",
+      "path": "TODO/2024-10-07.md"
+    },
+    {
       "basename": "@L. Chen, et. al., 2024",
       "path": "Papers/@L. Chen, et. al., 2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Server Info",
       "path": "GraphCast/Coding/Server Info.md"
-    },
-    {
-      "basename": "General Forecasting Problem Statement",
-      "path": "GraphCast/paper/General Forecasting Problem Statement.md"
     }
   ],
   "omittedPaths": []
