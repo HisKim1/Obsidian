@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0fdc028cb596a0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25761799d190d79a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "abe928317b3c3a02",
         "type": "tabs",
         "children": [
@@ -32,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "67d4ba6cdd88aa32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
               }
             }
           }
@@ -93,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md"
+                "file": "Test/GraphCast Butterfly Effect Test.md"
               }
             }
           },
@@ -143,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,6 +185,7 @@
   },
   "active": "fa278cb1bc3c44c3",
   "lastOpenFiles": [
+    "TODO/2024-10-07.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "TODO/시프 날로 A+ 먹어버리기.md",
     "File/Pasted Image 20241006180128_639.png",

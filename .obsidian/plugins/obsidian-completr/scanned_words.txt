@@ -2232,6 +2232,7 @@ call로
 chown
 chmod
 code를
+compilation
 Tool
 Troposphere에서
 Thermal
@@ -7395,6 +7396,7 @@ Optimize
 Other
 Others
 Ownership
+Oct
 Error
 Eddy
 EEE
@@ -16861,6 +16863,7 @@ NOC
 출처
 출력이
 출력
+출발
 랩실
 랩미팅
 랩세미나
