@@ -133,13 +133,10 @@ relative path: `usr/bin/xv`
 ---
 ## 3. Tools in Linux
 
-# 3. Tools in Linux
-
-
-
 - `date/cal`: 현재 날짜/시간 표시 / 이번 달 달력 표시
 - `clear`: 터미널 화면 지우기
-- `whoami`: 현재 로그인한 사용자 확인
+- `whoami`: 현재 로그인한 사용자 (본인) 확인
+- `who`:  현재 로그인한 모든 사용자 확인
 - `exit`: 현재 세션에서 로그아웃
 - `pwd`: 현재 작업 디렉토리 경로 출력
 - `ls [-la]`: 디렉토리 목록 표시 [숨김 파일 포함 상세 목록]
@@ -184,8 +181,6 @@ chmod <class><operator><mode> <file>
 - operator: +, -, =
 - mode: r, w, x 또는 조합
 
-[[이미지 첨부]]
-
 ## 3.4 Vim 텍스트 에디터
 
 Vim은 빠르고 간단하지만 학습 곡선이 가파른 텍스트 에디터입니다.
@@ -195,8 +190,6 @@ Vim은 빠르고 간단하지만 학습 곡선이 가파른 텍스트 에디터�
 2. 입력 모드 (Edit mode)
 3. 명령 모드 (Command mode)
 4. 비주얼 모드 (Visual mode)
-
-[[이미지 첨부]]
 
 ### 주요 Vim 명령어
 - 일반 모드:
