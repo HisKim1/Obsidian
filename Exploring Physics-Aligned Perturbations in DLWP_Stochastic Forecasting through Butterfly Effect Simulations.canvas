@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"48443d327d4b971e","type":"file","file":"Papers/@P. Watson, 2024.md","x":-550,"y":160,"width":494,"height":240,"color":"5"},
+		{"id":"54725771256f671c","type":"text","text":"![[Atmospheric Modeling, Data Assimilation and Predictability#6.4 Ensemble forecasting early studies]]","x":-1100,"y":160,"width":520,"height":696,"color":"5"},
+		{"id":"57338306ad202143","type":"text","text":"# Question 1\n\n# DLWP에서 perturbation으로 ensemble forecasting을 해야 하는 이유는?","x":-1100,"y":-160,"width":1140,"height":176,"color":"6"},
+		{"id":"aad82a703e45af59","type":"file","file":"Papers/@L. Olivetti, G.Messori, 2024.md","x":-550,"y":456,"width":494,"height":280,"color":"5"},
+		{"id":"907be19688bbaffa","type":"file","file":"Papers/@M. Bonavita, 2024.md","x":40,"y":396,"width":480,"height":400,"color":"5"},
+		{"id":"da831d91acbc3a76","type":"text","text":"이외에도 많은 자료에서 MLWP에 대해 아래 문제 제기\n- **average convergence** \n- **extreme event prediction failure**","x":40,"y":856,"width":480,"height":140,"color":"5"},
+		{"id":"6a1657df2f1359db","type":"text","text":"# NWP처럼 DLWP에서도 Ensemble Forecasting을 하면 많은 문제들을 해결할 수 있을 것","x":-943,"y":1160,"width":1280,"height":80,"color":"6"},
+		{"id":"5d84a0af8bc57918","type":"text","text":"# DLWP","x":-260,"y":110,"width":160,"height":50,"color":"5"},
+		{"id":"b75ab66bbd3094d9","type":"text","text":"# NWP","x":-1060,"y":110,"width":158,"height":50,"color":"5"},
+		{"id":"795d2b38c5349ae7","type":"text","text":"# Question 2\n\n# 어떻게 perturbation을 줄 것인가?","x":760,"y":-140,"width":600,"height":133,"color":"6"},
+		{"id":"92837bfd8c296679","type":"file","file":"Test/GraphCast Butterfly Effect Test.md","x":760,"y":120,"width":600,"height":1080,"color":"5"},
+		{"id":"742baad9af164d71","type":"file","file":"Papers/@R. Parthipan, et. al., 2024.md","x":1440,"y":179,"width":628,"height":217,"color":"5"},
+		{"id":"0211f3cf41a2b6a0","type":"text","text":"![[@R. Parthipan, et. al., 2024#4. Defining Error accumulation]]\n","x":1440,"y":396,"width":628,"height":819,"color":"5"},
+		{"id":"b55e7c96d96844c2","type":"text","text":"NeuIPS 2024 submitted; code 공유 요청해놓은 상태","x":1628,"y":1215,"width":440,"height":60,"color":"1"},
+		{"id":"399175abb18d3962","type":"text","text":"## 어떤 error인지 어떻게 아는가?","x":1514,"y":-14,"width":480,"height":60,"color":"6"},
+		{"id":"005f587b5c8aea95","type":"text","text":"## 어떤 error를 만들어야 하는지?","x":1514,"y":-190,"width":480,"height":60,"color":"6"},
+		{"id":"5b7952b47994a2be","type":"file","file":"Papers/@L. Chen, et. al., 2024.md","x":2200,"y":-214,"width":630,"height":110,"color":"5"},
+		{"id":"e99e9bb8e5708278","type":"text","text":"# Fuxi-S2S\n\n1. Encoder로 input을 hiddne feature, $h^t$로 확장\n2. Encoder의 확장 과정에서 perturbation vector, $z^t$ 생성\n3. $h^t + z^t = \\widetilde{h}^t$\n4. $\\widetilde{h}^t$를 decoder 통해 output으로 변환","x":2201,"y":-104,"width":629,"height":240,"color":"5"},
+		{"id":"57a2ae1dadab46c9","x":2203,"y":324,"width":797,"height":272,"color":"3","type":"text","text":"# 앞으로의 방향?\n\n## 1. Graphcast의 모든 변수 (227개)에 purturbation을 줘보기\n\n## 2. 관련 사례들을 더 찾아보고, 적용 가능한 방법을 알아보기\n\n## 3. 다른 방향?"}
+	],
+	"edges":[
+		{"id":"0c52d1e3835d4932","fromNode":"57338306ad202143","fromSide":"bottom","toNode":"54725771256f671c","toSide":"top"},
+		{"id":"ae13edb9c1eb4efa","fromNode":"57338306ad202143","fromSide":"bottom","toNode":"48443d327d4b971e","toSide":"top"},
+		{"id":"279079c1034494fc","fromNode":"48443d327d4b971e","fromSide":"bottom","toNode":"aad82a703e45af59","toSide":"top"},
+		{"id":"a2398c438bd12fbc","fromNode":"aad82a703e45af59","fromSide":"right","toNode":"907be19688bbaffa","toSide":"left"},
+		{"id":"108a0357b738a07d","fromNode":"907be19688bbaffa","fromSide":"bottom","toNode":"da831d91acbc3a76","toSide":"top"},
+		{"id":"f523469095798c36","fromNode":"54725771256f671c","fromSide":"bottom","toNode":"6a1657df2f1359db","toSide":"top"},
+		{"id":"c5691a199eb84b20","fromNode":"da831d91acbc3a76","fromSide":"bottom","toNode":"6a1657df2f1359db","toSide":"top"},
+		{"id":"54e2763f42b24ee3","fromNode":"57338306ad202143","fromSide":"right","toNode":"795d2b38c5349ae7","toSide":"left"},
+		{"id":"211eb4cf0eb62eb3","fromNode":"795d2b38c5349ae7","fromSide":"right","toNode":"005f587b5c8aea95","toSide":"left"},
+		{"id":"6ca6c5fa3d52ca1a","fromNode":"795d2b38c5349ae7","fromSide":"right","toNode":"399175abb18d3962","toSide":"left"},
+		{"id":"2278ff3ebfb83454","fromNode":"399175abb18d3962","fromSide":"bottom","toNode":"742baad9af164d71","toSide":"top"},
+		{"id":"2a4d2a7511e7d4bb","fromNode":"005f587b5c8aea95","fromSide":"right","toNode":"5b7952b47994a2be","toSide":"left"},
+		{"id":"6219c3bbabc2d626","fromNode":"795d2b38c5349ae7","fromSide":"bottom","toNode":"92837bfd8c296679","toSide":"top"},
+		{"id":"2eac43c5e6f24352","fromNode":"005f587b5c8aea95","fromSide":"right","toNode":"57a2ae1dadab46c9","toSide":"left"}
+	]
+}

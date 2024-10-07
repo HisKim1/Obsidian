@@ -16,27 +16,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b6f02917055825a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60dc3982c2d81d36",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -372,
-                  "zoom": 0
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +174,15 @@
   },
   "active": "1ee93c85f60dff96",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
+    "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
+    "Papers/@R. Parthipan, et. al., 2024.md",
+    "Papers/@N. Brenowiz, C. Bretherton, 2019.md",
+    "Papers/@P. Watson, 2024.md",
+    "Papers/@M. Bonavita, 2024.md",
+    "TODO/2024-10-07.md",
     "Excalidraw/Drawing 2024-10-07 21.04.20.excalidraw.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
-    "TODO/2024-10-07.md",
     "conflict-files-obsidian-git.md",
     "시프 날로 A+ 먹어버리기.md",
     "Untitled.md",
@@ -209,7 +193,6 @@
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
     "File/Pasted Image 20241006145938_675.png",
     "File/Pasted image 20241006143613.png",
-    "TODO/2024-10-06.md",
-    "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    "TODO/2024-10-06.md"
   ]
 }
