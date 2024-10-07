@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/시프 날로 A+ 먹어버리기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md"
+                "file": "TODO/시프 날로 A+ 먹어버리기.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/시프 날로 A+ 먹어버리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/시프 날로 A+ 먹어버리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +185,9 @@
   },
   "active": "fa278cb1bc3c44c3",
   "lastOpenFiles": [
-    "GraphCast/Task/Input Data 다운.md",
-    "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-10-07.md",
+    "Test/GraphCast Butterfly Effect Test.md",
+    "GraphCast/Task/Input Data 다운.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "TODO/시프 날로 A+ 먹어버리기.md",
     "File/Pasted Image 20241006180128_639.png",
