@@ -1065,9 +1065,6 @@ symlink
 shell은
 special
 secondary
-specified
-stop했을
-stepping
 topic
 tags
 templete
@@ -8298,7 +8295,6 @@ identify하기
 input은
 inode
 int로
-inspect
 지난
 지표
 지속
@@ -9416,7 +9412,6 @@ math
 materials
 management
 maintain
-modules
 서풍에
 서로
 서버의
@@ -13552,7 +13547,6 @@ esac
 echo
 exec
 entries를
-examine
 VAA
 VWWc
 VUU
@@ -15256,6 +15250,7 @@ NOC
 일단
 일치
 일반
+일자로
 때의
 때문에
 때문입니다
@@ -15301,6 +15296,7 @@ NOC
 돌려서
 돌이켜보면
 돌아갈
+돌리기
 불가능
 불완전함
 불과하다고
@@ -15780,6 +15776,7 @@ NOC
 정돈된
 정의함
 정보
+정리해서
 시기
 시간
 시간을
@@ -16180,6 +16177,7 @@ NOC
 그래프이론
 그거랑
 그림치료
+그림을
 잔류
 평균
 평가
@@ -16695,6 +16693,7 @@ NOC
 논의상의하기
 논의
 논의논의
+논의논의해보러
 낫다
 낫다고
 낫다는
@@ -16871,6 +16870,7 @@ NOC
 출력이
 출력
 출발
+출근해서
 랩실
 랩미팅
 랩세미나
@@ -17119,3 +17119,5 @@ NOC
 콘솔에서
 협업을
 쳤을
+딸각
+딸깍부터
