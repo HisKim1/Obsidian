@@ -6103,6 +6103,7 @@ language로
 가지로
 가파른
 가파릅니다
+가지러
 요청
 요소
 요지를
@@ -7399,6 +7400,7 @@ Optimize
 Other
 Others
 Ownership
+Oct
 Error
 Eddy
 EEE

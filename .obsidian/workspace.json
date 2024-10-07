@@ -5,18 +5,42 @@
     "children": [
       {
         "id": "a13feabf4d0b0ab8",
+        "id": "34852e13e6e7a921",
         "type": "tabs",
         "children": [
           {
             "id": "ee30505f98da6a18",
+            "id": "1ee93c85f60dff96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6f02917055825a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60dc3982c2d81d36",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
               "state": {
                 "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -372,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -74,6 +98,7 @@
               "state": {
                 "file": "Test/GraphCast Butterfly Effect Test.md"
               }
+              "state": {}
             }
           },
           {
@@ -89,6 +114,7 @@
     ],
     "direction": "horizontal",
     "width": 244.5
+    "width": 224.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -182,16 +208,18 @@
     }
   },
   "active": "ee30505f98da6a18",
+  "active": "1ee93c85f60dff96",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "File/Pasted image 20241006190050.png",
-    "TODO/2024-10-07.md",
-    "Untitled.md",
-    "TODO/WMO model 500hPa 평가 기준.md",
-    "시프 날로 A+ 먹어버리기.md",
-    "GraphCast/Task/Input Data 다운.md",
-    "Test/GraphCast Butterfly Effect Test.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-10-07 21.04.20.excalidraw.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
+    "TODO/2024-10-07.md",
+    "conflict-files-obsidian-git.md",
+    "시프 날로 A+ 먹어버리기.md",
+    "Untitled.md",
+    "TODO/시프 날로 A+ 먹어버리기.md",
+    "TODO/Untitled.md",
+    "File/Pasted image 20241006190050.png",
     "File/Pasted Image 20241006180128_639.png",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
     "File/Pasted Image 20241006145938_675.png",
