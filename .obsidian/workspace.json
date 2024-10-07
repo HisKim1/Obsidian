@@ -11,13 +11,8 @@
             "id": "25761799d190d79a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -40,6 +35,19 @@
             }
           },
           {
+            "id": "b45dcb077bb5ace0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "67d4ba6cdd88aa32",
             "type": "leaf",
             "state": {
@@ -49,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-10-07.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -143,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-10-07.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-10-07.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +221,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa278cb1bc3c44c3",
+  "active": "b45dcb077bb5ace0",
   "lastOpenFiles": [
-    "TODO/시프 날로 A+ 먹어버리기.md",
     "TODO/2024-10-07.md",
+    "conflict-files-obsidian-git.md",
+    "시프 날로 A+ 먹어버리기.md",
+    "Untitled.md",
+    "TODO/시프 날로 A+ 먹어버리기.md",
     "TODO/Untitled.md",
     "File/Pasted image 20241006190050.png",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
