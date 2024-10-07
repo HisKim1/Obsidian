@@ -1065,6 +1065,9 @@ symlink
 shell은
 special
 secondary
+specified
+stop했을
+stepping
 topic
 tags
 templete
@@ -8293,6 +8296,7 @@ identify하기
 input은
 inode
 int로
+inspect
 지난
 지표
 지속
@@ -9410,6 +9414,7 @@ math
 materials
 management
 maintain
+modules
 서풍에
 서로
 서버의
@@ -13545,6 +13550,7 @@ esac
 echo
 exec
 entries를
+examine
 VAA
 VWWc
 VUU

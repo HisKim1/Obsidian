@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md",
+                "file": "TODO/2024-10-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md"
+                "file": "TODO/2024-10-07.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md",
+                "file": "TODO/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/시프 날로 A+ 먹어버리기.md",
+                "file": "TODO/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,9 @@
   },
   "active": "fa278cb1bc3c44c3",
   "lastOpenFiles": [
-    "TODO/Untitled.md",
     "TODO/시프 날로 A+ 먹어버리기.md",
+    "TODO/2024-10-07.md",
+    "TODO/Untitled.md",
     "File/Pasted image 20241006190050.png",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "File/Pasted Image 20241006180128_639.png",
