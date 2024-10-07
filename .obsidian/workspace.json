@@ -4,61 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0fdc028cb596a0",
+        "id": "34852e13e6e7a921",
         "type": "tabs",
         "children": [
           {
-            "id": "25761799d190d79a",
+            "id": "1ee93c85f60dff96",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {}
             }
           }
         ]
       },
       {
-        "id": "abe928317b3c3a02",
+        "id": "b6f02917055825a2",
         "type": "tabs",
         "children": [
           {
-            "id": "fa278cb1bc3c44c3",
+            "id": "60dc3982c2d81d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TODO/2024-10-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b45dcb077bb5ace0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d4ba6cdd88aa32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -372,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,9 +79,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,13 +98,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "fe9fdb20909d7b9e",
@@ -152,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +193,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b45dcb077bb5ace0",
+  "active": "1ee93c85f60dff96",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-10-07 21.04.20.excalidraw.md",
+    "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "TODO/2024-10-07.md",
     "conflict-files-obsidian-git.md",
     "시프 날로 A+ 먹어버리기.md",
@@ -230,7 +205,6 @@
     "TODO/시프 날로 A+ 먹어버리기.md",
     "TODO/Untitled.md",
     "File/Pasted image 20241006190050.png",
-    "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "File/Pasted Image 20241006180128_639.png",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
     "File/Pasted Image 20241006145938_675.png",
