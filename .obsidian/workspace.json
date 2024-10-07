@@ -1,78 +1,40 @@
 {
   "main": {
-    "id": "b02a7d02aa4cfc47",
+    "id": "3cee375f211aad00",
     "type": "split",
     "children": [
       {
-        "id": "7e0fdc028cb596a0",
+        "id": "a13feabf4d0b0ab8",
         "type": "tabs",
         "children": [
           {
-            "id": "25761799d190d79a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "abe928317b3c3a02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa278cb1bc3c44c3",
+            "id": "ee30505f98da6a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-10-07.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b45dcb077bb5ace0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d4ba6cdd88aa32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7e3be77c7cbc37d9",
+    "id": "5190e9a22aa068f3",
     "type": "split",
     "children": [
       {
-        "id": "11a25948d88bca99",
+        "id": "eac4ed8cc3ec76a5",
         "type": "tabs",
         "children": [
           {
-            "id": "cb570f3d9a2035ee",
+            "id": "54abeabfc44f063b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,12 +44,12 @@
             }
           },
           {
-            "id": "36b392e3463cf2c9",
+            "id": "8d125211a37ceaef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"author\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,49 +59,7 @@
             }
           },
           {
-            "id": "91ead535db490e33",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          },
-          {
-            "id": "3f57af79f0f6931d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "3c1c584a4d57ee07",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "fe9fdb20909d7b9e",
-    "type": "split",
-    "children": [
-      {
-        "id": "cb10d90eafb2d219",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7412c41a4290e4d9",
+            "id": "976d3b8b6875bd2e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -147,12 +67,75 @@
             }
           },
           {
-            "id": "a75a7eaaa12e2548",
+            "id": "217b0e74a797c1a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test/GraphCast Butterfly Effect Test.md"
+              }
+            }
+          },
+          {
+            "id": "1ad680a320638007",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "b8bd9fb580c16d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a0b63b82577d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c554d77c749ad57",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f57df36d2c0c508",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00801a181c2f63c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "090887ded56f82e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,72 +147,50 @@
             }
           },
           {
-            "id": "d0dc276853dc566c",
+            "id": "ac7afb754bb9a9fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "4f53046f28c5b0b1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a3c9507c1385f49a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 301.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": true,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b45dcb077bb5ace0",
+  "active": "ee30505f98da6a18",
   "lastOpenFiles": [
-    "TODO/2024-10-07.md",
     "conflict-files-obsidian-git.md",
-    "시프 날로 A+ 먹어버리기.md",
-    "Untitled.md",
-    "TODO/시프 날로 A+ 먹어버리기.md",
-    "TODO/Untitled.md",
     "File/Pasted image 20241006190050.png",
+    "TODO/2024-10-07.md",
+    "Untitled.md",
+    "TODO/WMO model 500hPa 평가 기준.md",
+    "시프 날로 A+ 먹어버리기.md",
+    "GraphCast/Task/Input Data 다운.md",
+    "Test/GraphCast Butterfly Effect Test.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "File/Pasted Image 20241006180128_639.png",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
