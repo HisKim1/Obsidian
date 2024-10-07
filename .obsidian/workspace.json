@@ -6,30 +6,14 @@
       {
         "id": "a13feabf4d0b0ab8",
         "type": "tabs",
-        "dimension": 55.612903225806456,
         "children": [
           {
             "id": "ee30505f98da6a18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "0be7cbc3c22b4d81",
-        "type": "tabs",
-        "dimension": 44.387096774193544,
-        "children": [
-          {
-            "id": "5cbccb82a229df87",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md"
+                "file": "Test/GraphCast Butterfly Effect Test.md"
               }
             }
           },
@@ -100,13 +84,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "b8bd9fb580c16d11",
@@ -153,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Task/Input Data 다운.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,15 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cbccb82a229df87",
+  "active": "ee30505f98da6a18",
   "lastOpenFiles": [
-    "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-10-07.md",
-    "TODO/시프 날로 A+ 먹어버리기.md",
+    "Untitled.md",
+    "TODO/WMO model 500hPa 평가 기준.md",
+    "시프 날로 A+ 먹어버리기.md",
     "GraphCast/Task/Input Data 다운.md",
+    "Test/GraphCast Butterfly Effect Test.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
     "File/Pasted Image 20241006180128_639.png",
-    "TODO/Untitled.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
     "File/Pasted Image 20241006145938_675.png",
     "File/Pasted image 20241006143613.png",
