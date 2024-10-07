@@ -50,6 +50,9 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	1. 변수 11개 std 구하기.....
 9. 좀 더 지역을 낮춰서 보자 / 안 됨
 10. 정리해서 교수님과 논의논의해보러 가기... 그림을 이쁘게 뽑아보자  $\leftarrow$ <font color="#00e676">진행 중</font>
+	1. 2021-06-21일자로 다시 다운로드
+	2. perturbation 다시 주기
+	3. GC 딸각 돌리기
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
 [2] [[@M. Bonavita, 2024]]
