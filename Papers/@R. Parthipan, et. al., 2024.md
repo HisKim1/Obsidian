@@ -128,7 +128,7 @@ $$\begin{align}
 \text{KL}\left(p_{\text{gen},\theta}(x_{t+c}|x_{1:c}) \| p_{\text{cts}}(x_{t+c}|x_{1:c})\right)\bigg)
 \end{align}$$
 ## Practical implementation
-#### $$\begin{align}
+$$\begin{align}
 \arg\max_{\theta} \bigg( & \mathbb{E}_{x_{1:n}\sim p_{\text{truth}}} \log p_{\text{gen},\theta}(x_{c+1}, ..., x_{c+n}|x_{1:c}) \\
 & - \frac{\lambda}{n}\sum_{t=1}^n \mathbb{E}_{x_{1:c},x_{t+c-1}\sim p_{\text{truth}}} 
 \text{KL}\left(p_{\text{gen},\theta}(x_{t+c}|x_{t+c-1}) \| p_{\text{cts}}(x_{t+c}|x_{1:c})\right)\bigg)

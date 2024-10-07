@@ -13,8 +13,44 @@
       "path": "TODO/2024-10-07.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
+      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations",
+      "path": "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas"
+    },
+    {
+      "basename": "@L. Chen, et. al., 2024",
+      "path": "Papers/@L. Chen, et. al., 2024.md"
+    },
+    {
+      "basename": "@R. Parthipan, et. al., 2024",
+      "path": "Papers/@R. Parthipan, et. al., 2024.md"
+    },
+    {
+      "basename": "GraphCast Butterfly Effect Test",
+      "path": "Test/GraphCast Butterfly Effect Test.md"
+    },
+    {
+      "basename": "@N. Brenowiz, C. Bretherton, 2019",
+      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
+    },
+    {
+      "basename": "@M. Bonavita, 2024",
+      "path": "Papers/@M. Bonavita, 2024.md"
+    },
+    {
+      "basename": "@L. Olivetti, G.Messori, 2024",
+      "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
+    },
+    {
+      "basename": "@P. Watson, 2024",
+      "path": "Papers/@P. Watson, 2024.md"
+    },
+    {
+      "basename": "2024-10-07",
+      "path": "TODO/2024-10-07.md"
     },
     {
       "basename": "WMO model 500hPa 평가 기준",
@@ -43,10 +79,6 @@
     {
       "basename": "2024-10-06",
       "path": "TODO/2024-10-06.md"
-    },
-    {
-      "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
-      "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
     }
   ],
   "omittedPaths": []
