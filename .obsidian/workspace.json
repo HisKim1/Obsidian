@@ -15,14 +15,28 @@
               "state": {
                 "file": "Test/GraphCast Perturbation Canvas.canvas",
                 "viewState": {
-                  "x": 1040,
-                  "y": 352.5,
+                  "x": 1351.5688161958337,
+                  "y": 519.7404579764005,
                   "zoom": -1.655934172249207
                 }
               }
             }
+          },
+          {
+            "id": "b1f04d3e9d13a3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5d4960c7ae15e641",
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/GraphCast Perturbation Canvas.canvas",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/GraphCast Perturbation Canvas.canvas",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/GraphCast Perturbation Canvas.canvas"
+                "file": "Test/GraphCast Butterfly Effect Test.md"
               }
             }
           }
@@ -182,10 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4c25a393791f60a",
+  "active": "b1f04d3e9d13a3be",
   "lastOpenFiles": [
-    "().md",
     "Test/GraphCast Perturbation Canvas.canvas",
+    "Test/GraphCast Butterfly Effect Test.md",
+    "().md",
     "Untitled.md",
     "TODO/2024-10-08.md",
     "TODO/2024-10-07.md",
