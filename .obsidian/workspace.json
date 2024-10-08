@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4c25a393791f60a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Test/GraphCast Perturbation Canvas.canvas",
-                "viewState": {
-                  "x": 1351.5688161958337,
-                  "y": 519.7404579764005,
-                  "zoom": -1.655934172249207
-                }
-              }
-            }
-          },
-          {
             "id": "b1f04d3e9d13a3be",
             "type": "leaf",
             "state": {
@@ -35,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

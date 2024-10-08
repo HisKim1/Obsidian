@@ -54,6 +54,8 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	2. perturbation 다시 주기
 	3. GC 딸각 돌리기
 	4. plot 조지기  $\leftarrow$ <font color="#00e676">진행 중</font> 내일 출근해서 딸깍부터 하면 될 듯.
+		1. global mean
+		2. 
 	5. 이쁘게 플롯해서 저장은 해둬야 할 듯
 	   
 	   
