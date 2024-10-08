@@ -11,12 +11,14 @@
             "id": "b4c25a393791f60a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TODO/2024-10-08.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Test/GraphCast Perturbation Canvas.canvas",
+                "viewState": {
+                  "x": 1040,
+                  "y": 352.5,
+                  "zoom": -1.655934172249207
+                }
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-10-08.md",
+                "file": "Test/GraphCast Perturbation Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-10-08.md",
+                "file": "Test/GraphCast Perturbation Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-10-08.md"
+                "file": "Test/GraphCast Perturbation Canvas.canvas"
               }
             }
           }
@@ -182,9 +184,12 @@
   },
   "active": "b4c25a393791f60a",
   "lastOpenFiles": [
+    "().md",
+    "Test/GraphCast Perturbation Canvas.canvas",
+    "Untitled.md",
+    "TODO/2024-10-08.md",
+    "TODO/2024-10-07.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
-    "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
-    "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
-    "TODO/2024-10-08.md"
+    "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
   ]
 }

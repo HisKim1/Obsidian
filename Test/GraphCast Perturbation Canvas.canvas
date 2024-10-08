@@ -18,7 +18,9 @@
 		{"id":"005f587b5c8aea95","type":"text","text":"## 어떤 error를 만들어야 하는지?","x":1514,"y":-190,"width":480,"height":60,"color":"6"},
 		{"id":"5b7952b47994a2be","type":"file","file":"Papers/@L. Chen, et. al., 2024.md","x":2200,"y":-214,"width":630,"height":110,"color":"5"},
 		{"id":"e99e9bb8e5708278","type":"text","text":"# Fuxi-S2S\n\n1. Encoder로 input을 hiddne feature, $h^t$로 확장\n2. Encoder의 확장 과정에서 perturbation vector, $z^t$ 생성\n3. $h^t + z^t = \\widetilde{h}^t$\n4. $\\widetilde{h}^t$를 decoder 통해 output으로 변환","x":2201,"y":-104,"width":629,"height":240,"color":"5"},
-		{"id":"57a2ae1dadab46c9","type":"text","text":"# 앞으로의 방향?\n\n## 1. Graphcast의 모든 변수 (227개)에 purturbation을 줘보기\n\n## 2. 관련 사례들을 더 찾아보고, 적용 가능한 방법을 알아보기\n\n## 3. 다른 방향?","x":2203,"y":324,"width":797,"height":272,"color":"3"}
+		{"id":"57a2ae1dadab46c9","type":"text","text":"# 앞으로의 방향?\n\n## 1. Graphcast의 모든 변수 (227개)에 purturbation을 줘보기\n\n## 2. 관련 사례들을 더 찾아보고, 적용 가능한 방법을 알아보기\n\n## 3. 다른 방향?","x":2203,"y":324,"width":797,"height":272,"color":"3"},
+		{"id":"66e97a9d006ffca7","type":"text","text":"# Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations","x":-1100,"y":-560,"width":1817,"height":160,"color":"#2e3cff"},
+		{"id":"707edd22715610af","type":"text","text":"# +$\\alpha$) RIKEN\n## Lab\n1. [**Mathematical Climatology Labaoratory**](https://www.riken.jp/en/research/labs/chief/math_clim/index.html)\n   Chief Scientist: *Hirofumi Tomita* \n2. [**Computational Climate Science Research Team**](https://www.riken.jp/en/research/labs/r-ccs/comput_clim_sci/index.html)\n   Team Leader: *Hirofumi Tomita*\n\n## Papers\n1. Contributions of changes in climatology and perturbation and the resulting nonlinearity to regional climate change\n2. Control simulation experiment with Lorenz’s butterfly attractor\n3. An evaluation method for uncertainties in regional climate projections\n\n","x":2203,"y":725,"width":977,"height":540,"color":"5"}
 	],
 	"edges":[
 		{"id":"0c52d1e3835d4932","fromNode":"57338306ad202143","fromSide":"bottom","toNode":"54725771256f671c","toSide":"top"},
