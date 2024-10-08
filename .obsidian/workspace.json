@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00438d287d96a146",
+        "id": "199d66547770c89c",
         "type": "tabs",
         "children": [
           {
-            "id": "85ea8b16f71e8013",
+            "id": "b4c25a393791f60a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
-                "viewState": {
-                  "x": 850.5110208074691,
-                  "y": 500.322522916965,
-                  "zoom": -0.9993603657439498
-                }
+                "file": "TODO/2024-10-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
+                "file": "TODO/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
+                "file": "TODO/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas"
+                "file": "TODO/2024-10-08.md"
               }
             }
           }
@@ -183,8 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85ea8b16f71e8013",
+  "active": "b4c25a393791f60a",
   "lastOpenFiles": [
+    "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
+    "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md",
+    "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
     "TODO/2024-10-08.md"
   ]
 }
