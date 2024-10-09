@@ -11,8 +11,13 @@
             "id": "1ee93c85f60dff96",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-10-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -58,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO/2024-10-09.md"
+              }
             }
           },
           {
@@ -105,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO/2024-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO/2024-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +183,7 @@
   },
   "active": "1ee93c85f60dff96",
   "lastOpenFiles": [
+    "TODO/2024-10-09.md",
     "Books/Atmospheric Modeling, Data Assimilation and Predictability.md",
     "Exploring Physics-Aligned Perturbations in DLWP_Stochastic Forecasting through Butterfly Effect Simulations.canvas",
     "Papers/@R. Parthipan, et. al., 2024.md",
