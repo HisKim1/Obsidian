@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6587fbfd676adaf",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ]
       }
@@ -183,11 +191,12 @@
   },
   "active": "b1f04d3e9d13a3be",
   "lastOpenFiles": [
+    "TODO/2024-10-09.md",
+    "TODO/2024-10-08.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "Test/GraphCast Perturbation Canvas.canvas",
     "().md",
     "Untitled.md",
-    "TODO/2024-10-08.md",
     "TODO/2024-10-07.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
     "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
