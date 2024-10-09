@@ -143,7 +143,7 @@ relative path: `usr/bin/xv`
 - `cd dir`: 디렉토리 변경
 - `mkdir/rmdir dir`: 디렉토리 생성/삭제
 - `man command`: 명령어 매뉴얼 표시
-- `cp/mv/rm [-r] file`: 파일 복사/이동/삭제 [디렉토리]
+- `cp/mv/rm [-r] file`: 파일 복사/이동/삭제
 - `grep [-r] pattern files`: 파일에서 패턴 검색
 - `cat`: 파일 내용 출력 및 연결
 - `vi/vim`: 프로그래머용 텍스트 에디터
@@ -288,21 +288,29 @@ $ cc hello_world.c -o hello_world -Llib
 - `backtrace`: 스택 추적
 
 ### make & Makefile; 
-Unix tool to simplify building prog. executables from many modules
+Unix tool to <font color="#0d73ff">simplify building</font> prog. executables from many modules
 
-Makefile 기본 구조:
+##### Make
+user가 만든 **Makefile**에서 규칙 파악하여 **make**로 필요한 obj나 executable만 re-built하는 
+c.f. CMake: for large projects / cross platform build sys.
+##### Makefile
+<font color="#0d73ff">avoid having to rebuild the entire proj.</font> 하도록 *dependency graph* 통해 <font color="#0d73ff">selective rebuild</font>
+macros & suffices로 simplified rule 사용 가능
+
+Makefile format
 ```makefile
 target: dependencies
     commands
 ```
+- target: obj., executable file list
+- dependencies: target이 dep.하는 source, obj. files
+- commands: dependency따라 obj. file 생성하는 Unix 명령어
 
-주요 개념:
-- 타겟: 생성할 파일
-- 의존성: 타겟 생성에 필요한 파일들
-- 명령: 타겟을 생성하는 쉘 명령어
-
-매크로 사용 예:
+e.g.
 ```makefile
+# comment indicated by the character #
+
+
 CC = gcc
 CFLAGS = -g -Wall
 OBJ = main.o print.o hello.o
@@ -315,8 +323,6 @@ hello: $(OBJ)
 
 - `diff`: 파일 간 차이점을 라인 단위로 비교
 - `patch`: diff 파일을 이용해 원본 파일에 변경 사항 적용
-
-[[이미지 첨부]]
 
 ### 3.5.5 screen(1) - 터미널 멀티플렉서
 
