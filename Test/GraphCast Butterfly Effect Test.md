@@ -52,8 +52,24 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 10. 정리해서 교수님과 논의논의해보러 가기... 그림을 이쁘게 뽑아보자 
 	1. 2021-06-21일자로 다시 다운로드
 	2. perturbation 다시 주기
-	3. GC 딸각 돌리기 $\leftarrow$ <font color="#00e676">진행 중</font> 내일 출근해서 딸깍부터 하면 될 듯.
-	4. plot 조지기
+	3. GC 딸각 돌리기
+	4. plot 조지기  $\leftarrow$ <font color="#00e676">진행 중</font> 내일 출근해서 딸깍부터 하면 될 듯.
+		1. global mean
+		2. 
+	5. 이쁘게 플롯해서 저장은 해둬야 할 듯
+	   
+	   
+```ad-note
+[[2024-10-08]] Talk w/ Prof.
+
+[[GraphCast Perturbation Canvas.canvas|GraphCast Perturbation Canvas]]
+```
+11. Obscured feature test로 넘어가기
+	1. 랜덤 지역에 값을 0 혹은 $\pm$ 99999 극한값으로 줘보기\
+	2. std로 perturbation에서 일정값 이상을 0 혹은 $\pm$ 9999로 대체
+	3. 지역별로 값을 빼버리고 돌리기
+	4. 기상천외한 방법을 줘보기
+
 ## References
 [1] [[@T.Selz and G. C. Craig, 2023]]
 [2] [[@M. Bonavita, 2024]]
