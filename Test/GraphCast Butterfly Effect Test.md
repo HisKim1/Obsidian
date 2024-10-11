@@ -53,7 +53,7 @@ $\Rightarrow$ 만일 가능하다면 ensemble로 활용할 수 있다
 	1. 2021-06-21일자로 다시 다운로드
 	2. perturbation 다시 주기
 	3. GC 딸각 돌리기
-	4. plot 조지기  $\leftarrow$ <font color="#00e676">진행 중</font>
+	4. plot 조지기
 		1. global mean
 		2. east asia `.sel(lat=slice(25, 60), lon=slice(102.5, 150))`
 	5. 이쁘게 플롯해서 저장은 해둬야 할 듯
