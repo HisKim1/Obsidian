@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-10-10.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,11 +24,17 @@
             "id": "f6587fbfd676adaf",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-10-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-10-10.md",
+                "file": "TODO/2024-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-10-10.md",
+                "file": "TODO/2024-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-10-10.md"
+                "file": "TODO/2024-10-11.md"
               }
             }
           }
@@ -189,12 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1f04d3e9d13a3be",
+  "active": "f6587fbfd676adaf",
   "lastOpenFiles": [
-    "TODO/2024-10-08.md",
-    "TODO/2024-10-10.md",
-    "TODO/2024-10-09.md",
+    "TODO/2024-10-11.md",
     "Test/GraphCast Butterfly Effect Test.md",
+    "File/2m_temperature_forecast_east asia mean_0.001to5_2021-06-21.png",
+    "File/2m_temperature_forecast_global mean_0.001to5_2021-06-21.png",
+    "TODO/2024-10-10.md",
+    "TODO/2024-10-08.md",
+    "TODO/2024-10-09.md",
     "Test/GraphCast Perturbation Canvas.canvas",
     "().md",
     "Untitled.md",
