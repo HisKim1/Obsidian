@@ -1795,6 +1795,7 @@ acbc
 aea
 abb
 abd
+asia
 cssclasses
 considered
 cell
@@ -8387,6 +8388,7 @@ int로
 지원합니다
 지역에
 지역별로
+지역에만
 보내주신
 보통
 보임
