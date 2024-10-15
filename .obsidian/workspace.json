@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44197916df656201",
+            "id": "c7db555b423327c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시프 날로 A+ 먹어버리기.md",
+                "file": "TODO/2024-10-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "7983235f803f8607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/Korea Carbon Project 국제 워크숍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe626d4bef93ac19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시프 날로 A+ 먹어버리기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -84,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시프 날로 A+ 먹어버리기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시프 날로 A+ 먹어버리기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "249424f38809564e",
+  "active": "fe626d4bef93ac19",
   "lastOpenFiles": [
+    "TODO/Korea Carbon Project 국제 워크숍.md",
+    "conflict-files-obsidian-git.md",
+    "TODO/2024-10-15.md",
     "시프 날로 A+ 먹어버리기.md",
+    "File/Pasted image 20241009165610.png",
+    "File/Pasted image 20241009162503.png",
+    "File/Pasted image 20241009162402.png",
+    "File/Pasted image 20241009103800.png",
     "TODO/2024-10-09.md",
     "().md",
     "TODO/2024-10-08.md",

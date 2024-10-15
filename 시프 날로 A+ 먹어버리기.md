@@ -297,7 +297,7 @@ c.f. CMake: for large projects / cross platform build sys.
 <font color="#0d73ff">avoid having to rebuild the entire proj.</font> 하도록 *dependency graph* 통해 <font color="#0d73ff">selective rebuild</font>
 macros & suffices로 simplified rule 사용 가능
 
-Makefile format
+Makefile format: 아래 2줄을 세트로 <font color="#0d73ff">rule</font>
 ```makefile
 target: dependencies
     commands
@@ -310,23 +310,53 @@ e.g.
 ```makefile
 # comment indicated by the character #
 
-
+# Macro: 자주 사용되는 부분을 변수처럼 저장 후 사용
+# 사용법 ${NAME} / $(NAME) / $NAME
 CC = gcc
 CFLAGS = -g -Wall
 OBJ = main.o print.o hello.o
 
+# Rule
 hello: $(OBJ)
     $(CC) $(OBJ) -o hello
 ```
 
-### 3.5.4 diff(1)와 patch(1) - 파일 비교 및 패치
+```ad-question
+1. Tools in Linux2 p.23
+   OBJ 정의할 때 $\eqqcolon$ 써도 됨?
+```
 
-- `diff`: 파일 간 차이점을 라인 단위로 비교
-- `patch`: diff 파일을 이용해 원본 파일에 변경 사항 적용
+##### Rule 
+1. pattern rule
+```Makefile
+# src와 obj가 같은 이름을 가질 때
+# % wildcard로 대체
 
-### 3.5.5 screen(1) - 터미널 멀티플렉서
+%.o: %.c 
+        $(cc) $(FLAGS) -c $<    # $<: 첫번째 dependency file
+```
+2. suffix rule
+```Makefile
+# *.c를 *.o로 바꿀 때 
+# 바로 위에 거랑 같은 역할을 수행하는 듯?
 
-여러 터미널 세션을 하나의 콘솔에서 관리할 수 있게 해주는 도구입니다.
+.c.o:
+        $(cc) $(FLAGS) -c $<
+```
+1. special macros
+	1. `$*` basename of current target
+	2. `$<` 1st current dependency file name
+	3. `$^` all dependents names
+	4. `$@` current target name
+	5. `$?` 
+```ad-question
+4. Tools in Linux2 p.25
+`$?`가 뭔지 잘 안 와닿음...
+```
+
+### screen; terminal multiplexer
+여러 터미널 세션을 하나의 콘솔에서 관리할 수 있게 해주는
+screen에서 실행된 proc는 보이지 않고, disconnected되더라도 계속 실행됨
 
 주요 명령어:
 - `screen`: 새 screen 세션 시작
@@ -334,11 +364,12 @@ hello: $(OBJ)
 - `Ctrl+a n`: 다음 창으로 이동
 - `Ctrl+a d`: 현재 세션 분리 (detach)
 
-### 3.5.6 git(1) - 분산 버전 관리 시스템
+### diff(1) & patch(1); file compare and update
 
-Git은 프로젝트의 변경 이력을 관리하고 여러 개발자의 협업을 지원합니다.
-
-주요 명령어:
+- `diff`: 파일 간 차이점을 라인 단위로 비교 $\to$ output이 `patch` file
+- `patch`: diff 파일을 이용해 원본 파일에 변경 사항 적용
+![[Pasted image 20241009103800.png]]
+### git
 - `git init`: 새 저장소 초기화
 - `git clone [URL]`: 원격 저장소 복제
 - `git add [file]`: 파일을 스테이징 영역에 추가
@@ -346,151 +377,524 @@ Git은 프로젝트의 변경 이력을 관리하고 여러 개발자의 협업�
 - `git push`: 로컬 변경 사항을 원격 저장소에 업로드
 - `git pull`: 원격 저장소의 변경 사항을 로컬로 가져오기
 
-UNIX/LINUX는 텍스트 기반의 다중 사용자 운영 체제로, 수천 개의 명령어를 동시에 실행할 수 있지만 초기 학습 곡선이 매우 가파릅니다.
+```ad-question
+4.Tools in Linux2
+tool 5개 뒤에 (1) 숫자는 왜 붙어있는거? 의미가 있는건가?
+```
 
+---
 ## 4. Shell Programming
-#### 4.1 Introduction
+### Shell
+An <font color="#0d73ff">interface</font> between the user and the kernel
+interpret cmd $\to$ execute cmd
+$\Rightarrow$ 사용자별로 custom env.를 지원
 
-- **Shell:** An interface between the user and the kernel.
-- **Shell Scripting:** Writing sequences of commands in a file for later execution.
-- **Popular Shells:** `sh`, `ksh`, `bash`, `csh`, `tcsh`.
-- **When to Avoid Shell Scripts:** For resource-intensive tasks, complex data structures, heavy math, cross-platform needs, security-critical applications, extensive file operations, GUI programming, or direct hardware access.
-- **Why Use Shell Scripts?** For task automation, combining commands, ease of use, transparency, and portability.
+### Shell Programming
+Writing <font color="#0d73ff">sequences of commands</font> in a file for later execution
 
-#### 4.2 Shell Script Basics
+### Shell Type
+- `sh $` Bourne Shell / 가장 흔한 / 제약적
+- `ksh $` Korn Shell / superset of `sh`
+- `bash $` Bourne-Again Shell / `sh`+`csh` / <font color="#0d73ff">Linux default</font>
+- `csh %` C Shell / `sh`-extended / c-like syntex
+- , `tcsh %` `csh`-extended
+$\to$ `chsh -s path`로 사용할 shell 바꿀 수 있음 / 미묘하게 다르다
 
-- **Shebang (#!):** Specifies the interpreter for the script (e.g., `#!/bin/bash`).
-- **Execution:**
-    - Make the script executable: `chmod a+x [script file name]`
-    - Run the script: `./[script file name]`
-- **Running within the current shell:** `source [script file name]` or `. [script file name]`
-- **Special Characters:** `#`, `$`, `\`, `{ }`, `;`, `;;`, `.`, `$?`, `$$`, `[ ]`, `[[ ]]`, `$[ ]`, `(( ))`, `||`, `&&`, `!`.
-- **Variables:**
-    - **Environment Variables:** Global variables available to all processes.
-        - Set using `export NAME=value` or `NAME=value; export NAME`
-    - **Shell Variables:** Local to the current shell.
-        - Set using `NAME=value`
-    - **Accessing Variables:** Use `$NAME` (e.g., `echo $PATH`)
-    - **Important Environment Variables:** `PATH`, `HOME`, `USER`, `SHELL`, `DISPLAY`, `EDITOR`, etc.
-- **Arrays:**
-    - Create: `NAME=(value1 value2 ...)`
-    - Access: `echo ${NAME[index]}` (all elements: `${NAME[@]}`)
-    - Count: `echo ${#NAME[@]}`
+### Shell Script
+collection of shell cmds stored in a file
 
-#### 4.3 Quotation, Parameters, and Arithmetic
+#### Shell Script 단점 (쓰면 안되는 상황)
+1. <font color="#0d73ff">resourse-intensive</font> (sort, hash, etc.)
+2. $n$-dim <font color="#0d73ff">array나 data structure</font> 써야 할 때
+3. floating point, precision cal., $\mathbb{C}$ $\Rightarrow$ heavy-duty <font color="#0d73ff">math</font>할 때
+4. cross-platform <font color="#0d73ff">portability</font> btw diff. shell
+5. <font color="#0d73ff">security</font>가 중요할 때 ($\because$ txt라 누구나 볼 수 있다)
+6. <font color="#0d73ff">GUI, graphic</font>이 필요할 때
+7. <font color="#0d73ff">HW</font>에 direct access 필요할 때
+8. <font color="#0d73ff">port나 socket I/O</font> 필요할 때 
 
-- **Quotation:**
-    - **Single Quotes (''):** Literal interpretation.
-    - **Double Quotes (" "):** Variable expansion.
-    - **Back Quotes (``) or $( ):** Command substitution.
-- **Positional Parameters:** Special variables for command-line arguments.
-    - `$0`: Script name.
-    - `$1`, `$2`, ...: Arguments 1, 2, ...
-    - `$#`: Number of arguments.
-    - `$*`: All arguments as a single string.
-    - `$@`: All arguments as separate strings.
-    - `$?`: Exit status of the last command.
-    - `$$`: Process ID of the current shell.
-- **Arithmetic Operations:**
-    - **Integer Arithmetic:**
-        - `$((expression))`
-        - `$[expression]`
-        - `let "expression"`
-        - `expr expression`
-    - **Floating-Point Arithmetic:** Requires external tools like `bc` or `awk`.
+#### Shell Script 장점
+1. **Task Automation**
+   자주 사용되는 operation을 automate
+2. **Combining Multiple Commands**
+   여러 cmd를 single cmd처럼 실행
+3. **Easy to Use**
+   write, debug가 쉽다
+4. **Transparency**
+   진행상황을 쉽게 확인 가능
+5. **Portable**
+   같은 shell이라면 얼마든지
+   
+### Shell Script Basics
+- **Hashbang (#!)** 
+  Specifies the interpreter for the script (e.g., `#!/bin/bash`)
+  `.sh`이면 무조건 hashbang + shell 경로로 시작해야 함
+- **Execution**
+  1. 실행 권한 부여: `chmod a+x [script file name]`
+     
+  2. 실행 shell 결정 후 실행
+    1. <font color="#0d73ff">새로운 shell</font> 열어서 사용
+       `./sample.sh`
+       `bash sampble.sh`
+       
+    2. 현재 터미널에서 <font color="#0d73ff">쓰던 shell 그대로</font> 사용
+       $\to$ 내가 선언해놓은 `variable` 이어서 사용 가능
+       `. sample.sh`
+       `source sample.sh`
+       
+### Variables
+1. (global) **Environment Variables**
+	<font color="#0d73ff">모든 shell이 공통</font>으로 갖게 되는 variables
+	= system shell이 생성될 때 <font color="#0d73ff">상속</font>받아
+	(대문자로 작성하는 convention)
+	e.g. `NAME=value; export NAME` or `export NAME=value`
+	
+2. (local) **User-defined** or **Shell Variables**
+   현재 사용 중인 shell에만 적용
+   $\to$ 다른 proc.로 전달 X
+```ad-question
+5.Shell Programming1 p.23
+"not passed to other processes"
+shell을 process라고 보는 건가? 
+```
 
-#### 4.4 Input, Redirection, and Here Documents
+#### 주요 Env. Var.
+##### `HOME`
+path to your <font color="#0d73ff">home directory</font>
+e.g. `$HOME=/home/hiskim1`
+##### `PATH`
+paths <font color="#0d73ff">to be searched</font> for command
+$\to$ cmd를 입력하면 shell은 `$PATH`에서 해당 prog.을 찾아 실행
+e.g. `$PATH=/usr/bin:/usr/ucb:/usr/local/bin`
+where `:/` is "append"
 
-- **Input:** `read` command prompts the user for input.
-    - `read varname`: Reads input into the variable `varname`.
-    - `read -p "prompt" varname`: Displays a prompt before reading.
-- **Redirection:**
-    - `>&n`: Redirect output to file descriptor `n`.
-    - `<&n`: Redirect input from file descriptor `n`.
-    - `>&-`: Close standard output.
-    - `<&-`: Close standard input.
-    - `2> file`: Redirect standard error to `file`.
-    - `> file 2>&1`: Redirect both stdout and stderr to `file`.
-    - `(command > file1) 2> file2`: Redirect stdout to `file1` and stderr to `file2`.
-- **Here Documents:** For providing multi-line input to a command.
-    
-    ```
-    command << delimiter
-    input line 1
-    input line 2
-    ...
-    delimiter
-    ```
-    
+### Array
+```bash
+#! /bin/bash
 
-#### 4.5 Built-in Commands and Flow Control
+# declare 1D-array
+# idx starts from 0
+Y=(abc 1 123 xyz)
 
-- **Built-in Commands:** Internal to the shell, faster than external commands.
-    - Use `type -a command` or `command -V command` to check if a command is built-in.
-- **Flow Control:**
-    - **Conditionals (if-then-else):**
-        
-        ```
-        if condition; then
-            commands
-        elif condition; then
-            commands
-        else
-            commands
-        fi
-        ```
-        
-    - **Loops:**
-        - **for loop:** Iterates over a list of values.
-            
-            ```
-            for variable in list; do
-                commands
-            done
-            ```
-            
-        - **while loop:** Executes commands as long as a condition is true.
-            
-            ```
-            while condition; do
-                commands
-            done
-            ```
-            
-        - **until loop:** Executes commands as long as a condition is false.
-            
-            ```
-            until condition; do
-                commands
-            done
-            ```
-            
-    - **Switches:**
-        - **case statement:** Multi-way branching based on pattern matching.
-            
-            ```
-            case variable in
-                pattern1)
-                    commands
-                    ;;
-                pattern2)
-                    commands
-                    ;;
-                *)
-                    commands
-                    ;;
-            esac
-            ```
-            
-        - **select statement:** Creates a simple menu-driven prompt.
-            
-            ```
-            select choice in list; do
-                commands
-            done
-            ```
-            
+echo ${Y[2]}
+# output: 123
+Y[2]=3
 
+echo ${Y[2]}
+# output: 3
+
+# all list elements
+echo ${Y[@]}
+# output: abc 1 3 xyz
+
+# # of list elements
+echo ${#Y[@]}
+# output: 4
+```
+
+### Quotation
+#### Single Quotation, \'    \'
+<font color="#0d73ff">있는 그대로 출력</font>함
+```bash
+#! /bin/bash
+
+myvar="This is my var"
+
+echo `$myvar`
+# output: $myvar
+```
+
+#### Double Quotation, \"     \"
+Python에서 f"    "같은 거
+안에 들어가 있는 <font color="#0d73ff">variable을 대체</font>해서 실행됨
+```bash
+#! /bin/bash
+
+myvar="This is my var"
+
+echo "$myvar"
+# output: This is my var
+```
+
+#### Back Quotation, \`     \`
+<font color="#0d73ff">command substitution</font> 용도 
+= back quotation 안의 <font color="#0d73ff">cmd를 실행</font>하여 그 <font color="#0d73ff">결과값을 전달</font>
+note: `bash`에서 `$(pwd)`$\simeq$\``pwd`\`
+```bash
+#! /bin/bash
+
+echo `pwd`
+# 1. pwd 실행
+# 2. back quotation이 pwd 결과값을 받아
+# 3. back quotation이 가져온 결과를 echo에 전달
+# 4. echo 실행
+```
+
+### Positional Parameters
+`$0`: Script name
+`$1`, `$2`, ... : arg. 1, 2, ...
+`$#`: \# of arg.
+`$*`: All arguments as a <font color="#0d73ff">single string</font>
+`$@`: All arguments as <font color="#0d73ff">separate strings</font>
+`$?`: Exit status of the last command
+`$$`: Process ID of the current shell
+
+```ad-question
+`$*`랑 `$@`를 어떻게 구분할 수 있을까?
+```
+
+### Arithmetic Operations
+```bash
+#! /bin/bash
+
+# 사용 가능한 방법
+# 1. $(( ... ))
+# 2. $[ ... ]
+
+a=5; b=3;
+
+echo $((1+2))
+#output: 3
+
+echo $[$a+$b]
+# output: 8
+```
+
+#### `let` & `expr`
+```bash
+#! /bin/bash
+
+# let으로 변수 선언시 integer로 취급
+# 띄어쓰기 X
+let c=$a-$b
+echo $c
+# output: 2
+
+# expr는 다 띄어 써야 함
+c=`expr $a + $b`
+echo $c
+# output: 15
+
+expr "(" 4 "*" 3 ")" "*" 2
+# output: 24
+```
+
+#### `bc` & `awk`
+```bash
+#! /bin/bash
+echo "3.8 + 4.2" | bc
+# output: 8.0
+
+echo "scale=5; 2/5" | bc
+# output: 0.40000
+
+bc <<< "scale=5; 2/5"
+# output: 0.40000 / call bc directly
+
+bc -l <<< "2/5"
+# output: .40000000000000000000 / 최대 소수점까지 뽑아보기
+
+awk "BEGIN {x=100/3; y=6; z=x*y; print z}"
+```
+
+### Input
+```bash
+#! /bin/bash
+
+read x
+# input: "hi hello"
+
+echo $x
+# output: hi hello
+
+read -p "Say hello: " x
+# Say hello:
+# input: I'm not hello
+
+echo $x
+# output: I'm not hello
+```
+
+### Redirection
+32:00 ~ : "외우라는 게 아니라 이해를 했으면 좋겠다!"
+- `cmd >&n` send **cmd** output to file descriptor **n**
+- `cmd <&n` take input for **cmd** from file descriptor **n**
+- `cmd >&-` close standard output
+- `cmd <&-` close standard input
+- `cmd 2> file` send standard error to **file**
+    - Standard output remains the same $\to$ 터미널에 출력될 듯
+- `cmd > file 2>&1`
+    stdout은 **file**에, stderr는 file descriptor **1**에. 근데 fd **1**=stdout이니까 
+    send both standard error and standard output to **file**
+- `(cmd > file1) 2> file2` : send standard output to **file1**, and standard error to **file2**
+- `cmd 3< file` : open **file** for reading on file descriptor 3
+
+### Here document, <<
+`read`는 한 줄만 입력을 받는데, 여러 줄을 받으려면?
+$\to$<font color="#0d73ff"> here document, <<</font>를 사용해서 <font color="#0d73ff">delimeter가 나올 때까지</font> 계속 입력 받는다
+```bash
+#! /bin/bash
+
+cat << EOF # EOF가 delimeter (구분자)
+> multi-line text
+> say something nothing anything
+> and suddenly meet EOF
+> EOF
+# output
+# multi-line-text
+# say something nothing anything
+# and suddenly meet EOF
+```
+
+```ad-question
+![[Pasted image 20241009162503.png|400]]
+중간에 만나더라도 잘 살아남는데,,?
+```
+
+### Built-in Commands
+Internal to the shell / faster & efficient than other cmds
+확인 방법
+: `type -a cmd` & `command -V cmd`
+$\to$ `cmd is a shell builtin`이면 built-in
+
+```ad-question
+external cmd면 shell이 *fork*해서 생긴 child proc.가 *exec*해서 cmd를 실행하고 그 결과를 parent proc.인 shell에게 return해주는데, 
+
+internal이면 이 과정이 생략된다는 뜻?
+```
+
+### Flow Control 
+condition 작성만 똑바로 어떻게 하는지 알고, 각각 문법만 알면 될 듯?
+나머지는 직접 연습해보면서 익히는 게 맞다.
+
+```ad-important
+6. 51:04 저는 command substitution이랑 process substitution이 굉장히 중요하다고 생각을 해서, 그 부분을 나중에도 주의 깊게 봐줬으면 좋겠구요.
+```
+
+#### condition 작성 방법
+1. `test EXPRESSION`
+2. `[  EXPRESSION ]`
+3. `[[ EXPRESSION ]]` $\to$ 얘만 &&, || 등 사용 가능. 얘를 default로 쓰라
+<font color="#0d73ff">괄호랑 EXPRESSION 사이 공백 필수</font>!
+
+![[Pasted image 20241009165610.png]]
+$\Rightarrow$ 숫자를 flag처럼 비교하고, string을 수학처럼 비교한다
+
+**!** : not / **&&** or **-o** : and / **||** or **-o** : or 
+$\Rightarrow$ 무조건 `[[ 여기 안에 써야 함 ]]`
+
+#### 1. if
+기본 양식
+```bash
+if cond1; then
+	action1
+# elif, else는 선택사항
+elif cond2; then
+	action2
+else
+	action3
+fi
+```
+
+e.g.
+```bash
+#! /bin/bash
+
+# condtion에 cmd substitution을 할 수 있다!
+if [[ `wc -l < "$1"` -gt 10 ]]; then
+	echo "The file has more than 10 lines in it."
+else
+	echo "The file is nonexistent or small"
+fi
+```
+
+#### 2. for
+기본 양식
+```bash
+for variable in argment-list
+do
+	action
+done
+```
+
+e.g.
+```bash
+#! /bin/bash
+
+# case 1: array로 받을 때
+params=(unix linux shell fun)
+
+for param in "${params[@]}" # @: array elem.을 각각 str 하나로
+do
+	echo $param
+done
+
+# case 2: string 통으로 받을 때
+params="unix linux shell fun"
+
+for param in $params # 알아서 공백 기준으로 짤라서 가져온다
+	echo $param
+```
+
+#### 3. while
+```bash
+while [[ EXPRESSION ]] # 이 true일 때 계속 실행
+do
+	action
+done
+```
+e.g.
+```bash
+#! /bin/bash
+
+cont="Y"
+while [[ $cont="Y" ]]
+do
+	ps -A
+	read -p "want to continue? (Y/N)" reply
+	# tr: translate pattern
+	# 여기서는 lower case를 upper case로 translate
+	cont=`echo $reply | tr [:lower:] [:upper:]`
+done
+
+echo "done"
+```
+`tr` 관련해서 pattern은 6. p.36에서 참고
+
+```bash
+#! /bin/bash
+
+# 이 두 while문이 같은 기능이다!
+while read line
+do
+	echo $line
+done < /etc/passwd | head
+
+
+cat /etc/passwd | head | while read line
+do
+	echo $line
+done
+```
+
+#### 4. until
+```bash
+while [[ EXPRESSION ]] # 이 false일 때 계속 실행
+do
+	action
+done
+```
+
+```ad-question
+6.Shell Programming2 p.40
+until [ ~~~ ]; 
+불필요한 자리에 ; 붙어도 문제 안 생기나?
+```
+#### 5. case
+```bash
+case str in
+	pattern1) # 괄호까지가 필수! 
+		action1
+		;;
+	pattern2)
+		action2
+		;;
+	patternN)
+		action3
+		;;
+esac
+```
+e.g.
+```bash
+#! /bin/bash
+
+read -p "Enter your name: " name
+
+case $name in
+	*[0-9]*)
+		echo "That doesn't seem like a name"
+		;;
+	A*|B*)
+		echo "your name starts with A or B, cool."
+		;;
+	*) # 약간 default
+		echo "You're not special."
+		;;
+esac
+```
+
+```ad-question
+default같은 애가 없으면 어카나?
+```
+#### 6. select
+*LIST*에서부터 simple menu를 만들어서 보여줘 (number: word list)
+고르면 그게 *WORD*에 들어가고 그걸로 command를 쓰면 됨
+(user가 입력한 input은 $REPLY에 저장)
+
+end of input (^d, ^c)할 때까지 계속 돌아
+
+```bash
+select WORD in LIST
+do
+	command
+done
+```
+
+e.g.
+```bash
+#! /bin/bash
+
+# 기본적으로 선택지 다 보여주고 이 문장이 출력됨. 
+# 따로 echo 안 해도 됨
+PS3="select entry or ^D: "
+
+select var in alpha Beta
+do
+	echo "$REPLY = $var"
+done
+```
+
+```bash
+#!/bin/bash
+
+echo "script to make files private" 
+echo "Select file to protect:" 
+
+# *: all file list
+select FILENAME in * 
+do 
+	echo "You picked $FILENAME ($REPLY)" 
+	chmod go-rwx "$FILENAME" 
+	echo "it is now private" 
+done
+```
+
+#### Shift
+parameter를 하나씩 pop시킨다
+```bash
+#! /bin/bash
+
+echo "There are" $# "parameters” 
+
+while [ $# -gt 0 ] 
+do 
+	echo -n "$1 " 
+	shift 
+done
+
+echo "" 
+echo "There are now" $# "parameters" 
+echo "end of script"
+```
+
+### File Testing
+file이 어떤 file인지 확인하는 방법
+자세한 설명은 
+6.shell programming2  p.49
+
+
+---
+---
 #### 4.6 Shell Functions, Signals, and Traps
 
 - **Shell Functions:** Group commands for reuse within a script.
