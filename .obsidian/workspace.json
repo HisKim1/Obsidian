@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3723f2c976fa4703",
+            "id": "8582e051e1ad674e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
+                "file": "Events/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md"
+                "file": "Events/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "Events/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "file": "Events/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,10 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd3d862a0a3e962b",
+  "active": "8582e051e1ad674e",
   "lastOpenFiles": [
-    "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
     "Events/Korea Carbon Project 국제 워크숍.md",
+    "Events/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
+    "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
+    "Papers/@L. Chen, et. al., 2024.md",
     "Events/Lessions learned from the AI revolution for climate modeling.md",
     "Events/AI for Climate-Environment Prediction and Modeling.md",
     "Events/Use of AI deep learning for climate forecasts.md",

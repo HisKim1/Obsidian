@@ -5,7 +5,7 @@ datetime: 2024-10-15
 - [[Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities]]
 - [[Use of AI deep learning for climate forecasts]]
 - [[AI for Climate-Environment Prediction and Modeling]]
-
+- [[Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution]]
 ---
 # Session 2  
 - [[Explainable AI for Climate Prediction, Projection and Discovery]]
