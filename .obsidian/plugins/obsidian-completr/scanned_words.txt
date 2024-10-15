@@ -9668,6 +9668,7 @@ material
 myvar
 meet
 model에
+messages
 서풍에
 서로
 서버의
@@ -12832,6 +12833,7 @@ JdxA
 Jan
 Jing
 JAX
+Jungho
 YY
 YlzK
 YRRR
@@ -16642,6 +16644,7 @@ Nvidia
 마라
 마무리하기
 마무리
+마지막장
 흔들림
 약해지면
 약해지거나
