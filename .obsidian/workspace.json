@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/AI for Climate-Environment Prediction and Modeling.md",
+                "file": "Events/Korea Carbon Project 국제 워크숍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3723f2c976fa4703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,22 +47,20 @@
             }
           },
           {
-            "id": "ed6b84b752047825",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "bd3d862a0a3e962b",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Papers/@L. Chen, et. al., 2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/AI for Climate-Environment Prediction and Modeling.md"
+                "file": "Papers/@L. Chen, et. al., 2024.md"
               }
             }
           },
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/AI for Climate-Environment Prediction and Modeling.md",
+                "file": "Papers/@L. Chen, et. al., 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/AI for Climate-Environment Prediction and Modeling.md",
+                "file": "Papers/@L. Chen, et. al., 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,13 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7983235f803f8607",
+  "active": "bd3d862a0a3e962b",
   "lastOpenFiles": [
+    "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
     "Events/Korea Carbon Project 국제 워크숍.md",
+    "Events/Lessions learned from the AI revolution for climate modeling.md",
     "Events/AI for Climate-Environment Prediction and Modeling.md",
     "Events/Use of AI deep learning for climate forecasts.md",
-    "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
-    "Events/Lessions learned from the AI revolution for climate modeling.md",
     "TODO/2024-10-15.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-10-14.md",
