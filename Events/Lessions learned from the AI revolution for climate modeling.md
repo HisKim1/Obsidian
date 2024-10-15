@@ -1,5 +1,5 @@
 ---
-presenter: Pierre Gentine
+presenter: Christoper Bretherton
 ---
 ### Weather vs Climate
 Weather랑 Climate가 어떻게 다른가. 

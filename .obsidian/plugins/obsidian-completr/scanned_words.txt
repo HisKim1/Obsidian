@@ -1455,6 +1455,7 @@ target이
 themselves
 tracing
 true일
+temp
 aliases
 against
 and
@@ -1835,6 +1836,7 @@ arguments
 accessed
 abc
 array로
+architectures
 cssclasses
 considered
 cell
@@ -2303,6 +2305,7 @@ cont
 continue
 case를
 case로
+climate에
 Tool
 Troposphere에서
 Thermal
@@ -2828,6 +2831,7 @@ Book
 Built
 Bash
 BEGIN
+Bretherton
 description
 driving
 dAJ
@@ -3215,6 +3219,7 @@ dadab
 dependency따라
 dependents
 delimeter
+dynamics처럼
 of
 ojjjii
 oJg
@@ -3476,6 +3481,7 @@ output으로
 obj나
 obj
 overflows
+ocean이
 Reasoning
 Resources
 Residual
@@ -4013,6 +4019,8 @@ Access
 Arithmetic
 Aligned
 Arguments
+Adapting
+ACE
 Link
 LOO
 LQWW
@@ -4262,6 +4270,7 @@ LINUX는
 Lab
 Leader
 Loops
+Luo
 relevant
 residual
 rK
@@ -4640,6 +4649,9 @@ received
 recursively
 return해주는데
 reply
+revolution
+reanalysis가
+rainfall까지
 blog
 break
 breaking에
@@ -5440,6 +5452,7 @@ parent
 params
 patternN
 pop시킨다
+porcessing
 here
 host
 haa
@@ -6313,6 +6326,7 @@ linux
 사용하면
 사항을
 사례들을
+사용했고
 기존
 기후에
 기후
@@ -7090,6 +7104,8 @@ Git은
 Graphcast의
 Gentine
 GCM
+Gird
+GPU로
 Cast
 Circulation
 Changes
@@ -7355,6 +7371,7 @@ Close
 Conditionals
 Creates
 Climate가
+Christoper
 Output
 OD
 OLL
@@ -8665,6 +8682,7 @@ internal이면
 좋습니다
 좋더라
 좋겠구요
+좋다더라
 않을까
 않음
 않는
@@ -8997,6 +9015,7 @@ Software
 Substitution
 Shift
 SOTA
+Session
 순환
 순환을
 순환의
@@ -9636,6 +9655,7 @@ modularity
 material
 myvar
 meet
+model에
 서풍에
 서로
 서버의
@@ -10494,6 +10514,7 @@ Pierre
 재조정
 재검토
 재실행
+재생산하는
 발생
 발생하는
 발달에
@@ -10759,6 +10780,8 @@ Floating
 Faster
 FME
 FME가
+Fluid
+Fuxi가
 초기
 초기화
 초타원체로
@@ -11128,6 +11151,7 @@ while문이
 제외한
 제어할
 제기
+제일
 IHDR
 IDATx
 IB
@@ -12791,6 +12815,7 @@ JTX
 JuM
 JdxA
 Jan
+Jing
 YY
 YlzK
 YRRR
@@ -13807,6 +13832,8 @@ else는
 electrical
 emulation
 extreme에는
+exchange
+emulator
 VAA
 VWWc
 VUU
@@ -14557,6 +14584,7 @@ DISPLAY
 Documents
 Displays
 Debugging
+Diverse
 vm
 vLL
 vX
@@ -15794,6 +15822,7 @@ Number
 하나와
 하도록
 하나씩
+하려고
 것보다
 것인가
 것이
@@ -16126,6 +16155,7 @@ Number
 진행상황
 진행하기도
 진부함
+진행됨
 저기압
 저장
 저장해둔
@@ -16244,6 +16274,7 @@ Number
 안회
 안에
 안의
+안에서
 권계면
 권한
 권한이
@@ -16277,6 +16308,7 @@ Number
 내의
 내어쓰기
 내부
+내꺼는
 직접
 직교
 직관적
@@ -16485,6 +16517,7 @@ Number
 그림치료
 그림을
 그래프들
+그걸
 잔류
 평균
 평가
@@ -16892,6 +16925,7 @@ Number
 빠르면
 빠르게
 빠르고
+빠르다
 느려도
 느낀
 벗어나
@@ -17074,6 +17108,7 @@ Number
 꽈당
 허허
 허걱
+허벌나게
 헉헉
 헐떡헐떡
 끙끙
@@ -17105,6 +17140,7 @@ Number
 습니다
 습니까
 즈음하여
+즈음부터
 힘이
 힘입어
 힘찬
@@ -17387,6 +17423,7 @@ Number
 쳏U
 묳XG
 놓치지
+놓침
 옮길
 옮겨
 뼎DQ
@@ -17457,3 +17494,5 @@ Number
 깊게
 괄호까지가
 굳이
+떴고
+죄다
