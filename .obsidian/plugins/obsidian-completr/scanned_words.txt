@@ -317,6 +317,7 @@ fun
 false일
 file이
 file인지
+fourier
 <<<<<<< HEAD
 =======
 >>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
@@ -571,6 +572,7 @@ nonlinearity
 names
 nothing
 nonexistent
+notable
 site
 status
 stratosphere에서
@@ -2315,6 +2317,7 @@ climate에
 cancelled
 compute
 convolution
+certain
 Tool
 Troposphere에서
 Thermal
@@ -8723,6 +8726,7 @@ init하기
 않는지
 않다
 않더라
+않았는지
 싶습니다
 싶은
 싶다면
@@ -16181,6 +16185,7 @@ Nvidia
 시스템에
 시제는
 시작할
+시도하진
 온도
 온위의
 온도가

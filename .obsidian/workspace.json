@@ -13,10 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-10-15.md",
-                "mode": "source",
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "046c772699718482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -64,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-10-15.md"
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md"
               }
             }
           },
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-10-15.md",
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-10-15.md",
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,20 +198,20 @@
   },
   "active": "5134841b38cac5a8",
   "lastOpenFiles": [
-    "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
+    "Events/2024 Korea Carbon Project/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
     "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
+    "Events/2024 Korea Carbon Project/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
+    "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
+    "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md",
+    "TODO/2024-10-15.md",
+    "Events/2024 Korea Carbon Project/Lessions learned from the AI revolution for climate modeling.md",
+    "Events/2024 Korea Carbon Project/AI for Climate-Environment Prediction and Modeling.md",
     "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md",
     "Events/2024 Korea Carbon Project/Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data.md",
-    "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md",
-    "Events/2024 Korea Carbon Project/AI for Climate-Environment Prediction and Modeling.md",
     "Events/2024 Korea Carbon Project",
     "Untitled.md",
     "How to apply Multiprocessing in my tasks.md",
-    "TODO/2024-10-15.md",
-    "Events/2024 Korea Carbon Project/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
-    "Events/2024 Korea Carbon Project/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
     "Papers/@L. Chen, et. al., 2024.md",
-    "Events/2024 Korea Carbon Project/Lessions learned from the AI revolution for climate modeling.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-10-14.md",
     "TODO/2024-10-11.md",
