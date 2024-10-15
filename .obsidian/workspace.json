@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Use of AI deep learning for climate forecasts.md",
+                "file": "Events/AI for Climate-Environment Prediction and Modeling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Use of AI deep learning for climate forecasts.md"
+                "file": "Events/AI for Climate-Environment Prediction and Modeling.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Use of AI deep learning for climate forecasts.md",
+                "file": "Events/AI for Climate-Environment Prediction and Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Use of AI deep learning for climate forecasts.md",
+                "file": "Events/AI for Climate-Environment Prediction and Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +215,9 @@
   "active": "7983235f803f8607",
   "lastOpenFiles": [
     "Events/Korea Carbon Project 국제 워크숍.md",
-    "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
+    "Events/AI for Climate-Environment Prediction and Modeling.md",
     "Events/Use of AI deep learning for climate forecasts.md",
+    "Events/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
     "Events/Lessions learned from the AI revolution for climate modeling.md",
     "TODO/2024-10-15.md",
     "conflict-files-obsidian-git.md",

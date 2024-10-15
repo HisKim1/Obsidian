@@ -2306,6 +2306,7 @@ continue
 case를
 case로
 climate에
+cancelled
 Tool
 Troposphere에서
 Thermal
