@@ -1456,6 +1456,9 @@ themselves
 tracing
 true일
 temp
+transfer
+tune
+trends
 aliases
 against
 and
@@ -1838,6 +1841,8 @@ abc
 array로
 architectures
 algorithms
+algorithm을
+analog
 cssclasses
 considered
 cell
@@ -2309,6 +2314,7 @@ case로
 climate에
 cancelled
 compute
+convolution
 Tool
 Troposphere에서
 Thermal
@@ -2836,6 +2842,7 @@ Built
 Bash
 BEGIN
 Bretherton
+Barnes
 description
 driving
 dAJ
@@ -3487,6 +3494,7 @@ obj나
 obj
 overflows
 ocean이
+operation
 Reasoning
 Resources
 Residual
@@ -4026,6 +4034,7 @@ Aligned
 Arguments
 Adapting
 ACE
+Assimilation
 Link
 LOO
 LQWW
@@ -5459,6 +5468,7 @@ params
 patternN
 pop시킨다
 porcessing
+propagate
 here
 host
 haa
@@ -5738,6 +5748,7 @@ having
 handle
 handler
 hello
+hitmap을
 작업
 작동
 작업해보았는데
@@ -7929,6 +7940,7 @@ EOF가
 EXPRESSION
 Enter
 Expectation
+Elizbeth
 Message
 Mean
 MJJ
@@ -8523,6 +8535,8 @@ inspect
 interrupts
 integer로
 internal이면
+internal
+init하기
 지난
 지표
 지속
@@ -8574,6 +8588,7 @@ internal이면
 보여줍니다
 보고서에
 보는
+보는지
 대로
 대기
 대신에
@@ -8644,6 +8659,7 @@ internal이면
 되었거나
 되었다
 되어
+되는
 모르겠습니다
 모르지만
 모르겟음
@@ -8694,6 +8710,7 @@ internal이면
 좋더라
 좋겠구요
 좋다더라
+좋은
 않을까
 않음
 않는
@@ -9120,6 +9137,7 @@ Seamless
 방향으로
 방식으로는
 방법을
+방문했다
 강제력이
 강화
 강화된
@@ -9669,6 +9687,7 @@ myvar
 meet
 model에
 messages
+model에서
 서풍에
 서로
 서버의
@@ -10515,6 +10534,7 @@ Point
 Provide
 Python에서
 Pierre
+Partial
 질량
 질서도
 질문하고
@@ -10568,6 +10588,7 @@ Pierre
 중인
 중간에
 중요하다고
+중요하게
 증가
 증폭
 증상
@@ -12584,6 +12605,7 @@ xdD
 xVz
 xxO
 xcu
+x년으로부터
 JKjj
 JJJP
 JL
@@ -15688,6 +15710,9 @@ Nvidia
 어떨
 어휘
 어셈블리
+어디가
+어디서
+어디를
 넣었단
 넣어야
 넣으면
@@ -16119,6 +16144,7 @@ Nvidia
 정의함
 정보
 정리해서
+정확하게
 시기
 시간
 시간을
@@ -16232,6 +16258,7 @@ Nvidia
 오픈옾는
 오피스아워
 오픈오픈
+오는
 분포
 분열
 분류하는
@@ -16370,6 +16397,7 @@ Nvidia
 한마디로
 한국현대시인론
 한다는
+한국에
 계속
 계산해줌
 계산해서
@@ -16448,6 +16476,7 @@ Nvidia
 데이터셋에서
 데이터를
 데에
+데까지
 크게
 크다
 크핏
@@ -16505,6 +16534,7 @@ Nvidia
 함수에
 함부로
 함께하는
+함유근
 그냥
 그룹으로
 그런
@@ -16557,6 +16587,7 @@ Nvidia
 남발하지는
 남음
 남은
+남았는가
 나타냅니다
 나라가
 나타내는
@@ -16835,6 +16866,7 @@ Nvidia
 점검
 찍어
 찍으러
+찍어서
 면이
 면모를
 면담면담
@@ -16852,6 +16884,7 @@ Nvidia
 언어의
 언어는
 언어로
+언제
 뛰어넘고
 뛰어난
 김영하의
@@ -17222,6 +17255,7 @@ Nvidia
 뽑기
 뽑고
 뽑아보기
+뽑아내서
 판단
 판구가
 판구
@@ -17486,6 +17520,8 @@ Nvidia
 멤버
 행동
 끌어낼
+끌고
+끌어올리지는
 훑어보기
 낭비하지
 쏟다
