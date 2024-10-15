@@ -1837,6 +1837,7 @@ accessed
 abc
 array로
 architectures
+algorithms
 cssclasses
 considered
 cell
@@ -2307,6 +2308,7 @@ case를
 case로
 climate에
 cancelled
+compute
 Tool
 Troposphere에서
 Thermal
@@ -2591,6 +2593,7 @@ Traps
 Treats
 Turn
 Testing
+Towards
 Brief
 Bfloat
 Balance
@@ -3221,6 +3224,7 @@ dependency따라
 dependents
 delimeter
 dynamics처럼
+datasets
 of
 ojjjii
 oJg
@@ -4272,6 +4276,7 @@ Lab
 Leader
 Loops
 Luo
+Lessons
 relevant
 residual
 rK
@@ -7374,6 +7379,8 @@ Creates
 Climate가
 Christoper
 Christopher
+CV에서는
+ClimSim
 Output
 OD
 OLL
@@ -8178,6 +8185,8 @@ Makefile
 Macros
 Make는
 Messori
+Modern
+Massive
 in
 iii
 iYp
@@ -9018,6 +9027,7 @@ Substitution
 Shift
 SOTA
 Session
+Seamless
 순환
 순환을
 순환의
@@ -10198,6 +10208,7 @@ HOME
 Here
 Hybrid
 Hybrid가
+Harnessing
 즉시
 Pressure
 PNG
@@ -11127,6 +11138,7 @@ while문이
 연락해서
 연기
 연대순
+연습해봐야
 통찰
 통화
 통해
@@ -11460,6 +11472,7 @@ Integer
 Internal
 Iterates
 Inode
+ImageNet
 yb
 yyyvvv
 yzz
@@ -12818,6 +12831,7 @@ JuM
 JdxA
 Jan
 Jing
+JAX
 YY
 YlzK
 YRRR
@@ -15531,6 +15545,7 @@ NWP처럼
 NeuIPS
 NAME
 Number
+Nvidia
 쉄f
 믿vuum
 믿J
@@ -16393,6 +16408,7 @@ Number
 우선순위
 우리는
 우선시
+우리한텐
 갖고
 갖기보다는
 갖음
