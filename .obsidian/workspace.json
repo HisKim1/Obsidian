@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
+                "file": "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md"
+                "file": "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
+                "file": "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
+                "file": "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +186,7 @@
   "active": "5134841b38cac5a8",
   "lastOpenFiles": [
     "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
+    "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md",
     "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
     "Events/2024 Korea Carbon Project/Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data.md",
     "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md",
