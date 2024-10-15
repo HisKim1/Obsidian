@@ -27,6 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "TODO/Korea Carbon Project 국제 워크숍.md",
+                "file": "Test/GraphCast Butterfly Effect Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,10 +45,19 @@
                 "backlinks": true,
                 "source": false
               }
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2024-10-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
         "currentTab": 2
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,6 +142,7 @@
               "type": "backlink",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
+                "file": "TODO/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +160,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
+                "file": "TODO/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +199,18 @@
           }
         ],
         "currentTab": 3
+          },
+          {
+            "id": "249424f38809564e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO/2024-10-14.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,19 +234,16 @@
     }
   },
   "active": "fe626d4bef93ac19",
+  "active": "f6587fbfd676adaf",
   "lastOpenFiles": [
-    "TODO/Korea Carbon Project 국제 워크숍.md",
-    "conflict-files-obsidian-git.md",
-    "TODO/2024-10-15.md",
-    "시프 날로 A+ 먹어버리기.md",
-    "File/Pasted image 20241009165610.png",
-    "File/Pasted image 20241009162503.png",
-    "File/Pasted image 20241009162402.png",
-    "File/Pasted image 20241009103800.png",
-    "TODO/2024-10-09.md",
-    "().md",
-    "TODO/2024-10-08.md",
     "Test/GraphCast Butterfly Effect Test.md",
+    "TODO/2024-10-14.md",
+    "TODO/2024-10-11.md",
+    "TODO/2024-10-10.md",
+    "File/2m_temperature_forecast_east asia mean_0.001to5_2021-06-21.png",
+    "File/2m_temperature_forecast_global mean_0.001to5_2021-06-21.png",
+    "TODO/2024-10-08.md",
+    "TODO/2024-10-09.md",
     "Test/GraphCast Perturbation Canvas.canvas",
     "Untitled.md",
     "TODO/2024-10-07.md",

@@ -1829,11 +1829,7 @@ acbc
 aea
 abb
 abd
-avoid
-arguments
-accessed
-abc
-array로
+asia
 cssclasses
 considered
 cell
@@ -4011,7 +4007,7 @@ Arrays
 Access
 Arithmetic
 Aligned
-Arguments
+Asia
 Link
 LOO
 LQWW
@@ -7889,13 +7885,7 @@ Environment
 Encoder로
 Encoder의
 Exploring
-EDITOR
-Exit
-Executes
-EOF
-EOF가
-EXPRESSION
-Enter
+East
 Message
 Mean
 MJJ
@@ -8520,6 +8510,7 @@ internal이면
 지원합니다
 지역에
 지역별로
+지역에만
 보내주신
 보통
 보임
@@ -15862,6 +15853,7 @@ Number
 자연수로
 자동화합니다
 자료에서
+자료
 화려한
 화면
 수식
