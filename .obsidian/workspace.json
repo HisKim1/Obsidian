@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7db555b423327c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2024-10-15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7983235f803f8607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Korea Carbon Project 국제 워크숍.md",
-                "file": "Test/GraphCast Butterfly Effect Test.md",
+                "file": "TODO/Lessions learned from the AI revolution for climate modeling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,29 +21,14 @@
             }
           },
           {
-            "id": "fe626d4bef93ac19",
+            "id": "bd3d862a0a3e962b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2024-10-14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "TODO/Lessions learned from the AI revolution for climate modeling.md"
               }
             }
           },
@@ -125,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d4960c7ae15e641",
@@ -141,8 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "file": "TODO/2024-10-14.md",
+                "file": "TODO/Lessions learned from the AI revolution for climate modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "file": "TODO/2024-10-14.md",
+                "file": "TODO/Lessions learned from the AI revolution for climate modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,18 +169,6 @@
           }
         ],
         "currentTab": 3
-          },
-          {
-            "id": "249424f38809564e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "TODO/2024-10-14.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -233,17 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe626d4bef93ac19",
-  "active": "f6587fbfd676adaf",
+  "active": "7983235f803f8607",
   "lastOpenFiles": [
-    "Test/GraphCast Butterfly Effect Test.md",
+    "TODO/Lessions learned from the AI revolution for climate modeling.md",
+    "TODO/Korea Carbon Project 국제 워크숍.md",
+    "TODO/2024-10-15.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-10-14.md",
     "TODO/2024-10-11.md",
     "TODO/2024-10-10.md",
-    "File/2m_temperature_forecast_east asia mean_0.001to5_2021-06-21.png",
     "File/2m_temperature_forecast_global mean_0.001to5_2021-06-21.png",
-    "TODO/2024-10-08.md",
+    "File/2m_temperature_forecast_east asia mean_0.001to5_2021-06-21.png",
+    "시프 날로 A+ 먹어버리기.md",
+    "File/Pasted image 20241009165610.png",
+    "File/Pasted image 20241009162503.png",
+    "File/Pasted image 20241009162402.png",
+    "File/Pasted image 20241009103800.png",
     "TODO/2024-10-09.md",
+    "().md",
+    "TODO/2024-10-08.md",
+    "Test/GraphCast Butterfly Effect Test.md",
     "Test/GraphCast Perturbation Canvas.canvas",
     "Untitled.md",
     "TODO/2024-10-07.md",
