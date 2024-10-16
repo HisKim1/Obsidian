@@ -1,12 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-14",
-      "path": "TODO/2024-10-14.md"
+      "basename": "Code",
+      "path": "GraphCast/Coding/Code.md"
+    },
+    {
+      "basename": "Conda Env",
+      "path": "GraphCast/Coding/Conda Env.md"
+    },
+    {
+      "basename": "data_utils.py",
+      "path": "GraphCast/Coding/data_utils.py.md"
+    },
+    {
+      "basename": "Mesh2Grid Edge",
+      "path": "GraphCast/GC graph/Mesh2Grid Edge.md"
+    },
+    {
+      "basename": "Mesh Node",
+      "path": "GraphCast/GC graph/Mesh Node.md"
+    },
+    {
+      "basename": "Mesh Edge",
+      "path": "GraphCast/GC graph/Mesh Edge.md"
+    },
+    {
+      "basename": "Grid2Mesh Edge",
+      "path": "GraphCast/GC graph/Grid2Mesh Edge.md"
+    },
+    {
+      "basename": "Grid Node",
+      "path": "GraphCast/GC graph/Grid Node.md"
+    },
+    {
+      "basename": "GraphCast's Graph",
+      "path": "GraphCast/GC graph/GraphCast's Graph.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "Multi-mesh",
+      "path": "GraphCast/structure/Multi-mesh.md"
+    },
+    {
+      "basename": "Message-passing GNN",
+      "path": "GraphCast/structure/Message-passing GNN.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "GraphCast/structure/Encoder.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "GraphCast GFS by NOAA",
+      "path": "GraphCast/Task/GraphCast GFS by NOAA.md"
+    },
+    {
+      "basename": "Pasted image 20240708164348",
+      "path": "GraphCast/Task/Pasted image 20240708164348.png"
+    },
+    {
+      "basename": "Prediction Challenge",
+      "path": "GraphCast/Task/Prediction Challenge.md"
+    },
+    {
+      "basename": "reflection of planetary wave",
+      "path": "GraphCast/Task/reflection of planetary wave.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "GraphCast/Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "GraphCast/Task/Rossby Waves.md"
+    },
+    {
+      "basename": "Transformed Eulerian Mean (TEM) Momentum Equation",
+      "path": "GraphCast/Task/Transformed Eulerian Mean (TEM) Momentum Equation.md"
     },
     {
       "basename": "GraphCast Butterfly Effect Test",
       "path": "Test/GraphCast Butterfly Effect Test.md"
+    },
+    {
+      "basename": "2024-10-14",
+      "path": "TODO/2024-10-14.md"
     },
     {
       "basename": "2024-10-11",
@@ -83,10 +179,6 @@
     {
       "basename": "시프 날로 A+ 먹어버리기",
       "path": "시프 날로 A+ 먹어버리기.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
     },
     {
       "basename": "Pasted Image 20241006145938_675",
