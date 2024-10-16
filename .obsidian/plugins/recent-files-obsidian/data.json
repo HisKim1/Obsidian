@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "GraphCast Butterfly Effect Test",
+      "path": "Test/GraphCast Butterfly Effect Test.md"
+    },
+    {
       "basename": "2024-10-16",
       "path": "TODO/2024-10-16.md"
     },
     {
-      "basename": "GraphCast Butterfly Effect Test",
-      "path": "Test/GraphCast Butterfly Effect Test.md"
+      "basename": "GPU Info",
+      "path": "GraphCast/Coding/GPU Info.md"
+    },
+    {
+      "basename": "data_utils.py",
+      "path": "GraphCast/Coding/data_utils.py.md"
+    },
+    {
+      "basename": "Server Info",
+      "path": "GraphCast/Coding/Server Info.md"
+    },
+    {
+      "basename": "Conda Env",
+      "path": "GraphCast/Coding/Conda Env.md"
     },
     {
       "basename": "2024-10-14",
@@ -39,14 +55,6 @@
     {
       "basename": "Code",
       "path": "GraphCast/Coding/Code.md"
-    },
-    {
-      "basename": "Conda Env",
-      "path": "GraphCast/Coding/Conda Env.md"
-    },
-    {
-      "basename": "data_utils.py",
-      "path": "GraphCast/Coding/data_utils.py.md"
     },
     {
       "basename": "Mesh2Grid Edge",
@@ -191,14 +199,6 @@
     {
       "basename": "@L. Olivetti, G.Messori, 2024",
       "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
-    },
-    {
-      "basename": "@P. Watson, 2024",
-      "path": "Papers/@P. Watson, 2024.md"
-    },
-    {
-      "basename": "WMO model 500hPa 평가 기준",
-      "path": "TODO/WMO model 500hPa 평가 기준.md"
     }
   ],
   "omittedPaths": []
