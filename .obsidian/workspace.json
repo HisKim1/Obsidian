@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphCast/Coding/Code.md",
-                "mode": "preview",
+                "file": "TODO/2024-10-16.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphCast/Coding/Code.md",
+                "file": "TODO/2024-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphCast/Coding/Code.md",
+                "file": "TODO/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphCast/Coding/Code.md"
+                "file": "TODO/2024-10-16.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "162db6cc9e4ef633",
   "lastOpenFiles": [
+    "GraphCast/Coding/Code.md",
+    "TODO/2024-10-16.md",
     "GraphCast/Coding/Conda Env.md",
     "GraphCast/Coding/data_utils.py.md",
     "GraphCast/GC graph/Mesh2Grid Edge.md",
@@ -234,8 +236,6 @@
     "GraphCast/Task/Transformed Eulerian Mean (TEM) Momentum Equation.md",
     "Test/GraphCast Butterfly Effect Test.md",
     "TODO/2024-10-14.md",
-    "TODO/2024-10-11.md",
-    "TODO/2024-10-10.md",
     "File/2m_temperature_forecast_east asia mean_0.001to5_2021-06-21.png",
     "File/2m_temperature_forecast_global mean_0.001to5_2021-06-21.png",
     "Test/GraphCast Perturbation Canvas.canvas"
