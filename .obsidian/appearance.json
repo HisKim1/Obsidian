@@ -3,8 +3,9 @@
   "textFontFamily": "Pretendard",
   "interfaceFontFamily": "Pretendard",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "cssTheme": "GitHub Theme",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "nativeMenus": false
 }

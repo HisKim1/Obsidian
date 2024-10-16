@@ -8,26 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1f04d3e9d13a3be",
+            "id": "5134841b38cac5a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/GraphCast Butterfly Effect Test.md",
-                "mode": "source",
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "f6587fbfd676adaf",
+            "id": "046c772699718482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-10-14.md",
-                "mode": "source",
+                "file": "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -48,6 +48,7 @@
           }
         ],
         "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,10 +87,20 @@
             }
           },
           {
-            "id": "14f225bf1e299899",
+            "id": "249424f38809564e",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "outline",
+              "state": {
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md"
+              }
+            }
+          },
+          {
+            "id": "019b689f974222cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           },
@@ -106,6 +117,8 @@
     ],
     "direction": "horizontal",
     "width": 300
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d4960c7ae15e641",
@@ -116,20 +129,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "019b689f974222cc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "f19680cf4dfd5c58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "TODO/2024-10-16.md",
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +153,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "TODO/2024-10-16.md",
+                "file": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +168,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "14f225bf1e299899",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           },
           {
@@ -186,6 +201,9 @@
             }
           }
         ]
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,40 +222,47 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "162db6cc9e4ef633",
+  "active": "5134841b38cac5a8",
   "lastOpenFiles": [
-    "GraphCast/Coding/Code.md",
-    "TODO/2024-10-16.md",
-    "GraphCast/Coding/Conda Env.md",
-    "GraphCast/Coding/data_utils.py.md",
-    "GraphCast/GC graph/Mesh2Grid Edge.md",
-    "GraphCast/GC graph/Mesh Node.md",
-    "GraphCast/GC graph/Mesh Edge.md",
-    "GraphCast/GC graph/Grid2Mesh Edge.md",
-    "GraphCast/GC graph/Grid Node.md",
-    "GraphCast/GC graph/GraphCast's Graph.md",
-    "GraphCast/structure/Processor.md",
-    "GraphCast/structure/Multi-mesh.md",
-    "GraphCast/structure/Message-passing GNN.md",
-    "GraphCast/structure/Encoder.md",
-    "GraphCast/structure/GraphCast Model.md",
-    "GraphCast/Task/Task.md",
-    "GraphCast/Task/Sudden Stratospheric Warming.md",
-    "GraphCast/Task/Input Data 다운.md",
-    "GraphCast/Task/GraphCast GFS by NOAA.md",
-    "GraphCast/Task/Pasted image 20240708164348.png",
-    "GraphCast/Task/Prediction Challenge.md",
-    "GraphCast/Task/reflection of planetary wave.md",
-    "GraphCast/Task/Residual Mean Circulation.md",
-    "GraphCast/Task/Rossby Waves.md",
-    "GraphCast/Task/Transformed Eulerian Mean (TEM) Momentum Equation.md",
-    "Test/GraphCast Butterfly Effect Test.md",
+    "Events/2024 Korea Carbon Project/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md",
+    "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md",
+    "Events/2024 Korea Carbon Project/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md",
+    "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md",
+    "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md",
+    "TODO/2024-10-15.md",
+    "Events/2024 Korea Carbon Project/Lessions learned from the AI revolution for climate modeling.md",
+    "Events/2024 Korea Carbon Project/AI for Climate-Environment Prediction and Modeling.md",
+    "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md",
+    "Events/2024 Korea Carbon Project/Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data.md",
+    "Events/2024 Korea Carbon Project",
+    "Untitled.md",
+    "How to apply Multiprocessing in my tasks.md",
+    "Papers/@L. Chen, et. al., 2024.md",
+    "conflict-files-obsidian-git.md",
     "TODO/2024-10-14.md",
+    "TODO/2024-10-11.md",
+    "TODO/2024-10-10.md",
+    "File/2m_temperature_forecast_global mean_0.001to5_2021-06-21.png",
     "File/2m_temperature_forecast_east asia mean_0.001to5_2021-06-21.png",
     "File/2m_temperature_forecast_global mean_0.001to5_2021-06-21.png",
     "Test/GraphCast Perturbation Canvas.canvas"
+    "시프 날로 A+ 먹어버리기.md",
+    "File/Pasted image 20241009165610.png",
+    "File/Pasted image 20241009162503.png",
+    "File/Pasted image 20241009162402.png",
+    "File/Pasted image 20241009103800.png",
+    "TODO/2024-10-09.md",
+    "().md",
+    "TODO/2024-10-08.md",
+    "Test/GraphCast Butterfly Effect Test.md",
+    "Test/GraphCast Perturbation Canvas.canvas",
+    "TODO/2024-10-07.md",
+    "File/시프 날로 A+ 먹어버리기 2024-10-06 14.59.23.excalidraw.md",
+    "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
   ]
 }
