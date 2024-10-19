@@ -1006,6 +1006,47 @@ redirection_out
 ```
 
 ### Process Substitution
+기존에 하던 redirection이랑 유사함.
+process의 input/output을 file처럼 처리할 수 있도록 해주는
+-  `<(list)`: Input from a process.
+- `>(list)`: Output to a process.
+
+c.f. cmd substitution, \` \` or `$()`, 어떤 value로 다른 cmd에 사용되게
+
+e.g.
+```bash
+#! /bin/bash
+function redirection_in_ps()
+{
+	wihle read -a input
+	do
+		echo "${input[2]} ${input[8]}"
+	done
+# ls 결과가 file로 저장된 후 그 file이 func. input으로 redirection 
+}< <(ls -l /bin)
+
+redirection_in_ps
+```
+
+### Recursion
+가능은 한데, 하지 마라.
+`FUNCNEST`: func. call stack 가능 depth 개수
+
+### Handling Signals
+`kill -signal pid`
+no arg: terminate
+`-1`: hangup
+`-2`: interrupt with `^c`
+`-9`: kill (`trap`으로 block할 수 없으셈)
+`kill -l`하면 어떤 시그널 있는지 볼 수 있음
+
+### trap; handling signal
+대부분의 signal들은 terminate가 default
+custom signal handler를 위한 `trap`
+`trap 'cmd' signal_number`
+
+e.g.
+`trap `
 
 
 - **Signals:** Software interrupts sent to a process.
@@ -1013,13 +1054,6 @@ redirection_out
 - **Traps:** Used to catch and handle signals.
     - `trap 'commands' signals`: Executes `commands` when `signals` are received.
     - `trap '' signal`: Resets the handler for `signal` to its default.
-
-#### 4.7 Process Substitution
-
-- **Process Substitution:** Treats the input or output of a process as a file.
-    - `<(list)`: Input from a process.
-    - `>(list)`: Output to a process.
-- **Example:** `diff <(ls /bin) <(ls /usr/bin)` compares the output of two `ls` commands.
 
 #### 4.8 Recursion and Debugging
 
