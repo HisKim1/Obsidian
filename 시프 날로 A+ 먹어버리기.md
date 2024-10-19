@@ -977,7 +977,8 @@ echo $inside # 출력 없음
 ##### Function Return
 - 0 ~ 255 값만 사용 가능
 - `$?`;가장 최근 사용한 cmd로 함수 실행 후 return 값 접근 가능
-- 함수에서 return값 지정 안 했으면 
+- 함수에서 return값 지정 안 했으면 bash가 마지막 func의 exit status를 알아서 받아와
+    다양하게 쓰고 싶으면 stdout이나 global var 써라.
 
 - **Signals:** Software interrupts sent to a process.
     - `kill -signal pid`: Sends a signal to a process.
