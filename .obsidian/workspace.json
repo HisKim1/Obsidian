@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "시프 날로 A+ 먹어버리기.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -215,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "249424f38809564e",
+  "active": "7ebd41471060f56d",
   "lastOpenFiles": [
     "Untitled.md",
     "Test/GraphCast Butterfly Effect Test.md",

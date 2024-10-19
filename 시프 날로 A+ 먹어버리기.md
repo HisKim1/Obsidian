@@ -892,10 +892,21 @@ file이 어떤 file인지 확인하는 방법
 자세한 설명은 
 6.shell programming2  p.49
 
+### Shell Function
+- mem에 저장되어 func을 부르는 shell과 같은 shell에서 실행됨
+- .bashrc / script / cmd line에서 정의 가능
 
----
----
-#### 4.6 Shell Functions, Signals, and Traps
+```bash
+ function function_name {
+     commands
+ }
+ 
+ # or
+ 
+ function_name() {
+     commands
+ }
+```
 
 - **Shell Functions:** Group commands for reuse within a script.
     
