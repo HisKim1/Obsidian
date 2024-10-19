@@ -1044,26 +1044,17 @@ no arg: terminate
 대부분의 signal들은 terminate가 default
 custom signal handler를 위한 `trap`
 `trap 'cmd' signal_number`
+default로 되돌리고 싶을 땐 `trap signal_number`
 
 e.g.
-`trap `
+`trap 'echo dont hang up' 1`: `kill -1` 받으면 echo나 해라
 
-
-- **Signals:** Software interrupts sent to a process.
-    - `kill -signal pid`: Sends a signal to a process.
-- **Traps:** Used to catch and handle signals.
-    - `trap 'commands' signals`: Executes `commands` when `signals` are received.
-    - `trap '' signal`: Resets the handler for `signal` to its default.
-
-#### 4.8 Recursion and Debugging
-
-- **Recursion:** Bash functions can call themselves recursively.
-    - Can lead to stack overflows if not used carefully.
-- **Debugging Shell Scripts:**
-    - `echo`: Print values for debugging.
-    - `set -x`: Print commands as they are executed.
-    - `set -v`: Print shell input lines as they are read.
-    - `set +x`: Turn off tracing.
-    - `set +v`: Turn off verbose mode.
-
-Please note that this response is based solely on the provided source material and does not include information about Real UID, effective UID, Inode components, `stat`, `lstat`, `fstat`, `fstatat` differences, kernel mode vs. user mode, or the `link`, `symlink`, and `rename` commands. You may want to consult external resources or your course materials for information on those topics.
+### Debuging Shell
+- `echo`: Print values for debugging.
+- `set -x`: Print commands as they are executed.
+    어떻게 실행되었는지 확인할 때 하면 좋은
+- `set -v`: Print shell input lines as they are read.
+    읽은 문장 다음 출력 나오게
+- `set +x`: Turn off tracing.
+- `set +v`: Turn off verbose mode.
+원하면 첫 줄에 써도 됨; `#! /bin/bash -xv`
