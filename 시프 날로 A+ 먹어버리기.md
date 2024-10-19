@@ -897,36 +897,84 @@ file이 어떤 file인지 확인하는 방법
 - .bashrc / script / cmd line에서 정의 가능
 
 ```bash
- function function_name {
-     commands
- }
+function function_name {
+    commands
+}
  
- # or
- 
- function_name() {
-     commands
- }
+# or
+
+function_name() {
+    commands
+}
+
+# 함수 부를 때는 그냥 이름만
+function_name 
+
+# argment는 그냥 뒤에 이어 붙여주면 됨
+function_name arg1 arg2
+
+# 함수 없애고 싶을 땐
+unset -f function_name
 ```
 
-- **Shell Functions:** Group commands for reuse within a script.
-    
-    ```
-    function function_name {
-        commands
-    }
-    # or
-    function_name() {
-        commands
-    }
-    ```
-    
-    - Can be defined in `.bashrc`, within the script, or on the command line.
-    - Provide modularity, reusability, and improve readability.
-    - Faster than separate scripts.
-    - Removed using `unset -f function_name`.
-    - Arguments are accessed like positional parameters (`$1`, `$2`, ...).
-    - Return values using `return n` (exit status) or by printing to stdout.
-    - **Local Variables:** Use the `local` keyword to limit a variable's scope to the function.
+##### Function parameter
+(함수 종료시 script의 `$~~` 값에는 영향 X)
+`$1` ~ : function call에서 제공된 argments들
+`$0`: script name (func. name 아님주의)
+`$@` or `$*`: all params
+`$#`: params 개수
+`#?`: 가장 최근 사용한 cmd
+`$$`: 현재 pid
+
+e.g.
+```bash
+#! /bin/bash
+
+checkfile()
+{
+	# 함수 안에서 positional param 하나씩 받을 때는 생략 가능
+	for file # in $@
+		if [ -f "$file" ]; then
+			echo "$file is a file"
+		fi
+		elif [ -d "$file$" ]; then
+			echo "$file is a directory"
+		if
+	done	
+}
+
+checkfile .
+```
+
+### Variable Scope
+1. global var.
+     상속받은 하위 shell도 사용 가능
+2. local var.
+     내 shell에서, 어디서든 사용 가능
+3. local var in funciton
+     function 안에서만 사용 가능
+     `local varname=hello`
+e.g.
+```bash
+#!/bin/bash
+
+global="This is global!"
+
+function foo()
+{
+	local inside="I'm inside"
+	echo $global
+	echo $inside
+	global="This is global in function"
+}
+
+echo $global # This is global
+foo
+echo $global # This is global in function
+echo $inside # 출력 없음
+```
+
+
 - **Signals:** Software interrupts sent to a process.
     - `kill -signal pid`: Sends a signal to a process.
 - **Traps:** Used to catch and handle signals.

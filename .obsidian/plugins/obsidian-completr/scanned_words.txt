@@ -322,6 +322,8 @@ fun
 false일
 file이
 file인지
+func을
+funciton
 <<<<<<< HEAD
 =======
 >>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
@@ -1114,6 +1116,10 @@ stdout
 scope
 sent
 solely
+shell과
+shell에서
+script의
+shell도
 topic
 tags
 templete
@@ -1851,6 +1857,7 @@ avoid
 abc
 array로
 accessed
+argments들
 cssclasses
 considered
 cell
@@ -2324,6 +2331,7 @@ case를
 case로
 catch
 carefully
+call에서
 Tool
 Troposphere에서
 Thermal
@@ -5822,6 +5830,7 @@ handler
 상태
 상위
 상공에서
+상속받은
 코드를
 코드와
 코리올리
@@ -6133,6 +6142,7 @@ language로
 let으로
 lines
 linux
+line에서
 버전
 버전으로
 이상이
@@ -8691,6 +8701,7 @@ interrupts
 최종적으로
 최적화
 최대
+최근
 좋지
 좋을
 좋고
@@ -8738,6 +8749,7 @@ interrupts
 개별적으로
 개선도
 개발자의
+개수
 Stratospheric
 Surface
 SU
@@ -9033,6 +9045,7 @@ Seamless
 Shift
 Software
 Substitution
+Scope
 순환
 순환을
 순환의
@@ -9683,6 +9696,7 @@ myvar
 meet
 modularity
 material
+mem에
 서풍에
 서로
 서버의
@@ -10806,6 +10820,7 @@ Format
 Forecasting을
 Formula
 Faster
+Function
 초기
 초기화
 초타원체로
@@ -11178,6 +11193,7 @@ while문이
 제트기류의
 제트
 제트와
+제공된
 IHDR
 IDATx
 IB
@@ -15688,6 +15704,7 @@ NAME
 어디가
 어디서
 어디를
+어디서든
 넣었단
 넣어야
 넣으면
@@ -15843,6 +15860,7 @@ NAME
 하강
 하도록
 하나씩
+하위
 것보다
 것인가
 것이
@@ -16023,6 +16041,7 @@ NAME
 아워
 아래
 아는가
+아님주의
 거야
 거니와
 거바
@@ -16299,6 +16318,7 @@ NAME
 안회
 안에
 안의
+안에서만
 권계면
 권한
 권한이
@@ -16914,6 +16934,7 @@ NAME
 범위는
 값을
 값이
+값에는
 잡으면
 잡을
 잡아서
@@ -17203,6 +17224,7 @@ NAME
 종속된
 종합적인
 종료
+종료시
 총적으로
 탕탕
 쾅쾅
