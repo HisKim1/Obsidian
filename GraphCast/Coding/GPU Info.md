@@ -144,5 +144,4 @@ An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not i
    
 2. ~~cudnn 버전 조절~~
 
-3. CUDA version 업그레이드 10일 오전 10시 예정
-   #WorkingOn 
+3. CUDA version 업그레이드 10일 오전 10시

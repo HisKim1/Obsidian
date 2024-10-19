@@ -1,68 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-19",
-      "path": "TODO/2024-10-19.md"
+      "basename": "GraphCast Butterfly Effect Test",
+      "path": "Test/GraphCast Butterfly Effect Test.md"
     },
     {
-      "basename": "Explainable AI for Climate Prediction, Projection and Discovery",
-      "path": "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md"
+      "basename": "2024-10-16",
+      "path": "TODO/2024-10-16.md"
     },
     {
-      "basename": "Korea Carbon Project 국제 워크숍",
-      "path": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md"
+      "basename": "GPU Info",
+      "path": "GraphCast/Coding/GPU Info.md"
     },
     {
-      "basename": "Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution",
-      "path": "Events/2024 Korea Carbon Project/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md"
+      "basename": "data_utils.py",
+      "path": "GraphCast/Coding/data_utils.py.md"
     },
     {
-      "basename": "Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities",
-      "path": "Events/2024 Korea Carbon Project/Thre AI2 Climate Emulator (ACE) Capabilities, Challenges, and Opportunities.md"
+      "basename": "Server Info",
+      "path": "GraphCast/Coding/Server Info.md"
     },
     {
-      "basename": "Use of AI deep learning for climate forecasts",
-      "path": "Events/2024 Korea Carbon Project/Use of AI deep learning for climate forecasts.md"
-    },
-    {
-      "basename": "2024-10-15",
-      "path": "TODO/2024-10-15.md"
-    },
-    {
-      "basename": "Lessions learned from the AI revolution for climate modeling",
-      "path": "Events/2024 Korea Carbon Project/Lessions learned from the AI revolution for climate modeling.md"
-    },
-    {
-      "basename": "AI for Climate-Environment Prediction and Modeling",
-      "path": "Events/2024 Korea Carbon Project/AI for Climate-Environment Prediction and Modeling.md"
-    },
-    {
-      "basename": "Deep learning for Climate Change Detection and Monitoring",
-      "path": "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md"
-    },
-    {
-      "basename": "Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data",
-      "path": "Events/2024 Korea Carbon Project/Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "How to apply Multiprocessing in my tasks",
-      "path": "How to apply Multiprocessing in my tasks.md"
-    },
-    {
-      "basename": "@L. Chen, et. al., 2024",
-      "path": "Papers/@L. Chen, et. al., 2024.md"
+      "basename": "Conda Env",
+      "path": "GraphCast/Coding/Conda Env.md"
     },
     {
       "basename": "2024-10-14",
       "path": "TODO/2024-10-14.md"
     },
     {
-      "basename": "GraphCast Butterfly Effect Test",
-      "path": "Test/GraphCast Butterfly Effect Test.md"
+      "basename": "Explainable AI for Climate Prediction, Projection and Discovery",
+      "path": "Events/2024 Korea Carbon Project/Explainable AI for Climate Prediction, Projection and Discovery.md"
+    },
+    {
+      "basename": "Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution",
+      "path": "Events/2024 Korea Carbon Project/Future(s) of Computational Science and Climate Simulations_Learing from the AI revolution.md"
+    },
+    {
+      "basename": "Korea Carbon Project 국제 워크숍",
+      "path": "Events/2024 Korea Carbon Project/Korea Carbon Project 국제 워크숍.md"
+    },
+    {
+      "basename": "AI for Climate-Environment Prediction and Modeling",
+      "path": "Events/2024 Korea Carbon Project/AI for Climate-Environment Prediction and Modeling.md"
+    },
+    {
+      "basename": "Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data",
+      "path": "Events/2024 Korea Carbon Project/Estimation of Carbonate Dioxide Emissions from Road Transport in South Korea Using Limited Types of Data.md"
+    },
+    {
+      "basename": "Deep learning for Climate Change Detection and Monitoring",
+      "path": "Events/2024 Korea Carbon Project/Deep learning for Climate Change Detection and Monitoring.md"
+    },
+    {
+      "basename": "Code",
+      "path": "GraphCast/Coding/Code.md"
+    },
+    {
+      "basename": "Mesh2Grid Edge",
+      "path": "GraphCast/GC graph/Mesh2Grid Edge.md"
+    },
+    {
+      "basename": "Mesh Node",
+      "path": "GraphCast/GC graph/Mesh Node.md"
+    },
+    {
+      "basename": "Mesh Edge",
+      "path": "GraphCast/GC graph/Mesh Edge.md"
+    },
+    {
+      "basename": "Grid2Mesh Edge",
+      "path": "GraphCast/GC graph/Grid2Mesh Edge.md"
+    },
+    {
+      "basename": "Grid Node",
+      "path": "GraphCast/GC graph/Grid Node.md"
+    },
+    {
+      "basename": "GraphCast's Graph",
+      "path": "GraphCast/GC graph/GraphCast's Graph.md"
+    },
+    {
+      "basename": "Processor",
+      "path": "GraphCast/structure/Processor.md"
+    },
+    {
+      "basename": "Multi-mesh",
+      "path": "GraphCast/structure/Multi-mesh.md"
+    },
+    {
+      "basename": "Message-passing GNN",
+      "path": "GraphCast/structure/Message-passing GNN.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "GraphCast/structure/Encoder.md"
+    },
+    {
+      "basename": "GraphCast Model",
+      "path": "GraphCast/structure/GraphCast Model.md"
+    },
+    {
+      "basename": "Task",
+      "path": "GraphCast/Task/Task.md"
+    },
+    {
+      "basename": "Sudden Stratospheric Warming",
+      "path": "GraphCast/Task/Sudden Stratospheric Warming.md"
+    },
+    {
+      "basename": "Input Data 다운",
+      "path": "GraphCast/Task/Input Data 다운.md"
+    },
+    {
+      "basename": "GraphCast GFS by NOAA",
+      "path": "GraphCast/Task/GraphCast GFS by NOAA.md"
+    },
+    {
+      "basename": "Pasted image 20240708164348",
+      "path": "GraphCast/Task/Pasted image 20240708164348.png"
+    },
+    {
+      "basename": "Prediction Challenge",
+      "path": "GraphCast/Task/Prediction Challenge.md"
+    },
+    {
+      "basename": "reflection of planetary wave",
+      "path": "GraphCast/Task/reflection of planetary wave.md"
+    },
+    {
+      "basename": "Residual Mean Circulation",
+      "path": "GraphCast/Task/Residual Mean Circulation.md"
+    },
+    {
+      "basename": "Rossby Waves",
+      "path": "GraphCast/Task/Rossby Waves.md"
+    },
+    {
+      "basename": "Transformed Eulerian Mean (TEM) Momentum Equation",
+      "path": "GraphCast/Task/Transformed Eulerian Mean (TEM) Momentum Equation.md"
     },
     {
       "basename": "2024-10-11",
@@ -81,6 +157,10 @@
       "path": "Test/GraphCast Perturbation Canvas.canvas"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "2024-10-07",
       "path": "TODO/2024-10-07.md"
     },
@@ -93,8 +173,16 @@
       "path": "File/시프 날로 A+ 먹어버리기 2024-10-06 18.01.16.excalidraw.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Atmospheric Modeling, Data Assimilation and Predictability",
       "path": "Books/Atmospheric Modeling, Data Assimilation and Predictability.md"
+    },
+    {
+      "basename": "@L. Chen, et. al., 2024",
+      "path": "Papers/@L. Chen, et. al., 2024.md"
     },
     {
       "basename": "@R. Parthipan, et. al., 2024",
@@ -111,26 +199,6 @@
     {
       "basename": "@L. Olivetti, G.Messori, 2024",
       "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
-    },
-    {
-      "basename": "@P. Watson, 2024",
-      "path": "Papers/@P. Watson, 2024.md"
-    },
-    {
-      "basename": "WMO model 500hPa 평가 기준",
-      "path": "TODO/WMO model 500hPa 평가 기준.md"
-    },
-    {
-      "basename": "Input Data 다운",
-      "path": "GraphCast/Task/Input Data 다운.md"
-    },
-    {
-      "basename": "Pasted Image 20241006145938_675",
-      "path": "File/Pasted Image 20241006145938_675.png"
-    },
-    {
-      "basename": "2024-10-06",
-      "path": "TODO/2024-10-06.md"
     }
   ],
   "omittedPaths": []
