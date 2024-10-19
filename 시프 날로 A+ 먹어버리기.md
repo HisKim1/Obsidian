@@ -980,6 +980,34 @@ echo $inside # 출력 없음
 - 함수에서 return값 지정 안 했으면 bash가 마지막 func의 exit status를 알아서 받아와
     다양하게 쓰고 싶으면 stdout이나 global var 써라.
 
+##### Redirection in Function
+```bash
+#! /bin/bash
+function redirection_in()
+{
+	while read input
+	{
+		echo "$input"
+	}
+} < file_in
+
+redirection_in
+
+function redirection_out()
+{
+	output=("a" "b" "c")
+	for element in "${output[@]}"
+	do
+		echo "$element"
+	done
+} > file_out
+
+redirection_out
+```
+
+### Process Substitution
+
+
 - **Signals:** Software interrupts sent to a process.
     - `kill -signal pid`: Sends a signal to a process.
 - **Traps:** Used to catch and handle signals.
