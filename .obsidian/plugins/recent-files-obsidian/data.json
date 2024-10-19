@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "시프 날로 A+ 먹어버리기",
+      "path": "시프 날로 A+ 먹어버리기.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "GraphCast Butterfly Effect Test",
       "path": "Test/GraphCast Butterfly Effect Test.md"
+    },
+    {
+      "basename": "]",
+      "path": "Test/].md"
+    },
+    {
+      "basename": "2024-10-19",
+      "path": "TODO/2024-10-19.md"
     },
     {
       "basename": "2024-10-16",
@@ -157,10 +173,6 @@
       "path": "Test/GraphCast Perturbation Canvas.canvas"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "2024-10-07",
       "path": "TODO/2024-10-07.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "@R. Parthipan, et. al., 2024",
       "path": "Papers/@R. Parthipan, et. al., 2024.md"
-    },
-    {
-      "basename": "@N. Brenowiz, C. Bretherton, 2019",
-      "path": "Papers/@N. Brenowiz, C. Bretherton, 2019.md"
-    },
-    {
-      "basename": "@M. Bonavita, 2024",
-      "path": "Papers/@M. Bonavita, 2024.md"
-    },
-    {
-      "basename": "@L. Olivetti, G.Messori, 2024",
-      "path": "Papers/@L. Olivetti, G.Messori, 2024.md"
     }
   ],
   "omittedPaths": []
