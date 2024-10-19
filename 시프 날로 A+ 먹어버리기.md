@@ -946,7 +946,7 @@ checkfile()
 checkfile .
 ```
 
-### Variable Scope
+##### Variable Scope
 1. global var.
      상속받은 하위 shell도 사용 가능
 2. local var.
@@ -974,6 +974,10 @@ echo $global # This is global in function
 echo $inside # 출력 없음
 ```
 
+##### Function Return
+- 0 ~ 255 값만 사용 가능
+- `$?`;가장 최근 사용한 cmd로 함수 실행 후 return 값 접근 가능
+- 함수에서 return값 지정 안 했으면 
 
 - **Signals:** Software interrupts sent to a process.
     - `kill -signal pid`: Sends a signal to a process.
