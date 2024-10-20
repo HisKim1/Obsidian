@@ -9607,7 +9607,6 @@ Wn
 WCW
 WUU
 Weather
-WorkingOn
 Waves
 Why
 Washington
@@ -9681,7 +9680,6 @@ Wep
 WIIM
 WYWF
 Westerly
-Work
 Warnings
 WMO
 WCRP에서
@@ -9727,7 +9725,6 @@ WHD
 WUI
 Wsrr
 WHJ
-Wor
 WBVW
 WRRR
 WqL
@@ -10729,12 +10726,9 @@ which
 will
 we
 why
-work
 within
 would
-working
 who
-world
 welcome
 waves의
 weeks
@@ -10834,12 +10828,9 @@ whether
 what
 well
 windows
-words
-workspace
 waom
 wRzf
 wRhP
-worsens
 weighted
 wavenumber쪽이
 waiting
@@ -10942,10 +10933,7 @@ writes
 write
 writer
 were
-words는
-words를
 writing을
-word
 wyM
 wbxiN
 wdC
@@ -10960,7 +10948,6 @@ wUU
 wZa
 wDb
 widely
-worship
 walk
 wca
 wyo
