@@ -324,6 +324,8 @@ file이
 file인지
 func을
 funciton
+func의
+file처럼
 <<<<<<< HEAD
 =======
 >>>>>>> f8a42d97d72326244acd9b191aa46fda8876b5e7
@@ -1120,6 +1122,9 @@ shell과
 shell에서
 script의
 shell도
+status를
+stdout이나
+signal들은
 topic
 tags
 templete
@@ -1472,6 +1477,8 @@ target이
 true일
 themselves
 tracing
+terminate
+terminate가
 aliases
 against
 and
@@ -2332,6 +2339,8 @@ case로
 catch
 carefully
 call에서
+cmd로
+cmd에
 Tool
 Troposphere에서
 Thermal
@@ -3248,6 +3257,7 @@ datasets
 dependency따라
 dependents
 delimeter
+depth
 of
 ojjjii
 oJg
@@ -4675,6 +4685,8 @@ reusability
 readability
 received
 recursively
+return값
+redirection이랑
 blog
 break
 breaking에
@@ -4975,6 +4987,8 @@ baad
 built하는
 basename
 builtin
+bash가
+block할
 posts
 pf
 pss
@@ -5473,6 +5487,7 @@ positional
 parameters
 printing
 provided
+process의
 here
 host
 haa
@@ -5754,6 +5769,9 @@ having
 hello
 handle
 handler
+hangup
+handling
+handler를
 작업
 작동
 작업해보았는데
@@ -5852,6 +5870,7 @@ handler
 실수
 실행되는
 실행하고
+실행되었는지
 library
 lbb
 lM
@@ -6303,6 +6322,7 @@ line에서
 가파릅니다
 가지러
 가져온
+가능은
 요청
 요소
 요지를
@@ -6351,6 +6371,7 @@ line에서
 사용하면
 사항을
 사례들을
+사용되게
 기존
 기후에
 기후
@@ -6379,6 +6400,7 @@ line에서
 기반의
 기상천외한
 기능이다
+기존에
 으로
 롤백
 혹은
@@ -8537,6 +8559,7 @@ inspect
 integer로
 internal이면
 interrupts
+interrupt
 지난
 지표
 지속
@@ -8648,6 +8671,7 @@ interrupts
 쓰이더라
 쓰지
 쓰면
+쓰고
 되는지
 되더라
 되었는지
@@ -8662,6 +8686,7 @@ interrupts
 되었다
 되어
 되는
+되돌리고
 모르겠습니다
 모르지만
 모르겟음
@@ -8728,6 +8753,8 @@ interrupts
 싶습니다
 싶은
 싶다면
+싶으면
+싶을
 핵심
 개념
 개발
@@ -9739,6 +9766,7 @@ mem에
 유발하다
 유용한
 유도됩니다
+유사함
 Wave
 Wind
 WVV
@@ -10236,6 +10264,7 @@ HRES는
 Hirofumi
 Harnessing
 HOME
+Handling
 즉시
 Pressure
 PNG
@@ -13869,6 +13898,7 @@ echo에
 else는
 exit
 executed
+echo나
 VAA
 VWWc
 VUU
@@ -14616,6 +14646,7 @@ DLWP에서
 DLWP에서도
 DLWP
 Debugging
+Debuging
 vm
 vLL
 vX
@@ -14873,6 +14904,7 @@ vyf
 varname
 variable을
 verbose
+value로
 qbRRRrr
 qZ
 ql
@@ -15651,6 +15683,7 @@ NAME
 처음
 처리
 처음에
+처리할
 말한
 말하는지
 말고는
@@ -15719,6 +15752,8 @@ NAME
 받으러
 받아
 받을
+받아와
+받으면
 더해서
 더이상
 더한
@@ -15861,6 +15896,7 @@ NAME
 하도록
 하나씩
 하위
+하던
 것보다
 것인가
 것이
@@ -16006,6 +16042,7 @@ NAME
 없는가
 없다는
 없어
+없으셈
 아니면
 아직
 아주
@@ -16178,6 +16215,7 @@ NAME
 시제는
 시작할
 시도하진
+시그널
 온도
 온위의
 온도가
@@ -16395,6 +16433,7 @@ NAME
 한국현대시인론
 한다는
 한국에
+한데
 계속
 계산해줌
 계산해서
@@ -16532,6 +16571,7 @@ NAME
 함부로
 함께하는
 함유근
+함수에서
 그냥
 그룹으로
 그런
@@ -16608,6 +16648,7 @@ NAME
 나오는
 나눠
 나중에도
+나오게
 운동량
 운동을
 운명이
@@ -16935,6 +16976,7 @@ NAME
 값을
 값이
 값에는
+값만
 잡으면
 잡을
 잡아서
@@ -17070,12 +17112,14 @@ NAME
 줄건지
 줄씩
 줄을
+줄에
 키워드
 했습니다
 했어요
 했는지
 했는데
 했다
+했으면
 왜곡하는
 왜냐하면
 왜소합니다
@@ -17331,6 +17375,7 @@ NAME
 원격
 원하는
 원본
+원하면
 충분히
 채워나가는
 채워
@@ -17429,6 +17474,7 @@ NAME
 똑같다
 써라
 써야
+써도
 짧거나
 별로다
 붙이고
