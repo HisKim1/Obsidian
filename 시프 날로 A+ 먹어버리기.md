@@ -892,52 +892,169 @@ file이 어떤 file인지 확인하는 방법
 자세한 설명은 
 6.shell programming2  p.49
 
+### Shell Function
+- mem에 저장되어 func을 부르는 shell과 같은 shell에서 실행됨
+- .bashrc / script / cmd line에서 정의 가능
 
----
----
-#### 4.6 Shell Functions, Signals, and Traps
+```bash
+function function_name {
+    commands
+}
+ 
+# or
 
-- **Shell Functions:** Group commands for reuse within a script.
-    
-    ```
-    function function_name {
-        commands
-    }
-    # or
-    function_name() {
-        commands
-    }
-    ```
-    
-    - Can be defined in `.bashrc`, within the script, or on the command line.
-    - Provide modularity, reusability, and improve readability.
-    - Faster than separate scripts.
-    - Removed using `unset -f function_name`.
-    - Arguments are accessed like positional parameters (`$1`, `$2`, ...).
-    - Return values using `return n` (exit status) or by printing to stdout.
-    - **Local Variables:** Use the `local` keyword to limit a variable's scope to the function.
-- **Signals:** Software interrupts sent to a process.
-    - `kill -signal pid`: Sends a signal to a process.
-- **Traps:** Used to catch and handle signals.
-    - `trap 'commands' signals`: Executes `commands` when `signals` are received.
-    - `trap '' signal`: Resets the handler for `signal` to its default.
+function_name() {
+    commands
+}
 
-#### 4.7 Process Substitution
+# 함수 부를 때는 그냥 이름만
+function_name 
 
-- **Process Substitution:** Treats the input or output of a process as a file.
-    - `<(list)`: Input from a process.
-    - `>(list)`: Output to a process.
-- **Example:** `diff <(ls /bin) <(ls /usr/bin)` compares the output of two `ls` commands.
+# argment는 그냥 뒤에 이어 붙여주면 됨
+function_name arg1 arg2
 
-#### 4.8 Recursion and Debugging
+# 함수 없애고 싶을 땐
+unset -f function_name
+```
 
-- **Recursion:** Bash functions can call themselves recursively.
-    - Can lead to stack overflows if not used carefully.
-- **Debugging Shell Scripts:**
-    - `echo`: Print values for debugging.
-    - `set -x`: Print commands as they are executed.
-    - `set -v`: Print shell input lines as they are read.
-    - `set +x`: Turn off tracing.
-    - `set +v`: Turn off verbose mode.
+##### Function parameter
+(함수 종료시 script의 `$~~` 값에는 영향 X)
+`$1` ~ : function call에서 제공된 argments들
+`$0`: script name (func. name 아님주의)
+`$@` or `$*`: all params
+`$#`: params 개수
+`#?`: 가장 최근 사용한 cmd
+`$$`: 현재 pid
 
-Please note that this response is based solely on the provided source material and does not include information about Real UID, effective UID, Inode components, `stat`, `lstat`, `fstat`, `fstatat` differences, kernel mode vs. user mode, or the `link`, `symlink`, and `rename` commands. You may want to consult external resources or your course materials for information on those topics.
+e.g.
+```bash
+#! /bin/bash
+
+checkfile()
+{
+	# 함수 안에서 positional param 하나씩 받을 때는 생략 가능
+	for file # in $@
+		if [ -f "$file" ]; then
+			echo "$file is a file"
+		fi
+		elif [ -d "$file$" ]; then
+			echo "$file is a directory"
+		if
+	done	
+}
+
+checkfile .
+```
+
+##### Variable Scope
+1. global var.
+     상속받은 하위 shell도 사용 가능
+2. local var.
+     내 shell에서, 어디서든 사용 가능
+3. local var in funciton
+     function 안에서만 사용 가능
+     `local varname=hello`
+e.g.
+```bash
+#!/bin/bash
+
+global="This is global!"
+
+function foo()
+{
+	local inside="I'm inside"
+	echo $global
+	echo $inside
+	global="This is global in function"
+}
+
+echo $global # This is global
+foo
+echo $global # This is global in function
+echo $inside # 출력 없음
+```
+
+##### Function Return
+- 0 ~ 255 값만 사용 가능
+- `$?`;가장 최근 사용한 cmd로 함수 실행 후 return 값 접근 가능
+- 함수에서 return값 지정 안 했으면 bash가 마지막 func의 exit status를 알아서 받아와
+    다양하게 쓰고 싶으면 stdout이나 global var 써라.
+
+##### Redirection in Function
+```bash
+#! /bin/bash
+function redirection_in()
+{
+	while read input
+	{
+		echo "$input"
+	}
+} < file_in
+
+redirection_in
+
+function redirection_out()
+{
+	output=("a" "b" "c")
+	for element in "${output[@]}"
+	do
+		echo "$element"
+	done
+} > file_out
+
+redirection_out
+```
+
+### Process Substitution
+기존에 하던 redirection이랑 유사함.
+process의 input/output을 file처럼 처리할 수 있도록 해주는
+-  `<(list)`: Input from a process.
+- `>(list)`: Output to a process.
+
+c.f. cmd substitution, \` \` or `$()`, 어떤 value로 다른 cmd에 사용되게
+
+e.g.
+```bash
+#! /bin/bash
+function redirection_in_ps()
+{
+	wihle read -a input
+	do
+		echo "${input[2]} ${input[8]}"
+	done
+# ls 결과가 file로 저장된 후 그 file이 func. input으로 redirection 
+}< <(ls -l /bin)
+
+redirection_in_ps
+```
+
+### Recursion
+가능은 한데, 하지 마라.
+`FUNCNEST`: func. call stack 가능 depth 개수
+
+### Handling Signals
+`kill -signal pid`
+no arg: terminate
+`-1`: hangup
+`-2`: interrupt with `^c`
+`-9`: kill (`trap`으로 block할 수 없으셈)
+`kill -l`하면 어떤 시그널 있는지 볼 수 있음
+
+### trap; handling signal
+대부분의 signal들은 terminate가 default
+custom signal handler를 위한 `trap`
+`trap 'cmd' signal_number`
+default로 되돌리고 싶을 땐 `trap signal_number`
+
+e.g.
+`trap 'echo dont hang up' 1`: `kill -1` 받으면 echo나 해라
+
+### Debuging Shell
+- `echo`: Print values for debugging.
+- `set -x`: Print commands as they are executed.
+    어떻게 실행되었는지 확인할 때 하면 좋은
+- `set -v`: Print shell input lines as they are read.
+    읽은 문장 다음 출력 나오게
+- `set +x`: Turn off tracing.
+- `set +v`: Turn off verbose mode.
+원하면 첫 줄에 써도 됨; `#! /bin/bash -xv`
