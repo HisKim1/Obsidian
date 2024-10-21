@@ -20,5 +20,6 @@
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
-  "templater-obsidian"
+  "templater-obsidian",
+  "multi-column-markdown"
 ]
