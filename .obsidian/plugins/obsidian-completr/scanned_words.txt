@@ -1479,6 +1479,8 @@ themselves
 tracing
 terminate
 terminate가
+txt와
+txt를
 aliases
 against
 and
@@ -3258,6 +3260,7 @@ dependency따라
 dependents
 delimeter
 depth
+displayed
 of
 ojjjii
 oJg
@@ -4989,6 +4992,7 @@ basename
 builtin
 bash가
 block할
+backup
 posts
 pf
 pss
@@ -7960,6 +7964,7 @@ EOF가
 EXPRESSION
 Enter
 Executes
+ExampleRegion
 Message
 Mean
 MJJ
@@ -17399,6 +17404,7 @@ NAME
 디버깅
 디렉토리의
 디렉토리
+디렉토리로
 난이도
 난삽하여
 짜자
