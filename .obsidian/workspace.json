@@ -37,8 +37,7 @@
               "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,10 +105,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "시프 날로 A+ 먹어버리기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of 시프 날로 A+ 먹어버리기"
             }
           }
         ],
@@ -232,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a3e314d02739bad",
+  "active": "4c5032fab2495d76",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "시프 날로 A+ 먹어버리기.md",
     "TODO/2024-10-21.md",
-    "Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "TODO/2024-10-20.md",
     "TODO/2024-10-19.md",
